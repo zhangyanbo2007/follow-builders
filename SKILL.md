@@ -377,24 +377,49 @@ For each builder, use web search to find their recent posts:
 4. Include the direct link to each tweet from the search results
 5. If no recent posts found, skip this builder
 
-**Important:**
-- Do NOT visit x.com directly — only use web search results
-- Do NOT log into X or use any X API — search results are sufficient
-- Process builders in batches if needed (you don't have to search all 32 at once)
-- It's OK if some builders have no recent results — just skip them
-- If web search is unavailable, skip the X section entirely and deliver podcasts only
+**ABSOLUTE RULES — VIOLATION OF THESE WILL PRODUCE A BAD DIGEST:**
+
+1. **NEVER invent, fabricate, or guess tweet content.** If web search returns no
+   results for a builder, skip them entirely. Do NOT make up what you think they
+   might have said. Do NOT write "His silence on X is deafening" or speculate
+   about what they're working on. Only include content you actually found via search.
+
+2. **Every tweet you include MUST have a real URL** from the search results
+   (e.g. https://x.com/levie/status/1234567890). If you don't have a URL,
+   you don't have a real tweet — do not include it.
+
+3. **Use accurate, current information about each person.** Do NOT guess their
+   job title. If you're unsure of someone's current role, just use their name
+   without a title. Common mistakes to avoid:
+   - Karpathy left Tesla in 2022 and left OpenAI in 2024. He runs Eureka Labs.
+   - Do NOT call anyone by an outdated role.
+
+4. **Do NOT visit x.com directly** — only use web search results.
+5. **Do NOT log into X or use any X API** — search results are sufficient.
+6. Process builders in batches if needed (you don't have to search all 32 at once).
+7. It's OK if many builders have no recent results — just skip them.
+   A digest with 3 real tweets is better than one with 15 fabricated ones.
+8. If web search is unavailable, skip the X section entirely and deliver podcasts only.
 
 Then assemble the full digest using the digest-intro prompt.
 
 ### Step 5: Apply Language
 
-Read `config.json` for the language preference:
-- **en:** Output the English digest as-is
-- **zh:** Read the translate.md prompt (from `/tmp/fb-translate.md` if fetched,
-  otherwise `${CLAUDE_SKILL_DIR}/prompts/translate.md`), then translate the
-  full digest to Chinese
-- **bilingual:** Output each section in English, followed immediately by
-  the Chinese translation of that section
+**You MUST check the user's language preference in config.json and follow it exactly.**
+Do NOT mix languages. Do NOT default to English if the user chose Chinese.
+
+Read `config.json` for the `language` field:
+- **"en":** The ENTIRE digest must be in English. No Chinese anywhere.
+- **"zh":** The ENTIRE digest must be in Chinese. Read the translate.md prompt
+  (from `/tmp/fb-translate.md` if fetched, otherwise
+  `${CLAUDE_SKILL_DIR}/prompts/translate.md`) and translate everything.
+  Keep proper nouns, technical terms, and URLs in English.
+- **"bilingual":** Each section appears TWICE — first in English, then in Chinese
+  directly below it, separated by a blank line. Both versions must be complete.
+
+**If the user's config says "zh", your output must be entirely in Chinese.
+If it says "en", your output must be entirely in English.
+Do NOT ignore this setting.**
 
 ### Step 6: Deliver
 
