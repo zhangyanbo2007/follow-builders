@@ -21,7 +21,8 @@ import { join } from 'path';
 
 const SUPADATA_BASE = 'https://api.supadata.ai/v1';
 const X_API_BASE = 'https://api.x.com/2';
-const LOOKBACK_HOURS = 24;
+const TWEET_LOOKBACK_HOURS = 24;
+const PODCAST_LOOKBACK_HOURS = 72;
 const MAX_TWEETS_PER_USER = 3;
 
 // State file lives in the repo root so it gets committed by GitHub Actions
@@ -66,7 +67,7 @@ async function loadSources() {
 // -- YouTube Fetching (Supadata API) -----------------------------------------
 
 async function fetchYouTubeContent(podcasts, apiKey, state, errors) {
-  const cutoff = new Date(Date.now() - LOOKBACK_HOURS * 60 * 60 * 1000);
+  const cutoff = new Date(Date.now() - PODCAST_LOOKBACK_HOURS * 60 * 60 * 1000);
   const allCandidates = [];
 
   for (const podcast of podcasts) {
@@ -118,12 +119,15 @@ async function fetchYouTubeContent(podcasts, apiKey, state, errors) {
     }
   }
 
-  // Pick the 1 most recent video within 24h
-  const sorted = allCandidates
-    .filter(v => v.publishedAt)
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  // Pick 1 unseen video from the last 72 hours.
+  // Sort OLDEST first so videos are featured in chronological order —
+  // if 3 videos were published in 72h, day 1 gets the oldest, day 2 the
+  // next, day 3 the newest. Dedup ensures each is featured exactly once.
+  const withinWindow = allCandidates
+    .filter(v => v.publishedAt && new Date(v.publishedAt) >= cutoff)
+    .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt)); // oldest first
 
-  const selected = sorted.find(v => new Date(v.publishedAt) >= cutoff);
+  const selected = withinWindow[0]; // oldest unseen video
   if (!selected) return [];
 
   // Fetch transcript
@@ -163,7 +167,7 @@ async function fetchYouTubeContent(podcasts, apiKey, state, errors) {
 
 async function fetchXContent(xAccounts, bearerToken, state, errors) {
   const results = [];
-  const cutoff = new Date(Date.now() - LOOKBACK_HOURS * 60 * 60 * 1000);
+  const cutoff = new Date(Date.now() - TWEET_LOOKBACK_HOURS * 60 * 60 * 1000);
 
   // Batch lookup all user IDs (1 API call)
   const handles = xAccounts.map(a => a.handle);
@@ -301,7 +305,7 @@ async function main() {
     const totalTweets = xContent.reduce((sum, a) => sum + a.tweets.length, 0);
     const xFeed = {
       generatedAt: new Date().toISOString(),
-      lookbackHours: LOOKBACK_HOURS,
+      lookbackHours: TWEET_LOOKBACK_HOURS,
       x: xContent,
       stats: { xBuilders: xContent.length, totalTweets },
       errors: errors.filter(e => e.startsWith('X API')).length > 0
@@ -320,7 +324,7 @@ async function main() {
 
     const podcastFeed = {
       generatedAt: new Date().toISOString(),
-      lookbackHours: LOOKBACK_HOURS,
+      lookbackHours: PODCAST_LOOKBACK_HOURS,
       podcasts,
       stats: { podcastEpisodes: podcasts.length },
       errors: errors.filter(e => e.startsWith('YouTube')).length > 0
