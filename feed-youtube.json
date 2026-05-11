@@ -1,108 +1,104 @@
 {
-  "generatedAt": "2026-05-11T03:03:35.949Z",
+  "generatedAt": "2026-05-11T04:36:09.975Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "From Zapier for Devs to Powering 90% AI Agents",
-      "url": "https://www.youtube.com/watch?v=_y7siiS-V5A",
-      "videoId": "_y7siiS-V5A",
-      "publishedAt": "2026-05-11T03:03:33.714Z"
+      "title": "This Startup Built AI That 80% of Callers Think Is Human",
+      "url": "https://www.youtube.com/watch?v=ZxwYGbCOuDQ",
+      "videoId": "ZxwYGbCOuDQ",
+      "publishedAt": "2026-05-11T04:36:07.592Z"
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The Tool the Best Engineers Are Using Right Now",
-      "url": "https://www.youtube.com/watch?v=u2z44EkIEHE",
-      "videoId": "u2z44EkIEHE",
-      "publishedAt": "2026-05-11T03:03:33.714Z"
+      "title": "This Startup Is Automating America's Biggest Hospitals",
+      "url": "https://www.youtube.com/watch?v=00YZWlvAMsQ",
+      "videoId": "00YZWlvAMsQ",
+      "publishedAt": "2026-05-11T04:36:07.593Z"
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The Data Layer for the Robot Economy",
-      "url": "https://www.youtube.com/watch?v=cSBdukYWWxQ",
-      "videoId": "cSBdukYWWxQ",
-      "publishedAt": "2026-05-11T03:03:33.714Z"
+      "title": "The End of Manual Debugging",
+      "url": "https://www.youtube.com/watch?v=UGYnC9zqa-k",
+      "videoId": "UGYnC9zqa-k",
+      "publishedAt": "2026-05-11T04:36:07.593Z"
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Twitter's ex-CEO auditioned for SNL. It taught him something he never forgot.  #podcast #shorts",
-      "url": "https://www.youtube.com/watch?v=YqjWjGtJpEs",
-      "videoId": "YqjWjGtJpEs",
-      "publishedAt": "2026-05-11T03:03:34.605Z"
+      "channel": "YC Startup School",
+      "title": "The Q/A Layer for the AI Coding Era",
+      "url": "https://www.youtube.com/watch?v=UpWNdSVWA7M",
+      "videoId": "UpWNdSVWA7M",
+      "publishedAt": "2026-05-11T04:36:07.593Z"
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The first goal Dick Costolo set as Twitter CEO was embarrassingly low. #shorts #twitter #podcast",
-      "url": "https://www.youtube.com/watch?v=HXQhknbGhsc",
-      "videoId": "HXQhknbGhsc",
-      "publishedAt": "2026-05-11T03:03:34.605Z"
+      "channel": "YC Startup School",
+      "title": "Senator Scott Wiener Press Conference at YC",
+      "url": "https://www.youtube.com/watch?v=Yr9mHKxOkLg",
+      "videoId": "Yr9mHKxOkLg",
+      "publishedAt": "2026-05-11T04:36:07.593Z"
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Twitter Ex-CEO Dick Costolo: The Operator's Case Against Founder Mode",
-      "url": "https://www.youtube.com/watch?v=Kw5hhIsw-wQ",
-      "videoId": "Kw5hhIsw-wQ",
-      "publishedAt": "2026-05-11T03:03:34.605Z"
+      "channel": "Lex Fridman",
+      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "videoId": "nepKKz-MzFM",
+      "publishedAt": "2026-05-11T04:36:09.316Z"
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Daniel Gross on token budgeting as portfolio management",
-      "url": "https://www.youtube.com/watch?v=Uy--uBY_4oI",
-      "videoId": "Uy--uBY_4oI",
-      "publishedAt": "2026-05-11T03:03:35.333Z"
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-05-11T04:36:09.316Z"
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Snapchat's first hit country wasn't America",
-      "url": "https://www.youtube.com/watch?v=vLt8a_mXzhM",
-      "videoId": "vLt8a_mXzhM",
-      "publishedAt": "2026-05-11T03:03:35.333Z"
+      "channel": "Lex Fridman",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "videoId": "vif8NQcjVf0",
+      "publishedAt": "2026-05-11T04:36:09.316Z"
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Nat Friedman and Daniel Gross in conversation with John and Patrick Collison",
-      "url": "https://www.youtube.com/watch?v=I-ldITom1cg",
-      "videoId": "I-ldITom1cg",
-      "publishedAt": "2026-05-11T03:03:35.333Z"
+      "channel": "Lex Fridman",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-05-11T04:36:09.316Z"
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Now presenting... your Config 2026 agenda",
-      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
-      "videoId": "Rt6KkpaLCaQ",
-      "publishedAt": "2026-05-11T03:03:35.949Z"
+      "channel": "Lex Fridman",
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "videoId": "SHlrUAkkWI0",
+      "publishedAt": "2026-05-11T04:36:09.316Z"
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Release Notes 2026: May Edition | Figma",
-      "url": "https://www.youtube.com/watch?v=11mdb7lLclM",
-      "videoId": "11mdb7lLclM",
-      "publishedAt": "2026-05-11T03:03:35.949Z"
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "This is your sign to join Release Notes EP-007 tomorrow",
-      "url": "https://www.youtube.com/watch?v=R2U-zOsT0B8",
-      "videoId": "R2U-zOsT0B8",
-      "publishedAt": "2026-05-11T03:03:35.949Z"
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2026-05-11T04:36:09.975Z"
     }
   ],
   "stats": {
-    "youtubeVideos": 12
+    "youtubeVideos": 11
   },
   "errors": [
-    "YouTube: No feed URL for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
+    "YouTube: Failed to fetch Sequoia AI Ascent: HTTP 404",
+    "YouTube: Failed to fetch Figma Config: HTTP 500",
+    "YouTube: Failed to fetch AI and I (Every): HTTP 404",
+    "YouTube: Failed to fetch Google DeepMind: HTTP 404",
+    "YouTube: Failed to fetch South Park Commons (Minus One): HTTP 404"
   ]
 }
