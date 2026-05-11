@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T07:07:45.096Z",
+  "generatedAt": "2026-05-11T07:10:19.196Z",
   "lookbackHours": 336,
   "youtube": [
     {
@@ -50,6 +50,33 @@
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
+      "title": "Twitter&#39;s ex-CEO auditioned for SNL. It taught him something he never forgot.  #podcast #shorts",
+      "url": "https://www.youtube.com/watch?v=YqjWjGtJpEs",
+      "videoId": "YqjWjGtJpEs",
+      "publishedAt": "2026-05-08T14:45:04Z",
+      "description": "Dick Costolo tried out for Saturday Night Live before becoming CEO of Twitter. That \"failed\" risk paid off in ways he never expected ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "The first goal Dick Costolo set as Twitter CEO was embarrassingly low. #shorts #twitter #podcast",
+      "url": "https://www.youtube.com/watch?v=HXQhknbGhsc",
+      "videoId": "HXQhknbGhsc",
+      "publishedAt": "2026-05-07T18:23:12Z",
+      "description": "When Dick Costolo became the third CEO of Twitter, the bird had already appeared hanging and exploding on two separate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Twitter Ex-CEO Dick Costolo: The Operator&#39;s Case Against Founder Mode",
+      "url": "https://www.youtube.com/watch?v=Kw5hhIsw-wQ",
+      "videoId": "Kw5hhIsw-wQ",
+      "publishedAt": "2026-05-07T12:00:39Z",
+      "description": "Dick Costolo took over as CEO of Twitter in 2010, inheriting what he calls \"the drama queen of hypergrowth companies.\" Hired as ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
       "title": "AI That Designs Its Own Chips: Ricursive&#39;s Anna Goldie and Azalia Mirhoseini",
       "url": "https://www.youtube.com/watch?v=K05Dh-QjM8c",
       "videoId": "K05Dh-QjM8c",
@@ -64,6 +91,24 @@
       "videoId": "eHsr1Fl2jNA",
       "publishedAt": "2026-05-06T16:50:12Z",
       "description": "Oege de Moor, founder and CEO of XBOW, takes the AI Ascent 2026 stage to argue that autonomous AI hackers are already ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Now presenting... your Config 2026 agenda",
+      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
+      "videoId": "Rt6KkpaLCaQ",
+      "publishedAt": "2026-05-07T16:59:46Z",
+      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Release Notes 2026: May Edition | Figma",
+      "url": "https://www.youtube.com/watch?v=11mdb7lLclM",
+      "videoId": "11mdb7lLclM",
+      "publishedAt": "2026-05-06T17:14:01Z",
+      "description": "Take your vibe-coded prototypes further in Figma → Connect design systems to code → Ship your best idea fast 00:00 Intro 00:54 ..."
     },
     {
       "source": "youtube",
@@ -238,6 +283,6 @@
     }
   ],
   "stats": {
-    "youtubeVideos": 26
+    "youtubeVideos": 31
   }
 }
