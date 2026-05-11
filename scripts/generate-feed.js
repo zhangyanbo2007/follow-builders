@@ -13,6 +13,9 @@
 // Env vars needed: X_BEARER_TOKEN, POD2TXT_API_KEY
 // ============================================================================
 
+// Workaround for proxy TLS issues
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+
 import { readFile, writeFile } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
