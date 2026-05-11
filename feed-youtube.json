@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T07:04:06.622Z",
+  "generatedAt": "2026-05-11T07:07:45.096Z",
   "lookbackHours": 336,
   "youtube": [
     {
@@ -91,9 +91,153 @@
       "videoId": "iEjKZWxN56w",
       "publishedAt": "2026-03-30T19:36:17Z",
       "description": "Get the workshop file here: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "videoId": "nepKKz-MzFM",
+      "publishedAt": "2026-05-06T22:03:16Z",
+      "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "videoId": "1SJiTwbSI58",
+      "publishedAt": "2026-03-01T03:37:44Z",
+      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "videoId": "KGVpKPNUdzA",
+      "publishedAt": "2026-02-25T22:36:32Z",
+      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "What’s new in Gemma 4?",
+      "url": "https://www.youtube.com/watch?v=6VV5Gvmtrl4",
+      "videoId": "6VV5Gvmtrl4",
+      "publishedAt": "2026-04-13T09:30:33Z",
+      "description": "Gemma 4 is our newest family of open models. You can now run advanced reasoning, native vision and audio, and agentic ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Teaching the foundations of AI in the classroom",
+      "url": "https://www.youtube.com/watch?v=udnhu43tTfk",
+      "videoId": "udnhu43tTfk",
+      "publishedAt": "2026-04-09T13:27:40Z",
+      "description": "AI is shaping the world young people are growing up in. But how do teachers confidently introduce AI and machine learning in the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Introducing Lyria 3 Pro",
+      "url": "https://www.youtube.com/watch?v=hv8ZI7foGZk",
+      "videoId": "hv8ZI7foGZk",
+      "publishedAt": "2026-03-25T16:00:42Z",
+      "description": "Last month, we introduced Lyria 3, featuring custom music generation designed to spark creative expression. Now, we're bringing ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "10 years of AlphaGo: The turning point for AI | Thore Graepel &amp; Pushmeet Kohli",
+      "url": "https://www.youtube.com/watch?v=qoinGjj60Fo",
+      "videoId": "qoinGjj60Fo",
+      "publishedAt": "2026-03-10T17:28:31Z",
+      "description": "Seoul, March 2016. Two players sit hunched over a 19x19 grid covered in a sea of black and white stones. They are playing the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Music AI Sandbox | AI x Creativity: Wyclef Jean",
+      "url": "https://www.youtube.com/watch?v=l5Wpm4o6k1A",
+      "videoId": "l5Wpm4o6k1A",
+      "publishedAt": "2026-02-24T14:00:09Z",
+      "description": "Legendary producer Wyclef Jean joins forces with Music AI Sandbox to explore the next era of creative expression. Discover how ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "tldraw&#39;s Steve Ruiz: The Infinite Canvas &amp; the Death of Traditional Design",
+      "url": "https://www.youtube.com/watch?v=hNUEaFmPAwc",
+      "videoId": "hNUEaFmPAwc",
+      "publishedAt": "2026-05-07T16:23:17Z",
+      "description": "How does a weekend \"side quest\" become the go-to open-source library for the infinite canvas, catching the eye of design giants ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Nikesh Arora: The Real Reason Tech Companies Become Irrelevant",
+      "url": "https://www.youtube.com/watch?v=oHqclbTbFuw",
+      "videoId": "oHqclbTbFuw",
+      "publishedAt": "2026-05-01T15:45:32Z",
+      "description": "The best way to kill a company? Stop focusing on the product."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Why Anthropic&#39;s Mythos Will Trigger a Cybersecurity Crisis",
+      "url": "https://www.youtube.com/watch?v=RvvDiOby8fU",
+      "videoId": "RvvDiOby8fU",
+      "publishedAt": "2026-04-30T16:01:42Z",
+      "description": "Palo Alto Networks CEO Nikesh Arora breaks it down."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The AI Cybersecurity Crisis Is Here | Nikesh Arora (Palo Alto Networks CEO)",
+      "url": "https://www.youtube.com/watch?v=ThPxRYxXbOQ",
+      "videoId": "ThPxRYxXbOQ",
+      "publishedAt": "2026-04-30T14:00:48Z",
+      "description": "The next six months in cybersecurity will be unlike anything the industry has faced before. Nikesh Arora, CEO of Palo Alto ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Replit Founder: Stop Introspecting, Start Executing",
+      "url": "https://www.youtube.com/watch?v=KpShRaFw6yk",
+      "videoId": "KpShRaFw6yk",
+      "publishedAt": "2026-04-24T14:32:36Z",
+      "description": "Over-indexing on the future kills progress."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 26
   }
 }
