@@ -47,6 +47,28 @@
       "fetchMethod": "http"
     }
   ],
+  "youtube_channels": [
+    {
+      "name": "YC Startup School",
+      "url": "https://www.youtube.com/@YCombinator"
+    },
+    {
+      "name": "AI Engineers World Fair",
+      "url": "https://www.youtube.com/@AIEngineersWorld"
+    },
+    {
+      "name": "Sequoia AI Ascent",
+      "url": "https://www.youtube.com/@SequoiaCapital"
+    },
+    {
+      "name": "Stripe Sessions",
+      "url": "https://www.youtube.com/@Stripe"
+    },
+    {
+      "name": "Figma Config",
+      "url": "https://www.youtube.com/@Figma"
+    }
+  ],
   "x_accounts": [
     { "name": "Andrej Karpathy", "handle": "karpathy" },
     { "name": "Swyx", "handle": "swyx" },

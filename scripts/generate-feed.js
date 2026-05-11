@@ -973,6 +973,69 @@ async function fetchBlogContent(blogs, state, errors) {
   return results;
 }
 
+// -- YouTube Channel Fetching (Atom RSS feed) --------------------------------
+
+// Fetches recent videos from a YouTube channel's Atom RSS feed.
+// For conference/event channels (YC, Stripe, Figma, etc.) — no transcripts,
+// just video metadata (title, description, URL, published date).
+async function fetchYouTubeChannelContent(channels, state, errors) {
+  const results = [];
+  const cutoff = new Date(Date.now() - PODCAST_LOOKBACK_HOURS * 60 * 60 * 1000);
+
+  for (const channel of channels) {
+    console.error(`  Fetching videos for ${channel.name}...`);
+    try {
+      const feedUrl = await getYouTubeFeedUrl(channel.url);
+      if (!feedUrl) {
+        errors.push(`YouTube: No feed URL for ${channel.name} (${channel.url})`);
+        continue;
+      }
+
+      const res = await fetch(feedUrl, {
+        headers: { "User-Agent": RSS_USER_AGENT },
+        signal: AbortSignal.timeout(15000),
+      });
+
+      if (!res.ok) {
+        errors.push(`YouTube: Failed to fetch ${channel.name}: HTTP ${res.status}`);
+        continue;
+      }
+
+      const videos = parseYouTubeFeed(await res.text());
+      console.error(`  ${channel.name}: found ${videos.length} videos in feed`);
+
+      // Filter by lookback window and dedup
+      for (const video of videos.slice(0, 5)) {
+        // Use video ID as the unique key
+        const videoId = video.url.match(/v=([A-Za-z0-9_-]+)/)?.[1];
+        if (!videoId) continue;
+
+        if (state.seenVideos[videoId]) {
+          console.error(`    Skipping "${video.title}" (already seen)`);
+          continue;
+        }
+
+        results.push({
+          source: "youtube",
+          channel: channel.name,
+          title: video.title,
+          url: video.url,
+          videoId: videoId,
+          publishedAt: new Date().toISOString(),
+        });
+
+        state.seenVideos[videoId] = Date.now();
+
+        if (results.filter((r) => r.channel === channel.name).length >= 3) break;
+      }
+    } catch (err) {
+      errors.push(`YouTube: Error fetching ${channel.name}: ${err.message}`);
+    }
+  }
+
+  return results;
+}
+
 // -- Main --------------------------------------------------------------------
 
 async function main() {
@@ -980,12 +1043,14 @@ async function main() {
   const tweetsOnly = args.includes("--tweets-only");
   const podcastsOnly = args.includes("--podcasts-only");
   const blogsOnly = args.includes("--blogs-only");
+  const youtubeOnly = args.includes("--youtube-only");
 
   // If a specific --*-only flag is set, only that feed type runs.
-  // If no flag is set, all three run.
-  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly);
-  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly);
-  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly);
+  // If no flag is set, all four run.
+  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly && !youtubeOnly);
+  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly && !youtubeOnly);
+  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly && !youtubeOnly);
+  const runYoutube = youtubeOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly);
 
   const xBearerToken = process.env.X_BEARER_TOKEN;
   const pod2txtKey = process.env.POD2TXT_API_KEY;
