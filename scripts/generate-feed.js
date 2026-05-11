@@ -1150,6 +1150,33 @@ async function main() {
     console.error(`  feed-blogs.json: ${blogContent.length} posts`);
   }
 
+  // Fetch YouTube videos
+  if (runYoutube && sources.youtube_channels && sources.youtube_channels.length > 0) {
+    console.error("Fetching YouTube channel content...");
+    const youtubeContent = await fetchYouTubeChannelContent(
+      sources.youtube_channels,
+      state,
+      errors,
+    );
+    console.error(`  Found ${youtubeContent.length} videos`);
+
+    const youtubeFeed = {
+      generatedAt: new Date().toISOString(),
+      lookbackHours: PODCAST_LOOKBACK_HOURS,
+      youtube: youtubeContent,
+      stats: { youtubeVideos: youtubeContent.length },
+      errors:
+        errors.filter((e) => e.startsWith("YouTube")).length > 0
+          ? errors.filter((e) => e.startsWith("YouTube"))
+          : undefined,
+    };
+    await writeFile(
+      join(SCRIPT_DIR, "..", "feed-youtube.json"),
+      JSON.stringify(youtubeFeed, null, 2),
+    );
+    console.error(`  feed-youtube.json: ${youtubeContent.length} videos`);
+  }
+
   // Save dedup state
   await saveState(state);
 
