@@ -1005,7 +1005,7 @@ async function fetchYouTubeChannelContent(channels, state, errors) {
       console.error(`  ${channel.name}: found ${videos.length} videos in feed`);
 
       // Filter by lookback window and dedup
-      for (const video of videos.slice(0, 5)) {
+      for (const video of videos.slice(0, 10)) {
         // Use video ID as the unique key
         const videoId = video.url.match(/v=([A-Za-z0-9_-]+)/)?.[1];
         if (!videoId) continue;
@@ -1026,7 +1026,7 @@ async function fetchYouTubeChannelContent(channels, state, errors) {
 
         state.seenVideos[videoId] = Date.now();
 
-        if (results.filter((r) => r.channel === channel.name).length >= 3) break;
+        if (results.filter((r) => r.channel === channel.name).length >= 5) break;
       }
     } catch (err) {
       errors.push(`YouTube: Error fetching ${channel.name}: ${err.message}`);
