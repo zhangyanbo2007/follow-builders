@@ -53,20 +53,32 @@
       "url": "https://www.youtube.com/@YCombinator"
     },
     {
-      "name": "AI Engineers World Fair",
-      "url": "https://www.youtube.com/@AIEngineersWorld"
-    },
-    {
       "name": "Sequoia AI Ascent",
       "url": "https://www.youtube.com/@SequoiaCapital"
     },
     {
-      "name": "Stripe Sessions",
-      "url": "https://www.youtube.com/@Stripe"
-    },
-    {
       "name": "Figma Config",
       "url": "https://www.youtube.com/@Figma"
+    },
+    {
+      "name": "Lex Fridman",
+      "url": "https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA"
+    },
+    {
+      "name": "AI and I (Every)",
+      "url": "https://www.youtube.com/channel/UC5AxZxJNdRleW0gl2S9yKwQ"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A"
+    },
+    {
+      "name": "South Park Commons (Minus One)",
+      "url": "https://www.youtube.com/channel/UCMR-rPSUI34DRQXUkvFuIUQ"
+    },
+    {
+      "name": "Dwarkesh Podcast",
+      "url": "https://www.youtube.com/channel/UCDTmZpf1KtJ7mPIMt36kKKw"
     }
   ],
   "x_accounts": [
