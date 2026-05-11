@@ -1,104 +1,99 @@
 {
-  "generatedAt": "2026-05-11T04:36:09.975Z",
+  "generatedAt": "2026-05-11T07:04:06.622Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "This Startup Built AI That 80% of Callers Think Is Human",
-      "url": "https://www.youtube.com/watch?v=ZxwYGbCOuDQ",
-      "videoId": "ZxwYGbCOuDQ",
-      "publishedAt": "2026-05-11T04:36:07.592Z"
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "videoId": "57lDpTwiW6g",
+      "publishedAt": "2026-05-08T14:30:06Z",
+      "description": "We're entering a new era of software where a single person, working with AI agents, can build products that previously required ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "This Startup Is Automating America's Biggest Hospitals",
-      "url": "https://www.youtube.com/watch?v=00YZWlvAMsQ",
-      "videoId": "00YZWlvAMsQ",
-      "publishedAt": "2026-05-11T04:36:07.593Z"
+      "title": "Startup School Paris",
+      "url": "https://www.youtube.com/watch?v=FHAaGxvGii4",
+      "videoId": "FHAaGxvGii4",
+      "publishedAt": "2026-05-08T06:13:57Z",
+      "description": "Startup School is coming to Paris! Hear from founders like Alexandre Lebrun of AMI, Olivier Pomel of Datadog, Paul ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The End of Manual Debugging",
-      "url": "https://www.youtube.com/watch?v=UGYnC9zqa-k",
-      "videoId": "UGYnC9zqa-k",
-      "publishedAt": "2026-05-11T04:36:07.593Z"
+      "title": "How Razorpay Became India’s Largest Payments Company",
+      "url": "https://www.youtube.com/watch?v=X5bABLCuIHA",
+      "videoId": "X5bABLCuIHA",
+      "publishedAt": "2026-05-06T12:00:57Z",
+      "description": "Razorpay is India's largest payments platform, processing over $180 billion annually. They were also the first Indian company YC ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The Q/A Layer for the AI Coding Era",
-      "url": "https://www.youtube.com/watch?v=UpWNdSVWA7M",
-      "videoId": "UpWNdSVWA7M",
-      "publishedAt": "2026-05-11T04:36:07.593Z"
+      "title": "Inference Chips for Agent Workflows",
+      "url": "https://www.youtube.com/watch?v=4YzFuHk84K0",
+      "videoId": "4YzFuHk84K0",
+      "publishedAt": "2026-05-04T20:11:45Z",
+      "description": "Most AI chips are designed for \"prompt in, response out.\" Agents don't work that way. They loop, branch, and hold context across ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Senator Scott Wiener Press Conference at YC",
-      "url": "https://www.youtube.com/watch?v=Yr9mHKxOkLg",
-      "videoId": "Yr9mHKxOkLg",
-      "publishedAt": "2026-05-11T04:36:07.593Z"
+      "title": "The AI Operating System for Companies",
+      "url": "https://www.youtube.com/watch?v=K46ZNekw2Tk",
+      "videoId": "K46ZNekw2Tk",
+      "publishedAt": "2026-05-04T00:58:34Z",
+      "description": "The best AI-native companies have made their entire company queryable: every meeting, ticket, and customer interaction legible ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "videoId": "nepKKz-MzFM",
-      "publishedAt": "2026-05-11T04:36:09.316Z"
+      "channel": "Sequoia AI Ascent",
+      "title": "AI That Designs Its Own Chips: Ricursive&#39;s Anna Goldie and Azalia Mirhoseini",
+      "url": "https://www.youtube.com/watch?v=K05Dh-QjM8c",
+      "videoId": "K05Dh-QjM8c",
+      "publishedAt": "2026-05-06T19:03:31Z",
+      "description": "At AI Ascent 2026, Anna Goldie and Azalia Mirhoseini, co-founders of Ricursive Intelligence, introduce the company and the ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-05-11T04:36:09.316Z"
+      "channel": "Sequoia AI Ascent",
+      "title": "Inside the Rise of Autonomous AI Hackers: XBOW&#39;s Oege de Moor",
+      "url": "https://www.youtube.com/watch?v=eHsr1Fl2jNA",
+      "videoId": "eHsr1Fl2jNA",
+      "publishedAt": "2026-05-06T16:50:12Z",
+      "description": "Oege de Moor, founder and CEO of XBOW, takes the AI Ascent 2026 stage to argue that autonomous AI hackers are already ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "videoId": "vif8NQcjVf0",
-      "publishedAt": "2026-05-11T04:36:09.316Z"
+      "channel": "Figma Config",
+      "title": "Getting started with the Figma MCP server",
+      "url": "https://www.youtube.com/watch?v=brTAdHVCwSw",
+      "videoId": "brTAdHVCwSw",
+      "publishedAt": "2026-05-04T20:48:51Z",
+      "description": "Learn how to set up the Figma MCP server and execute an AI-powered design workflow, from code to canvas and back again."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "videoId": "H9rF1CSSh-w",
-      "publishedAt": "2026-05-11T04:36:09.316Z"
+      "channel": "Figma Config",
+      "title": "When all your marketer wants is your approval.",
+      "url": "https://www.youtube.com/watch?v=ZoITGy8A3F0",
+      "videoId": "ZoITGy8A3F0",
+      "publishedAt": "2026-04-02T17:02:53Z",
+      "description": "Figma Buzz now has Approvals, so you don't have to keep spiraling outside the file. Rolling out today. Find us on ⬇️ X (formerly ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "videoId": "SHlrUAkkWI0",
-      "publishedAt": "2026-05-11T04:36:09.316Z"
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2026-05-11T04:36:09.975Z"
+      "channel": "Figma Config",
+      "title": "Figma for Edu: Resizing with Auto layout and Grid in Figma",
+      "url": "https://www.youtube.com/watch?v=iEjKZWxN56w",
+      "videoId": "iEjKZWxN56w",
+      "publishedAt": "2026-03-30T19:36:17Z",
+      "description": "Get the workshop file here: ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 11
-  },
-  "errors": [
-    "YouTube: Failed to fetch Sequoia AI Ascent: HTTP 404",
-    "YouTube: Failed to fetch Figma Config: HTTP 500",
-    "YouTube: Failed to fetch AI and I (Every): HTTP 404",
-    "YouTube: Failed to fetch Google DeepMind: HTTP 404",
-    "YouTube: Failed to fetch South Park Commons (Minus One): HTTP 404"
-  ]
+    "youtubeVideos": 10
+  }
 }
