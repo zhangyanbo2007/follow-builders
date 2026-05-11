@@ -23,6 +23,8 @@ jobs:
         run: cd scripts && npm install
 
       - name: Generate YouTube feed
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: cd scripts && node generate-feed.js --youtube-only
 
       - name: Commit and push feed

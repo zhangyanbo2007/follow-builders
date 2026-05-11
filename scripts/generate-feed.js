@@ -978,58 +978,81 @@ async function fetchBlogContent(blogs, state, errors) {
 
 // -- YouTube Channel Fetching (Atom RSS feed) --------------------------------
 
-// Fetches recent videos from a YouTube channel's Atom RSS feed.
-// For conference/event channels (YC, Stripe, Figma, etc.) — no transcripts,
-// just video metadata (title, description, URL, published date).
-async function fetchYouTubeChannelContent(channels, state, errors) {
+// Fetches recent videos from a YouTube channel using the YouTube Data API v3.
+// Supports all channels that have RSS limitations (Sequoia, Figma, DeepMind, etc.)
+// Uses the channelId from default-sources.json directly.
+async function fetchYouTubeChannelContent(channels, state, errors, apiKey) {
   const results = [];
   const cutoff = new Date(Date.now() - PODCAST_LOOKBACK_HOURS * 60 * 60 * 1000);
+  const MAX_PER_CHANNEL = 5;
 
   for (const channel of channels) {
     console.error(`  Fetching videos for ${channel.name}...`);
     try {
-      const feedUrl = await getYouTubeFeedUrl(channel.url);
-      if (!feedUrl) {
-        errors.push(`YouTube: No feed URL for ${channel.name} (${channel.url})`);
+      // Extract channel ID from the URL
+      let channelId;
+      if (channel.url.includes("/channel/")) {
+        channelId = channel.url.match(/\/channel\/(UC[A-Za-z0-9_-]+)/)?.[1];
+      } else {
+        // For @handle URLs, resolve to channel ID via page fetch
+        const pageRes = await fetch(channel.url, {
+          headers: { "User-Agent": RSS_USER_AGENT },
+          signal: AbortSignal.timeout(15000),
+        });
+        if (!pageRes.ok) {
+          errors.push(`YouTube: Failed to fetch page for ${channel.name}: HTTP ${pageRes.status}`);
+          continue;
+        }
+        const html = await pageRes.text();
+        channelId = html.match(/"channelId":"(UC[A-Za-z0-9_-]{20,})"/)?.[1];
+      }
+
+      if (!channelId) {
+        errors.push(`YouTube: Could not extract channel ID for ${channel.name}`);
         continue;
       }
 
-      const res = await fetch(feedUrl, {
-        headers: { "User-Agent": RSS_USER_AGENT },
+      console.error(`  ${channel.name}: channelId=${channelId}`);
+
+      // Call YouTube Data API v3
+      const apiUrl = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&order=date&maxResults=${MAX_PER_CHANNEL}&type=video&key=${apiKey}`;
+
+      const res = await fetch(apiUrl, {
         signal: AbortSignal.timeout(15000),
       });
 
       if (!res.ok) {
-        errors.push(`YouTube: Failed to fetch ${channel.name}: HTTP ${res.status}`);
+        const body = await res.text();
+        errors.push(`YouTube: API error for ${channel.name}: HTTP ${res.status} ${body.slice(0, 200)}`);
         continue;
       }
 
-      const videos = parseYouTubeFeed(await res.text());
-      console.error(`  ${channel.name}: found ${videos.length} videos in feed`);
+      const data = await res.json();
+      const items = data.items || [];
+      console.error(`  ${channel.name}: ${items.length} videos from API`);
 
-      // Filter by lookback window and dedup
-      for (const video of videos.slice(0, 10)) {
-        // Use video ID as the unique key
-        const videoId = video.url.match(/v=([A-Za-z0-9_-]+)/)?.[1];
+      for (const item of items) {
+        const videoId = item.id?.videoId;
         if (!videoId) continue;
 
         if (state.seenVideos[videoId]) {
-          console.error(`    Skipping "${video.title}" (already seen)`);
+          console.error(`    Skipping "${item.snippet?.title}" (already seen)`);
           continue;
         }
 
         results.push({
           source: "youtube",
           channel: channel.name,
-          title: video.title,
-          url: video.url,
+          title: item.snippet?.title || "Untitled",
+          url: `https://www.youtube.com/watch?v=${videoId}`,
           videoId: videoId,
-          publishedAt: new Date().toISOString(),
+          publishedAt: item.snippet?.publishedAt || new Date().toISOString(),
+          description: item.snippet?.description || "",
         });
 
         state.seenVideos[videoId] = Date.now();
 
-        if (results.filter((r) => r.channel === channel.name).length >= 5) break;
+        if (results.filter((r) => r.channel === channel.name).length >= MAX_PER_CHANNEL) break;
       }
     } catch (err) {
       errors.push(`YouTube: Error fetching ${channel.name}: ${err.message}`);
@@ -1064,6 +1087,12 @@ async function main() {
   }
   if (runTweets && !xBearerToken) {
     console.error("X_BEARER_TOKEN not set");
+    process.exit(1);
+  }
+
+  const youtubeApiKey = process.env.YOUTUBE_API_KEY;
+  if (runYoutube && !youtubeApiKey) {
+    console.error("YOUTUBE_API_KEY not set");
     process.exit(1);
   }
 
@@ -1160,6 +1189,7 @@ async function main() {
       sources.youtube_channels,
       state,
       errors,
+      youtubeApiKey,
     );
     console.error(`  Found ${youtubeContent.length} videos`);
 
