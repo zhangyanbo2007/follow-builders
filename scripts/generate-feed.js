@@ -993,22 +993,21 @@ async function fetchYouTubeChannelContent(channels, state, errors, apiKey) {
       let channelId;
       if (channel.url.includes("/channel/")) {
         channelId = channel.url.match(/\/channel\/(UC[A-Za-z0-9_-]+)/)?.[1];
-      } else {
-        // For @handle URLs, resolve to channel ID via page fetch
-        const pageRes = await fetch(channel.url, {
-          headers: { "User-Agent": RSS_USER_AGENT },
-          signal: AbortSignal.timeout(15000),
-        });
-        if (!pageRes.ok) {
-          errors.push(`YouTube: Failed to fetch page for ${channel.name}: HTTP ${pageRes.status}`);
+      } else if (channel.url.match(/\/@([A-Za-z0-9_.-]+)/)) {
+        // For @handle URLs, resolve to channel ID via YouTube API
+        const handle = channel.url.match(/\/@([A-Za-z0-9_.-]+)/)[1];
+        const resolveUrl = `https://www.googleapis.com/youtube/v3/channels?part=id&forHandle=${handle}&key=${apiKey}`;
+        const resolveRes = await fetch(resolveUrl, { signal: AbortSignal.timeout(15000) });
+        if (!resolveRes.ok) {
+          errors.push(`YouTube: Failed to resolve handle for ${channel.name}: HTTP ${resolveRes.status}`);
           continue;
         }
-        const html = await pageRes.text();
-        channelId = html.match(/"channelId":"(UC[A-Za-z0-9_-]{20,})"/)?.[1];
+        const resolveData = await resolveRes.json();
+        channelId = resolveData.items?.[0]?.id;
       }
 
       if (!channelId) {
-        errors.push(`YouTube: Could not extract channel ID for ${channel.name}`);
+        errors.push(`YouTube: Could not extract channel ID for ${channel.name} (${channel.url})`);
         continue;
       }
 
