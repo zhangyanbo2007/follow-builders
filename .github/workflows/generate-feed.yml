@@ -1,21 +1,10 @@
-name: Generate Feeds
+name: Generate YouTube Feed
 
 on:
   schedule:
-    # All feeds (tweets, podcasts, blogs): once daily at 6:17am UTC
-    - cron: '17 6 * * *'
+    # YouTube feed: daily at 00:00 UTC = 08:00 Beijing
+    - cron: '0 0 * * *'
   workflow_dispatch:
-    inputs:
-      mode:
-        description: 'What to fetch'
-        required: false
-        default: 'all'
-        type: choice
-        options:
-          - all
-          - tweets-only
-          - podcasts-only
-          - blogs-only
 
 jobs:
   generate:
@@ -33,21 +22,15 @@ jobs:
       - name: Install dependencies
         run: cd scripts && npm install
 
-      - name: Generate feeds
+      - name: Generate YouTube feed
         env:
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          POD2TXT_API_KEY: ${{ secrets.POD2TXT_API_KEY }}
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" != "all" ]; then
-            cd scripts && node generate-feed.js --${{ inputs.mode }}
-          else
-            cd scripts && node generate-feed.js
-          fi
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: cd scripts && node generate-feed.js --youtube-only
 
-      - name: Commit and push feeds
+      - name: Commit and push feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-x.json feed-podcasts.json feed-blogs.json state-feed.json
-          git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
+          git add feed-youtube.json state-feed.json
+          git diff --cached --quiet || git commit -m "chore: update youtube feed [skip ci]"
           git push

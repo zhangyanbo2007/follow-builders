@@ -45,6 +45,13 @@
       "indexUrl": "https://claude.com/blog",
       "articleBaseUrl": "https://claude.com/blog/",
       "fetchMethod": "http"
+    },
+    {
+      "name": "Terence Eden's Blog",
+      "type": "rss",
+      "rssUrl": "https://shkspr.mobi/blog/feed/",
+      "articleBaseUrl": "https://shkspr.mobi/blog/",
+      "fetchMethod": "http"
     }
   ],
   "youtube_channels": [
@@ -67,6 +74,26 @@
     {
       "name": "Figma Config",
       "url": "https://www.youtube.com/@Figma"
+    },
+    {
+      "name": "Lex Fridman",
+      "url": "https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA"
+    },
+    {
+      "name": "AI and I (Every)",
+      "url": "https://www.youtube.com/channel/UC5AxZxJNdRleW0gl2S9yKwQ"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A"
+    },
+    {
+      "name": "South Park Commons (Minus One)",
+      "url": "https://www.youtube.com/channel/UCMR-rPSUI34DRQXUkvFuIUQ"
+    },
+    {
+      "name": "Dwarkesh Podcast",
+      "url": "https://www.youtube.com/channel/UCDTmZpf1KtJ7mPIMt36kKKw"
     }
   ],
   "x_accounts": [
@@ -94,6 +121,7 @@
     { "name": "Dan Shipper", "handle": "danshipper" },
     { "name": "Aditya Agarwal", "handle": "adityaag" },
     { "name": "Sam Altman", "handle": "sama" },
-    { "name": "Claude", "handle": "claudeai" }
+    { "name": "Claude", "handle": "claudeai" },
+    { "name": "Terence Eden", "handle": "edent" }
   ]
 }

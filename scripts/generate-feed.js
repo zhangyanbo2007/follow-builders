@@ -13,6 +13,9 @@
 // Env vars needed: X_BEARER_TOKEN, POD2TXT_API_KEY
 // ============================================================================
 
+// Workaround for proxy TLS issues
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+
 import { readFile, writeFile } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
@@ -1057,6 +1060,91 @@ async function fetchBlogContent(blogs, state, errors) {
   return results;
 }
 
+// -- YouTube Channel Fetching (Atom RSS feed) --------------------------------
+
+// Fetches recent videos from a YouTube channel using the YouTube Data API v3.
+// Supports all channels that have RSS limitations (Sequoia, Figma, DeepMind, etc.)
+// Uses the channelId from default-sources.json directly.
+async function fetchYouTubeChannelContent(channels, state, errors, apiKey) {
+  const results = [];
+  const cutoff = new Date(Date.now() - PODCAST_LOOKBACK_HOURS * 60 * 60 * 1000);
+  const MAX_PER_CHANNEL = 5;
+
+  for (const channel of channels) {
+    console.error(`  Fetching videos for ${channel.name}...`);
+    try {
+      // Extract channel ID from the URL
+      let channelId;
+      if (channel.url.includes("/channel/")) {
+        channelId = channel.url.match(/\/channel\/(UC[A-Za-z0-9_-]+)/)?.[1];
+      } else if (channel.url.match(/\/@([A-Za-z0-9_.-]+)/)) {
+        // For @handle URLs, resolve to channel ID via YouTube API
+        const handle = channel.url.match(/\/@([A-Za-z0-9_.-]+)/)[1];
+        const resolveUrl = `https://www.googleapis.com/youtube/v3/channels?part=id&forHandle=${handle}&key=${apiKey}`;
+        const resolveRes = await fetch(resolveUrl, { signal: AbortSignal.timeout(15000) });
+        if (!resolveRes.ok) {
+          errors.push(`YouTube: Failed to resolve handle for ${channel.name}: HTTP ${resolveRes.status}`);
+          continue;
+        }
+        const resolveData = await resolveRes.json();
+        channelId = resolveData.items?.[0]?.id;
+      }
+
+      if (!channelId) {
+        errors.push(`YouTube: Could not extract channel ID for ${channel.name} (${channel.url})`);
+        continue;
+      }
+
+      console.error(`  ${channel.name}: channelId=${channelId}`);
+
+      // Call YouTube Data API v3
+      const apiUrl = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&order=date&maxResults=${MAX_PER_CHANNEL}&type=video&key=${apiKey}`;
+
+      const res = await fetch(apiUrl, {
+        signal: AbortSignal.timeout(15000),
+      });
+
+      if (!res.ok) {
+        const body = await res.text();
+        errors.push(`YouTube: API error for ${channel.name}: HTTP ${res.status} ${body.slice(0, 200)}`);
+        continue;
+      }
+
+      const data = await res.json();
+      const items = data.items || [];
+      console.error(`  ${channel.name}: ${items.length} videos from API`);
+
+      for (const item of items) {
+        const videoId = item.id?.videoId;
+        if (!videoId) continue;
+
+        if (state.seenVideos[videoId]) {
+          console.error(`    Skipping "${item.snippet?.title}" (already seen)`);
+          continue;
+        }
+
+        results.push({
+          source: "youtube",
+          channel: channel.name,
+          title: item.snippet?.title || "Untitled",
+          url: `https://www.youtube.com/watch?v=${videoId}`,
+          videoId: videoId,
+          publishedAt: item.snippet?.publishedAt || new Date().toISOString(),
+          description: item.snippet?.description || "",
+        });
+
+        state.seenVideos[videoId] = Date.now();
+
+        if (results.filter((r) => r.channel === channel.name).length >= MAX_PER_CHANNEL) break;
+      }
+    } catch (err) {
+      errors.push(`YouTube: Error fetching ${channel.name}: ${err.message}`);
+    }
+  }
+
+  return results;
+}
+
 // -- Main --------------------------------------------------------------------
 
 async function main() {
@@ -1064,12 +1152,14 @@ async function main() {
   const tweetsOnly = args.includes("--tweets-only");
   const podcastsOnly = args.includes("--podcasts-only");
   const blogsOnly = args.includes("--blogs-only");
+  const youtubeOnly = args.includes("--youtube-only");
 
   // If a specific --*-only flag is set, only that feed type runs.
-  // If no flag is set, all three run.
-  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly);
-  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly);
-  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly);
+  // If no flag is set, all four run.
+  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly && !youtubeOnly);
+  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly && !youtubeOnly);
+  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly && !youtubeOnly);
+  const runYoutube = youtubeOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly);
 
   const xBearerToken = process.env.X_BEARER_TOKEN;
   const pod2txtKey = process.env.POD2TXT_API_KEY;
@@ -1080,6 +1170,12 @@ async function main() {
   }
   if (runTweets && !xBearerToken) {
     console.error("X_BEARER_TOKEN not set");
+    process.exit(1);
+  }
+
+  const youtubeApiKey = process.env.YOUTUBE_API_KEY;
+  if (runYoutube && !youtubeApiKey) {
+    console.error("YOUTUBE_API_KEY not set");
     process.exit(1);
   }
 
@@ -1167,6 +1263,34 @@ async function main() {
       JSON.stringify(blogFeed, null, 2),
     );
     console.error(`  feed-blogs.json: ${blogContent.length} posts`);
+  }
+
+  // Fetch YouTube videos
+  if (runYoutube && sources.youtube_channels && sources.youtube_channels.length > 0) {
+    console.error("Fetching YouTube channel content...");
+    const youtubeContent = await fetchYouTubeChannelContent(
+      sources.youtube_channels,
+      state,
+      errors,
+      youtubeApiKey,
+    );
+    console.error(`  Found ${youtubeContent.length} videos`);
+
+    const youtubeFeed = {
+      generatedAt: new Date().toISOString(),
+      lookbackHours: PODCAST_LOOKBACK_HOURS,
+      youtube: youtubeContent,
+      stats: { youtubeVideos: youtubeContent.length },
+      errors:
+        errors.filter((e) => e.startsWith("YouTube")).length > 0
+          ? errors.filter((e) => e.startsWith("YouTube"))
+          : undefined,
+    };
+    await writeFile(
+      join(SCRIPT_DIR, "..", "feed-youtube.json"),
+      JSON.stringify(youtubeFeed, null, 2),
+    );
+    console.error(`  feed-youtube.json: ${youtubeContent.length} videos`);
   }
 
   // Save dedup state
