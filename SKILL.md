@@ -1,6 +1,6 @@
 ---
 name: follow-builders
-description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Use when the user wants AI industry insights, builder updates, or invokes /ai. No API keys or dependencies required — all content is fetched from a central feed.
+description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Use when the user wants AI industry insights, builder updates, or invokes /ai. Supports Feishu doc delivery with auto-authorization. No API keys required — all content is fetched from a central feed.
 ---
 
 # Follow Builders, Not Influencers
@@ -74,13 +74,37 @@ and move on.
 Tell the user:
 
 "Since you're not using a persistent agent, I need a way to send you the digest
-when you're not in this terminal. You have two options:
+when you're not in this terminal. You have three options:
 
-1. **Telegram** — I'll send it as a Telegram message (free, takes ~5 min to set up)
-2. **Email** — I'll email it to you (requires a free Resend account)
+1. **微信公众号** — I'll publish it as a WeChat Official Account article (requires verified account + AppID/AppSecret)
+2. **Feishu 飞书** — I'll create a new doc in your wiki every day (fully automatic, no setup needed)
+3. **Telegram** — I'll send it as a Telegram message (free, takes ~5 min to set up)
+4. **Email** — I'll email it to you (requires a free Resend account)
 
 Or you can skip this and just type /ai whenever you want your digest — but it
 won't arrive automatically."
+
+**If they choose WeChat Official Account (微信公众号):**
+
+Ask: "Do you have a verified WeChat Official Account (服务号 or 订阅号)?"
+
+If yes, ask them to provide their AppID and AppSecret (found in mp.weixin.qq.com → 设置与开发 → 基本配置).
+
+Also tell them: "You need to add this server's IP to your WeChat IP whitelist (mp.weixin.qq.com → 设置与开发 → 本配置 → IP白名单). The current server IP is `45.250.180.208`."
+
+Save the credentials:
+```bash
+mkdir -p ~/.wechat
+cat > ~/.wechat/.env << 'EOF'
+WECHAT_APPID=<their_appid>
+WECHAT_APPSECRET=<their_appsecret>
+EOF
+```
+
+Set `delivery.method` to `"wechat"` and add `delivery.wechat.appid` and `delivery.wechat.appsecret` in config.json.
+
+**If they choose Feishu:**
+No setup needed. The credentials are already configured. Set `delivery.method` to `"feishu"` and `delivery.wikiFolder` to `"T22wwJGCViktJqk0OQ0c8K0Tnre"` in config.json. Every digest run will create a new document under the wiki folder.
 
 **If they choose Telegram:**
 Guide the user step by step:
@@ -176,9 +200,10 @@ cat > ~/.follow-builders/config.json << 'CFGEOF'
   "deliveryTime": "<HH:MM>",
   "weeklyDay": "<day of week, only if weekly>",
   "delivery": {
-    "method": "<stdout, telegram, or email>",
+    "method": "<stdout, feishu, telegram, or email>",
     "chatId": "<telegram chat ID, only if telegram>",
-    "email": "<email address, only if email>"
+    "email": "<email address, only if email>",
+    "wikiFolder": "T22wwJGCViktJqk0OQ0c8K0Tnre"
   },
   "onboardingComplete": true
 }
@@ -295,7 +320,7 @@ After delivering the digest, ask for feedback:
 Just tell me and I'll adjust."
 
 Then add the appropriate closing line based on their setup:
-- **OpenClaw or Telegram/Email delivery:** "Your next digest will arrive
+- **OpenClaw or Telegram/Email/Feishu delivery:** "Your next digest will arrive
   automatically at [their chosen time]."
 - **On-demand only:** "Type /ai anytime you want your next digest."
 
@@ -325,8 +350,10 @@ The script outputs a single JSON blob with everything you need:
 - `config` — user's language and delivery preferences
 - `podcasts` — podcast episodes with full transcripts
 - `x` — builders with their recent tweets (text, URLs, bios)
+- `blogs` — new blog posts from AI company blogs
+- `youtube` — new videos from YouTube channels
 - `prompts` — the remix instructions to follow
-- `stats` — counts of episodes and tweets
+- `stats` — counts of episodes, tweets, videos, and blog posts
 - `errors` — non-fatal issues (IGNORE these)
 
 If the script fails entirely (no JSON output), tell the user to check their
@@ -334,7 +361,7 @@ internet connection. Otherwise, use whatever content is in the JSON.
 
 ### Step 3: Check for content
 
-If `stats.podcastEpisodes` is 0 AND `stats.xBuilders` is 0, tell the user:
+If `stats.podcastEpisodes` is 0 AND `stats.xBuilders` is 0 AND `stats.youtubeVideos` is 0 AND `stats.blogPosts` is 0, tell the user:
 "No new updates from your builders today. Check back tomorrow!" Then stop.
 
 ### Step 4: Remix content
@@ -352,12 +379,35 @@ Read the prompts from the `prompts` field in the JSON:
 1. Use their `bio` field for their role (e.g. bio says "ceo @box" → "Box CEO Aaron Levie")
 2. Summarize their `tweets` using `prompts.summarize_tweets`
 3. Every tweet MUST include its `url` from the JSON
+4. Output in a `<lark-table>` with columns: 作者 | 概要 | 链接
 
 **Podcast (process second):** The `podcasts` array has at most 1 episode. If present:
 1. Summarize its `transcript` using `prompts.summarize_podcast`
 2. Use `name`, `title`, and `url` from the JSON object — NOT from the transcript
+3. Output in a `<lark-table>` with columns: 节目 | 标题 | 概要 | 链接
 
-Assemble the digest following `prompts.digest_intro`.
+**Blogs (process third):** The `blogs` array has blog posts from AI companies:
+1. Output in a `<lark-table>` with columns: 来源 | 标题 | 概要 | 链接
+
+**YouTube (process fourth):** The `youtube` array has new videos from conference channels and podcasters:
+1. Group by `channel` name, use each channel as a sub-header before each `<lark-table>`
+2. For each video, build the thumbnail URL from the `videoId`: `https://img.youtube.com/vi/{videoId}/hqdefault.jpg`
+3. Output in a `<lark-table>` with columns: 快照 | 视频 | 简介 | 日期
+   - 快照 column: `<image url="{thumbnail_url}" width="240" height="180"/>` inside `<lark-td>`
+   - 视频 column: clickable video title linking to original `url`
+   - 简介 column: 2-3 sentences summarizing the video using `description` field
+   - 日期 column: YYYY-MM-DD from `publishedAt`
+4. If language is "zh", translate the video title to Chinese and keep the English original in parentheses
+
+Assemble the digest following `prompts.digest_intro`. Order with numbered headers:
+- 一、X / Twitter
+- 二、官方博客
+- 三、YouTube 视频
+- 四、Podcasts
+
+**CRITICAL: ALL content must use `<lark-table>` format.** Standard Markdown `| | |` tables do NOT support `<image>` tags (they are block-level elements). `<lark-table>` with `<lark-td>` cells is the only way to embed thumbnails and other block content in table cells.
+
+Assemble the digest following `prompts.digest_intro`. Order: X/Twitter → Blogs → YouTube → Podcasts.
 
 **ABSOLUTE RULES:**
 - NEVER invent or fabricate content. Only use what's in the JSON.
@@ -369,7 +419,7 @@ Assemble the digest following `prompts.digest_intro`.
 
 Read `config.language` from the JSON:
 - **"en":** Entire digest in English.
-- **"zh":** Entire digest in Chinese. Follow `prompts.translate`.
+- **"zh":** Entire digest in Chinese. Follow `prompts.translate`. Section headers use Chinese numbering (一、二、三、四). ALL content in `<lark-table>` format. YouTube video titles MUST be translated to Chinese — this is a common failure point. Keep channel names (YouTube channel, company, podcast) in English. Each tweet summary and YouTube video description should be at least 2-3 sentences with meaningful detail, not just one-line summaries.
 - **"bilingual":** Interleave English and Chinese **paragraph by paragraph**.
   For each builder's tweet summary: English version, then Chinese translation
   directly below, then the next builder. For the podcast: English summary,
@@ -396,6 +446,83 @@ Read `config.language` from the JSON:
 ### Step 6: Deliver
 
 Read `config.delivery.method` from the JSON:
+
+**If "wechat":**
+
+The digest must be generated as HTML (not Markdown). WeChat articles require HTML format with inline CSS styles and `<table>` elements.
+
+Full workflow:
+
+```bash
+# 1. Get access token
+TOKEN=$(curl -s -X POST "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=$(grep WECHAT_APPID ~/.wechat/.env | cut -d= -f2)&secret=$(grep WECHAT_APPSECRET ~/.wechat/.env | cut -d= -f2)" | python3 -c "import sys,json; print(json.load(sys.stdin)['access_token'])")
+
+# 2. Download YouTube thumbnails via proxy and upload to WeChat
+mkdir -p /tmp/wechat-thumbnails /tmp/wechat-urls
+http_proxy=http://192.168.28.92:7897 https_proxy=http://192.168.28.92:7897
+for vid in <videoIds>; do
+  curl -s -o /tmp/wechat-thumbnails/$vid.jpg "https://img.youtube.com/vi/$vid/hqdefault.jpg"
+  WECHAT_URL=$(curl -s -X POST "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token=$TOKEN" -F "media=@/tmp/wechat-thumbnails/$vid.jpg" | python3 -c "import sys,json; print(json.load(sys.stdin)['url'])")
+  echo "\"$vid\": \"$WECHAT_URL\"" >> /tmp/wechat-urls/thumbnail-map.json
+done
+
+# 3. Upload cover image
+THUMB_MEDIA_ID=$(curl -s -X POST "https://api.weixin.qq.com/cgi-bin/material/add_material?access_token=$TOKEN&type=image" -F "media=@/tmp/wechat-thumbnails/<first_vid>.jpg" | python3 -c "import sys,json; print(json.load(sys.stdin)['media_id'])")
+
+# 4. Replace YouTube thumbnail URLs in HTML with WeChat URLs
+#    (use thumbnail-map.json to do the replacement)
+
+# 5. Create draft article
+curl -s -X POST "https://api.weixin.qq.com/cgi-bin/draft/add?access_token=$TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"articles":[{"title":"AI Builders 每日摘要 YYYY-MM-DD","author":"Follow Builders","content":"<HTML content>","thumb_media_id":"<THUMB_MEDIA_ID>","show_cover_pic":1}]}'
+
+# 6. Optionally publish
+curl -s -X POST "https://api.weixin.qq.com/cgi-bin/freepublish/submit?access_token=$TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"media_id":"<media_id from step 5>"}'
+```
+
+Or use the automated script:
+```bash
+cd ${CLAUDE_SKILL_DIR}/scripts && node deliver-wechat.js --file /tmp/wechat-digest.html --publish
+```
+
+**If "feishu":**
+
+Use the `feishu-doc-op` skill. Full workflow — no device-flow auth needed:
+
+```bash
+# 1. Get tenant access token
+TOKEN=$(curl -s -X POST 'https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal' \
+  -H 'Content-Type: application/json' \
+  -d '{"app_id":"cli_a9310060c3a11bcb","app_secret":"ysOGXirW1cFNWBzrLMxhufsGO0g0w1Oe"}' | \
+  python3 -c "import sys,json; print(json.load(sys.stdin)['tenant_access_token'])")
+
+# 2. Get folder's space_id
+SPACE_ID=$(curl -s -X GET "https://open.feishu.cn/open-apis/wiki/v2/spaces/get_node?token=T22wwJGCViktJqk0OQ0c8K0Tnre" \
+  -H "Authorization: Bearer $TOKEN" | \
+  python3 -c "import sys,json; print(json.load(sys.stdin)['data']['node']['space_id'])")
+
+# 3. Create wiki node under the folder
+DOC_TOKEN=$(curl -s -X POST "https://open.feishu.cn/open-apis/wiki/v2/spaces/$SPACE_ID/nodes" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H 'Content-Type: application/json' \
+  -d '{"obj_type":"docx","title":"AI Builders 每日摘要 YYYY-MM-DD","parent_node_token":"T22wwJGCViktJqk0OQ0c8K0Tnre","node_type":"origin"}' | \
+  python3 -c "import sys,json; print(json.load(sys.stdin)['data']['node']['obj_token'])")
+
+# 4. Grant edit permission to the user
+curl -s -X POST "https://open.feishu.cn/open-apis/drive/v1/permissions/$DOC_TOKEN/members?type=docx" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H 'Content-Type: application/json' \
+  -d '{"member_type":"openid","member_id":"ou_ab88943d394c6c50dc62daf26d5397b2","perm":"full_access"}'
+
+# 5. Write markdown content to the new document
+export FEISHU_APP_ID=cli_a9310060c3a11bcb FEISHU_APP_SECRET=ysOGXirW1cFNWBzrLMxhufsGO0g0w1Oe
+feishu-cli doc import /tmp/follow-builders-digest-YYYYMMDD.md --document-id $DOC_TOKEN --verbose
+```
+
+Output the document link: `https://feishu.cn/docx/$DOC_TOKEN`
 
 **If "telegram" or "email":**
 ```bash
@@ -428,9 +555,10 @@ open an issue at https://github.com/zarazhangrui/follow-builders."
 - "Switch to Chinese/English/bilingual" → Update `language` in config.json
 
 ### Delivery Changes
-- "Switch to Telegram/email" → Update `delivery.method` in config.json, guide user through setup if needed
+- "Switch to Feishu/Telegram/email" → Update `delivery.method` in config.json, guide user through setup if needed
 - "Change my email" → Update `delivery.email` in config.json
 - "Send to this chat instead" → Set `delivery.method` to "stdout"
+- "Switch to Feishu doc delivery" → Set `delivery.method` to "feishu", set `delivery.wikiFolder` to "T22wwJGCViktJqk0OQ0c8K0Tnre"
 
 ### Prompt Changes
 When a user wants to customize how their digest sounds, copy the relevant prompt

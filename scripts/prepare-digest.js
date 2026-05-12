@@ -16,10 +16,20 @@
 // Output: JSON to stdout
 // ============================================================================
 
+// Workaround for proxy TLS issues
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+
+import { setGlobalDispatcher, ProxyAgent } from 'undici';
 import { readFile, mkdir } from 'fs/promises';
 import { existsSync } from 'fs';
 import { join } from 'path';
 import { homedir } from 'os';
+
+// Make fetch proxy-aware — pick up https_proxy / http_proxy from env
+const proxyUrl = process.env.https_proxy || process.env.http_proxy;
+if (proxyUrl) {
+  setGlobalDispatcher(new ProxyAgent(proxyUrl));
+}
 
 // -- Constants ---------------------------------------------------------------
 
@@ -29,6 +39,7 @@ const CONFIG_PATH = join(USER_DIR, 'config.json');
 const FEED_X_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
 const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-podcasts.json';
 const FEED_BLOGS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-blogs.json';
+const FEED_YOUTUBE_URL = 'https://raw.githubusercontent.com/zhangyanbo2007/follow-builders/main/feed-youtube.json';
 
 const PROMPTS_BASE = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/prompts';
 const PROMPT_FILES = [
@@ -72,16 +83,18 @@ async function main() {
     }
   }
 
-  // 2. Fetch all three feeds
-  const [feedX, feedPodcasts, feedBlogs] = await Promise.all([
+  // 2. Fetch all feeds (x, podcasts, blogs, youtube)
+  const [feedX, feedPodcasts, feedBlogs, feedYoutube] = await Promise.all([
     fetchJSON(FEED_X_URL),
     fetchJSON(FEED_PODCASTS_URL),
-    fetchJSON(FEED_BLOGS_URL)
+    fetchJSON(FEED_BLOGS_URL),
+    fetchJSON(FEED_YOUTUBE_URL)
   ]);
 
   if (!feedX) errors.push('Could not fetch tweet feed');
   if (!feedPodcasts) errors.push('Could not fetch podcast feed');
   if (!feedBlogs) errors.push('Could not fetch blog feed');
+  if (!feedYoutube) errors.push('Could not fetch YouTube feed');
 
   // 3. Load prompts with priority: user custom > remote (GitHub) > local default
   //
@@ -136,6 +149,7 @@ async function main() {
     podcasts: feedPodcasts?.podcasts || [],
     x: feedX?.x || [],
     blogs: feedBlogs?.blogs || [],
+    youtube: feedYoutube?.youtube || [],
 
     // Stats for the LLM to reference
     stats: {
@@ -143,6 +157,7 @@ async function main() {
       xBuilders: feedX?.x?.length || 0,
       totalTweets: (feedX?.x || []).reduce((sum, a) => sum + a.tweets.length, 0),
       blogPosts: feedBlogs?.blogs?.length || 0,
+      youtubeVideos: feedYoutube?.youtube?.length || 0,
       feedGeneratedAt: feedX?.generatedAt || feedPodcasts?.generatedAt || feedBlogs?.generatedAt || null
     },
 
