@@ -1,100 +1,64 @@
 {
-  "generatedAt": "2026-05-13T03:47:42.565Z",
+  "generatedAt": "2026-05-14T03:46:34.064Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
+      "url": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+      "videoId": "QHJkUw31YX8",
+      "publishedAt": "2026-05-13T14:30:29Z",
+      "description": "Paul Graham, the Founder of Y Combinator, speaks live from Stockholm Waterfront Congress Centre in Stockholm, Sweden."
+    },
+    {
+      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "The difference between a manager and an executive, explained with one metaphor.  #podcast #shorts",
-      "url": "https://www.youtube.com/watch?v=XUeAEOyMTFI",
-      "videoId": "XUeAEOyMTFI",
-      "publishedAt": "2026-05-12T15:01:00Z",
-      "description": "Ex-Twitter CEO Dick Costolo on why great leaders stop putting out fires and start preventing them. The mindset shift that separates ..."
+      "title": "&quot;Let&#39;s throw away everything we know about music&quot; Suno founder Mikey Schulman",
+      "url": "https://www.youtube.com/watch?v=_t6CGG8W-i8",
+      "videoId": "_t6CGG8W-i8",
+      "publishedAt": "2026-05-13T20:26:40Z",
+      "description": "\"The more musical knowledge we give the model, the more constrained it will be in a bad way.\" Mikey Shulman explains why ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Manus AI&#39;s cofounder and CPO Tao Zhang",
-      "url": "https://www.youtube.com/watch?v=dTyL3T3_G-o",
-      "videoId": "dTyL3T3_G-o",
-      "publishedAt": "2026-05-08T19:55:44Z",
-      "description": "Join Tao Zhang, Manus AI's cofounder and CPO, for an inside look at building and scaling an AI business across global markets."
+      "channel": "Sequoia AI Ascent",
+      "title": "Jack Dorsey told Bezos great CEOs say no to everything. Bezos disagreed.  #podcast #shorts",
+      "url": "https://www.youtube.com/watch?v=nqMZvUSuFHE",
+      "videoId": "nqMZvUSuFHE",
+      "publishedAt": "2026-05-13T14:30:27Z",
+      "description": "Dick Costolo was in the room when Jeff Bezos pushed back on Steve Jobs' \"say no to almost everything\" philosophy. He's thought ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Daniel Gross on token budgeting as portfolio management",
-      "url": "https://www.youtube.com/watch?v=Uy--uBY_4oI",
-      "videoId": "Uy--uBY_4oI",
-      "publishedAt": "2026-05-06T18:49:44Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Snapchat&#39;s first hit country wasn&#39;t America",
-      "url": "https://www.youtube.com/watch?v=vLt8a_mXzhM",
-      "videoId": "vLt8a_mXzhM",
-      "publishedAt": "2026-05-02T21:52:58Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Nat Friedman and Daniel Gross in conversation with John and Patrick Collison",
-      "url": "https://www.youtube.com/watch?v=I-ldITom1cg",
-      "videoId": "I-ldITom1cg",
-      "publishedAt": "2026-05-01T02:45:25Z",
-      "description": "Two of tech's most active AI investors will join John and Patrick Collison to discuss how frontier technologies are reshaping the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Nat Friedman on staying hydrated with OpenClaw",
-      "url": "https://www.youtube.com/watch?v=oWpZieunLEw",
-      "videoId": "oWpZieunLEw",
-      "publishedAt": "2026-05-01T02:01:58Z",
-      "description": ""
+      "channel": "Sequoia AI Ascent",
+      "title": "Suno&#39;s Mikey Shulman: Everyone Can Make Music Now",
+      "url": "https://www.youtube.com/watch?v=Jq3BIGz4vXQ",
+      "videoId": "Jq3BIGz4vXQ",
+      "publishedAt": "2026-05-13T12:00:36Z",
+      "description": "Most music platforms assume you're a listener. On Suno, 90% of daily users make something. Founder and CEO Mikey Shulman ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "New to variable width stroke | Figma",
-      "url": "https://www.youtube.com/watch?v=rAlNWzpGiiE",
-      "videoId": "rAlNWzpGiiE",
-      "publishedAt": "2025-07-29T18:44:32Z",
-      "description": "New to variable width stroke: → Direct editing width inputs → Keyboard controls: tabbing → Custom width profile previews ..."
+      "title": "Memory performance improvements | Figma",
+      "url": "https://www.youtube.com/watch?v=frr0PoBLPA8",
+      "videoId": "frr0PoBLPA8",
+      "publishedAt": "2026-05-13T18:13:04Z",
+      "description": "Ever hit an out-of-memory warning mid-flow? Meet the engineers who fixed it. Russell and Sanket break down six months of ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Quick start tips: Figma Slides — Part 1",
-      "url": "https://www.youtube.com/watch?v=NibyIWzbua8",
-      "videoId": "NibyIWzbua8",
-      "publishedAt": "2024-07-17T16:00:30Z",
-      "description": "Figma is free to use. Sign up here: https://bit.ly/3msp0OV. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Config 2024: How to build for, and with, Gen Z (Jiaona Zhang, CPO, Linktree) | Figma",
-      "url": "https://www.youtube.com/watch?v=-CYpixuRCgU",
-      "videoId": "-CYpixuRCgU",
-      "publishedAt": "2024-07-03T05:39:16Z",
-      "description": "Config 2024: How to build for, and with, Gen Z (Jiaona Zhang, CPO, Linktree) Gen Z are the first truly digitally native generation."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Generate a meeting board in seconds with FigJam AI #figjam #shorts",
-      "url": "https://www.youtube.com/watch?v=fIXHpGmlG88",
-      "videoId": "fIXHpGmlG88",
-      "publishedAt": "2023-11-09T18:00:22Z",
-      "description": "Figma is free to use. Sign up here: https://bit.ly/3msp0OV With AI in FigJam, you can generate templates and diagrams in seconds ..."
+      "channel": "Google DeepMind",
+      "title": "Reimagining a 50-year-old interface (the mouse pointer) with AI",
+      "url": "https://www.youtube.com/watch?v=pZNzfQLgGsA",
+      "videoId": "pZNzfQLgGsA",
+      "publishedAt": "2026-05-13T09:07:06Z",
+      "description": "The mouse pointer 🖱️ has been a constant companion on computer screens, across every website, document and workflow."
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
