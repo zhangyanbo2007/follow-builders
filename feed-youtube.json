@@ -1,46 +1,55 @@
 {
-  "generatedAt": "2026-05-15T03:50:56.496Z",
+  "generatedAt": "2026-05-16T03:33:15.535Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Twitter&#39;s CEO started coming back to the office at 9:30 PM. Here&#39;s why.  #podcast #shorts",
-      "url": "https://www.youtube.com/watch?v=lqpaq_xaC7g",
-      "videoId": "lqpaq_xaC7g",
-      "publishedAt": "2026-05-14T16:01:14Z",
-      "description": "You can't tell people to work harder. Ex-Twitter CEO Dick Costolo tried something smarter, and it quietly changed the whole ..."
+      "title": "Can AI make music more social? Suno&#39;s Mikey Schulman",
+      "url": "https://www.youtube.com/watch?v=BOntwh3Jk0I",
+      "videoId": "BOntwh3Jk0I",
+      "publishedAt": "2026-05-15T15:00:15Z",
+      "description": "\"The thing that's really interesting is actually how can we not just change, but elevate the place of music in culture?\" Suno founder ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on the paradigm shift for agents",
-      "url": "https://www.youtube.com/watch?v=8HxSmUQhZPg",
-      "videoId": "8HxSmUQhZPg",
-      "publishedAt": "2026-05-15T00:00:13Z",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Snap CEO Evan Spiegel: The &quot;killer app&quot; is a mirage",
-      "url": "https://www.youtube.com/watch?v=LpHZeUNzvEU",
-      "videoId": "LpHZeUNzvEU",
-      "publishedAt": "2026-05-14T22:45:35Z",
+      "title": "Snapchat sounded crazy in 2012",
+      "url": "https://www.youtube.com/watch?v=xGWFF5rCvvg",
+      "videoId": "xGWFF5rCvvg",
+      "publishedAt": "2026-05-15T20:36:23Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma tutorial: Code to canvas with your design system",
-      "url": "https://www.youtube.com/watch?v=dKB2VIG3wAA",
-      "videoId": "dKB2VIG3wAA",
-      "publishedAt": "2026-05-14T11:00:55Z",
-      "description": "Introducing use_figma, a tool in Figma's MCP server that lets AI agents create and modify designs directly on the canvas, using ..."
+      "title": "Don&#39;t look at our bio",
+      "url": "https://www.youtube.com/watch?v=AC0I_ZgQ9zs",
+      "videoId": "AC0I_ZgQ9zs",
+      "publishedAt": "2026-05-15T17:34:14Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "videoId": "YFjfBk8HI5o",
+      "publishedAt": "2026-02-12T03:07:03Z",
+      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
