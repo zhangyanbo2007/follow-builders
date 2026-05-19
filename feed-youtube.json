@@ -1,46 +1,19 @@
 {
-  "generatedAt": "2026-05-18T04:03:28.626Z",
+  "generatedAt": "2026-05-19T03:57:05.303Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on the next hot programming language",
-      "url": "https://www.youtube.com/watch?v=sODwJlkbcFo",
-      "videoId": "sODwJlkbcFo",
-      "publishedAt": "2026-05-17T23:00:12Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast #486",
-      "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
-      "videoId": "Qp0rCU49lMs",
-      "publishedAt": "2025-11-30T19:30:21Z",
-      "description": "Michael Levin is a biologist at Tufts University working on novel ways to understand and control complex pattern formation in ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480",
-      "url": "https://www.youtube.com/watch?v=-Qm1_On71Oo",
-      "videoId": "-Qm1_On71Oo",
-      "publishedAt": "2025-09-04T19:56:59Z",
-      "description": "Dave Hone is a paleontologist, expert on dinosaurs, co-host of the Terrible Lizards podcast, and author of numerous scientific ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: Why ChatGPT Won",
-      "url": "https://www.youtube.com/watch?v=MRvCQJCisFo",
-      "videoId": "MRvCQJCisFo",
-      "publishedAt": "2026-05-17T18:25:28Z",
-      "description": "Everyone had the tech behind ChatGPT. No one thought it was a real product."
+      "channel": "Sequoia AI Ascent",
+      "title": "Claude Code, Suno, and cooking all have one thing in common",
+      "url": "https://www.youtube.com/watch?v=Gys-nNR3xuM",
+      "videoId": "Gys-nNR3xuM",
+      "publishedAt": "2026-05-18T17:00:27Z",
+      "description": "\"It's fun to build things, and it's fun to use what you build.\" Mikey Shulman on the new category AI is quietly unlocking — creative ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 1
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
