@@ -1,55 +1,91 @@
 {
-  "generatedAt": "2026-05-21T04:06:48.862Z",
+  "generatedAt": "2026-05-22T04:01:52.056Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "OpenAI: $2M in tokens to every YC company in the spring and summer batches.",
+      "url": "https://www.youtube.com/watch?v=h0bhNm6kwT8",
+      "videoId": "h0bhNm6kwT8",
+      "publishedAt": "2026-05-21T20:52:11Z",
+      "description": "OpenAI is offering $2M in tokens to every YC company in the spring and summer batches. We extended the summer deadline to ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "How to Build a Self-Improving Company with AI",
+      "url": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
+      "videoId": "X_JsIHUfUjc",
+      "publishedAt": "2026-05-21T14:00:51Z",
+      "description": "In this recent batch talk, YC General Partner Tom Blomfield breaks down how to build a self-improving company using AI."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
+      "url": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+      "videoId": "QHJkUw31YX8",
+      "publishedAt": "2026-05-13T14:30:29Z",
+      "description": "Paul Graham, the Founder of Y Combinator, speaks live from Stockholm Waterfront Congress Centre in Stockholm, Sweden."
+    },
+    {
+      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "The simple test most automation platforms fail | Jake Stauch, Serval",
-      "url": "https://www.youtube.com/watch?v=ZHv5y06P8ag",
-      "videoId": "ZHv5y06P8ag",
-      "publishedAt": "2026-05-20T17:00:44Z",
-      "description": "Jake Stauch, founder of Serval, on the test almost every automation tool fails and the design principle behind why people actually ..."
+      "title": "Notion&#39;s CEO on where he stumbled with sales",
+      "url": "https://www.youtube.com/watch?v=0Unoc0oL0Dg",
+      "videoId": "0Unoc0oL0Dg",
+      "publishedAt": "2026-05-21T21:45:25Z",
+      "description": "Ivan Zhao on why founders should preserve their innovation point to a few places — not spread it across every function. The 90s ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Describe the workflow. The code appears. | Jake Stauch, Serval",
+      "url": "https://www.youtube.com/watch?v=0vIVl7-HI6I",
+      "videoId": "0vIVl7-HI6I",
+      "publishedAt": "2026-05-21T21:00:04Z",
+      "description": "Jake Stauch on how Serval rebuilt the workflow build step around code generation – same primitive, collapsed time-to-build."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Notion’s Ivan Zhao: The Refounder",
+      "url": "https://www.youtube.com/watch?v=ill76IbVuM8",
+      "videoId": "ill76IbVuM8",
+      "publishedAt": "2026-05-21T12:00:57Z",
+      "description": "Ivan Zhao, founder and CEO of Notion, joins me to introduce a new contender in the founder mode debate: jazz mode. Ivan has a ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Meet the Figma design agent",
-      "url": "https://www.youtube.com/watch?v=vY5IoRVTnJs",
-      "videoId": "vY5IoRVTnJs",
-      "publishedAt": "2026-05-20T18:20:06Z",
-      "description": "Meet the Figma design agent, with product designer Tammy Taabassum and product manager Rodrigo Davies 00:00 Intro 00:12 ..."
+      "title": "Hand lettering vs. brand design: the creative differences no one talks about",
+      "url": "https://www.youtube.com/watch?v=ow4no_CAyWY",
+      "videoId": "ow4no_CAyWY",
+      "publishedAt": "2026-05-21T14:21:01Z",
+      "description": "In a behind the scenes look at the creation of our animated earnings video, Leandro Casteel (Brand designer, Figma) interviews ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Get started with the Figma agent",
-      "url": "https://www.youtube.com/watch?v=-lmPThONhhA",
-      "videoId": "-lmPThONhhA",
-      "publishedAt": "2026-05-20T13:30:39Z",
-      "description": "In Figma Design, you can collaborate with an agent to generate and remix designs, automate busywork, and get design feedback."
+      "channel": "South Park Commons (Minus One)",
+      "title": "Will LLMs Become Obsolete?",
+      "url": "https://www.youtube.com/watch?v=tE1dzt2LJX0",
+      "videoId": "tE1dzt2LJX0",
+      "publishedAt": "2026-05-21T15:42:49Z",
+      "description": "Will LLMs become a thing of the past? Luma Labs Founder Amit shares his take."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Designers, meet your Figma agent",
-      "url": "https://www.youtube.com/watch?v=8mycCHdlr74",
-      "videoId": "8mycCHdlr74",
-      "publishedAt": "2026-05-20T13:02:49Z",
-      "description": "Starting today, work with an agent that is built for Figma—directly on the canvas ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini 3.5 Flash has landed.",
-      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
-      "videoId": "R6mM0m3IZWY",
-      "publishedAt": "2026-05-20T20:10:43Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "Why Great AI Companies Are Moving Beyond Tools | Amit Jain (Luma AI)",
+      "url": "https://www.youtube.com/watch?v=2qR7pLTCZ78",
+      "videoId": "2qR7pLTCZ78",
+      "publishedAt": "2026-05-21T14:00:39Z",
+      "description": "Amit Jain, cofounder and CEO of Luma AI, joins South Park Commons Partner Finn Meeks to explain why the most defensible AI ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
