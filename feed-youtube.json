@@ -1,91 +1,118 @@
 {
-  "generatedAt": "2026-05-22T04:01:52.056Z",
+  "generatedAt": "2026-05-23T03:38:48.015Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "OpenAI: $2M in tokens to every YC company in the spring and summer batches.",
-      "url": "https://www.youtube.com/watch?v=h0bhNm6kwT8",
-      "videoId": "h0bhNm6kwT8",
-      "publishedAt": "2026-05-21T20:52:11Z",
-      "description": "OpenAI is offering $2M in tokens to every YC company in the spring and summer batches. We extended the summer deadline to ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How to Build a Self-Improving Company with AI",
-      "url": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
-      "videoId": "X_JsIHUfUjc",
-      "publishedAt": "2026-05-21T14:00:51Z",
-      "description": "In this recent batch talk, YC General Partner Tom Blomfield breaks down how to build a self-improving company using AI."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
-      "url": "https://www.youtube.com/watch?v=QHJkUw31YX8",
-      "videoId": "QHJkUw31YX8",
-      "publishedAt": "2026-05-13T14:30:29Z",
-      "description": "Paul Graham, the Founder of Y Combinator, speaks live from Stockholm Waterfront Congress Centre in Stockholm, Sweden."
+      "title": "How The Best Companies Defend Against Mediocrity And Rot",
+      "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
+      "videoId": "7VKliOQXQ9M",
+      "publishedAt": "2026-05-22T14:00:07Z",
+      "description": "In this episode of the Main Function Garry sits down with Eric Ries, author of \"The Lean Startup\", about his new book, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Notion&#39;s CEO on where he stumbled with sales",
-      "url": "https://www.youtube.com/watch?v=0Unoc0oL0Dg",
-      "videoId": "0Unoc0oL0Dg",
-      "publishedAt": "2026-05-21T21:45:25Z",
-      "description": "Ivan Zhao on why founders should preserve their innovation point to a few places — not spread it across every function. The 90s ..."
+      "title": "Why Notion&#39;s Ivan Zhao killed his marketing org",
+      "url": "https://www.youtube.com/watch?v=S-VEeAcjxnM",
+      "videoId": "S-VEeAcjxnM",
+      "publishedAt": "2026-05-22T21:15:01Z",
+      "description": "Notion CEO Ivan Zhao on splitting marketing in two — storytelling next to product, demand gen serving sales — and why one ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Describe the workflow. The code appears. | Jake Stauch, Serval",
-      "url": "https://www.youtube.com/watch?v=0vIVl7-HI6I",
-      "videoId": "0vIVl7-HI6I",
-      "publishedAt": "2026-05-21T21:00:04Z",
-      "description": "Jake Stauch on how Serval rebuilt the workflow build step around code generation – same primitive, collapsed time-to-build."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Notion’s Ivan Zhao: The Refounder",
-      "url": "https://www.youtube.com/watch?v=ill76IbVuM8",
-      "videoId": "ill76IbVuM8",
-      "publishedAt": "2026-05-21T12:00:57Z",
-      "description": "Ivan Zhao, founder and CEO of Notion, joins me to introduce a new contender in the founder mode debate: jazz mode. Ivan has a ..."
+      "title": "The hard part of enterprise AI isn&#39;t reasoning | Jake Stauch, Serval",
+      "url": "https://www.youtube.com/watch?v=UGWGuS44iN8",
+      "videoId": "UGWGuS44iN8",
+      "publishedAt": "2026-05-22T21:00:18Z",
+      "description": "Jake Stauch on Serval's two-agent architecture: full reasoning power on top, bounded action surface underneath. #podcast ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Hand lettering vs. brand design: the creative differences no one talks about",
-      "url": "https://www.youtube.com/watch?v=ow4no_CAyWY",
-      "videoId": "ow4no_CAyWY",
-      "publishedAt": "2026-05-21T14:21:01Z",
-      "description": "In a behind the scenes look at the creation of our animated earnings video, Leandro Casteel (Brand designer, Figma) interviews ..."
+      "title": "Do more with grid | Figma",
+      "url": "https://www.youtube.com/watch?v=bzSMEo0J944",
+      "videoId": "bzSMEo0J944",
+      "publishedAt": "2026-05-22T16:02:08Z",
+      "description": "Grid is generally available and now makes it easier to reorder columns and rows, auto-position items into empty cells, and ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma agent: Document your design systems",
+      "url": "https://www.youtube.com/watch?v=sr6jtY4T0Uw",
+      "videoId": "sr6jtY4T0Uw",
+      "publishedAt": "2026-05-22T05:41:39Z",
+      "description": "Prompt: \"Create documentation for my components, including all states and variants. Add contextual examples illustrating how ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma agent: Run multiple prompts in parallel",
+      "url": "https://www.youtube.com/watch?v=2J6cV2pNZ6s",
+      "videoId": "2J6cV2pNZ6s",
+      "publishedAt": "2026-05-22T05:41:39Z",
+      "description": "Prompt: \"Set all @ Tile / Callout components to their highlight states; find all text larger than size 10 and change font to Inter; use a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma agent: Automate bulk edits",
+      "url": "https://www.youtube.com/watch?v=s9kzdXmhy5E",
+      "videoId": "s9kzdXmhy5E",
+      "publishedAt": "2026-05-22T05:41:39Z",
+      "description": "P‌‌‍rompt: \"Add code syntax for web to all of my variables. The names should be all lower case and kebab case without spaces, and ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma agent: Run multiple prompts in parallel",
+      "url": "https://www.youtube.com/watch?v=kKJYw__Krps",
+      "videoId": "kKJYw__Krps",
+      "publishedAt": "2026-05-22T05:41:39Z",
+      "description": "Prompt: \"Set all @ Tile / Callout components to their highlight states; find all text larger than size 10 and change font to Inter; use a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456",
+      "url": "https://www.youtube.com/watch?v=u321m25rKXc",
+      "videoId": "u321m25rKXc",
+      "publishedAt": "2025-01-05T19:00:47Z",
+      "description": "Volodymyr Zelenskyy is the President of Ukraine. This episode is available in English, Ukrainian, and Russian. Captions and ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jordan Peterson: Nietzsche, Hitler, God, Psychopathy, Suffering &amp; Meaning | Lex Fridman Podcast #448",
+      "url": "https://www.youtube.com/watch?v=q8VePUwjB9Y",
+      "videoId": "q8VePUwjB9Y",
+      "publishedAt": "2024-10-11T18:03:40Z",
+      "description": "Jordan Peterson is a psychologist, author, lecturer, and podcast host. Thank you for listening ❤ Check out our sponsors: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+      "videoId": "EF1BFaNZN9U",
+      "publishedAt": "2026-05-22T16:09:49Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Will LLMs Become Obsolete?",
-      "url": "https://www.youtube.com/watch?v=tE1dzt2LJX0",
-      "videoId": "tE1dzt2LJX0",
-      "publishedAt": "2026-05-21T15:42:49Z",
-      "description": "Will LLMs become a thing of the past? Luma Labs Founder Amit shares his take."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why Great AI Companies Are Moving Beyond Tools | Amit Jain (Luma AI)",
-      "url": "https://www.youtube.com/watch?v=2qR7pLTCZ78",
-      "videoId": "2qR7pLTCZ78",
-      "publishedAt": "2026-05-21T14:00:39Z",
-      "description": "Amit Jain, cofounder and CEO of Luma AI, joins South Park Commons Partner Finn Meeks to explain why the most defensible AI ..."
+      "title": "Why Sora Failed to Keep People Interested",
+      "url": "https://www.youtube.com/watch?v=UIkSZlj55Wc",
+      "videoId": "UIkSZlj55Wc",
+      "publishedAt": "2026-05-22T14:34:55Z",
+      "description": "Why did AI video apps like Sora struggle to retain users?"
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 12
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
