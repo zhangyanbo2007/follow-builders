@@ -1,118 +1,55 @@
 {
-  "generatedAt": "2026-05-23T03:38:48.015Z",
+  "generatedAt": "2026-05-24T04:00:36.811Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How The Best Companies Defend Against Mediocrity And Rot",
-      "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
-      "videoId": "7VKliOQXQ9M",
-      "publishedAt": "2026-05-22T14:00:07Z",
-      "description": "In this episode of the Main Function Garry sits down with Eric Ries, author of \"The Lean Startup\", about his new book, ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Ivan Zhao of Notion&#39;s mantra: jazz band, not marching band",
+      "url": "https://www.youtube.com/watch?v=vZUsk6GBSrI",
+      "videoId": "vZUsk6GBSrI",
+      "publishedAt": "2026-05-23T20:00:17Z",
+      "description": "Notion CEO Ivan Zhao on why he can't run a marching band, and why \"Jazz Mode\" should be the next entry in the founder mode ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Notion&#39;s Ivan Zhao killed his marketing org",
-      "url": "https://www.youtube.com/watch?v=S-VEeAcjxnM",
-      "videoId": "S-VEeAcjxnM",
-      "publishedAt": "2026-05-22T21:15:01Z",
-      "description": "Notion CEO Ivan Zhao on splitting marketing in two — storytelling next to product, demand gen serving sales — and why one ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The hard part of enterprise AI isn&#39;t reasoning | Jake Stauch, Serval",
-      "url": "https://www.youtube.com/watch?v=UGWGuS44iN8",
-      "videoId": "UGWGuS44iN8",
-      "publishedAt": "2026-05-22T21:00:18Z",
-      "description": "Jake Stauch on Serval's two-agent architecture: full reasoning power on top, bounded action surface underneath. #podcast ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Do more with grid | Figma",
-      "url": "https://www.youtube.com/watch?v=bzSMEo0J944",
-      "videoId": "bzSMEo0J944",
-      "publishedAt": "2026-05-22T16:02:08Z",
-      "description": "Grid is generally available and now makes it easier to reorder columns and rows, auto-position items into empty cells, and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma agent: Document your design systems",
-      "url": "https://www.youtube.com/watch?v=sr6jtY4T0Uw",
-      "videoId": "sr6jtY4T0Uw",
-      "publishedAt": "2026-05-22T05:41:39Z",
-      "description": "Prompt: \"Create documentation for my components, including all states and variants. Add contextual examples illustrating how ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma agent: Run multiple prompts in parallel",
-      "url": "https://www.youtube.com/watch?v=2J6cV2pNZ6s",
-      "videoId": "2J6cV2pNZ6s",
-      "publishedAt": "2026-05-22T05:41:39Z",
-      "description": "Prompt: \"Set all @ Tile / Callout components to their highlight states; find all text larger than size 10 and change font to Inter; use a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma agent: Automate bulk edits",
-      "url": "https://www.youtube.com/watch?v=s9kzdXmhy5E",
-      "videoId": "s9kzdXmhy5E",
-      "publishedAt": "2026-05-22T05:41:39Z",
-      "description": "P‌‌‍rompt: \"Add code syntax for web to all of my variables. The names should be all lower case and kebab case without spaces, and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma agent: Run multiple prompts in parallel",
-      "url": "https://www.youtube.com/watch?v=kKJYw__Krps",
-      "videoId": "kKJYw__Krps",
-      "publishedAt": "2026-05-22T05:41:39Z",
-      "description": "Prompt: \"Set all @ Tile / Callout components to their highlight states; find all text larger than size 10 and change font to Inter; use a ..."
+      "title": "Delete the work nobody signed up for | Jake Stauch, Serval",
+      "url": "https://www.youtube.com/watch?v=bNNNNB-k-VI",
+      "videoId": "bNNNNB-k-VI",
+      "publishedAt": "2026-05-23T17:00:37Z",
+      "description": "Jake Stauch on what Serval is really for – closing the gap between the job people thought they took and the job they actually do."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456",
-      "url": "https://www.youtube.com/watch?v=u321m25rKXc",
-      "videoId": "u321m25rKXc",
-      "publishedAt": "2025-01-05T19:00:47Z",
-      "description": "Volodymyr Zelenskyy is the President of Ukraine. This episode is available in English, Ukrainian, and Russian. Captions and ..."
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "videoId": "YFjfBk8HI5o",
+      "publishedAt": "2026-02-12T03:07:03Z",
+      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Jordan Peterson: Nietzsche, Hitler, God, Psychopathy, Suffering &amp; Meaning | Lex Fridman Podcast #448",
-      "url": "https://www.youtube.com/watch?v=q8VePUwjB9Y",
-      "videoId": "q8VePUwjB9Y",
-      "publishedAt": "2024-10-11T18:03:40Z",
-      "description": "Jordan Peterson is a psychologist, author, lecturer, and podcast host. Thank you for listening ❤ Check out our sponsors: ..."
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "videoId": "EV7WhVT270Q",
+      "publishedAt": "2026-01-31T22:33:33Z",
+      "description": "Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
-      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
-      "videoId": "EF1BFaNZN9U",
-      "publishedAt": "2026-05-22T16:09:49Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why Sora Failed to Keep People Interested",
-      "url": "https://www.youtube.com/watch?v=UIkSZlj55Wc",
-      "videoId": "UIkSZlj55Wc",
-      "publishedAt": "2026-05-22T14:34:55Z",
-      "description": "Why did AI video apps like Sora struggle to retain users?"
+      "channel": "Lex Fridman",
+      "title": "Infinity, Paradoxes, Gödel Incompleteness &amp; the Mathematical Multiverse | Lex Fridman Podcast #488",
+      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
+      "videoId": "14OPT6CcsH4",
+      "publishedAt": "2025-12-31T21:26:17Z",
+      "description": "Joel David Hamkins is a mathematician and philosopher specializing in set theory, the foundations of mathematics, and the nature ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 12
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
