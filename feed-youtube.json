@@ -1,55 +1,19 @@
 {
-  "generatedAt": "2026-05-24T04:00:36.811Z",
+  "generatedAt": "2026-05-25T04:12:07.081Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Ivan Zhao of Notion&#39;s mantra: jazz band, not marching band",
-      "url": "https://www.youtube.com/watch?v=vZUsk6GBSrI",
-      "videoId": "vZUsk6GBSrI",
-      "publishedAt": "2026-05-23T20:00:17Z",
-      "description": "Notion CEO Ivan Zhao on why he can't run a marching band, and why \"Jazz Mode\" should be the next entry in the founder mode ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Delete the work nobody signed up for | Jake Stauch, Serval",
-      "url": "https://www.youtube.com/watch?v=bNNNNB-k-VI",
-      "videoId": "bNNNNB-k-VI",
-      "publishedAt": "2026-05-23T17:00:37Z",
-      "description": "Jake Stauch on what Serval is really for – closing the gap between the job people thought they took and the job they actually do."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "videoId": "YFjfBk8HI5o",
-      "publishedAt": "2026-02-12T03:07:03Z",
-      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "videoId": "EV7WhVT270Q",
-      "publishedAt": "2026-01-31T22:33:33Z",
-      "description": "Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Infinity, Paradoxes, Gödel Incompleteness &amp; the Mathematical Multiverse | Lex Fridman Podcast #488",
-      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
-      "videoId": "14OPT6CcsH4",
-      "publishedAt": "2025-12-31T21:26:17Z",
-      "description": "Joel David Hamkins is a mathematician and philosopher specializing in set theory, the foundations of mathematics, and the nature ..."
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on optimizing your pricing",
+      "url": "https://www.youtube.com/watch?v=JQXHhDLgMfc",
+      "videoId": "JQXHhDLgMfc",
+      "publishedAt": "2026-05-16T16:00:24Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 1
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
