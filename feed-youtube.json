@@ -1,46 +1,64 @@
 {
-  "generatedAt": "2026-05-26T03:57:43.293Z",
+  "generatedAt": "2026-05-27T04:11:52.310Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "&quot;Building with LLMs is like brewing beer&quot; | Ivan Zhao, Notion",
-      "url": "https://www.youtube.com/watch?v=G1m02NYq9EI",
-      "videoId": "G1m02NYq9EI",
-      "publishedAt": "2026-05-25T21:00:08Z",
-      "description": "Notion CEO Ivan Zhao on why classic software is engineering a bridge — but building with LLMs is brewing beer. #shorts ..."
+      "title": "How Notion keeps a 1000-person company from calcifying | Ivan Zhao",
+      "url": "https://www.youtube.com/watch?v=TxMDswBqLhg",
+      "videoId": "TxMDswBqLhg",
+      "publishedAt": "2026-05-26T21:00:19Z",
+      "description": "Notion CEO Ivan Zhao on why 50–60 founders work at his company — and how acqui-hires keep a scale-up from getting stiff."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma agent: Generate designs from scratch",
-      "url": "https://www.youtube.com/watch?v=CX-w9khKFtY",
-      "videoId": "CX-w9khKFtY",
-      "publishedAt": "2026-05-22T05:41:39Z",
-      "description": "Prompt: \"Make a horizontally scrolling image carousel for a mobile app. Populate the images with placeholder outdoor/sports ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Why Cursor Built Its Own Model (It&#39;s Not About Coding)",
+      "url": "https://www.youtube.com/watch?v=unCSPK9EzvE",
+      "videoId": "unCSPK9EzvE",
+      "publishedAt": "2026-05-26T17:47:36Z",
+      "description": "ederico Cassano explains the core insight behind Composer: a model's weights are like a storage drive with finite bits. Cursor ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL",
+      "url": "https://www.youtube.com/watch?v=UDTr9yUnLUI",
+      "videoId": "UDTr9yUnLUI",
+      "publishedAt": "2026-05-26T12:00:19Z",
+      "description": "Cursor's Federico Cassano and Fireworks' Dmytro Dzhulgakov explain how they collaborated to build Composer as a specialized ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
-      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
-      "videoId": "JJS1d1bTMZM",
-      "publishedAt": "2026-05-25T17:00:28Z",
-      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: Why ChatGPT Won",
-      "url": "https://www.youtube.com/watch?v=MRvCQJCisFo",
-      "videoId": "MRvCQJCisFo",
-      "publishedAt": "2026-05-17T18:25:28Z",
-      "description": "Everyone had the tech behind ChatGPT. No one thought it was a real product."
+      "title": "Why the Best AI Companies Blur Product and Research",
+      "url": "https://www.youtube.com/watch?v=6hm1Rc-4Xzc",
+      "videoId": "6hm1Rc-4Xzc",
+      "publishedAt": "2026-05-26T15:22:50Z",
+      "description": "Frontier AI labs fundamentally operate differently from traditional software companies."
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
