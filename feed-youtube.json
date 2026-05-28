@@ -1,64 +1,163 @@
 {
-  "generatedAt": "2026-05-27T04:11:52.310Z",
+  "generatedAt": "2026-05-28T03:59:31.469Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "How Notion keeps a 1000-person company from calcifying | Ivan Zhao",
-      "url": "https://www.youtube.com/watch?v=TxMDswBqLhg",
-      "videoId": "TxMDswBqLhg",
-      "publishedAt": "2026-05-26T21:00:19Z",
-      "description": "Notion CEO Ivan Zhao on why 50–60 founders work at his company — and how acqui-hires keep a scale-up from getting stiff."
+      "channel": "YC Startup School",
+      "title": "Inside YC&#39;s AI Playbook",
+      "url": "https://www.youtube.com/watch?v=B246K_G7mHU",
+      "videoId": "B246K_G7mHU",
+      "publishedAt": "2026-05-27T14:00:26Z",
+      "description": "Building superintelligence inside a company isn't about adding AI as a feature. It's about making it the operating system the whole ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Zepto: How Two 17-Year-Olds Built India&#39;s Largest Seller Of Fruits and Vegetables",
+      "url": "https://www.youtube.com/watch?v=YKZCU0ynEbs",
+      "videoId": "YKZCU0ynEbs",
+      "publishedAt": "2026-05-19T14:00:50Z",
+      "description": "Aadit Palicha is the co-founder and CEO of Zepto, one of India's largest quick-commerce grocery platforms. What began as a ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Cursor Built Its Own Model (It&#39;s Not About Coding)",
-      "url": "https://www.youtube.com/watch?v=unCSPK9EzvE",
-      "videoId": "unCSPK9EzvE",
-      "publishedAt": "2026-05-26T17:47:36Z",
-      "description": "ederico Cassano explains the core insight behind Composer: a model's weights are like a storage drive with finite bits. Cursor ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL",
-      "url": "https://www.youtube.com/watch?v=UDTr9yUnLUI",
-      "videoId": "UDTr9yUnLUI",
-      "publishedAt": "2026-05-26T12:00:19Z",
-      "description": "Cursor's Federico Cassano and Fireworks' Dmytro Dzhulgakov explain how they collaborated to build Composer as a specialized ..."
+      "title": "Why Notion&#39;s Ivan Zhao likes being called a cult leader",
+      "url": "https://www.youtube.com/watch?v=7og5tKebok4",
+      "videoId": "7og5tKebok4",
+      "publishedAt": "2026-05-27T21:00:03Z",
+      "description": "Notion CEO Ivan Zhao and Brian Halligan on why companies are belief systems, and why the Catholic Church might be the ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
+      "title": "Sam Altman in conversation with Patrick Collison",
+      "url": "https://www.youtube.com/watch?v=5eouRdDYM2c",
+      "videoId": "5eouRdDYM2c",
+      "publishedAt": "2026-05-19T21:51:41Z",
+      "description": "OpenAI cofounder and CEO Sam Altman joins Stripe CEO Patrick Collison for a fireside chat at Stripe Sessions. More information: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Keynote",
+      "url": "https://www.youtube.com/watch?v=lIsHZfRl2zw",
+      "videoId": "lIsHZfRl2zw",
+      "publishedAt": "2026-05-19T21:51:46Z",
+      "description": "Learn about Stripe products designed for revenue growth. More information: https://stripesessions.com Developer keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "How Figma rebuilt the foundations of component instances",
+      "url": "https://www.youtube.com/watch?v=DFCACBIgrqY",
+      "videoId": "DFCACBIgrqY",
+      "publishedAt": "2026-05-27T11:00:24Z",
+      "description": "We had software engineer, Isaac Goldberg, read “How we rebuilt the foundations of component instances” so you don't have to."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "How Figma made vector editing faster",
+      "url": "https://www.youtube.com/watch?v=dzmoiVAXkHs",
+      "videoId": "dzmoiVAXkHs",
+      "publishedAt": "2026-05-19T15:32:03Z",
+      "description": "Editing complex illustrations, icons, and detailed vector work with thousands of vertices is now up to 10x faster. Lauren Budorick, a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Now presenting... your Config 2026 agenda",
+      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
+      "videoId": "Rt6KkpaLCaQ",
+      "publishedAt": "2026-05-07T16:59:46Z",
+      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "videoId": "nepKKz-MzFM",
+      "publishedAt": "2026-05-06T22:03:16Z",
+      "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "videoId": "1SJiTwbSI58",
+      "publishedAt": "2026-03-01T03:37:44Z",
+      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "videoId": "KGVpKPNUdzA",
+      "publishedAt": "2026-02-25T22:36:32Z",
+      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Build your next story with Gemini Omni.",
+      "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
+      "videoId": "u3T_0HmNbHM",
+      "publishedAt": "2026-05-20T00:21:16Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
-      "description": ""
+      "title": "Using AI to outsmart drug-resistant bacteria",
+      "url": "https://www.youtube.com/watch?v=Cnuj24PjWrQ",
+      "videoId": "Cnuj24PjWrQ",
+      "publishedAt": "2026-05-19T17:51:04Z",
+      "description": "Globally recognized as a silent pandemic, antimicrobial resistance continues to rise as bacteria outpace the development of new ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why the Best AI Companies Blur Product and Research",
-      "url": "https://www.youtube.com/watch?v=6hm1Rc-4Xzc",
-      "videoId": "6hm1Rc-4Xzc",
-      "publishedAt": "2026-05-26T15:22:50Z",
-      "description": "Frontier AI labs fundamentally operate differently from traditional software companies."
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 17
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
