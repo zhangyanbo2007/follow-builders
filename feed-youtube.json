@@ -1,64 +1,91 @@
 {
-  "generatedAt": "2026-05-30T03:49:21.784Z",
+  "generatedAt": "2026-05-31T04:13:43.883Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
-      "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
-      "videoId": "2Ap1dnv-GXA",
-      "publishedAt": "2026-05-29T12:30:27Z",
-      "description": "Varun Vummadi is the co-founder of Giga, which builds AI agents for customer support for some of the biggest companies in the ..."
+      "title": "How The Best Companies Defend Against Mediocrity And Rot",
+      "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
+      "videoId": "7VKliOQXQ9M",
+      "publishedAt": "2026-05-22T14:00:07Z",
+      "description": "In this episode of the Main Function Garry sits down with Eric Ries, author of \"The Lean Startup\", about his new book, ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Cursor | Does Specializing a Model Break The Bitter Lesson?",
-      "url": "https://www.youtube.com/watch?v=oxmLmn5ZYnE",
-      "videoId": "oxmLmn5ZYnE",
-      "publishedAt": "2026-05-29T14:45:04Z",
-      "description": "Frontier labs already train on tons of code, so their models are quietly specialized too. Cursor takes it further — pushing hard on ..."
+      "channel": "YC Startup School",
+      "title": "How to Build a Self-Improving Company with AI",
+      "url": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
+      "videoId": "X_JsIHUfUjc",
+      "publishedAt": "2026-05-21T14:00:51Z",
+      "description": "In this recent batch talk, YC General Partner Tom Blomfield breaks down how to build a self-improving company using AI."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "What&#39;s your favorite scary movie?",
-      "url": "https://www.youtube.com/watch?v=l3zn7khEO0o",
-      "videoId": "l3zn7khEO0o",
-      "publishedAt": "2026-05-29T14:30:12Z",
-      "description": "in partnership with @KRAZAM Starring Paloma Maia https://www.instagram.com/@thepalomamaia and Ben Burke ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "videoId": "1M3Vdl6DRkU",
-      "publishedAt": "2026-05-29T16:18:31Z",
-      "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. Thank you ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+      "title": "Agents, meet the Figma canvas",
+      "url": "https://www.youtube.com/watch?v=vQMeJMgxRQY",
+      "videoId": "vQMeJMgxRQY",
+      "publishedAt": "2026-03-24T14:08:58Z",
+      "description": "Starting today in open beta, you can use AI agents to design directly on the Figma canvas. And with skills, you can guide agents ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Gemini 3.5 Flash has landed.",
-      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
-      "videoId": "R6mM0m3IZWY",
-      "publishedAt": "2026-05-20T20:10:43Z",
-      "description": ""
+      "title": "Project Genie | Sunken Garden",
+      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
+      "videoId": "0NdJ61nwei4",
+      "publishedAt": "2026-02-20T11:28:25Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Rollerball",
+      "url": "https://www.youtube.com/watch?v=HxapJDdSP9Y",
+      "videoId": "HxapJDdSP9Y",
+      "publishedAt": "2026-02-20T11:29:26Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie Gallery | Bee Yarn",
+      "url": "https://www.youtube.com/watch?v=hXi1g4Q1iyw",
+      "videoId": "hXi1g4Q1iyw",
+      "publishedAt": "2026-02-20T11:28:44Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie Gallery | Amazon Aviator",
+      "url": "https://www.youtube.com/watch?v=yJriP45Kq6M",
+      "videoId": "yJriP45Kq6M",
+      "publishedAt": "2026-02-20T11:28:37Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Why Sora Failed to Keep People Interested",
+      "url": "https://www.youtube.com/watch?v=UIkSZlj55Wc",
+      "videoId": "UIkSZlj55Wc",
+      "publishedAt": "2026-05-22T14:34:55Z",
+      "description": "Why did AI video apps like Sora struggle to retain users?"
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Will LLMs Become Obsolete?",
+      "url": "https://www.youtube.com/watch?v=tE1dzt2LJX0",
+      "videoId": "tE1dzt2LJX0",
+      "publishedAt": "2026-05-21T15:42:49Z",
+      "description": "Will LLMs become a thing of the past? Luma Labs Founder Amit shares his take."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
