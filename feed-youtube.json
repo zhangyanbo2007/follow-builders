@@ -1,91 +1,28 @@
 {
-  "generatedAt": "2026-05-31T04:13:43.883Z",
+  "generatedAt": "2026-06-01T04:27:42.397Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How The Best Companies Defend Against Mediocrity And Rot",
-      "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
-      "videoId": "7VKliOQXQ9M",
-      "publishedAt": "2026-05-22T14:00:07Z",
-      "description": "In this episode of the Main Function Garry sits down with Eric Ries, author of \"The Lean Startup\", about his new book, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How to Build a Self-Improving Company with AI",
-      "url": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
-      "videoId": "X_JsIHUfUjc",
-      "publishedAt": "2026-05-21T14:00:51Z",
-      "description": "In this recent batch talk, YC General Partner Tom Blomfield breaks down how to build a self-improving company using AI."
-    },
-    {
-      "source": "youtube",
       "channel": "Figma Config",
-      "title": "Agents, meet the Figma canvas",
-      "url": "https://www.youtube.com/watch?v=vQMeJMgxRQY",
-      "videoId": "vQMeJMgxRQY",
-      "publishedAt": "2026-03-24T14:08:58Z",
-      "description": "Starting today in open beta, you can use AI agents to design directly on the Figma canvas. And with skills, you can guide agents ..."
+      "title": "When all your marketer wants is your approval.",
+      "url": "https://www.youtube.com/watch?v=ZoITGy8A3F0",
+      "videoId": "ZoITGy8A3F0",
+      "publishedAt": "2026-04-02T17:02:53Z",
+      "description": "Figma Buzz now has Approvals, so you don't have to keep spiraling outside the file. Rolling out today. Find us on ⬇️ X (formerly ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Project Genie | Sunken Garden",
-      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
-      "videoId": "0NdJ61nwei4",
-      "publishedAt": "2026-02-20T11:28:25Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie | Rollerball",
-      "url": "https://www.youtube.com/watch?v=HxapJDdSP9Y",
-      "videoId": "HxapJDdSP9Y",
-      "publishedAt": "2026-02-20T11:29:26Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie Gallery | Bee Yarn",
-      "url": "https://www.youtube.com/watch?v=hXi1g4Q1iyw",
-      "videoId": "hXi1g4Q1iyw",
-      "publishedAt": "2026-02-20T11:28:44Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie Gallery | Amazon Aviator",
-      "url": "https://www.youtube.com/watch?v=yJriP45Kq6M",
-      "videoId": "yJriP45Kq6M",
-      "publishedAt": "2026-02-20T11:28:37Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why Sora Failed to Keep People Interested",
-      "url": "https://www.youtube.com/watch?v=UIkSZlj55Wc",
-      "videoId": "UIkSZlj55Wc",
-      "publishedAt": "2026-05-22T14:34:55Z",
-      "description": "Why did AI video apps like Sora struggle to retain users?"
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Will LLMs Become Obsolete?",
-      "url": "https://www.youtube.com/watch?v=tE1dzt2LJX0",
-      "videoId": "tE1dzt2LJX0",
-      "publishedAt": "2026-05-21T15:42:49Z",
-      "description": "Will LLMs become a thing of the past? Luma Labs Founder Amit shares his take."
+      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+      "videoId": "EF1BFaNZN9U",
+      "publishedAt": "2026-05-22T16:09:49Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
