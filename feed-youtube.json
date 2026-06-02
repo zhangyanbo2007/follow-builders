@@ -1,28 +1,37 @@
 {
-  "generatedAt": "2026-06-01T04:27:42.397Z",
+  "generatedAt": "2026-06-02T04:21:06.528Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "When all your marketer wants is your approval.",
-      "url": "https://www.youtube.com/watch?v=ZoITGy8A3F0",
-      "videoId": "ZoITGy8A3F0",
-      "publishedAt": "2026-04-02T17:02:53Z",
-      "description": "Figma Buzz now has Approvals, so you don't have to keep spiraling outside the file. Rolling out today. Find us on ⬇️ X (formerly ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "How Cursor Ships a 1TB Model Across the World Mid-Training",
+      "url": "https://www.youtube.com/watch?v=dQVq3tEfZ58",
+      "videoId": "dQVq3tEfZ58",
+      "publishedAt": "2026-06-01T14:45:06Z",
+      "description": "Dmytro Dzhulgakov reveals the trick behind Cursor's RL infra: not all weights change every step. By compressing the delta ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
-      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
-      "videoId": "EF1BFaNZN9U",
-      "publishedAt": "2026-05-22T16:09:49Z",
-      "description": ""
+      "channel": "Stripe Sessions",
+      "title": "From Africa to the Andes: Building businesses without borders",
+      "url": "https://www.youtube.com/watch?v=QRteC5cQs3w",
+      "videoId": "QRteC5cQs3w",
+      "publishedAt": "2026-06-01T14:55:43Z",
+      "description": "For founders in emerging markets, the biggest hurdle is the movement of money. Traditional fiat transactions can take days to ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma for Edu: Resizing with Auto layout and Grid in Figma",
+      "url": "https://www.youtube.com/watch?v=iEjKZWxN56w",
+      "videoId": "iEjKZWxN56w",
+      "publishedAt": "2026-03-30T19:36:17Z",
+      "description": "Get the workshop file here: ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
