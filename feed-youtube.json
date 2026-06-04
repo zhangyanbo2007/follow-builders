@@ -1,73 +1,46 @@
 {
-  "generatedAt": "2026-06-03T04:40:32.697Z",
+  "generatedAt": "2026-06-04T04:25:36.906Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Software for Agents",
-      "url": "https://www.youtube.com/watch?v=515J0QD9p6w",
-      "videoId": "515J0QD9p6w",
-      "publishedAt": "2026-05-02T17:20:18Z",
-      "description": "The next trillion users on the internet won't be people. They'll be AI agents, and they're already doing real work on top of software ..."
+      "title": "How to Build an AI-Native Services Company",
+      "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
+      "videoId": "gSNFJbgoaHI",
+      "publishedAt": "2026-06-03T14:00:38Z",
+      "description": "Some of the biggest companies of the next decade won't be software businesses. They'll be services companies like insurance ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Cursor  | The Hidden Bug in Every Large-Scale RL Run",
-      "url": "https://www.youtube.com/watch?v=x3_mSwFV3hQ",
-      "videoId": "x3_mSwFV3hQ",
-      "publishedAt": "2026-06-02T14:45:12Z",
-      "description": "ame model. Same tokens. Different log probabilities. Federico Cassano explains the \"numerical mismatch\" problem that plagues ..."
+      "title": "Cursor |Why Online RL Is Just the Cherry on Top",
+      "url": "https://www.youtube.com/watch?v=GMkqw01rqd4",
+      "videoId": "GMkqw01rqd4",
+      "publishedAt": "2026-06-03T14:45:27Z",
+      "description": "Online (real-time) RL only works if the model is already great — users won't engage with a bad one, and no engagement means ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Knowing What Your Customers Want, All the Time: Listen Labs&#39; Alfred Wahlforss",
-      "url": "https://www.youtube.com/watch?v=Rumft-rsEu4",
-      "videoId": "Rumft-rsEu4",
-      "publishedAt": "2026-06-02T12:00:00Z",
-      "description": "Alfred Wahlforss, co-founder and CEO of Listen Labs, is building an AI agent that interviews your customers at a scale no focus ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Generating novel scientific hypotheses with Co-Scientist",
-      "url": "https://www.youtube.com/watch?v=aSY_vFFmkW0",
-      "videoId": "aSY_vFFmkW0",
-      "publishedAt": "2026-05-19T17:51:44Z",
-      "description": "In an era of information overload, the search for transformative scientific ideas has become a significant bottleneck for progress."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Predicting a historic storm earlier with WeatherNext",
-      "url": "https://www.youtube.com/watch?v=wd5ZZV8if54",
-      "videoId": "wd5ZZV8if54",
-      "publishedAt": "2026-05-19T17:50:53Z",
-      "description": "Tropical storms and hurricanes are notoriously volatile, changing structure and intensity in a matter of hours. This unpredictability ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Understanding cancer at a genetic level with AI",
-      "url": "https://www.youtube.com/watch?v=exh1vwGlrSo",
-      "videoId": "exh1vwGlrSo",
-      "publishedAt": "2026-05-19T17:50:59Z",
-      "description": "In Uganda, the incidence of early-onset breast cancer is growing at an alarming rate. Dr. Daudi Jjingo and his team at Makerere ..."
+      "channel": "Figma Config",
+      "title": "A product designer&#39;s guide to the Figma agent",
+      "url": "https://www.youtube.com/watch?v=PJEfCwKpRP0",
+      "videoId": "PJEfCwKpRP0",
+      "publishedAt": "2026-06-03T11:00:12Z",
+      "description": "Figma's AI agent is currently in beta and began rolling out to Figma Design users on May 20, 2026. Learn how to get access to the ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
-      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
-      "videoId": "JJS1d1bTMZM",
-      "publishedAt": "2026-05-25T17:00:28Z",
-      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
+      "title": "Why the Best AI Companies Blur Product and Research",
+      "url": "https://www.youtube.com/watch?v=6hm1Rc-4Xzc",
+      "videoId": "6hm1Rc-4Xzc",
+      "publishedAt": "2026-05-26T15:22:50Z",
+      "description": "Frontier AI labs fundamentally operate differently from traditional software companies."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
