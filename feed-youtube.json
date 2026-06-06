@@ -1,172 +1,100 @@
 {
-  "generatedAt": "2026-06-05T04:08:33.597Z",
+  "generatedAt": "2026-06-06T03:52:45.855Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
-      "url": "https://www.youtube.com/watch?v=fQmlML9Lay4",
-      "videoId": "fQmlML9Lay4",
-      "publishedAt": "2026-06-04T14:00:22Z",
-      "description": "In the first episode of our new series Full Stack, Conductor CEO and co-founder Charlie Holtz takes us into the details of how he ..."
+      "title": "We just launched Paxel!",
+      "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
+      "videoId": "ywS7Ytkx3A0",
+      "publishedAt": "2026-06-05T19:52:39Z",
+      "description": "Paxel is a free tool that helps you understand how you build with AI coding agents. It analyzes your Claude, Codex, and Cursor ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Inside YC&#39;s AI Playbook",
-      "url": "https://www.youtube.com/watch?v=B246K_G7mHU",
-      "videoId": "B246K_G7mHU",
-      "publishedAt": "2026-05-27T14:00:26Z",
-      "description": "Building superintelligence inside a company isn't about adding AI as a feature. It's about making it the operating system the whole ..."
+      "title": "How Legora Went From YC to $100M ARR in 18 Months",
+      "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
+      "videoId": "mjmswQurIU4",
+      "publishedAt": "2026-06-05T14:30:09Z",
+      "description": "Max Junestrand was a college student in Sweden with a McKinsey offer in his back pocket. Instead, he and two co-founders went ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
+      "videoId": "wE1ZgJdt4uM",
+      "publishedAt": "2026-05-28T20:37:13Z",
+      "description": "Even if you're a current PhD student, it's hard to keep up with the latest AI research. That's why we started YC Paper Club, a small ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "&quot;If you love what you do, they couldn&#39;t pay you to stop.&quot; | David Senra",
-      "url": "https://www.youtube.com/watch?v=IO49yUbVe3M",
-      "videoId": "IO49yUbVe3M",
-      "publishedAt": "2026-06-04T20:33:30Z",
-      "description": "David Senra on the difference between loving your work and actually loving your work. @founderspodcast1 #shorts #podcast ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "What David Senra Learned Studying 400+ Founders",
-      "url": "https://www.youtube.com/watch?v=xXsleu4-kd8",
-      "videoId": "xXsleu4-kd8",
-      "publishedAt": "2026-06-04T12:00:01Z",
-      "description": "David Senra has spent a decade reading the biographies of 400+ founders for his podcast Founders - and lately he's started ..."
+      "title": "The One Word That Defines Every Great Founder | David Senra",
+      "url": "https://www.youtube.com/watch?v=qqHRwtP6x3c",
+      "videoId": "qqHRwtP6x3c",
+      "publishedAt": "2026-06-05T15:00:05Z",
+      "description": "David Senra has studied hundreds of legendary founders. The common thread is one word — and one maxim."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Interdire ChatGPT ? L&#39;erreur fatale des grands groupes",
-      "url": "https://www.youtube.com/watch?v=BB-8bvwjH1Q",
-      "videoId": "BB-8bvwjH1Q",
-      "publishedAt": "2026-06-04T21:06:02Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "10 Years of Stripe France: How enterprises pivot in the age of AI",
-      "url": "https://www.youtube.com/watch?v=QkigrITFrSQ",
-      "videoId": "QkigrITFrSQ",
-      "publishedAt": "2026-06-04T06:30:09Z",
+      "title": "10 Years of Stripe France: The tech renaissance and what’s next",
+      "url": "https://www.youtube.com/watch?v=Jq-Rf0LsIq8",
+      "videoId": "Jq-Rf0LsIq8",
+      "publishedAt": "2026-05-28T06:30:31Z",
       "description": "Ten years ago, Stripe opened its first offices in France. A decade later, the French ecosystem has transformed: iconic companies ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Sam Altman in conversation with Patrick Collison",
-      "url": "https://www.youtube.com/watch?v=5eouRdDYM2c",
-      "videoId": "5eouRdDYM2c",
-      "publishedAt": "2026-05-19T21:51:41Z",
-      "description": "OpenAI cofounder and CEO Sam Altman joins Stripe CEO Patrick Collison for a fireside chat at Stripe Sessions. More information: ..."
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "The Config Makeathon is Now Live",
-      "url": "https://www.youtube.com/watch?v=_rNEbFUangE",
-      "videoId": "_rNEbFUangE",
-      "publishedAt": "2026-06-04T19:12:05Z",
-      "description": "Design matters now more than ever. The Config Makeathon starts now."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Now presenting... your Config 2026 agenda",
-      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
-      "videoId": "Rt6KkpaLCaQ",
-      "publishedAt": "2026-05-07T16:59:46Z",
-      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+      "title": "New capabilities coming to Figma Make",
+      "url": "https://www.youtube.com/watch?v=Vq6BWNryp5I",
+      "videoId": "Vq6BWNryp5I",
+      "publishedAt": "2026-05-28T20:22:14Z",
+      "description": "New capabilities coming to Figma Make (Rolling out now in our Beta desktop app) → Bring your codebase to Make → Edit code ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "videoId": "nepKKz-MzFM",
-      "publishedAt": "2026-05-06T22:03:16Z",
-      "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "videoId": "H9rF1CSSh-w",
-      "publishedAt": "2026-03-11T20:21:39Z",
-      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "videoId": "1SJiTwbSI58",
-      "publishedAt": "2026-03-01T03:37:44Z",
-      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Build your next story with Gemini Omni.",
-      "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
-      "videoId": "u3T_0HmNbHM",
-      "publishedAt": "2026-05-20T00:21:16Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Using AI to outsmart drug-resistant bacteria",
-      "url": "https://www.youtube.com/watch?v=Cnuj24PjWrQ",
-      "videoId": "Cnuj24PjWrQ",
-      "publishedAt": "2026-05-19T17:51:04Z",
-      "description": "Globally recognized as a silent pandemic, antimicrobial resistance continues to rise as bacteria outpace the development of new ..."
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "videoId": "KGVpKPNUdzA",
+      "publishedAt": "2026-02-25T22:36:32Z",
+      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
-      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
-      "videoId": "kPqH3ZSbVjo",
-      "publishedAt": "2026-06-04T15:00:33Z",
-      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
+      "title": "How Will AI Shift the Role of the Designer?",
+      "url": "https://www.youtube.com/watch?v=IGbT9F1Vb1E",
+      "videoId": "IGbT9F1Vb1E",
+      "publishedAt": "2026-06-05T15:53:40Z",
+      "description": "Aspects of design like craft, quality, and speed will be exponentially amplified."
     },
     {
       "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Future of Forward Deployed Engineering | OpenAI, Ramp, Nominal, Dataland",
+      "url": "https://www.youtube.com/watch?v=hWuoH-ODDNc",
+      "videoId": "hWuoH-ODDNc",
+      "publishedAt": "2026-05-28T14:00:20Z",
+      "description": "What is Forward Deployed Engineering (FDE) and why is it becoming one of the most critical roles in the AI era? In this panel ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 18
+    "youtubeVideos": 10
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
