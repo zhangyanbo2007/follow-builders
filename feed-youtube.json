@@ -1,100 +1,46 @@
 {
-  "generatedAt": "2026-06-06T03:52:45.855Z",
+  "generatedAt": "2026-06-07T04:18:42.119Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "We just launched Paxel!",
-      "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
-      "videoId": "ywS7Ytkx3A0",
-      "publishedAt": "2026-06-05T19:52:39Z",
-      "description": "Paxel is a free tool that helps you understand how you build with AI coding agents. It analyzes your Claude, Codex, and Cursor ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How Legora Went From YC to $100M ARR in 18 Months",
-      "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
-      "videoId": "mjmswQurIU4",
-      "publishedAt": "2026-06-05T14:30:09Z",
-      "description": "Max Junestrand was a college student in Sweden with a McKinsey offer in his back pocket. Instead, he and two co-founders went ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
-      "videoId": "wE1ZgJdt4uM",
-      "publishedAt": "2026-05-28T20:37:13Z",
-      "description": "Even if you're a current PhD student, it's hard to keep up with the latest AI research. That's why we started YC Paper Club, a small ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The One Word That Defines Every Great Founder | David Senra",
-      "url": "https://www.youtube.com/watch?v=qqHRwtP6x3c",
-      "videoId": "qqHRwtP6x3c",
-      "publishedAt": "2026-06-05T15:00:05Z",
-      "description": "David Senra has studied hundreds of legendary founders. The common thread is one word — and one maxim."
+      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
+      "videoId": "yyXCQHX55N4",
+      "publishedAt": "2026-06-06T12:30:10Z",
+      "description": "Mukund Jha is the co-founder and CEO of Emergent, a platform that lets anyone without programming knowledge build, ship, and ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "10 Years of Stripe France: The tech renaissance and what’s next",
-      "url": "https://www.youtube.com/watch?v=Jq-Rf0LsIq8",
-      "videoId": "Jq-Rf0LsIq8",
-      "publishedAt": "2026-05-28T06:30:31Z",
-      "description": "Ten years ago, Stripe opened its first offices in France. A decade later, the French ecosystem has transformed: iconic companies ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "New capabilities coming to Figma Make",
-      "url": "https://www.youtube.com/watch?v=Vq6BWNryp5I",
-      "videoId": "Vq6BWNryp5I",
-      "publishedAt": "2026-05-28T20:22:14Z",
-      "description": "New capabilities coming to Figma Make (Rolling out now in our Beta desktop app) → Bring your codebase to Make → Edit code ..."
+      "title": "On a dit &quot;NON&quot; à Pinterest pour Stripe",
+      "url": "https://www.youtube.com/watch?v=gIC_tOVImSQ",
+      "videoId": "gIC_tOVImSQ",
+      "publishedAt": "2026-06-05T14:09:25Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "videoId": "KGVpKPNUdzA",
-      "publishedAt": "2026-02-25T22:36:32Z",
-      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "videoId": "1M3Vdl6DRkU",
+      "publishedAt": "2026-05-29T16:18:31Z",
+      "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. Thank you ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How Will AI Shift the Role of the Designer?",
-      "url": "https://www.youtube.com/watch?v=IGbT9F1Vb1E",
-      "videoId": "IGbT9F1Vb1E",
-      "publishedAt": "2026-06-05T15:53:40Z",
-      "description": "Aspects of design like craft, quality, and speed will be exponentially amplified."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Forward Deployed Engineering | OpenAI, Ramp, Nominal, Dataland",
-      "url": "https://www.youtube.com/watch?v=hWuoH-ODDNc",
-      "videoId": "hWuoH-ODDNc",
-      "publishedAt": "2026-05-28T14:00:20Z",
-      "description": "What is Forward Deployed Engineering (FDE) and why is it becoming one of the most critical roles in the AI era? In this panel ..."
+      "channel": "Google DeepMind",
+      "title": "Gemini 3.5 Flash has landed.",
+      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
+      "videoId": "R6mM0m3IZWY",
+      "publishedAt": "2026-05-20T20:10:43Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
