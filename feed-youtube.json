@@ -1,46 +1,9 @@
 {
-  "generatedAt": "2026-06-07T04:18:42.119Z",
+  "generatedAt": "2026-06-08T04:23:09.412Z",
   "lookbackHours": 336,
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
-      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
-      "videoId": "yyXCQHX55N4",
-      "publishedAt": "2026-06-06T12:30:10Z",
-      "description": "Mukund Jha is the co-founder and CEO of Emergent, a platform that lets anyone without programming knowledge build, ship, and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "On a dit &quot;NON&quot; à Pinterest pour Stripe",
-      "url": "https://www.youtube.com/watch?v=gIC_tOVImSQ",
-      "videoId": "gIC_tOVImSQ",
-      "publishedAt": "2026-06-05T14:09:25Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "videoId": "1M3Vdl6DRkU",
-      "publishedAt": "2026-05-29T16:18:31Z",
-      "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. Thank you ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini 3.5 Flash has landed.",
-      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
-      "videoId": "R6mM0m3IZWY",
-      "publishedAt": "2026-05-20T20:10:43Z",
-      "description": ""
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 0
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
