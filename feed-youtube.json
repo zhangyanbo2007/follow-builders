@@ -1,64 +1,73 @@
 {
-  "generatedAt": "2026-06-09T03:54:32.325Z",
+  "generatedAt": "2026-06-10T04:05:51.524Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Startup School is back!",
-      "url": "https://www.youtube.com/watch?v=qr6kVSKqBqo",
-      "videoId": "qr6kVSKqBqo",
-      "publishedAt": "2026-06-08T22:21:00Z",
-      "description": "Two days, packed with world-class speakers, hands-on demos, small group sessions with YC partners, and a room full of the most ..."
-    },
-    {
-      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "A Career Strategy in 2 Sentences | David Senra",
-      "url": "https://www.youtube.com/watch?v=ohbVFnVJ4cI",
-      "videoId": "ohbVFnVJ4cI",
-      "publishedAt": "2026-06-08T15:00:14Z",
-      "description": "David Senra on the simplest, truest career advice I've heard in years. #ceo #entrepreneur #founder #careeradvice."
+      "title": "Why Rick Rubin is So Good | David Senra",
+      "url": "https://www.youtube.com/watch?v=tSz6DX6ioL8",
+      "videoId": "tSz6DX6ioL8",
+      "publishedAt": "2026-06-09T15:15:06Z",
+      "description": "David Senra on the one skill that makes Rick Rubin a generational talent. #shorts #podcast #ceo #founder #startup."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Bringing world-class payments to UK small businesses",
+      "url": "https://www.youtube.com/watch?v=dOL8fsLkg5g",
+      "videoId": "dOL8fsLkg5g",
+      "publishedAt": "2026-06-09T07:30:28Z",
+      "description": "PH247 founder Louchavan Lemard was spending more time chasing invoices than running his business. He told us about what ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Le monde d&#39;avant n&#39;existe plus",
+      "url": "https://www.youtube.com/watch?v=FKUovq3UT7w",
+      "videoId": "FKUovq3UT7w",
+      "publishedAt": "2026-06-09T06:30:26Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Agents, meet the Figma canvas",
-      "url": "https://www.youtube.com/watch?v=vQMeJMgxRQY",
-      "videoId": "vQMeJMgxRQY",
-      "publishedAt": "2026-03-24T14:08:58Z",
-      "description": "Starting today in open beta, you can use AI agents to design directly on the Figma canvas. And with skills, you can guide agents ..."
+      "title": "Get your laptops and popcorn ready, Config is almost here.",
+      "url": "https://www.youtube.com/watch?v=FKOTGOgXQoU",
+      "videoId": "FKOTGOgXQoU",
+      "publishedAt": "2026-06-09T20:20:30Z",
+      "description": "Register for virtual here: figma.bot/Config26Virtual. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Why Design, Strategy, and Technology Are Inseparable",
-      "url": "https://www.youtube.com/watch?v=1wrDEwybqtU",
-      "videoId": "1wrDEwybqtU",
-      "publishedAt": "2026-02-03T12:00:05Z",
-      "description": "Design strategy spans business intent and execution, but it's rarely taught or practiced that way. In this episode of FigBrew, ..."
+      "title": "When all your marketer wants is your approval.",
+      "url": "https://www.youtube.com/watch?v=ZoITGy8A3F0",
+      "videoId": "ZoITGy8A3F0",
+      "publishedAt": "2026-04-02T17:02:53Z",
+      "description": "Figma Buzz now has Approvals, so you don't have to keep spiraling outside the file. Rolling out today. Find us on ⬇️ X (formerly ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "videoId": "YFjfBk8HI5o",
-      "publishedAt": "2026-02-12T03:07:03Z",
-      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub ..."
+      "channel": "Google DeepMind",
+      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+      "videoId": "EF1BFaNZN9U",
+      "publishedAt": "2026-05-22T16:09:49Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Starting a Company Shouldn&#39;t Be Your First Choice",
-      "url": "https://www.youtube.com/watch?v=7Ns-TuP3Kgs",
-      "videoId": "7Ns-TuP3Kgs",
-      "publishedAt": "2026-06-08T14:27:32Z",
-      "description": "Thinking about founding a startup? Starting a company shouldn't be your first choice. It should be your last resort."
+      "title": "Figma&#39;s Product Strategy: Moving Slow to Ship Fast",
+      "url": "https://www.youtube.com/watch?v=jyNwTi5ZcNI",
+      "videoId": "jyNwTi5ZcNI",
+      "publishedAt": "2026-06-09T14:57:55Z",
+      "description": "What powered Figma's early product velocity?"
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
