@@ -1,91 +1,82 @@
 {
-  "generatedAt": "2026-06-11T04:19:16.265Z",
+  "generatedAt": "2026-06-12T04:21:43.276Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The CEO Must Be the Chief AI Officer",
-      "url": "https://www.youtube.com/watch?v=mPAHvz8kW24",
-      "videoId": "mPAHvz8kW24",
-      "publishedAt": "2026-06-10T14:30:40Z",
-      "description": "Brex co-founder and CEO Pedro Franceschi believes most people still underestimate how much AI will change the way ..."
+      "title": "How Meesho Became India’s Biggest Shopping App",
+      "url": "https://www.youtube.com/watch?v=49L8lVe_PVo",
+      "videoId": "49L8lVe_PVo",
+      "publishedAt": "2026-06-11T12:30:23Z",
+      "description": "Vidit Aatrey is the co-founder and CEO of Meesho (S16), an e-commerce platform built for mass-market India that has grown to ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "The Only Thing David Senra Would Look For in a Founder",
-      "url": "https://www.youtube.com/watch?v=NLfRDp2BpM4",
-      "videoId": "NLfRDp2BpM4",
-      "publishedAt": "2026-06-10T15:45:35Z",
-      "description": "David Senra on what he'd actually look for if he ever became a VC. The bar is brutal. #shorts #ceo #founder #startup #vc."
+      "title": "The Best Advice Steve Jobs Ever Got | David Senra",
+      "url": "https://www.youtube.com/watch?v=NVXT5hgWjZY",
+      "videoId": "NVXT5hgWjZY",
+      "publishedAt": "2026-06-11T15:30:05Z",
+      "description": "David Senra on the line from Atari founder Nolan Bushnell that shaped Steve Jobs from day one. #founder #entrepreneur #startup ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "NVIDIA&#39;s Jensen Huang on Building the Dynamo of the Intelligence Age",
-      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
-      "videoId": "2UpQbeAZuqA",
-      "publishedAt": "2026-06-10T12:00:18Z",
-      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
+      "title": "You may not lose a job to an AI, but you&#39;ll lose one to someone who uses it - NVIDIA&#39;s Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=PZVJ0LV_pKE",
+      "videoId": "PZVJ0LV_pKE",
+      "publishedAt": "2026-06-11T14:00:21Z",
+      "description": "Jensen Huang describes the five-layer cake of AI investment—energy, chips, infrastructure, models, applications—and dismantles ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Barney Hussey-Yeo in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=70kWqOOWlAA",
-      "videoId": "70kWqOOWlAA",
-      "publishedAt": "2026-06-10T18:25:52Z",
-      "description": "Cleo founder and CEO Barney Hussey-Yeo joins Stripe CEO John Collison for a fireside chat at Tour London. Register for Stripe ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "L’impact inattendu de ChatGPT sur les abonnements du Monde",
-      "url": "https://www.youtube.com/watch?v=dEVF0b5gbms",
-      "videoId": "dEVF0b5gbms",
-      "publishedAt": "2026-06-10T17:01:01Z",
-      "description": ""
+      "channel": "Sequoia AI Ascent",
+      "title": "Google DeepMind&#39;s Logan Kilpatrick: Why the Model Eats the Harness",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "videoId": "cMAs8z2dehs",
+      "publishedAt": "2026-06-11T12:00:05Z",
+      "description": "The entire startup ecosystem is racing to build agent harnesses. Logan Kilpatrick, who leads Google AI Studio and the Gemini API ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Rethinking my components with slots | Show your work",
-      "url": "https://www.youtube.com/watch?v=js4_OLbDOg8",
-      "videoId": "js4_OLbDOg8",
-      "publishedAt": "2026-06-10T14:14:52Z",
-      "description": "Want to know how designers at Figma are using slots? Learn how Figma Education Designer, Rachel Platt is using slots in her ..."
+      "title": "Getting Started with Custom Skills | ft. Amy Lima &amp; TJ Pitre",
+      "url": "https://www.youtube.com/watch?v=Loh5zZPHXVk",
+      "videoId": "Loh5zZPHXVk",
+      "publishedAt": "2026-06-11T11:00:33Z",
+      "description": "Learn how to use custom skills with Figma's native MCP to streamline your design workflows. Designer advocate Amy Lima and ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "🇯🇵 Made with  Figma Make  クリエイターが語る制作のプロセス",
-      "url": "https://www.youtube.com/watch?v=OK79uXKKvI0",
-      "videoId": "OK79uXKKvI0",
-      "publishedAt": "2025-12-21T22:00:34Z",
-      "description": "11月上旬にFigma Makeのブランドキャンペーンの一環として、渋谷スクランブル交差点のビルボード広告にてクリエイター ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "New to variable width stroke | Figma",
-      "url": "https://www.youtube.com/watch?v=rAlNWzpGiiE",
-      "videoId": "rAlNWzpGiiE",
-      "publishedAt": "2025-07-29T18:44:32Z",
-      "description": "New to variable width stroke: → Direct editing width inputs → Keyboard controls: tabbing → Custom width profile previews ..."
+      "title": "What’s new with Check Designs, with product manager, Tara Nadella",
+      "url": "https://www.youtube.com/watch?v=myfW_x3nOLU",
+      "videoId": "myfW_x3nOLU",
+      "publishedAt": "2026-06-10T16:13:47Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+      "title": "Building a Giant Space Gun",
+      "url": "https://www.youtube.com/watch?v=9-ijbbFoFcU",
+      "videoId": "9-ijbbFoFcU",
+      "publishedAt": "2026-06-11T16:13:41Z",
+      "description": "Could a 15km space gun actually work? Longshot Space is setting out to find out."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Next SpaceX is… This Giant Space Cannon?",
+      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
+      "videoId": "2efJqrK5DKQ",
+      "publishedAt": "2026-06-11T14:00:36Z",
+      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
