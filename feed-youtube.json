@@ -1,82 +1,127 @@
 {
-  "generatedAt": "2026-06-12T04:21:43.276Z",
+  "generatedAt": "2026-06-13T04:10:33.010Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "How Meesho Became India’s Biggest Shopping App",
-      "url": "https://www.youtube.com/watch?v=49L8lVe_PVo",
-      "videoId": "49L8lVe_PVo",
-      "publishedAt": "2026-06-11T12:30:23Z",
-      "description": "Vidit Aatrey is the co-founder and CEO of Meesho (S16), an e-commerce platform built for mass-market India that has grown to ..."
+      "title": "5 Papers That Show Where AI Research Is Heading Right Now",
+      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
+      "videoId": "3rWSvrFahIY",
+      "publishedAt": "2026-06-12T14:00:20Z",
+      "description": "It's hard to keep up with the latest AI research. That's why we started YC Paper Club — a small group of researchers, engineers, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "The Best Advice Steve Jobs Ever Got | David Senra",
-      "url": "https://www.youtube.com/watch?v=NVXT5hgWjZY",
-      "videoId": "NVXT5hgWjZY",
-      "publishedAt": "2026-06-11T15:30:05Z",
-      "description": "David Senra on the line from Atari founder Nolan Bushnell that shaped Steve Jobs from day one. #founder #entrepreneur #startup ..."
+      "title": "NVIDIA&#39;s Jensen Huang - A Layer of Computing That Cocoons the World",
+      "url": "https://www.youtube.com/watch?v=mmz_vr2jZUY",
+      "videoId": "mmz_vr2jZUY",
+      "publishedAt": "2026-06-12T15:30:22Z",
+      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "You may not lose a job to an AI, but you&#39;ll lose one to someone who uses it - NVIDIA&#39;s Jensen Huang",
-      "url": "https://www.youtube.com/watch?v=PZVJ0LV_pKE",
-      "videoId": "PZVJ0LV_pKE",
-      "publishedAt": "2026-06-11T14:00:21Z",
-      "description": "Jensen Huang describes the five-layer cake of AI investment—energy, chips, infrastructure, models, applications—and dismantles ..."
+      "title": "David Senra&#39;s Take on San Francisco Founders",
+      "url": "https://www.youtube.com/watch?v=-MIl1H67yiw",
+      "videoId": "-MIl1H67yiw",
+      "publishedAt": "2026-06-12T14:30:36Z",
+      "description": "David Senra on what he actually sees when he drops into the Bay Area founder scene. #sfbayarea #founders #vc #startup."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Google DeepMind&#39;s Logan Kilpatrick: Why the Model Eats the Harness",
-      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
-      "videoId": "cMAs8z2dehs",
-      "publishedAt": "2026-06-11T12:00:05Z",
-      "description": "The entire startup ecosystem is racing to build agent harnesses. Logan Kilpatrick, who leads Google AI Studio and the Gemini API ..."
+      "channel": "Stripe Sessions",
+      "title": "Privy Founder Henri Stern on why stablecoins only matter if they deliver real user value",
+      "url": "https://www.youtube.com/watch?v=Xpn8Lo7BJWw",
+      "videoId": "Xpn8Lo7BJWw",
+      "publishedAt": "2026-06-12T15:17:58Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Getting Started with Custom Skills | ft. Amy Lima &amp; TJ Pitre",
-      "url": "https://www.youtube.com/watch?v=Loh5zZPHXVk",
-      "videoId": "Loh5zZPHXVk",
-      "publishedAt": "2026-06-11T11:00:33Z",
-      "description": "Learn how to use custom skills with Figma's native MCP to streamline your design workflows. Designer advocate Amy Lima and ..."
+      "title": "How to use Figma agent in your design workflows",
+      "url": "https://www.youtube.com/watch?v=PJEfCwKpRP0",
+      "videoId": "PJEfCwKpRP0",
+      "publishedAt": "2026-06-03T11:00:12Z",
+      "description": "Figma's AI agent is currently in beta and began rolling out to Figma Design users on May 20, 2026. Learn how to get access to the ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "What’s new with Check Designs, with product manager, Tara Nadella",
-      "url": "https://www.youtube.com/watch?v=myfW_x3nOLU",
-      "videoId": "myfW_x3nOLU",
-      "publishedAt": "2026-06-10T16:13:47Z",
-      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
+      "title": "Now presenting... your Config 2026 agenda",
+      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
+      "videoId": "Rt6KkpaLCaQ",
+      "publishedAt": "2026-05-07T16:59:46Z",
+      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Build your next story with Gemini Omni.",
+      "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
+      "videoId": "u3T_0HmNbHM",
+      "publishedAt": "2026-05-20T00:21:16Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Using AI to outsmart drug-resistant bacteria",
+      "url": "https://www.youtube.com/watch?v=Cnuj24PjWrQ",
+      "videoId": "Cnuj24PjWrQ",
+      "publishedAt": "2026-05-19T17:51:04Z",
+      "description": "Globally recognized as a silent pandemic, antimicrobial resistance continues to rise as bacteria outpace the development of new ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Building a Giant Space Gun",
-      "url": "https://www.youtube.com/watch?v=9-ijbbFoFcU",
-      "videoId": "9-ijbbFoFcU",
-      "publishedAt": "2026-06-11T16:13:41Z",
-      "description": "Could a 15km space gun actually work? Longshot Space is setting out to find out."
+      "title": "How the SR-71 Was Actually Built",
+      "url": "https://www.youtube.com/watch?v=9NyOH4fdAmY",
+      "videoId": "9NyOH4fdAmY",
+      "publishedAt": "2026-06-12T13:49:46Z",
+      "description": "It wasn't an army or backed by billions of dollars..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Next SpaceX is… This Giant Space Cannon?",
-      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
-      "videoId": "2efJqrK5DKQ",
-      "publishedAt": "2026-06-11T14:00:36Z",
-      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 13
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
