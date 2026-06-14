@@ -1,127 +1,46 @@
 {
-  "generatedAt": "2026-06-13T04:10:33.010Z",
+  "generatedAt": "2026-06-14T04:26:59.423Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "5 Papers That Show Where AI Research Is Heading Right Now",
-      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
-      "videoId": "3rWSvrFahIY",
-      "publishedAt": "2026-06-12T14:00:20Z",
-      "description": "It's hard to keep up with the latest AI research. That's why we started YC Paper Club — a small group of researchers, engineers, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "NVIDIA&#39;s Jensen Huang - A Layer of Computing That Cocoons the World",
-      "url": "https://www.youtube.com/watch?v=mmz_vr2jZUY",
-      "videoId": "mmz_vr2jZUY",
-      "publishedAt": "2026-06-12T15:30:22Z",
-      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "David Senra&#39;s Take on San Francisco Founders",
-      "url": "https://www.youtube.com/watch?v=-MIl1H67yiw",
-      "videoId": "-MIl1H67yiw",
-      "publishedAt": "2026-06-12T14:30:36Z",
-      "description": "David Senra on what he actually sees when he drops into the Bay Area founder scene. #sfbayarea #founders #vc #startup."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Privy Founder Henri Stern on why stablecoins only matter if they deliver real user value",
-      "url": "https://www.youtube.com/watch?v=Xpn8Lo7BJWw",
-      "videoId": "Xpn8Lo7BJWw",
-      "publishedAt": "2026-06-12T15:17:58Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "How to use Figma agent in your design workflows",
-      "url": "https://www.youtube.com/watch?v=PJEfCwKpRP0",
-      "videoId": "PJEfCwKpRP0",
-      "publishedAt": "2026-06-03T11:00:12Z",
-      "description": "Figma's AI agent is currently in beta and began rolling out to Figma Design users on May 20, 2026. Learn how to get access to the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Now presenting... your Config 2026 agenda",
-      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
-      "videoId": "Rt6KkpaLCaQ",
-      "publishedAt": "2026-05-07T16:59:46Z",
-      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+      "title": "We just launched Paxel!",
+      "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
+      "videoId": "ywS7Ytkx3A0",
+      "publishedAt": "2026-06-05T19:52:39Z",
+      "description": "Paxel is a free tool that helps you understand how you build with AI coding agents. It analyzes your Claude, Codex, and Cursor ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "videoId": "1SJiTwbSI58",
+      "publishedAt": "2026-03-01T03:37:44Z",
+      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Build your next story with Gemini Omni.",
-      "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
-      "videoId": "u3T_0HmNbHM",
-      "publishedAt": "2026-05-20T00:21:16Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Using AI to outsmart drug-resistant bacteria",
-      "url": "https://www.youtube.com/watch?v=Cnuj24PjWrQ",
-      "videoId": "Cnuj24PjWrQ",
-      "publishedAt": "2026-05-19T17:51:04Z",
-      "description": "Globally recognized as a silent pandemic, antimicrobial resistance continues to rise as bacteria outpace the development of new ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How the SR-71 Was Actually Built",
-      "url": "https://www.youtube.com/watch?v=9NyOH4fdAmY",
-      "videoId": "9NyOH4fdAmY",
-      "publishedAt": "2026-06-12T13:49:46Z",
-      "description": "It wasn't an army or backed by billions of dollars..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "channel": "Lex Fridman",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "videoId": "KGVpKPNUdzA",
+      "publishedAt": "2026-02-25T22:36:32Z",
+      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 13
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
