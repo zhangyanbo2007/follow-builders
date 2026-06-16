@@ -1,28 +1,55 @@
 {
-  "generatedAt": "2026-06-15T04:50:43.534Z",
+  "generatedAt": "2026-06-16T04:48:12.414Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
-      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
-      "videoId": "yyXCQHX55N4",
-      "publishedAt": "2026-06-06T12:30:10Z",
-      "description": "Mukund Jha is the co-founder and CEO of Emergent, a platform that lets anyone without programming knowledge build, ship, and ..."
+      "title": "Groww: If Your Customers Don&#39;t Love It or Hate It, You&#39;ve Already Lost",
+      "url": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
+      "videoId": "ObBAxL2dFzw",
+      "publishedAt": "2026-06-15T12:30:28Z",
+      "description": "Lalit Keshre is the co-founder and CEO of Groww (W18), India's largest retail investment platform, offering stocks, mutual funds, ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini 3.5 Flash has landed.",
-      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
-      "videoId": "R6mM0m3IZWY",
-      "publishedAt": "2026-05-20T20:10:43Z",
-      "description": ""
+      "channel": "Sequoia AI Ascent",
+      "title": "Google&#39;s agentic shift | Logan Kilpatrick",
+      "url": "https://www.youtube.com/watch?v=cHgLKBR6kLw",
+      "videoId": "cHgLKBR6kLw",
+      "publishedAt": "2026-06-15T20:05:48Z",
+      "description": "Logan Kilpatrick of Google AI Studio on how Google went from ~50 disconnected products, to Gemini as the throughline, to the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "NVIDIA&#39;s Jensen Huang - Because it&#39;s able to do work, AI is valuable.",
+      "url": "https://www.youtube.com/watch?v=fRIJbI8O2Ik",
+      "videoId": "fRIJbI8O2Ik",
+      "publishedAt": "2026-06-15T14:00:07Z",
+      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma for Edu: Resizing with Auto layout and Grid in Figma",
+      "url": "https://www.youtube.com/watch?v=iEjKZWxN56w",
+      "videoId": "iEjKZWxN56w",
+      "publishedAt": "2026-03-30T19:36:17Z",
+      "description": "Get the workshop file here: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Raising Money for a Space Gun",
+      "url": "https://www.youtube.com/watch?v=OzEgx2j6Vsw",
+      "videoId": "OzEgx2j6Vsw",
+      "publishedAt": "2026-06-15T13:41:27Z",
+      "description": "You have to be willing to get kicked in the teeth."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
