@@ -1,73 +1,55 @@
 {
-  "generatedAt": "2026-06-17T04:28:03.633Z",
+  "generatedAt": "2026-06-18T04:21:31.050Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "AI is Not Mysterious - NVIDIA&#39;s Jensen Huang",
-      "url": "https://www.youtube.com/watch?v=KDVgWX5_eqE",
-      "videoId": "KDVgWX5_eqE",
-      "publishedAt": "2026-06-16T14:00:02Z",
-      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
+      "channel": "YC Startup School",
+      "title": "How To Pick A Startup Idea",
+      "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
+      "videoId": "R56RJFZBasQ",
+      "publishedAt": "2026-06-17T14:00:15Z",
+      "description": "Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Simulating Humans at Scale: Simile&#39;s Joon Sung Park",
-      "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
-      "videoId": "lfhFmwcESRw",
-      "publishedAt": "2026-06-16T12:00:11Z",
-      "description": "The race to build superintelligence is producing models that keep getting better at objective problems, but not at behaving like ..."
+      "title": "AI didn&#39;t just make him faster. It made him more ambitious. | Google DeepMind&#39;s Logan Kilpatrick",
+      "url": "https://www.youtube.com/watch?v=2RAYJNE467U",
+      "videoId": "2RAYJNE467U",
+      "publishedAt": "2026-06-17T16:30:00Z",
+      "description": "Copy: The old question was whether an idea was even possible. Logan Kilpatrick on how AI flips that, and why the hard part ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
-      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
-      "videoId": "pX-AdubYXgk",
-      "publishedAt": "2026-06-17T01:24:33Z",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Alan cofounder and CTO Charles Gorintin",
-      "url": "https://www.youtube.com/watch?v=WkktooN6s-w",
-      "videoId": "WkktooN6s-w",
-      "publishedAt": "2026-06-16T17:44:45Z",
-      "description": "Alan cofounder and CTO joins Stripe French country lead Laurent Curny for a fireside chat at Tour Paris. Register for Stripe Tour ..."
-    },
-    {
-      "source": "youtube",
       "channel": "Figma Config",
-      "title": "Translating between design and production with Code Connect | Dev Mindset",
-      "url": "https://www.youtube.com/watch?v=t_-NZeJqoDQ",
-      "videoId": "t_-NZeJqoDQ",
-      "publishedAt": "2026-06-16T11:00:29Z",
-      "description": "Join Developer Advocate, Jake Albaugh, in his void where he'll teach you how to solve all types of dev problems. In this episode ..."
+      "title": "When all your marketer wants is your approval.",
+      "url": "https://www.youtube.com/watch?v=ZoITGy8A3F0",
+      "videoId": "ZoITGy8A3F0",
+      "publishedAt": "2026-04-02T17:02:53Z",
+      "description": "Figma Buzz now has Approvals, so you don't have to keep spiraling outside the file. Rolling out today. Find us on ⬇️ X (formerly ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Agents, meet the Figma canvas",
-      "url": "https://www.youtube.com/watch?v=vQMeJMgxRQY",
-      "videoId": "vQMeJMgxRQY",
-      "publishedAt": "2026-03-24T14:08:58Z",
-      "description": "Starting today in open beta, you can use AI agents to design directly on the Figma canvas. And with skills, you can guide agents ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "videoId": "YFjfBk8HI5o",
-      "publishedAt": "2026-02-12T03:07:03Z",
-      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub ..."
+      "channel": "Google DeepMind",
+      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+      "videoId": "EF1BFaNZN9U",
+      "publishedAt": "2026-05-22T16:09:49Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
