@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-06-18T04:21:31.050Z",
+  "generatedAt": "2026-06-19T04:49:29.157Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "How To Pick A Startup Idea",
-      "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
-      "videoId": "R56RJFZBasQ",
-      "publishedAt": "2026-06-17T14:00:15Z",
-      "description": "Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract."
+      "title": "The Most AI-Pilled CEO We Know",
+      "url": "https://www.youtube.com/watch?v=mPAHvz8kW24",
+      "videoId": "mPAHvz8kW24",
+      "publishedAt": "2026-06-10T14:30:40Z",
+      "description": "Brex co-founder and CEO Pedro Franceschi believes most people still underestimate how much AI will change the way ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "AI didn&#39;t just make him faster. It made him more ambitious. | Google DeepMind&#39;s Logan Kilpatrick",
-      "url": "https://www.youtube.com/watch?v=2RAYJNE467U",
-      "videoId": "2RAYJNE467U",
-      "publishedAt": "2026-06-17T16:30:00Z",
-      "description": "Copy: The old question was whether an idea was even possible. Logan Kilpatrick on how AI flips that, and why the hard part ..."
+      "title": "&quot;So much alpha in authenticity&quot; | Google DeepMind&#39;s Logan Kilpatrick on using AI",
+      "url": "https://www.youtube.com/watch?v=_welKoBsqAU",
+      "videoId": "_welKoBsqAU",
+      "publishedAt": "2026-06-18T17:00:38Z",
+      "description": "Logan Kilpatrick of Google AI Studio on why he makes all his own content, and the version of gen media worth building toward: ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
-      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
-      "videoId": "vV6uCBbCyNE",
-      "publishedAt": "2026-06-17T19:30:32Z",
+      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
+      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
+      "videoId": "GaxHXrskngs",
+      "publishedAt": "2026-06-18T21:18:11Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "When all your marketer wants is your approval.",
-      "url": "https://www.youtube.com/watch?v=ZoITGy8A3F0",
-      "videoId": "ZoITGy8A3F0",
-      "publishedAt": "2026-04-02T17:02:53Z",
-      "description": "Figma Buzz now has Approvals, so you don't have to keep spiraling outside the file. Rolling out today. Find us on ⬇️ X (formerly ..."
+      "title": "Rethinking my components with slots | Show your work",
+      "url": "https://www.youtube.com/watch?v=js4_OLbDOg8",
+      "videoId": "js4_OLbDOg8",
+      "publishedAt": "2026-06-10T14:14:52Z",
+      "description": "Want to know how designers at Figma are using slots? Learn how Figma Education Designer, Rachel Platt is using slots in her ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
-      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
-      "videoId": "EF1BFaNZN9U",
-      "publishedAt": "2026-05-22T16:09:49Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
+      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
+      "videoId": "diUbB9joiZU",
+      "publishedAt": "2026-06-10T16:54:02Z",
+      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
     }
   ],
   "stats": {
