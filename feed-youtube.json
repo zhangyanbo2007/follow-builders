@@ -1,46 +1,9 @@
 {
-  "generatedAt": "2026-06-20T04:03:39.414Z",
+  "generatedAt": "2026-06-21T04:45:19.398Z",
   "lookbackHours": 336,
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
-      "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
-      "videoId": "8OOuCnZB-4o",
-      "publishedAt": "2026-06-19T14:00:26Z",
-      "description": "Bryant Chou co-founded Webflow, which today powers around 1% of all websites on the internet. Now he's back in the current YC ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How Meesho Became India’s Biggest Shopping App",
-      "url": "https://www.youtube.com/watch?v=49L8lVe_PVo",
-      "videoId": "49L8lVe_PVo",
-      "publishedAt": "2026-06-11T12:30:23Z",
-      "description": "Vidit Aatrey is the co-founder and CEO of Meesho (S16), an e-commerce platform built for mass-market India that has grown to ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Building a Giant Space Gun",
-      "url": "https://www.youtube.com/watch?v=9-ijbbFoFcU",
-      "videoId": "9-ijbbFoFcU",
-      "publishedAt": "2026-06-11T16:13:41Z",
-      "description": "Could a 15km space gun actually work? Longshot Space is setting out to find out."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Next SpaceX is a Giant Space Cannon",
-      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
-      "videoId": "2efJqrK5DKQ",
-      "publishedAt": "2026-06-11T14:00:36Z",
-      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 0
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
