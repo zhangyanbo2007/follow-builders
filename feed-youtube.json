@@ -1,127 +1,73 @@
 {
-  "generatedAt": "2026-06-22T04:51:22.423Z",
+  "generatedAt": "2026-06-23T03:55:11.823Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
-      "videoId": "3rWSvrFahIY",
-      "publishedAt": "2026-06-12T14:00:20Z",
-      "description": "It's hard to keep up with the latest AI research. That's why we started YC Paper Club — a small group of researchers, engineers, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Privy Founder Henri Stern on why stablecoins only matter if they deliver real user value",
-      "url": "https://www.youtube.com/watch?v=Xpn8Lo7BJWw",
-      "videoId": "Xpn8Lo7BJWw",
-      "publishedAt": "2026-06-12T15:17:58Z",
-      "description": ""
+      "title": "How to Get Your First 10 Customers",
+      "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
+      "videoId": "_FBivfgOvuE",
+      "publishedAt": "2026-06-22T16:54:40Z",
+      "description": "When most founders look for customers, they reach for cold email and automation tools. But your first 10 customers almost never ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Now presenting... your Config 2026 agenda",
-      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
-      "videoId": "Rt6KkpaLCaQ",
-      "publishedAt": "2026-05-07T16:59:46Z",
-      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Why Design, Strategy, and Technology Are Inseparable",
-      "url": "https://www.youtube.com/watch?v=1wrDEwybqtU",
-      "videoId": "1wrDEwybqtU",
-      "publishedAt": "2026-02-03T12:00:05Z",
-      "description": "Design strategy spans business intent and execution, but it's rarely taught or practiced that way. In this episode of FigBrew, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "videoId": "H9rF1CSSh-w",
-      "publishedAt": "2026-03-11T20:21:39Z",
-      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "videoId": "1SJiTwbSI58",
-      "publishedAt": "2026-03-01T03:37:44Z",
-      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "videoId": "KGVpKPNUdzA",
-      "publishedAt": "2026-02-25T22:36:32Z",
-      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+      "title": "How’d we do (supportive comments only)",
+      "url": "https://www.youtube.com/watch?v=9HWZFGGhszE",
+      "videoId": "9HWZFGGhszE",
+      "publishedAt": "2026-06-22T17:40:59Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
+      "title": "Gemini 3.5 Flash has landed.",
+      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
+      "videoId": "R6mM0m3IZWY",
+      "publishedAt": "2026-05-20T20:10:43Z",
       "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Build your next story with Gemini Omni.",
-      "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
-      "videoId": "u3T_0HmNbHM",
-      "publishedAt": "2026-05-20T00:21:16Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Using AI to outsmart drug-resistant bacteria",
-      "url": "https://www.youtube.com/watch?v=Cnuj24PjWrQ",
-      "videoId": "Cnuj24PjWrQ",
-      "publishedAt": "2026-05-19T17:51:04Z",
-      "description": "Globally recognized as a silent pandemic, antimicrobial resistance continues to rise as bacteria outpace the development of new ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "How the SR-71 Was Actually Built",
-      "url": "https://www.youtube.com/watch?v=9NyOH4fdAmY",
-      "videoId": "9NyOH4fdAmY",
-      "publishedAt": "2026-06-12T13:49:46Z",
-      "description": "It wasn't an army or backed by billions of dollars..."
+      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
+      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
+      "videoId": "kPqH3ZSbVjo",
+      "publishedAt": "2026-06-04T15:00:33Z",
+      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
     },
     {
       "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
+      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
+      "videoId": "JJS1d1bTMZM",
+      "publishedAt": "2026-05-25T17:00:28Z",
+      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Nikesh Arora: Why ChatGPT Won",
+      "url": "https://www.youtube.com/watch?v=MRvCQJCisFo",
+      "videoId": "MRvCQJCisFo",
+      "publishedAt": "2026-05-17T18:25:28Z",
+      "description": "Everyone had the tech behind ChatGPT. No one thought it was a real product."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Nikesh Arora: The Real Reason Tech Companies Become Irrelevant",
+      "url": "https://www.youtube.com/watch?v=oHqclbTbFuw",
+      "videoId": "oHqclbTbFuw",
+      "publishedAt": "2026-05-01T15:45:32Z",
+      "description": "The best way to kill a company? Stop focusing on the product."
     }
   ],
   "stats": {
-    "youtubeVideos": 13
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
