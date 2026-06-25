@@ -1,37 +1,64 @@
 {
-  "generatedAt": "2026-06-24T03:56:43.695Z",
+  "generatedAt": "2026-06-25T03:57:31.533Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The Config Makeathon Winners",
-      "url": "https://www.youtube.com/watch?v=fr0ESKY5pCI",
-      "videoId": "fr0ESKY5pCI",
-      "publishedAt": "2026-06-24T03:52:08Z",
-      "description": "Meet the first ever, Config Makeathon winners: → Grand Prize: “Visual Atlas” by Bene Brandhofer → 2nd Overall: “Doodle Fonts” ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Memory and Continual Learning: Engram&#39;s Dan Biderman and Jessy Lin",
+      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "videoId": "aiR7F4jqjXY",
+      "publishedAt": "2026-06-24T12:00:39Z",
+      "description": "Dan Biderman and Jessy Lin, co-founders of Engram, are building a neolab around memory and continual learning, which they ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Roundtrip in 5 minutes: Code to canvas with third party agents | Show your work",
-      "url": "https://www.youtube.com/watch?v=2zN55SPj1G4",
-      "videoId": "2zN55SPj1G4",
-      "publishedAt": "2026-06-23T17:03:32Z",
-      "description": "Want to know how designers at Figma are going from code to canvas and back again? In this episode of Show Your work, Figma ..."
+      "title": "Introducing Figma Motion: Your canvas now has a timeline",
+      "url": "https://www.youtube.com/watch?v=l3HuAYXyOTo",
+      "videoId": "l3HuAYXyOTo",
+      "publishedAt": "2026-06-25T00:30:34Z",
+      "description": "Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "When millions of AI agents meet",
-      "url": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
-      "videoId": "V04bm-3d6EQ",
-      "publishedAt": "2026-06-23T15:48:06Z",
-      "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a ..."
+      "channel": "Figma Config",
+      "title": "Generative plugins, now in Figma",
+      "url": "https://www.youtube.com/watch?v=cLVbkeZW0Jo",
+      "videoId": "cLVbkeZW0Jo",
+      "publishedAt": "2026-06-25T00:30:41Z",
+      "description": "A plugin extends what's possible on the Figma canvas—but building one has always required technical skills and a dev setup that ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Shader effects and fills, now in Figma",
+      "url": "https://www.youtube.com/watch?v=VapJPw5KtyI",
+      "videoId": "VapJPw5KtyI",
+      "publishedAt": "2026-06-25T00:30:28Z",
+      "description": "Figma agent can now also build shaders—small, customizable programs powered by WebGPU that define how pixels render."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "How to create more expressive designs with Figma AI",
+      "url": "https://www.youtube.com/watch?v=RZoaFBAzgXg",
+      "videoId": "RZoaFBAzgXg",
+      "publishedAt": "2026-06-24T19:27:57Z",
+      "description": "More expressive designs are now at your fingertips in the Figma canvas. You can now create your own custom shaders, generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Get started with Figma Motion",
+      "url": "https://www.youtube.com/watch?v=wpGI6BmhbJU",
+      "videoId": "wpGI6BmhbJU",
+      "publishedAt": "2026-06-24T19:25:20Z",
+      "description": "Great motion shouldn't be an afterthought. It's what transforms a good digital experience into a memorable one. With Figma ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
