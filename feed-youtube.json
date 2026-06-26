@@ -1,64 +1,127 @@
 {
-  "generatedAt": "2026-06-25T03:57:31.533Z",
+  "generatedAt": "2026-06-26T04:04:24.215Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+      "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
+      "videoId": "oHwUD9b9_pg",
+      "publishedAt": "2026-06-25T14:00:34Z",
+      "description": "Mark Pincus is the founder of Zynga and author of \"Life at the Speed of Play: Launch Products People Love\", which distills the ..."
+    },
+    {
+      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Memory and Continual Learning: Engram&#39;s Dan Biderman and Jessy Lin",
-      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
-      "videoId": "aiR7F4jqjXY",
-      "publishedAt": "2026-06-24T12:00:39Z",
-      "description": "Dan Biderman and Jessy Lin, co-founders of Engram, are building a neolab around memory and continual learning, which they ..."
+      "title": "AI is Not Mysterious - NVIDIA&#39;s Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=KDVgWX5_eqE",
+      "videoId": "KDVgWX5_eqE",
+      "publishedAt": "2026-06-16T14:00:02Z",
+      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Simulating Humans at Scale: Simile&#39;s Joon Sung Park",
+      "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+      "videoId": "lfhFmwcESRw",
+      "publishedAt": "2026-06-16T12:00:11Z",
+      "description": "The race to build superintelligence is producing models that keep getting better at objective problems, but not at behaving like ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Introducing Figma Motion: Your canvas now has a timeline",
-      "url": "https://www.youtube.com/watch?v=l3HuAYXyOTo",
-      "videoId": "l3HuAYXyOTo",
-      "publishedAt": "2026-06-25T00:30:34Z",
-      "description": "Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come ..."
+      "title": "Trust, transparency, and flow: the UX of Gemini Enterprise",
+      "url": "https://www.youtube.com/watch?v=cHigBlg7Ktw",
+      "videoId": "cHigBlg7Ktw",
+      "publishedAt": "2026-06-25T16:38:30Z",
+      "description": "Sheta Chatterjee joins us to share how the Gemini Enterprise team makes complex, multi-agent workflows feel intuitive, ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Generative plugins, now in Figma",
-      "url": "https://www.youtube.com/watch?v=cLVbkeZW0Jo",
-      "videoId": "cLVbkeZW0Jo",
-      "publishedAt": "2026-06-25T00:30:41Z",
-      "description": "A plugin extends what's possible on the Figma canvas—but building one has always required technical skills and a dev setup that ..."
+      "title": "Scaling taste, craft, and quality in the AI era",
+      "url": "https://www.youtube.com/watch?v=UwAtDvcmxm8",
+      "videoId": "UwAtDvcmxm8",
+      "publishedAt": "2026-06-25T16:36:27Z",
+      "description": "In a fireside chat, Teo Connor, VP of design at Airbnb, discusses how to preserve quality in a world where it's easier than ever to ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Shader effects and fills, now in Figma",
-      "url": "https://www.youtube.com/watch?v=VapJPw5KtyI",
-      "videoId": "VapJPw5KtyI",
-      "publishedAt": "2026-06-25T00:30:28Z",
-      "description": "Figma agent can now also build shaders—small, customizable programs powered by WebGPU that define how pixels render."
+      "title": "Connecting Figma and Weave",
+      "url": "https://www.youtube.com/watch?v=pIOjkJXbZ_o",
+      "videoId": "pIOjkJXbZ_o",
+      "publishedAt": "2026-06-25T04:13:49Z",
+      "description": "At Figma, we believe the best work always happens in the open—on the canvas, where the process becomes not just visible, but ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "How to create more expressive designs with Figma AI",
-      "url": "https://www.youtube.com/watch?v=RZoaFBAzgXg",
-      "videoId": "RZoaFBAzgXg",
-      "publishedAt": "2026-06-24T19:27:57Z",
-      "description": "More expressive designs are now at your fingertips in the Figma canvas. You can now create your own custom shaders, generate ..."
+      "channel": "Lex Fridman",
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Get started with Figma Motion",
-      "url": "https://www.youtube.com/watch?v=wpGI6BmhbJU",
-      "videoId": "wpGI6BmhbJU",
-      "publishedAt": "2026-06-24T19:25:20Z",
-      "description": "Great motion shouldn't be an afterthought. It's what transforms a good digital experience into a memorable one. With Figma ..."
+      "channel": "South Park Commons (Minus One)",
+      "title": "Raising Money for a Space Gun",
+      "url": "https://www.youtube.com/watch?v=OzEgx2j6Vsw",
+      "videoId": "OzEgx2j6Vsw",
+      "publishedAt": "2026-06-15T13:41:27Z",
+      "description": "You have to be willing to get kicked in the teeth."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 13
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
