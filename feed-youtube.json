@@ -1,127 +1,118 @@
 {
-  "generatedAt": "2026-06-26T04:04:24.215Z",
+  "generatedAt": "2026-06-27T03:50:31.239Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
-      "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
-      "videoId": "oHwUD9b9_pg",
-      "publishedAt": "2026-06-25T14:00:34Z",
-      "description": "Mark Pincus is the founder of Zynga and author of \"Life at the Speed of Play: Launch Products People Love\", which distills the ..."
+      "title": "Pick One Idea and Go Deep",
+      "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
+      "videoId": "R56RJFZBasQ",
+      "publishedAt": "2026-06-17T14:00:15Z",
+      "description": "Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "AI is Not Mysterious - NVIDIA&#39;s Jensen Huang",
-      "url": "https://www.youtube.com/watch?v=KDVgWX5_eqE",
-      "videoId": "KDVgWX5_eqE",
-      "publishedAt": "2026-06-16T14:00:02Z",
-      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Simulating Humans at Scale: Simile&#39;s Joon Sung Park",
-      "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
-      "videoId": "lfhFmwcESRw",
-      "publishedAt": "2026-06-16T12:00:11Z",
-      "description": "The race to build superintelligence is producing models that keep getting better at objective problems, but not at behaving like ..."
+      "title": "AI didn&#39;t just make him faster. It made him more ambitious. | Google DeepMind&#39;s Logan Kilpatrick",
+      "url": "https://www.youtube.com/watch?v=2RAYJNE467U",
+      "videoId": "2RAYJNE467U",
+      "publishedAt": "2026-06-17T16:30:00Z",
+      "description": "Copy: The old question was whether an idea was even possible. Logan Kilpatrick on how AI flips that, and why the hard part ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
-      "description": ""
+      "title": "A conversation with Alan cofounder and CTO Charles Gorintin",
+      "url": "https://www.youtube.com/watch?v=WkktooN6s-w",
+      "videoId": "WkktooN6s-w",
+      "publishedAt": "2026-06-16T17:44:45Z",
+      "description": "Alan cofounder and CTO joins Stripe French country lead Laurent Curny for a fireside chat at Tour Paris. Register for Stripe Tour ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Trust, transparency, and flow: the UX of Gemini Enterprise",
-      "url": "https://www.youtube.com/watch?v=cHigBlg7Ktw",
-      "videoId": "cHigBlg7Ktw",
-      "publishedAt": "2026-06-25T16:38:30Z",
-      "description": "Sheta Chatterjee joins us to share how the Gemini Enterprise team makes complex, multi-agent workflows feel intuitive, ..."
+      "title": "Figma deep dive: Make | Config 2026",
+      "url": "https://www.youtube.com/watch?v=q_-udq6jXpw",
+      "videoId": "q_-udq6jXpw",
+      "publishedAt": "2026-06-26T21:05:36Z",
+      "description": "Great Make output isn't luck—it's setup. Dive into the decisions behind coherent results: guidelines, file structure, component ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Scaling taste, craft, and quality in the AI era",
-      "url": "https://www.youtube.com/watch?v=UwAtDvcmxm8",
-      "videoId": "UwAtDvcmxm8",
-      "publishedAt": "2026-06-25T16:36:27Z",
-      "description": "In a fireside chat, Teo Connor, VP of design at Airbnb, discusses how to preserve quality in a world where it's easier than ever to ..."
+      "title": "Figma deep dive: Agentic workflows and the MCP | Config 2026",
+      "url": "https://www.youtube.com/watch?v=D5WUW9X_-L0",
+      "videoId": "D5WUW9X_-L0",
+      "publishedAt": "2026-06-26T21:06:03Z",
+      "description": "Clarity at the front of a process makes agentic workflows successful, and design context can help you use AI with intentionality."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Connecting Figma and Weave",
-      "url": "https://www.youtube.com/watch?v=pIOjkJXbZ_o",
-      "videoId": "pIOjkJXbZ_o",
-      "publishedAt": "2026-06-25T04:13:49Z",
-      "description": "At Figma, we believe the best work always happens in the open—on the canvas, where the process becomes not just visible, but ..."
+      "title": "Figma deep dive: Agents | Config 2026",
+      "url": "https://www.youtube.com/watch?v=0HqSSIPZkbI",
+      "videoId": "0HqSSIPZkbI",
+      "publishedAt": "2026-06-26T21:05:09Z",
+      "description": "The Figma agent is changing how designers work in Figma. It's not just another tool; it's a collaborator on the canvas. With web ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma deep dive: Generative shader effects | Config 2026",
+      "url": "https://www.youtube.com/watch?v=y_2_w-r9TYY",
+      "videoId": "y_2_w-r9TYY",
+      "publishedAt": "2026-06-26T21:04:35Z",
+      "description": "For the first time, the gap between the effect you imagine and the effect you can create in Figma is disappearing. Learn how ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Designing in code | Config 2026",
+      "url": "https://www.youtube.com/watch?v=Q3BkuQRBg-w",
+      "videoId": "Q3BkuQRBg-w",
+      "publishedAt": "2026-06-26T21:02:03Z",
+      "description": "The gap between designing and working in code is closing. Learn how two new launches bring code natively into Figma."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "videoId": "YFjfBk8HI5o",
+      "publishedAt": "2026-02-12T03:07:03Z",
+      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Raising Money for a Space Gun",
-      "url": "https://www.youtube.com/watch?v=OzEgx2j6Vsw",
-      "videoId": "OzEgx2j6Vsw",
-      "publishedAt": "2026-06-15T13:41:27Z",
-      "description": "You have to be willing to get kicked in the teeth."
+      "channel": "Google DeepMind",
+      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+      "videoId": "EF1BFaNZN9U",
+      "publishedAt": "2026-05-22T16:09:49Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 13
+    "youtubeVideos": 12
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
