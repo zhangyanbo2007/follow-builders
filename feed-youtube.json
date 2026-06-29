@@ -1,55 +1,37 @@
 {
-  "generatedAt": "2026-06-28T04:12:03.002Z",
+  "generatedAt": "2026-06-29T04:18:51.728Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "India Can Create The Largest AI Companies",
-      "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
-      "videoId": "Ju8LVdvuxGM",
-      "publishedAt": "2026-06-27T12:30:39Z",
-      "description": "In this final panel from Startup School India, the hosts reflect on why India's deep technical talent makes it uniquely positioned to ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "&quot;So much alpha in authenticity&quot; | Google DeepMind&#39;s Logan Kilpatrick on using AI",
-      "url": "https://www.youtube.com/watch?v=_welKoBsqAU",
-      "videoId": "_welKoBsqAU",
-      "publishedAt": "2026-06-18T17:00:38Z",
-      "description": "Logan Kilpatrick of Google AI Studio on why he makes all his own content, and the version of gen media worth building toward: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
-      "description": ""
+      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+      "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
+      "videoId": "8OOuCnZB-4o",
+      "publishedAt": "2026-06-19T14:00:26Z",
+      "description": "Bryant Chou co-founded Webflow, which today powers around 1% of all websites on the internet. Now he's back in the current YC ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+      "title": "Building a Giant Space Gun",
+      "url": "https://www.youtube.com/watch?v=9-ijbbFoFcU",
+      "videoId": "9-ijbbFoFcU",
+      "publishedAt": "2026-06-11T16:13:41Z",
+      "description": "Could a 15km space gun actually work? Longshot Space is setting out to find out."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Figma&#39;s Product Strategy: Moving Slow to Ship Fast",
-      "url": "https://www.youtube.com/watch?v=jyNwTi5ZcNI",
-      "videoId": "jyNwTi5ZcNI",
-      "publishedAt": "2026-06-09T14:57:55Z",
-      "description": "What powered Figma's early product velocity?"
+      "title": "The Next SpaceX is a Giant Space Cannon",
+      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
+      "videoId": "2efJqrK5DKQ",
+      "publishedAt": "2026-06-11T14:00:36Z",
+      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
