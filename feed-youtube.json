@@ -1,37 +1,64 @@
 {
-  "generatedAt": "2026-06-29T04:18:51.728Z",
+  "generatedAt": "2026-06-30T03:59:41.872Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
-      "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
-      "videoId": "8OOuCnZB-4o",
-      "publishedAt": "2026-06-19T14:00:26Z",
-      "description": "Bryant Chou co-founded Webflow, which today powers around 1% of all websites on the internet. Now he's back in the current YC ..."
+      "title": "Hardware Supply Chain",
+      "url": "https://www.youtube.com/watch?v=0gCeJFyRYx4",
+      "videoId": "0gCeJFyRYx4",
+      "publishedAt": "2026-05-01T16:41:52Z",
+      "description": "In Shenzhen, a team can go from design to a new physical part in a day. In the US, that same loop often takes weeks, and that gap ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Building a Giant Space Gun",
-      "url": "https://www.youtube.com/watch?v=9-ijbbFoFcU",
-      "videoId": "9-ijbbFoFcU",
-      "publishedAt": "2026-06-11T16:13:41Z",
-      "description": "Could a 15km space gun actually work? Longshot Space is setting out to find out."
+      "channel": "Figma Config",
+      "title": "Designing in the age of the 10x engineer ft. Andy Zhang (Google) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=4fZ3CeFu954",
+      "videoId": "4fZ3CeFu954",
+      "publishedAt": "2026-06-30T01:54:31Z",
+      "description": "Andy Zhang will explore how the designer's role evolves when creation becomes frictionless. He'll look at the future of dynamic, ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Next SpaceX is a Giant Space Cannon",
-      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
-      "videoId": "2efJqrK5DKQ",
-      "publishedAt": "2026-06-11T14:00:36Z",
-      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
+      "channel": "Figma Config",
+      "title": "Build like it&#39;s 2030. Listen like you mean it. ft. Ned Dwyer (Great Question) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=ahDcjUgyI78",
+      "videoId": "ahDcjUgyI78",
+      "publishedAt": "2026-06-30T01:53:11Z",
+      "description": "Designers, your job in 2026 isn't getting smaller. It's getting bigger.The same shift that democratized research five years ago is ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "How structured thinking gives your AI superpowers ft. Carola Pescio Canale (Atlassian) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=CPkL9msCuIU",
+      "videoId": "CPkL9msCuIU",
+      "publishedAt": "2026-06-30T01:52:07Z",
+      "description": "The best designers in the AI era will use it to scale their thinking, not just generate stuff. This talk looks at how a more structured ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "From concept to confidence with Dscout AI | Config 2026",
+      "url": "https://www.youtube.com/watch?v=9pl3twjre6E",
+      "videoId": "9pl3twjre6E",
+      "publishedAt": "2026-06-30T01:50:28Z",
+      "description": "AI has accelerated the time between idea and execution. Teams can now generate concepts, prototypes, and products in days."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "How to build content systems for AI product workflows with Ditto | Config 2026",
+      "url": "https://www.youtube.com/watch?v=Wcz4RW1_qYI",
+      "videoId": "Wcz4RW1_qYI",
+      "publishedAt": "2026-06-30T01:48:46Z",
+      "description": "With AI, teams are shipping faster than ever. Designers are prototyping directly in the product. Engineers are coding at the speed ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
