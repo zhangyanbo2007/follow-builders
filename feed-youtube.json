@@ -1,181 +1,82 @@
 {
-  "generatedAt": "2026-07-01T04:15:05.058Z",
+  "generatedAt": "2026-07-02T03:55:22.496Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How to Get Your First 10 Customers",
-      "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
-      "videoId": "_FBivfgOvuE",
-      "publishedAt": "2026-06-22T16:54:40Z",
-      "description": "When most founders look for customers, they reach for cold email and automation tools. But your first 10 customers almost never ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
-      "videoId": "3rWSvrFahIY",
-      "publishedAt": "2026-06-12T14:00:20Z",
-      "description": "It's hard to keep up with the latest AI research. That's why we started YC Paper Club — a small group of researchers, engineers, ..."
-    },
-    {
-      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Hardware-Software Co-Design Is AI&#39;s Real 100x: Dylan Patel of SemiAnalysis",
-      "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
-      "videoId": "f6D_aiy8qyU",
-      "publishedAt": "2026-06-30T12:00:25Z",
-      "description": "Dylan Patel, founder of SemiAnalysis, argues the biggest gains in AI don't come from faster chips, they come from ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Tech analyst Philip Klöckner in conversation with Conor McNamara",
-      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
-      "videoId": "5bjkprj4lpU",
-      "publishedAt": "2026-06-30T18:07:41Z",
-      "description": "Investor and tech analyst Philip Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+      "title": "Google&#39;s agentic shift | Logan Kilpatrick",
+      "url": "https://www.youtube.com/watch?v=cHgLKBR6kLw",
+      "videoId": "cHgLKBR6kLw",
+      "publishedAt": "2026-06-15T20:05:48Z",
+      "description": "Logan Kilpatrick of Google AI Studio on how Google went from ~50 disconnected products, to Gemini as the throughline, to the ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Legibility by design ft. Ryan Powell (Waymo) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=2zmW-L1jtjc",
-      "videoId": "2zmW-L1jtjc",
-      "publishedAt": "2026-06-30T18:03:56Z",
-      "description": "Building trust in AI isn't about transparency; it's about communication design. Whether it's an autonomous vehicle or a generative ..."
+      "title": "Design systems anarchy ft. Lauren LoPrete (Mercury) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=lY3dhHTJGWQ",
+      "videoId": "lY3dhHTJGWQ",
+      "publishedAt": "2026-07-01T22:10:19Z",
+      "description": "Most people don't get into design systems to be a cop. But we've become exactly that. Product teams go around us while we ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "AI will upend your process—for the better ft. Justin Meyer (Bitovi) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=6nyveN7zfMQ",
-      "videoId": "6nyveN7zfMQ",
-      "publishedAt": "2026-06-30T18:01:53Z",
-      "description": "AI gives us an opportunity to rethink how work gets done across the software delivery lifecycle. In this talk, I'll show concrete ..."
+      "title": "The marathon designer and creative endurance ft. Socrates Charisis (Quintessential) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=Rb2XLYSgn7A",
+      "videoId": "Rb2XLYSgn7A",
+      "publishedAt": "2026-07-01T21:48:08Z",
+      "description": "In a world obsessed with speed & chaos, design's biggest threat isn't AI—it's burnout, pixel-pushing, doing things the old way, ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Designing with confidence in an AI-powered world ft. Bobby Meixner (UserTesting) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=XOVcpvbblGY",
-      "videoId": "XOVcpvbblGY",
-      "publishedAt": "2026-06-30T18:00:24Z",
-      "description": "AI has fundamentally changed the pace of design. Ideas move faster. Iterations are instant. Options are endless. But speed ..."
+      "title": "300GB story: how to inspire action when data isn’t enough | Config 2026",
+      "url": "https://www.youtube.com/watch?v=P9HfB9gWkmY",
+      "videoId": "P9HfB9gWkmY",
+      "publishedAt": "2026-07-01T21:45:14Z",
+      "description": "What if 300 GB of climate data could make you feel something? In this talk, two Harvard Design Engineering graduates share ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Quirk up your workplace ft. Darby Thomas (GitHub) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=9yZq36fclmI",
-      "videoId": "9yZq36fclmI",
-      "publishedAt": "2026-06-30T17:57:50Z",
-      "description": "This talk is about encouraging people to be a little more silly, a little more playful when you're at work. The rituals, gimmicks, and ..."
+      "title": "Preparing Rocket for the AI era | Config 2026",
+      "url": "https://www.youtube.com/watch?v=TThJrINckys",
+      "videoId": "TThJrINckys",
+      "publishedAt": "2026-07-01T21:43:43Z",
+      "description": "While many companies are still preparing for AI, Rocket is already embedding it into the fabric of how thousands of team members ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Building real-time user insights into your design workflow ft. Prayag Narula | Config 2026",
-      "url": "https://www.youtube.com/watch?v=cYuTlnp3wLs",
-      "videoId": "cYuTlnp3wLs",
-      "publishedAt": "2026-06-30T17:56:04Z",
-      "description": "Most design teams ship, then learn. You don't have to do that anymore. In this session, HeyMarvin CEO Prayag Narula walks ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "videoId": "pv1TUJSEM2k",
-      "publishedAt": "2026-06-30T21:16:13Z",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "videoId": "H9rF1CSSh-w",
-      "publishedAt": "2026-03-11T20:21:39Z",
-      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "videoId": "1SJiTwbSI58",
-      "publishedAt": "2026-03-01T03:37:44Z",
-      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "videoId": "KGVpKPNUdzA",
-      "publishedAt": "2026-02-25T22:36:32Z",
-      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+      "title": "Everyone&#39;s still eating: building Notion&#39;s design system | Config 2026",
+      "url": "https://www.youtube.com/watch?v=u7_Qof3AJ1g",
+      "videoId": "u7_Qof3AJ1g",
+      "publishedAt": "2026-07-01T21:42:53Z",
+      "description": "Introducing a design system at a design-led company can be like trying to whip a tablecloth off a beautifully set table while people ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini 3.5 Flash has landed.",
-      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
-      "videoId": "R6mM0m3IZWY",
-      "publishedAt": "2026-05-20T20:10:43Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Build your next story with Gemini Omni.",
-      "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
-      "videoId": "u3T_0HmNbHM",
-      "publishedAt": "2026-05-20T00:21:16Z",
-      "description": ""
+      "title": "When millions of AI agents meet",
+      "url": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
+      "videoId": "V04bm-3d6EQ",
+      "publishedAt": "2026-06-23T15:48:06Z",
+      "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "How the SR-71 Was Actually Built",
-      "url": "https://www.youtube.com/watch?v=9NyOH4fdAmY",
-      "videoId": "9NyOH4fdAmY",
-      "publishedAt": "2026-06-12T13:49:46Z",
-      "description": "It wasn't an army or backed by billions of dollars..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
+      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
+      "videoId": "elkPwaCM2Lw",
+      "publishedAt": "2026-07-01T16:29:39Z",
+      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
     }
   ],
   "stats": {
-    "youtubeVideos": 19
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
