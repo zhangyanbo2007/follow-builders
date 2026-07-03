@@ -1,82 +1,28 @@
 {
-  "generatedAt": "2026-07-02T03:55:22.496Z",
+  "generatedAt": "2026-07-03T03:37:49.819Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Google&#39;s agentic shift | Logan Kilpatrick",
-      "url": "https://www.youtube.com/watch?v=cHgLKBR6kLw",
-      "videoId": "cHgLKBR6kLw",
-      "publishedAt": "2026-06-15T20:05:48Z",
-      "description": "Logan Kilpatrick of Google AI Studio on how Google went from ~50 disconnected products, to Gemini as the throughline, to the ..."
+      "title": "Google DeepMind&#39;s Logan Kilpatrick: Why the Model Eats the Harness",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "videoId": "cMAs8z2dehs",
+      "publishedAt": "2026-06-11T12:00:05Z",
+      "description": "The entire startup ecosystem is racing to build agent harnesses. Logan Kilpatrick, who leads Google AI Studio and the Gemini API ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Design systems anarchy ft. Lauren LoPrete (Mercury) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=lY3dhHTJGWQ",
-      "videoId": "lY3dhHTJGWQ",
-      "publishedAt": "2026-07-01T22:10:19Z",
-      "description": "Most people don't get into design systems to be a cop. But we've become exactly that. Product teams go around us while we ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The marathon designer and creative endurance ft. Socrates Charisis (Quintessential) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=Rb2XLYSgn7A",
-      "videoId": "Rb2XLYSgn7A",
-      "publishedAt": "2026-07-01T21:48:08Z",
-      "description": "In a world obsessed with speed & chaos, design's biggest threat isn't AI—it's burnout, pixel-pushing, doing things the old way, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "300GB story: how to inspire action when data isn’t enough | Config 2026",
-      "url": "https://www.youtube.com/watch?v=P9HfB9gWkmY",
-      "videoId": "P9HfB9gWkmY",
-      "publishedAt": "2026-07-01T21:45:14Z",
-      "description": "What if 300 GB of climate data could make you feel something? In this talk, two Harvard Design Engineering graduates share ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Preparing Rocket for the AI era | Config 2026",
-      "url": "https://www.youtube.com/watch?v=TThJrINckys",
-      "videoId": "TThJrINckys",
-      "publishedAt": "2026-07-01T21:43:43Z",
-      "description": "While many companies are still preparing for AI, Rocket is already embedding it into the fabric of how thousands of team members ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Everyone&#39;s still eating: building Notion&#39;s design system | Config 2026",
-      "url": "https://www.youtube.com/watch?v=u7_Qof3AJ1g",
-      "videoId": "u7_Qof3AJ1g",
-      "publishedAt": "2026-07-01T21:42:53Z",
-      "description": "Introducing a design system at a design-led company can be like trying to whip a tablecloth off a beautifully set table while people ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "When millions of AI agents meet",
-      "url": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
-      "videoId": "V04bm-3d6EQ",
-      "publishedAt": "2026-06-23T15:48:06Z",
-      "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
-      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
-      "videoId": "elkPwaCM2Lw",
-      "publishedAt": "2026-07-01T16:29:39Z",
-      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
+      "title": "Get started with Weave tools | Config 2026 new features",
+      "url": "https://www.youtube.com/watch?v=t_5YwQjE8g4",
+      "videoId": "t_5YwQjE8g4",
+      "publishedAt": "2026-07-02T12:00:09Z",
+      "description": "Weave Tools are pre-built AI tools that encapsulate the power of Weave Workflows, but packaged in an easy to use and ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
