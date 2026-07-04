@@ -1,28 +1,55 @@
 {
-  "generatedAt": "2026-07-03T03:37:49.819Z",
+  "generatedAt": "2026-07-04T03:31:01.791Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Google DeepMind&#39;s Logan Kilpatrick: Why the Model Eats the Harness",
-      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
-      "videoId": "cMAs8z2dehs",
-      "publishedAt": "2026-06-11T12:00:05Z",
-      "description": "The entire startup ecosystem is racing to build agent harnesses. Logan Kilpatrick, who leads Google AI Studio and the Gemini API ..."
+      "title": "Memory and Continual Learning: Engram&#39;s Dan Biderman and Jessy Lin",
+      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "videoId": "aiR7F4jqjXY",
+      "publishedAt": "2026-06-24T12:00:39Z",
+      "description": "Dan Biderman and Jessy Lin, co-founders of Engram, are building a neolab around memory and continual learning, which they ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Get started with Weave tools | Config 2026 new features",
-      "url": "https://www.youtube.com/watch?v=t_5YwQjE8g4",
-      "videoId": "t_5YwQjE8g4",
-      "publishedAt": "2026-07-02T12:00:09Z",
-      "description": "Weave Tools are pre-built AI tools that encapsulate the power of Weave Workflows, but packaged in an easy to use and ..."
+      "channel": "Google DeepMind",
+      "title": "Using AI to outsmart drug-resistant bacteria",
+      "url": "https://www.youtube.com/watch?v=Cnuj24PjWrQ",
+      "videoId": "Cnuj24PjWrQ",
+      "publishedAt": "2026-05-19T17:51:04Z",
+      "description": "Globally recognized as a silent pandemic, antimicrobial resistance continues to rise as bacteria outpace the development of new ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Generating novel scientific hypotheses with Co-Scientist",
+      "url": "https://www.youtube.com/watch?v=aSY_vFFmkW0",
+      "videoId": "aSY_vFFmkW0",
+      "publishedAt": "2026-05-19T17:51:44Z",
+      "description": "In an era of information overload, the search for transformative scientific ideas has become a significant bottleneck for progress."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Predicting a historic storm earlier with WeatherNext",
+      "url": "https://www.youtube.com/watch?v=wd5ZZV8if54",
+      "videoId": "wd5ZZV8if54",
+      "publishedAt": "2026-05-19T17:50:53Z",
+      "description": "Tropical storms and hurricanes are notoriously volatile, changing structure and intensity in a matter of hours. This unpredictability ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Understanding cancer at a genetic level with AI",
+      "url": "https://www.youtube.com/watch?v=exh1vwGlrSo",
+      "videoId": "exh1vwGlrSo",
+      "publishedAt": "2026-05-19T17:50:59Z",
+      "description": "In Uganda, the incidence of early-onset breast cancer is growing at an alarming rate. Dr. Daudi Jjingo and his team at Makerere ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
