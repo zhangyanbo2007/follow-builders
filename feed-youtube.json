@@ -1,109 +1,100 @@
 {
-  "generatedAt": "2026-07-05T03:48:58.692Z",
+  "generatedAt": "2026-07-06T03:56:24.303Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Apple Vision Pro: Startup Platform Of The Future?",
-      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
-      "videoId": "a_n4yOqlWbA",
-      "publishedAt": "2024-02-21T17:52:18Z",
-      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+      "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
+      "videoId": "oHwUD9b9_pg",
+      "publishedAt": "2026-06-25T14:00:34Z",
+      "description": "Mark Pincus is the founder of Zynga and author of \"Life at the Speed of Play: Launch Products People Love\", which distills the ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
-      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
-      "videoId": "TCPjk8Tpb5c",
-      "publishedAt": "2022-02-16T15:30:57Z",
-      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Analyzing Billions of Transactions to Understand Consumer Behavior - Michael Babineau and Kevin Hale",
-      "url": "https://www.youtube.com/watch?v=hsMePYTcIik",
-      "videoId": "hsMePYTcIik",
-      "publishedAt": "2019-05-29T15:22:32Z",
-      "description": "Michael Babineau is cofounder and CEO of Second Measure. Second Measure analyzes billions of credit card transactions to ..."
+      "title": "Pick One Idea and Go Deep",
+      "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
+      "videoId": "R56RJFZBasQ",
+      "publishedAt": "2026-06-17T14:00:15Z",
+      "description": "Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "AI is Not Mysterious - NVIDIA&#39;s Jensen Huang",
-      "url": "https://www.youtube.com/watch?v=KDVgWX5_eqE",
-      "videoId": "KDVgWX5_eqE",
-      "publishedAt": "2026-06-16T14:00:02Z",
-      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from ..."
+      "title": "AI didn&#39;t just make him faster. It made him more ambitious. | Google DeepMind&#39;s Logan Kilpatrick",
+      "url": "https://www.youtube.com/watch?v=2RAYJNE467U",
+      "videoId": "2RAYJNE467U",
+      "publishedAt": "2026-06-17T16:30:00Z",
+      "description": "Copy: The old question was whether an idea was even possible. Logan Kilpatrick on how AI flips that, and why the hard part ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
-      "description": ""
+      "title": "A conversation with Alan cofounder and CTO Charles Gorintin",
+      "url": "https://www.youtube.com/watch?v=WkktooN6s-w",
+      "videoId": "WkktooN6s-w",
+      "publishedAt": "2026-06-16T17:44:45Z",
+      "description": "Alan cofounder and CTO joins Stripe French country lead Laurent Curny for a fireside chat at Tour Paris. Register for Stripe Tour ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Dense by design ft. Matthew Ström-Awn (mu.design) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=notTKhz8C2c",
-      "videoId": "notTKhz8C2c",
-      "publishedAt": "2026-07-01T21:34:17Z",
-      "description": "Why did Google beat Yahoo? Why does Bloomberg Terminal still dominate? It's not about cramming more onto the screen—it's ..."
+      "title": "Design for the future of apps ft. Craig Labenz (Google) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=PLZoD-LvZTw",
+      "videoId": "PLZoD-LvZTw",
+      "publishedAt": "2026-07-01T21:29:26Z",
+      "description": "Generative AI is not only about text chats and image generation. At Google, AI is also increasingly used to compose ephemeral UI ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Raising Money for a Space Gun",
-      "url": "https://www.youtube.com/watch?v=OzEgx2j6Vsw",
-      "videoId": "OzEgx2j6Vsw",
-      "publishedAt": "2026-06-15T13:41:27Z",
-      "description": "You have to be willing to get kicked in the teeth."
+      "channel": "Figma Config",
+      "title": "Get started with generative plugins and shaders in Figma | Config 2026 new features",
+      "url": "https://www.youtube.com/watch?v=aRWRhcnGPwI",
+      "videoId": "aRWRhcnGPwI",
+      "publishedAt": "2026-07-01T19:34:58Z",
+      "description": "With Figma agent, it's easier than ever to build plugins and now shaders right on the canvas. Just tell the agent what you want to ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+      "videoId": "EF1BFaNZN9U",
+      "publishedAt": "2026-05-22T16:09:49Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 11
+    "youtubeVideos": 10
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
