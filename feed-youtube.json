@@ -1,100 +1,82 @@
 {
-  "generatedAt": "2026-07-06T03:56:24.303Z",
+  "generatedAt": "2026-07-07T03:47:12.510Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
-      "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
-      "videoId": "oHwUD9b9_pg",
-      "publishedAt": "2026-06-25T14:00:34Z",
-      "description": "Mark Pincus is the founder of Zynga and author of \"Life at the Speed of Play: Launch Products People Love\", which distills the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Pick One Idea and Go Deep",
-      "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
-      "videoId": "R56RJFZBasQ",
-      "publishedAt": "2026-06-17T14:00:15Z",
-      "description": "Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract."
+      "title": "India Can Create The Largest AI Companies",
+      "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
+      "videoId": "Ju8LVdvuxGM",
+      "publishedAt": "2026-06-27T12:30:39Z",
+      "description": "In this final panel from Startup School India, the hosts reflect on why India's deep technical talent makes it uniquely positioned to ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "AI didn&#39;t just make him faster. It made him more ambitious. | Google DeepMind&#39;s Logan Kilpatrick",
-      "url": "https://www.youtube.com/watch?v=2RAYJNE467U",
-      "videoId": "2RAYJNE467U",
-      "publishedAt": "2026-06-17T16:30:00Z",
-      "description": "Copy: The old question was whether an idea was even possible. Logan Kilpatrick on how AI flips that, and why the hard part ..."
+      "title": "&quot;So much alpha in authenticity&quot; | Google DeepMind&#39;s Logan Kilpatrick on using AI",
+      "url": "https://www.youtube.com/watch?v=_welKoBsqAU",
+      "videoId": "_welKoBsqAU",
+      "publishedAt": "2026-06-18T17:00:38Z",
+      "description": "Logan Kilpatrick of Google AI Studio on why he makes all his own content, and the version of gen media worth building toward: ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
-      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
-      "videoId": "vV6uCBbCyNE",
-      "publishedAt": "2026-06-17T19:30:32Z",
+      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
+      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
+      "videoId": "GaxHXrskngs",
+      "publishedAt": "2026-06-18T21:18:11Z",
       "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
-      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
-      "videoId": "pX-AdubYXgk",
-      "publishedAt": "2026-06-17T01:24:33Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Alan cofounder and CTO Charles Gorintin",
-      "url": "https://www.youtube.com/watch?v=WkktooN6s-w",
-      "videoId": "WkktooN6s-w",
-      "publishedAt": "2026-06-16T17:44:45Z",
-      "description": "Alan cofounder and CTO joins Stripe French country lead Laurent Curny for a fireside chat at Tour Paris. Register for Stripe Tour ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Design for the future of apps ft. Craig Labenz (Google) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=PLZoD-LvZTw",
-      "videoId": "PLZoD-LvZTw",
-      "publishedAt": "2026-07-01T21:29:26Z",
-      "description": "Generative AI is not only about text chats and image generation. At Google, AI is also increasingly used to compose ephemeral UI ..."
+      "title": "Ready for the world ft. Vicki Tan | Config 2026",
+      "url": "https://www.youtube.com/watch?v=hpBND4-uiWc",
+      "videoId": "hpBND4-uiWc",
+      "publishedAt": "2026-07-06T21:54:25Z",
+      "description": "Vicki Tan is a product designer who stumbled into authorship through Figma—a tool that gave her the courage to create an ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Get started with generative plugins and shaders in Figma | Config 2026 new features",
-      "url": "https://www.youtube.com/watch?v=aRWRhcnGPwI",
-      "videoId": "aRWRhcnGPwI",
-      "publishedAt": "2026-07-01T19:34:58Z",
-      "description": "With Figma agent, it's easier than ever to build plugins and now shaders right on the canvas. Just tell the agent what you want to ..."
+      "title": "Own the loop: how designers and researchers win with AI evals ft. Setor Zilevu (Figma) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=VfA-vjsFQ1o",
+      "videoId": "VfA-vjsFQ1o",
+      "publishedAt": "2026-07-06T21:51:52Z",
+      "description": "AI is everywhere, but how do we know if it's actually good? The teams winning with AI aren't just moving fast, they're measuring ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+      "channel": "Figma Config",
+      "title": "Skill issue: how we built an OS for PMs at Figma | Config 2026",
+      "url": "https://www.youtube.com/watch?v=2nn5J6tUzwE",
+      "videoId": "2nn5J6tUzwE",
+      "publishedAt": "2026-07-06T21:52:51Z",
+      "description": "How a company leverages AI tells you a lot about its culture and its future. Ramp built Glass, Stripe built Minions, and at Figma, we ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
-      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
-      "videoId": "EF1BFaNZN9U",
-      "publishedAt": "2026-05-22T16:09:49Z",
-      "description": ""
+      "channel": "Figma Config",
+      "title": "Don&#39;t forget the feeling: a critique of software in 2026 ft. Luis Ouriach (Figma) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=EgvWTCJj8YM",
+      "videoId": "EgvWTCJj8YM",
+      "publishedAt": "2026-07-06T21:49:36Z",
+      "description": "What does making feel like in 2026? Luis will explore how he learned to stop worrying and love AI, or at least stop rejecting it to ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "The most important component: community ft. Alicia Kranjc (Figma) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=U4bSieNNFU8",
+      "videoId": "U4bSieNNFU8",
+      "publishedAt": "2026-07-06T21:50:39Z",
+      "description": "The more AI enters the creative process, the louder the question gets: what makes our work distinctly ours? This talk makes the ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
