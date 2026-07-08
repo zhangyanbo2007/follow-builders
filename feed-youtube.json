@@ -1,78 +1,78 @@
 {
-  "generatedAt": "2026-07-07T03:47:12.510Z",
+  "generatedAt": "2026-07-08T03:14:58.906Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "India Can Create The Largest AI Companies",
-      "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
-      "videoId": "Ju8LVdvuxGM",
-      "publishedAt": "2026-06-27T12:30:39Z",
-      "description": "In this final panel from Startup School India, the hosts reflect on why India's deep technical talent makes it uniquely positioned to ..."
-    },
-    {
-      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "&quot;So much alpha in authenticity&quot; | Google DeepMind&#39;s Logan Kilpatrick on using AI",
-      "url": "https://www.youtube.com/watch?v=_welKoBsqAU",
-      "videoId": "_welKoBsqAU",
-      "publishedAt": "2026-06-18T17:00:38Z",
-      "description": "Logan Kilpatrick of Google AI Studio on why he makes all his own content, and the version of gen media worth building toward: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
-      "description": ""
+      "title": "Inside Zipline&#39;s Autonomous System: 140M Miles, Zero Incidents",
+      "url": "https://www.youtube.com/watch?v=6bGxm8gX41o",
+      "videoId": "6bGxm8gX41o",
+      "publishedAt": "2026-07-07T12:00:19Z",
+      "description": "The largest commercial autonomous system on earth isn't a robotaxi fleet — it's Zipline, which has flown 140 million autonomous ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Ready for the world ft. Vicki Tan | Config 2026",
-      "url": "https://www.youtube.com/watch?v=hpBND4-uiWc",
-      "videoId": "hpBND4-uiWc",
-      "publishedAt": "2026-07-06T21:54:25Z",
-      "description": "Vicki Tan is a product designer who stumbled into authorship through Figma—a tool that gave her the courage to create an ..."
+      "title": "Designers → coding, Developers → designing",
+      "url": "https://www.youtube.com/watch?v=-yP0TciQJC0",
+      "videoId": "-yP0TciQJC0",
+      "publishedAt": "2026-07-07T15:48:24Z",
+      "description": "In the last year, the number of designers participating in development doubled to 41%, and the number of developers doing ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Own the loop: how designers and researchers win with AI evals ft. Setor Zilevu (Figma) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=VfA-vjsFQ1o",
-      "videoId": "VfA-vjsFQ1o",
-      "publishedAt": "2026-07-06T21:51:52Z",
-      "description": "AI is everywhere, but how do we know if it's actually good? The teams winning with AI aren't just moving fast, they're measuring ..."
+      "title": "Managing multiple creative passions in a specialized world ft. Lauren Hom | Config 2026",
+      "url": "https://www.youtube.com/watch?v=KeaqUYrDPSM",
+      "videoId": "KeaqUYrDPSM",
+      "publishedAt": "2026-07-07T15:22:55Z",
+      "description": "Lauren will share how she's managed multiple creative passions, throughout her 15-year career, in a world that tells you to ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Skill issue: how we built an OS for PMs at Figma | Config 2026",
-      "url": "https://www.youtube.com/watch?v=2nn5J6tUzwE",
-      "videoId": "2nn5J6tUzwE",
-      "publishedAt": "2026-07-06T21:52:51Z",
-      "description": "How a company leverages AI tells you a lot about its culture and its future. Ramp built Glass, Stripe built Minions, and at Figma, we ..."
+      "title": "10 years of daily sketching ft. Zach Lieberman (MIT Media Lab) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=CaF0t8QrQjE",
+      "videoId": "CaF0t8QrQjE",
+      "publishedAt": "2026-07-07T15:21:35Z",
+      "description": "Ten years ago, after a rough year, Zach Lieberman posted a small code sketch on Instagram on New Year's Day and he's posted ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Don&#39;t forget the feeling: a critique of software in 2026 ft. Luis Ouriach (Figma) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=EgvWTCJj8YM",
-      "videoId": "EgvWTCJj8YM",
-      "publishedAt": "2026-07-06T21:49:36Z",
-      "description": "What does making feel like in 2026? Luis will explore how he learned to stop worrying and love AI, or at least stop rejecting it to ..."
+      "title": "Reimagining NASA.gov for Earth’s most important stories ft. Ben Shown &amp; Megan Greco | Config 2026",
+      "url": "https://www.youtube.com/watch?v=GpACvdM6guc",
+      "videoId": "GpACvdM6guc",
+      "publishedAt": "2026-07-07T15:20:29Z",
+      "description": "NASA's digital universe just got a major upgrade. With a bold new web experience and the Horizon Design System, NASA is now ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "The most important component: community ft. Alicia Kranjc (Figma) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=U4bSieNNFU8",
-      "videoId": "U4bSieNNFU8",
-      "publishedAt": "2026-07-06T21:50:39Z",
-      "description": "The more AI enters the creative process, the louder the question gets: what makes our work distinctly ours? This talk makes the ..."
+      "title": "ESPN&#39;s migration playbook: moving to Figma w/ One North ft. Matt Roger &amp; Elliott Muñoz | Config 2026",
+      "url": "https://www.youtube.com/watch?v=H05udeUr9ws",
+      "videoId": "H05udeUr9ws",
+      "publishedAt": "2026-07-07T15:18:24Z",
+      "description": "Each game day broadcast features a host of slick visuals – digital scoreboards, player stats, and matchup graphics. But behind the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Building a Giant Space Gun",
+      "url": "https://www.youtube.com/watch?v=9-ijbbFoFcU",
+      "videoId": "9-ijbbFoFcU",
+      "publishedAt": "2026-06-11T16:13:41Z",
+      "description": "Could a 15km space gun actually work? Longshot Space is setting out to find out."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Next SpaceX is a Giant Space Cannon",
+      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
+      "videoId": "2efJqrK5DKQ",
+      "publishedAt": "2026-06-11T14:00:36Z",
+      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
     }
   ],
   "stats": {
