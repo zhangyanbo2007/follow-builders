@@ -1,82 +1,64 @@
 {
-  "generatedAt": "2026-07-08T03:14:58.906Z",
+  "generatedAt": "2026-07-09T03:38:59.759Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Inside Zipline&#39;s Autonomous System: 140M Miles, Zero Incidents",
-      "url": "https://www.youtube.com/watch?v=6bGxm8gX41o",
-      "videoId": "6bGxm8gX41o",
-      "publishedAt": "2026-07-07T12:00:19Z",
-      "description": "The largest commercial autonomous system on earth isn't a robotaxi fleet — it's Zipline, which has flown 140 million autonomous ..."
+      "channel": "YC Startup School",
+      "title": "Solving the Blank Canvas Problem: Gusto&#39;s AI Co-Founder",
+      "url": "https://www.youtube.com/watch?v=xpeRVyFFy_Q",
+      "videoId": "xpeRVyFFy_Q",
+      "publishedAt": "2026-07-08T14:00:19Z",
+      "description": "Eddie Kim is the co-founder and Head of Technology at Gusto (W12), a payroll and HR platform serving over 500000 small ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Designers → coding, Developers → designing",
-      "url": "https://www.youtube.com/watch?v=-yP0TciQJC0",
-      "videoId": "-yP0TciQJC0",
-      "publishedAt": "2026-07-07T15:48:24Z",
-      "description": "In the last year, the number of designers participating in development doubled to 41%, and the number of developers doing ..."
+      "title": "The canvas is not dead ft. Catt Small (Dropbox) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=WGZ38oeoBtU",
+      "videoId": "WGZ38oeoBtU",
+      "publishedAt": "2026-07-08T15:39:07Z",
+      "description": "You've probably heard it: 'the canvas is dead. Just prompt your way to a UI and ship it.' But Catt doesn't work on simple problems."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Managing multiple creative passions in a specialized world ft. Lauren Hom | Config 2026",
-      "url": "https://www.youtube.com/watch?v=KeaqUYrDPSM",
-      "videoId": "KeaqUYrDPSM",
-      "publishedAt": "2026-07-07T15:22:55Z",
-      "description": "Lauren will share how she's managed multiple creative passions, throughout her 15-year career, in a world that tells you to ..."
+      "title": "Protoypes, failures, and unexpected breakthroughs ft. Noah Finer (Figma) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=1YqJzpcTvZs",
+      "videoId": "1YqJzpcTvZs",
+      "publishedAt": "2026-07-08T15:29:21Z",
+      "description": "Noah spends many days at Figma prototyping janky interactions, and other days perfecting editor microinteractions so subtle they ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "10 years of daily sketching ft. Zach Lieberman (MIT Media Lab) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=CaF0t8QrQjE",
-      "videoId": "CaF0t8QrQjE",
-      "publishedAt": "2026-07-07T15:21:35Z",
-      "description": "Ten years ago, after a rough year, Zach Lieberman posted a small code sketch on Instagram on New Year's Day and he's posted ..."
+      "title": "Closing keynote ft. Dylan Field (CEO &amp; Co-founder, Figma) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=SQji6izodIE",
+      "videoId": "SQji6izodIE",
+      "publishedAt": "2026-07-08T15:31:11Z",
+      "description": "Dylan Field (CEO & Co-founder of Figma) delivers some closing thoughts as Config 2026 wraps. Find us on ⬇️ X (formerly ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Reimagining NASA.gov for Earth’s most important stories ft. Ben Shown &amp; Megan Greco | Config 2026",
-      "url": "https://www.youtube.com/watch?v=GpACvdM6guc",
-      "videoId": "GpACvdM6guc",
-      "publishedAt": "2026-07-07T15:20:29Z",
-      "description": "NASA's digital universe just got a major upgrade. With a bold new web experience and the Horizon Design System, NASA is now ..."
+      "title": "Human methods, new material: AI for the classroom ft. Mubarak Marafa &amp; Wendy Liao | Config 2026",
+      "url": "https://www.youtube.com/watch?v=fLF8dwbC74o",
+      "videoId": "fLF8dwbC74o",
+      "publishedAt": "2026-07-08T15:28:06Z",
+      "description": "How do you build with AI for a world as human, messy, and high-stakes as the classroom? This talk takes you inside the 0–1 ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "ESPN&#39;s migration playbook: moving to Figma w/ One North ft. Matt Roger &amp; Elliott Muñoz | Config 2026",
-      "url": "https://www.youtube.com/watch?v=H05udeUr9ws",
-      "videoId": "H05udeUr9ws",
-      "publishedAt": "2026-07-07T15:18:24Z",
-      "description": "Each game day broadcast features a host of slick visuals – digital scoreboards, player stats, and matchup graphics. But behind the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Building a Giant Space Gun",
-      "url": "https://www.youtube.com/watch?v=9-ijbbFoFcU",
-      "videoId": "9-ijbbFoFcU",
-      "publishedAt": "2026-06-11T16:13:41Z",
-      "description": "Could a 15km space gun actually work? Longshot Space is setting out to find out."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Next SpaceX is a Giant Space Cannon",
-      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
-      "videoId": "2efJqrK5DKQ",
-      "publishedAt": "2026-06-11T14:00:36Z",
-      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
+      "title": "Best practices are trapped in your head and your AI has no idea ft. Harald Kirschner | Config 2026",
+      "url": "https://www.youtube.com/watch?v=oTtaFABsVDE",
+      "videoId": "oTtaFABsVDE",
+      "publishedAt": "2026-07-08T15:26:11Z",
+      "description": "Your tone of voice, your component principles, your definition of \"done\"—this is the taste you've built over years. Right now it lives ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
