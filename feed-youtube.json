@@ -1,64 +1,163 @@
 {
-  "generatedAt": "2026-07-09T03:38:59.759Z",
+  "generatedAt": "2026-07-10T03:40:25.923Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Solving the Blank Canvas Problem: Gusto&#39;s AI Co-Founder",
-      "url": "https://www.youtube.com/watch?v=xpeRVyFFy_Q",
-      "videoId": "xpeRVyFFy_Q",
-      "publishedAt": "2026-07-08T14:00:19Z",
-      "description": "Eddie Kim is the co-founder and Head of Technology at Gusto (W12), a payroll and HR platform serving over 500000 small ..."
+      "title": "Dot Plots: How to Actually See What Your Users Are Doing",
+      "url": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
+      "videoId": "e5-6rEwzxLs",
+      "publishedAt": "2026-07-09T14:00:05Z",
+      "description": "One of the biggest mistakes founders make is relying on aggregate user metrics instead of understanding how any individuals use ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The canvas is not dead ft. Catt Small (Dropbox) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=WGZ38oeoBtU",
-      "videoId": "WGZ38oeoBtU",
-      "publishedAt": "2026-07-08T15:39:07Z",
-      "description": "You've probably heard it: 'the canvas is dead. Just prompt your way to a UI and ship it.' But Catt doesn't work on simple problems."
+      "channel": "YC Startup School",
+      "title": "How to Get Your First 10 Customers",
+      "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
+      "videoId": "_FBivfgOvuE",
+      "publishedAt": "2026-06-22T16:54:40Z",
+      "description": "When most founders look for customers, they reach for cold email and automation tools. But your first 10 customers almost never ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Protoypes, failures, and unexpected breakthroughs ft. Noah Finer (Figma) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=1YqJzpcTvZs",
-      "videoId": "1YqJzpcTvZs",
-      "publishedAt": "2026-07-08T15:29:21Z",
-      "description": "Noah spends many days at Figma prototyping janky interactions, and other days perfecting editor microinteractions so subtle they ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Every Startup Has a Hole in the Ship — Kalshi&#39;s Tarek Mansour on the Problem You Can&#39;t Delegate",
+      "url": "https://www.youtube.com/watch?v=D45jOrlzslA",
+      "videoId": "D45jOrlzslA",
+      "publishedAt": "2026-07-09T16:58:50Z",
+      "description": "Every company has one leak the founder can't hand off. Tarek Mansour explains why most CEOs throw a rug over theirs — and ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Closing keynote ft. Dylan Field (CEO &amp; Co-founder, Figma) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=SQji6izodIE",
-      "videoId": "SQji6izodIE",
-      "publishedAt": "2026-07-08T15:31:11Z",
-      "description": "Dylan Field (CEO & Co-founder of Figma) delivers some closing thoughts as Config 2026 wraps. Find us on ⬇️ X (formerly ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Kalshi&#39;s Tarek Mansour: Chaos by Design",
+      "url": "https://www.youtube.com/watch?v=l_Boz3KRtBQ",
+      "videoId": "l_Boz3KRtBQ",
+      "publishedAt": "2026-07-09T12:00:20Z",
+      "description": "Tarek Mansour calls himself a paranoid risk manager - the guy who can list 20 ways a hot air balloon will go down before it leaves ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Human methods, new material: AI for the classroom ft. Mubarak Marafa &amp; Wendy Liao | Config 2026",
-      "url": "https://www.youtube.com/watch?v=fLF8dwbC74o",
-      "videoId": "fLF8dwbC74o",
-      "publishedAt": "2026-07-08T15:28:06Z",
-      "description": "How do you build with AI for a world as human, messy, and high-stakes as the classroom? This talk takes you inside the 0–1 ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Why Hardware-Software Co-Design Is AI&#39;s Real 100x: Dylan Patel of SemiAnalysis",
+      "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
+      "videoId": "f6D_aiy8qyU",
+      "publishedAt": "2026-06-30T12:00:25Z",
+      "description": "Dylan Patel, founder of SemiAnalysis, argues the biggest gains in AI don't come from faster chips, they come from ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Best practices are trapped in your head and your AI has no idea ft. Harald Kirschner | Config 2026",
-      "url": "https://www.youtube.com/watch?v=oTtaFABsVDE",
-      "videoId": "oTtaFABsVDE",
-      "publishedAt": "2026-07-08T15:26:11Z",
-      "description": "Your tone of voice, your component principles, your definition of \"done\"—this is the taste you've built over years. Right now it lives ..."
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
+      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
+      "videoId": "26aV9GTeoSo",
+      "publishedAt": "2026-07-09T18:29:21Z",
+      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
+      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
+      "videoId": "5bjkprj4lpU",
+      "publishedAt": "2026-06-30T18:07:41Z",
+      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "videoId": "pv1TUJSEM2k",
+      "publishedAt": "2026-06-30T21:16:13Z",
+      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "videoId": "1SJiTwbSI58",
+      "publishedAt": "2026-03-01T03:37:44Z",
+      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "videoId": "KGVpKPNUdzA",
+      "publishedAt": "2026-02-25T22:36:32Z",
+      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini 3.5 Flash has landed.",
+      "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
+      "videoId": "R6mM0m3IZWY",
+      "publishedAt": "2026-05-20T20:10:43Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Build your next story with Gemini Omni.",
+      "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
+      "videoId": "u3T_0HmNbHM",
+      "publishedAt": "2026-05-20T00:21:16Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "How the SR-71 Was Actually Built",
+      "url": "https://www.youtube.com/watch?v=9NyOH4fdAmY",
+      "videoId": "9NyOH4fdAmY",
+      "publishedAt": "2026-06-12T13:49:46Z",
+      "description": "It wasn't an army or backed by billions of dollars..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 17
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
