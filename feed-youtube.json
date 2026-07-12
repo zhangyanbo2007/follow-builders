@@ -1,82 +1,37 @@
 {
-  "generatedAt": "2026-07-11T02:55:09.886Z",
+  "generatedAt": "2026-07-12T03:20:09.988Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "YC&#39;s Head of Design Shows You How To Design With AI",
-      "url": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
-      "videoId": "VbqaL_eHhKY",
-      "publishedAt": "2026-07-10T14:00:10Z",
-      "description": "AI isn't just changing the tools designers use. It's changing the way they think, prototype, and build. In this episode of Design ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Kalshi&#39;s Co-CEOs Disagree by Design — Why Constant Conflict Became Their Pattern",
-      "url": "https://www.youtube.com/watch?v=aq6CQG_zJHg",
-      "videoId": "aq6CQG_zJHg",
-      "publishedAt": "2026-07-10T15:00:21Z",
-      "description": "Conventional wisdom says continuous disagreement is an anti-pattern. Kalshi's co-CEOs made always taking the opposite side a ..."
+      "channel": "Figma Config",
+      "title": "From handoffs to upstream ft. Frederick Andersen (EDL) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=h7i31pJenMg",
+      "videoId": "h7i31pJenMg",
+      "publishedAt": "2026-07-08T15:22:49Z",
+      "description": "A year ago, EDL made a bet. Not on a tool or a trend, but on a person and a different idea of what a design studio could own."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "A hot new keyframe has entered the villa",
-      "url": "https://www.youtube.com/watch?v=OSAJSNADhAc",
-      "videoId": "OSAJSNADhAc",
-      "publishedAt": "2026-07-11T00:41:47Z",
-      "description": ""
+      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
+      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
+      "videoId": "2pD2X8QasXg",
+      "publishedAt": "2026-07-08T15:20:12Z",
+      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Community riffs",
-      "url": "https://www.youtube.com/watch?v=X5nvK9Wb4gQ",
-      "videoId": "X5nvK9Wb4gQ",
-      "publishedAt": "2026-07-10T17:09:45Z",
-      "description": "You can post and riff on designs in the Figma Community. Both static and motion designs. Upload or just share a frame, even a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "videoId": "YFjfBk8HI5o",
-      "publishedAt": "2026-02-12T03:07:03Z",
-      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Understanding the inner thoughts of AI",
-      "url": "https://www.youtube.com/watch?v=1DtMiRKg-cs",
-      "videoId": "1DtMiRKg-cs",
-      "publishedAt": "2026-07-10T15:50:55Z",
-      "description": "What if you were to peer inside the 'mind' of AI? You wouldn't find fully formed thoughts, just vast arrays of numbers. In this ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "When millions of AI agents meet",
-      "url": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
-      "videoId": "V04bm-3d6EQ",
-      "publishedAt": "2026-06-23T15:48:06Z",
-      "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
-      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
-      "videoId": "elkPwaCM2Lw",
-      "publishedAt": "2026-07-01T16:29:39Z",
-      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
+      "title": "The hidden craft of interface design in modern film ft. Jayse Hansen | Config 2026",
+      "url": "https://www.youtube.com/watch?v=MhSXeoBpsgk",
+      "videoId": "MhSXeoBpsgk",
+      "publishedAt": "2026-07-08T15:12:32Z",
+      "description": "Step behind the screens of modern cinema. Jayse Hansen takes you from sketchbook to IMAX, revealing the story-driven way ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
