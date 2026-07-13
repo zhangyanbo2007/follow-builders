@@ -1,37 +1,19 @@
 {
-  "generatedAt": "2026-07-12T03:20:09.988Z",
+  "generatedAt": "2026-07-13T03:23:00.522Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "From handoffs to upstream ft. Frederick Andersen (EDL) | Config 2026",
-      "url": "https://www.youtube.com/watch?v=h7i31pJenMg",
-      "videoId": "h7i31pJenMg",
-      "publishedAt": "2026-07-08T15:22:49Z",
-      "description": "A year ago, EDL made a bet. Not on a tool or a trend, but on a person and a different idea of what a design studio could own."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
-      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
-      "videoId": "2pD2X8QasXg",
-      "publishedAt": "2026-07-08T15:20:12Z",
-      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The hidden craft of interface design in modern film ft. Jayse Hansen | Config 2026",
-      "url": "https://www.youtube.com/watch?v=MhSXeoBpsgk",
-      "videoId": "MhSXeoBpsgk",
-      "publishedAt": "2026-07-08T15:12:32Z",
-      "description": "Step behind the screens of modern cinema. Jayse Hansen takes you from sketchbook to IMAX, revealing the story-driven way ..."
+      "title": "Figma for Edu: Building with components workshop",
+      "url": "https://www.youtube.com/watch?v=TGPIeyq3szU",
+      "videoId": "TGPIeyq3szU",
+      "publishedAt": "2026-07-12T16:58:19Z",
+      "description": "Follow along with the community file: https://www.figma.com/community/file/1637176622656243292 In this workshop we will ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 1
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
