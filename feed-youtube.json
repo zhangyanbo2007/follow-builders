@@ -1,19 +1,46 @@
 {
-  "generatedAt": "2026-07-13T03:23:00.522Z",
+  "generatedAt": "2026-07-14T02:46:56.959Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Hardware Supply Chain",
+      "url": "https://www.youtube.com/watch?v=0gCeJFyRYx4",
+      "videoId": "0gCeJFyRYx4",
+      "publishedAt": "2026-05-01T16:41:52Z",
+      "description": "In Shenzhen, a team can go from design to a new physical part in a day. In the US, that same loop often takes weeks, and that gap ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "L’impact inattendu de ChatGPT sur les abonnements du Monde",
+      "url": "https://www.youtube.com/watch?v=dEVF0b5gbms",
+      "videoId": "dEVF0b5gbms",
+      "publishedAt": "2026-06-10T17:01:01Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma for Edu: Building with components workshop",
-      "url": "https://www.youtube.com/watch?v=TGPIeyq3szU",
-      "videoId": "TGPIeyq3szU",
-      "publishedAt": "2026-07-12T16:58:19Z",
-      "description": "Follow along with the community file: https://www.figma.com/community/file/1637176622656243292 In this workshop we will ..."
+      "title": "Figma for Edu workshop: Making vector icons in Figma",
+      "url": "https://www.youtube.com/watch?v=dlMM7M5gTOc",
+      "videoId": "dlMM7M5gTOc",
+      "publishedAt": "2026-07-13T14:34:54Z",
+      "description": "Get the community file here: https://www.figma.com/design/g8VNQx5u504EvkTaWbIhNf/Make-vector-icons."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Raising Money for a Space Gun",
+      "url": "https://www.youtube.com/watch?v=OzEgx2j6Vsw",
+      "videoId": "OzEgx2j6Vsw",
+      "publishedAt": "2026-06-15T13:41:27Z",
+      "description": "You have to be willing to get kicked in the teeth."
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
