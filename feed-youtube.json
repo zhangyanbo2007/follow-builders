@@ -1,46 +1,100 @@
 {
-  "generatedAt": "2026-07-14T02:46:56.959Z",
+  "generatedAt": "2026-07-15T02:45:29.882Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Hardware Supply Chain",
-      "url": "https://www.youtube.com/watch?v=0gCeJFyRYx4",
-      "videoId": "0gCeJFyRYx4",
-      "publishedAt": "2026-05-01T16:41:52Z",
-      "description": "In Shenzhen, a team can go from design to a new physical part in a day. In the US, that same loop often takes weeks, and that gap ..."
+      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+      "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
+      "videoId": "oHwUD9b9_pg",
+      "publishedAt": "2026-06-25T14:00:34Z",
+      "description": "Mark Pincus is the founder of Zynga and author of \"Life at the Speed of Play: Launch Products People Love\", which distills the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Why &quot;Tokens Aren&#39;t Fungible&quot; - Anthropic&#39;s Angela Jiang",
+      "url": "https://www.youtube.com/watch?v=Fsi2b4PrjZk",
+      "videoId": "Fsi2b4PrjZk",
+      "publishedAt": "2026-07-14T22:49:59Z",
+      "description": "Anthropic's Angela Jiang breaks down the abstraction stack behind Claude: knowledge (answering questions), execution (doing ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Anthropic&#39;s Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
+      "videoId": "vPnVTHYplrQ",
+      "publishedAt": "2026-07-14T09:00:37Z",
+      "description": "Katelyn Lesse and Angela Jiang lead the team building Anthropic's developer platform - the layer that both outside builders and ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "L’impact inattendu de ChatGPT sur les abonnements du Monde",
-      "url": "https://www.youtube.com/watch?v=dEVF0b5gbms",
-      "videoId": "dEVF0b5gbms",
-      "publishedAt": "2026-06-10T17:01:01Z",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma for Edu workshop: Making vector icons in Figma",
-      "url": "https://www.youtube.com/watch?v=dlMM7M5gTOc",
-      "videoId": "dlMM7M5gTOc",
-      "publishedAt": "2026-07-13T14:34:54Z",
-      "description": "Get the community file here: https://www.figma.com/design/g8VNQx5u504EvkTaWbIhNf/Make-vector-icons."
+      "channel": "Stripe Sessions",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
+      "description": ""
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Raising Money for a Space Gun",
-      "url": "https://www.youtube.com/watch?v=OzEgx2j6Vsw",
-      "videoId": "OzEgx2j6Vsw",
-      "publishedAt": "2026-06-15T13:41:27Z",
-      "description": "You have to be willing to get kicked in the teeth."
+      "channel": "Lex Fridman",
+      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "videoId": "1M3Vdl6DRkU",
+      "publishedAt": "2026-05-29T16:18:31Z",
+      "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. Thank you ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast #486",
+      "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
+      "videoId": "Qp0rCU49lMs",
+      "publishedAt": "2025-11-30T19:30:21Z",
+      "description": "Michael Levin is a biologist at Tufts University working on novel ways to understand and control complex pattern formation in ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456",
+      "url": "https://www.youtube.com/watch?v=u321m25rKXc",
+      "videoId": "u321m25rKXc",
+      "publishedAt": "2025-01-05T19:00:47Z",
+      "description": "Volodymyr Zelenskyy is the President of Ukraine. This episode is available in English, Ukrainian, and Russian. Captions and ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Reconstructing Pelé’s lost goal",
+      "url": "https://www.youtube.com/watch?v=R-Yqes8AotY",
+      "videoId": "R-Yqes8AotY",
+      "publishedAt": "2026-07-14T13:04:39Z",
+      "description": "On August 2, 1959, Pelé scored the most beautiful goal of his career: three consecutive “sombreros” without the ball touching the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+      "videoId": "EF1BFaNZN9U",
+      "publishedAt": "2026-05-22T16:09:49Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 10
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
