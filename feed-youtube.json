@@ -1,91 +1,82 @@
 {
-  "generatedAt": "2026-07-16T02:51:53.588Z",
+  "generatedAt": "2026-07-17T02:54:13.234Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "India Can Create The Largest AI Companies",
-      "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
-      "videoId": "Ju8LVdvuxGM",
-      "publishedAt": "2026-06-27T12:30:39Z",
-      "description": "In this final panel from Startup School India, the hosts reflect on why India's deep technical talent makes it uniquely positioned to ..."
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Overheard at Config: Day Two",
-      "url": "https://www.youtube.com/watch?v=BPwv3b846HY",
-      "videoId": "BPwv3b846HY",
-      "publishedAt": "2026-07-15T18:36:04Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Using Figma Motion to create a viral karaoke app in 30 mins I Design Roulette Ep 4",
-      "url": "https://www.youtube.com/watch?v=E381aeAiIeM",
-      "videoId": "E381aeAiIeM",
-      "publishedAt": "2026-07-15T13:47:22Z",
-      "description": "Join Amy Lima (Designer Advocate, Figma) and Nolan Perkins (Director, RadCollab) in episode 4 of Design Roulette, where ..."
+      "title": "From code to design layers with variables attached",
+      "url": "https://www.youtube.com/watch?v=_UViEoB74hE",
+      "videoId": "_UViEoB74hE",
+      "publishedAt": "2026-07-16T17:14:32Z",
+      "description": "When you bring code-backed screens onto the Figma canvas, colors, type, and spacing now bind to most of the variables already ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+      "title": "Anthropic: AI Is Smarter Than We Think",
+      "url": "https://www.youtube.com/watch?v=AoS7r-PjS9c",
+      "videoId": "AoS7r-PjS9c",
+      "publishedAt": "2026-07-16T15:12:51Z",
+      "description": "Thariq (Claude Code team) details how today's models are often more capable than we know."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
-      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
-      "videoId": "kPqH3ZSbVjo",
-      "publishedAt": "2026-06-04T15:00:33Z",
-      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
-      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
-      "videoId": "JJS1d1bTMZM",
-      "publishedAt": "2026-05-25T17:00:28Z",
-      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: Why ChatGPT Won",
-      "url": "https://www.youtube.com/watch?v=MRvCQJCisFo",
-      "videoId": "MRvCQJCisFo",
-      "publishedAt": "2026-05-17T18:25:28Z",
-      "description": "Everyone had the tech behind ChatGPT. No one thought it was a real product."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: The Real Reason Tech Companies Become Irrelevant",
-      "url": "https://www.youtube.com/watch?v=oHqclbTbFuw",
-      "videoId": "oHqclbTbFuw",
-      "publishedAt": "2026-05-01T15:45:32Z",
-      "description": "The best way to kill a company? Stop focusing on the product."
+      "title": "Anthropic Engineer on the Future of Coding with AI | Thariq Shihipar",
+      "url": "https://www.youtube.com/watch?v=O-1VXHRlH54",
+      "videoId": "O-1VXHRlH54",
+      "publishedAt": "2026-07-16T15:00:27Z",
+      "description": "Thariq Shihipar, a member of Anthropic's Claude Code team (& SPC alum), joins South Park Commons Partner Evan Tana to ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
