@@ -1,82 +1,46 @@
 {
-  "generatedAt": "2026-07-17T02:54:13.234Z",
+  "generatedAt": "2026-07-18T02:46:50.171Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+      "channel": "YC Startup School",
+      "title": "The Key Thing Human Brains Have That AI Is Trying To Learn",
+      "url": "https://www.youtube.com/watch?v=qz4GQ0zUFRw",
+      "videoId": "qz4GQ0zUFRw",
+      "publishedAt": "2026-07-17T14:00:25Z",
+      "description": "In this episode of Decoded, Ankit and Francois walk through the motivation and math behind world models. They cover a number ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
-      "description": ""
+      "channel": "YC Startup School",
+      "title": "Solving the Blank Canvas Problem: Gusto&#39;s AI Co-Founder",
+      "url": "https://www.youtube.com/watch?v=xpeRVyFFy_Q",
+      "videoId": "xpeRVyFFy_Q",
+      "publishedAt": "2026-07-08T14:00:19Z",
+      "description": "Eddie Kim is the co-founder and Head of Technology at Gusto (W12), a payroll and HR platform serving over 500000 small ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "From code to design layers with variables attached",
-      "url": "https://www.youtube.com/watch?v=_UViEoB74hE",
-      "videoId": "_UViEoB74hE",
-      "publishedAt": "2026-07-16T17:14:32Z",
-      "description": "When you bring code-backed screens onto the Figma canvas, colors, type, and spacing now bind to most of the variables already ..."
+      "title": "Let’s play a game of would you have guessed the same, Config edition",
+      "url": "https://www.youtube.com/watch?v=xzNHIfGdqs0",
+      "videoId": "xzNHIfGdqs0",
+      "publishedAt": "2026-07-17T11:00:40Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Anthropic: AI Is Smarter Than We Think",
-      "url": "https://www.youtube.com/watch?v=AoS7r-PjS9c",
-      "videoId": "AoS7r-PjS9c",
-      "publishedAt": "2026-07-16T15:12:51Z",
-      "description": "Thariq (Claude Code team) details how today's models are often more capable than we know."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Anthropic Engineer on the Future of Coding with AI | Thariq Shihipar",
-      "url": "https://www.youtube.com/watch?v=O-1VXHRlH54",
-      "videoId": "O-1VXHRlH54",
-      "publishedAt": "2026-07-16T15:00:27Z",
-      "description": "Thariq Shihipar, a member of Anthropic's Claude Code team (& SPC alum), joins South Park Commons Partner Evan Tana to ..."
+      "title": "Always Find the Cheapest Way to Test",
+      "url": "https://www.youtube.com/watch?v=lXHV5FpFPmY",
+      "videoId": "lXHV5FpFPmY",
+      "publishedAt": "2026-07-17T16:28:36Z",
+      "description": "Founders should test ideas with the simplest possible version."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
