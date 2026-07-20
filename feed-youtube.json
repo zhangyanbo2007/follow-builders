@@ -1,118 +1,91 @@
 {
-  "generatedAt": "2026-07-19T03:16:37.239Z",
+  "generatedAt": "2026-07-20T03:31:05.759Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Dot Plots: How to Actually See What Your Users Are Doing",
-      "url": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
-      "videoId": "e5-6rEwzxLs",
-      "publishedAt": "2026-07-09T14:00:05Z",
-      "description": "One of the biggest mistakes founders make is relying on aggregate user metrics instead of understanding how any individuals use ..."
+      "title": "YC&#39;s Head of Design Shows You How To Design With AI",
+      "url": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
+      "videoId": "VbqaL_eHhKY",
+      "publishedAt": "2026-07-10T14:00:10Z",
+      "description": "AI isn't just changing the tools designers use. It's changing the way they think, prototype, and build. In this episode of Design ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Apple Vision Pro: Startup Platform Of The Future?",
+      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
+      "videoId": "a_n4yOqlWbA",
+      "publishedAt": "2024-02-21T17:52:18Z",
+      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
+      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
+      "videoId": "TCPjk8Tpb5c",
+      "publishedAt": "2022-02-16T15:30:57Z",
+      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Analyzing Billions of Transactions to Understand Consumer Behavior - Michael Babineau and Kevin Hale",
+      "url": "https://www.youtube.com/watch?v=hsMePYTcIik",
+      "videoId": "hsMePYTcIik",
+      "publishedAt": "2019-05-29T15:22:32Z",
+      "description": "Michael Babineau is cofounder and CEO of Second Measure. Second Measure analyzes billions of credit card transactions to ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Every Startup Has a Hole in the Ship — Kalshi&#39;s Tarek Mansour on the Problem You Can&#39;t Delegate",
-      "url": "https://www.youtube.com/watch?v=D45jOrlzslA",
-      "videoId": "D45jOrlzslA",
-      "publishedAt": "2026-07-09T16:58:50Z",
-      "description": "Every company has one leak the founder can't hand off. Tarek Mansour explains why most CEOs throw a rug over theirs — and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Kalshi&#39;s Tarek Mansour: Chaos by Design",
-      "url": "https://www.youtube.com/watch?v=l_Boz3KRtBQ",
-      "videoId": "l_Boz3KRtBQ",
-      "publishedAt": "2026-07-09T12:00:20Z",
-      "description": "Tarek Mansour calls himself a paranoid risk manager - the guy who can list 20 ways a hot air balloon will go down before it leaves ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
-      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
-      "videoId": "26aV9GTeoSo",
-      "publishedAt": "2026-07-09T18:29:21Z",
-      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
-      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
-      "videoId": "5bjkprj4lpU",
-      "publishedAt": "2026-06-30T18:07:41Z",
-      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+      "title": "Kalshi&#39;s Co-CEOs Disagree by Design — Why Constant Conflict Became Their Pattern",
+      "url": "https://www.youtube.com/watch?v=aq6CQG_zJHg",
+      "videoId": "aq6CQG_zJHg",
+      "publishedAt": "2026-07-10T15:00:21Z",
+      "description": "Conventional wisdom says continuous disagreement is an anti-pattern. Kalshi's co-CEOs made always taking the opposite side a ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "videoId": "pv1TUJSEM2k",
-      "publishedAt": "2026-06-30T21:16:13Z",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "videoId": "H9rF1CSSh-w",
-      "publishedAt": "2026-03-11T20:21:39Z",
-      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "videoId": "1SJiTwbSI58",
-      "publishedAt": "2026-03-01T03:37:44Z",
-      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "videoId": "KGVpKPNUdzA",
-      "publishedAt": "2026-02-25T22:36:32Z",
-      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
-      "description": ""
+      "title": "Understanding the inner thoughts of AI",
+      "url": "https://www.youtube.com/watch?v=1DtMiRKg-cs",
+      "videoId": "1DtMiRKg-cs",
+      "publishedAt": "2026-07-10T15:50:55Z",
+      "description": "What if you were to peer inside the 'mind' of AI? You wouldn't find fully formed thoughts, just vast arrays of numbers. In this ..."
     },
     {
       "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "channel": "Google DeepMind",
+      "title": "When millions of AI agents meet",
+      "url": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
+      "videoId": "V04bm-3d6EQ",
+      "publishedAt": "2026-06-23T15:48:06Z",
+      "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
+      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
+      "videoId": "elkPwaCM2Lw",
+      "publishedAt": "2026-07-01T16:29:39Z",
+      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
     }
   ],
   "stats": {
-    "youtubeVideos": 12
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
