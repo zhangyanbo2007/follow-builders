@@ -1,91 +1,55 @@
 {
-  "generatedAt": "2026-07-20T03:31:05.759Z",
+  "generatedAt": "2026-07-21T02:57:20.422Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "YC&#39;s Head of Design Shows You How To Design With AI",
-      "url": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
-      "videoId": "VbqaL_eHhKY",
-      "publishedAt": "2026-07-10T14:00:10Z",
-      "description": "AI isn't just changing the tools designers use. It's changing the way they think, prototype, and build. In this episode of Design ..."
+      "channel": "Figma Config",
+      "title": "Keeping this anonymous as requested",
+      "url": "https://www.youtube.com/watch?v=7PvBVX_Xo48",
+      "videoId": "7PvBVX_Xo48",
+      "publishedAt": "2026-07-20T20:42:47Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Apple Vision Pro: Startup Platform Of The Future?",
-      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
-      "videoId": "a_n4yOqlWbA",
-      "publishedAt": "2024-02-21T17:52:18Z",
-      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+      "channel": "Figma Config",
+      "title": "Level up your workflow with Figma agent",
+      "url": "https://www.youtube.com/watch?v=iaQfU524-l0",
+      "videoId": "iaQfU524-l0",
+      "publishedAt": "2026-07-20T11:00:12Z",
+      "description": "You can chat with Figma to help you generate and refine designs. As with any AI feature, the quality of what you get depends on ..."
     },
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
-      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
-      "videoId": "TCPjk8Tpb5c",
-      "publishedAt": "2022-02-16T15:30:57Z",
-      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
+      "channel": "Figma Config",
+      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
+      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
+      "videoId": "2pD2X8QasXg",
+      "publishedAt": "2026-07-08T15:20:12Z",
+      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
     },
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Analyzing Billions of Transactions to Understand Consumer Behavior - Michael Babineau and Kevin Hale",
-      "url": "https://www.youtube.com/watch?v=hsMePYTcIik",
-      "videoId": "hsMePYTcIik",
-      "publishedAt": "2019-05-29T15:22:32Z",
-      "description": "Michael Babineau is cofounder and CEO of Second Measure. Second Measure analyzes billions of credit card transactions to ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Kalshi&#39;s Co-CEOs Disagree by Design — Why Constant Conflict Became Their Pattern",
-      "url": "https://www.youtube.com/watch?v=aq6CQG_zJHg",
-      "videoId": "aq6CQG_zJHg",
-      "publishedAt": "2026-07-10T15:00:21Z",
-      "description": "Conventional wisdom says continuous disagreement is an anti-pattern. Kalshi's co-CEOs made always taking the opposite side a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Understanding the inner thoughts of AI",
-      "url": "https://www.youtube.com/watch?v=1DtMiRKg-cs",
-      "videoId": "1DtMiRKg-cs",
-      "publishedAt": "2026-07-10T15:50:55Z",
-      "description": "What if you were to peer inside the 'mind' of AI? You wouldn't find fully formed thoughts, just vast arrays of numbers. In this ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "When millions of AI agents meet",
-      "url": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
-      "videoId": "V04bm-3d6EQ",
-      "publishedAt": "2026-06-23T15:48:06Z",
-      "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a ..."
+      "channel": "Figma Config",
+      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
+      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
+      "videoId": "thvAivrQ4TI",
+      "publishedAt": "2026-06-29T21:52:18Z",
+      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
-      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
-      "videoId": "elkPwaCM2Lw",
-      "publishedAt": "2026-07-01T16:29:39Z",
-      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
+      "title": "The #1 Trait Every AI Founder Needs",
+      "url": "https://www.youtube.com/watch?v=dT2mkXFFn8E",
+      "videoId": "dT2mkXFFn8E",
+      "publishedAt": "2026-07-20T13:51:11Z",
+      "description": "Thariq from Anthropic speaks on the one mindset founders need when everything keeps changing."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
