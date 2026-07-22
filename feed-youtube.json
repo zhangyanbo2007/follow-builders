@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-07-21T02:57:20.422Z",
+  "generatedAt": "2026-07-22T02:55:12.392Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "90% of AI tokens will be asynchronous | Matan Grinberg, Factory",
+      "url": "https://www.youtube.com/watch?v=LQGVBApMiVk",
+      "videoId": "LQGVBApMiVk",
+      "publishedAt": "2026-07-21T17:37:20Z",
+      "description": "If everyone woke up sick tomorrow, coding-agent usage would drop to near zero. Matan Grinberg of Factory on the shift from ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Factory&#39;s Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
+      "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
+      "videoId": "ZesOukBjPmI",
+      "publishedAt": "2026-07-21T12:00:08Z",
+      "description": "Factory started building fully autonomous coding agents in April 2023, two years before enterprises were ready. Matan Grinberg ..."
+    },
+    {
+      "source": "youtube",
       "channel": "Figma Config",
-      "title": "Keeping this anonymous as requested",
-      "url": "https://www.youtube.com/watch?v=7PvBVX_Xo48",
-      "videoId": "7PvBVX_Xo48",
-      "publishedAt": "2026-07-20T20:42:47Z",
+      "title": "Where does design really start?",
+      "url": "https://www.youtube.com/watch?v=_or4bOIjIvo",
+      "videoId": "_or4bOIjIvo",
+      "publishedAt": "2026-07-21T17:12:42Z",
+      "description": "A tour through our Config zine with our friends at No Ideas. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "What do you want to say to the first person",
+      "url": "https://www.youtube.com/watch?v=S-CzWcf7k9E",
+      "videoId": "S-CzWcf7k9E",
+      "publishedAt": "2026-07-21T11:00:36Z",
       "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Level up your workflow with Figma agent",
-      "url": "https://www.youtube.com/watch?v=iaQfU524-l0",
-      "videoId": "iaQfU524-l0",
-      "publishedAt": "2026-07-20T11:00:12Z",
-      "description": "You can chat with Figma to help you generate and refine designs. As with any AI feature, the quality of what you get depends on ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
-      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
-      "videoId": "2pD2X8QasXg",
-      "publishedAt": "2026-07-08T15:20:12Z",
-      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
-      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
-      "videoId": "thvAivrQ4TI",
-      "publishedAt": "2026-06-29T21:52:18Z",
-      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The #1 Trait Every AI Founder Needs",
-      "url": "https://www.youtube.com/watch?v=dT2mkXFFn8E",
-      "videoId": "dT2mkXFFn8E",
-      "publishedAt": "2026-07-20T13:51:11Z",
-      "description": "Thariq from Anthropic speaks on the one mindset founders need when everything keeps changing."
+      "title": "Figma for Edu workshop: Making vector icons in Figma",
+      "url": "https://www.youtube.com/watch?v=dlMM7M5gTOc",
+      "videoId": "dlMM7M5gTOc",
+      "publishedAt": "2026-07-13T14:34:54Z",
+      "description": "Get the community file here: https://www.figma.com/design/g8VNQx5u504EvkTaWbIhNf/Make-vector-icons."
     }
   ],
   "stats": {
