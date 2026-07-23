@@ -1,55 +1,172 @@
 {
-  "generatedAt": "2026-07-22T02:55:12.392Z",
+  "generatedAt": "2026-07-23T03:16:34.911Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "90% of AI tokens will be asynchronous | Matan Grinberg, Factory",
-      "url": "https://www.youtube.com/watch?v=LQGVBApMiVk",
-      "videoId": "LQGVBApMiVk",
-      "publishedAt": "2026-07-21T17:37:20Z",
-      "description": "If everyone woke up sick tomorrow, coding-agent usage would drop to near zero. Matan Grinberg of Factory on the shift from ..."
+      "channel": "YC Startup School",
+      "title": "Compute at Sea",
+      "url": "https://www.youtube.com/watch?v=xZW8fR9ediE",
+      "videoId": "xZW8fR9ediE",
+      "publishedAt": "2026-07-23T02:36:16Z",
+      "description": "AI is running out of compute, and data centers are running out of electricity and land. One possible solution is to move compute ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Multiplayer AI",
+      "url": "https://www.youtube.com/watch?v=CzQbI8_bBEs",
+      "videoId": "CzQbI8_bBEs",
+      "publishedAt": "2026-07-22T22:27:46Z",
+      "description": "The best work tools became more powerful when they became multiplayer. But AI is still mostly trapped in private chats, with ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "A Cloud for Small Software",
+      "url": "https://www.youtube.com/watch?v=G3WEOXKN2SI",
+      "videoId": "G3WEOXKN2SI",
+      "publishedAt": "2026-07-22T20:27:18Z",
+      "description": "Agents make it easy to build personal tools for yourself or your team. But deploying, securing, and sharing that software is still far ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "The Future of American Defense",
+      "url": "https://www.youtube.com/watch?v=iOeW40N-1VI",
+      "videoId": "iOeW40N-1VI",
+      "publishedAt": "2026-07-22T19:11:49Z",
+      "description": "Warfare is at an inflection point, and the old ways of Army acquisition simply don't keep pace with modern threats. The Army is ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "The Primer",
+      "url": "https://www.youtube.com/watch?v=e7TyxRj-GDU",
+      "videoId": "e7TyxRj-GDU",
+      "publishedAt": "2026-07-22T17:44:22Z",
+      "description": "The best education has always come from one-on-one tutoring, but that privilege has historically been reserved for very few ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Factory&#39;s Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
-      "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
-      "videoId": "ZesOukBjPmI",
-      "publishedAt": "2026-07-21T12:00:08Z",
-      "description": "Factory started building fully autonomous coding agents in April 2023, two years before enterprises were ready. Matan Grinberg ..."
+      "title": "Every CIO will have to answer for every token | Factory&#39;s Matan Grinberg",
+      "url": "https://www.youtube.com/watch?v=9QpW3icO234",
+      "videoId": "9QpW3icO234",
+      "publishedAt": "2026-07-22T19:27:51Z",
+      "description": "Not everyone needs the same tokens. Matan Grinberg of Factory on routing work across frontier models, Gemini Flash, and ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Why &quot;Tokens Aren&#39;t Fungible&quot; - Anthropic&#39;s Angela Jiang",
+      "url": "https://www.youtube.com/watch?v=Fsi2b4PrjZk",
+      "videoId": "Fsi2b4PrjZk",
+      "publishedAt": "2026-07-14T22:49:59Z",
+      "description": "Anthropic's Angela Jiang breaks down the abstraction stack behind Claude: knowledge (answering questions), execution (doing ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Anthropic&#39;s Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
+      "videoId": "vPnVTHYplrQ",
+      "publishedAt": "2026-07-14T09:00:37Z",
+      "description": "Katelyn Lesse and Angela Jiang lead the team building Anthropic's developer platform - the layer that both outside builders and ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Alan cofounder and CTO Charles Gorintin",
+      "url": "https://www.youtube.com/watch?v=WkktooN6s-w",
+      "videoId": "WkktooN6s-w",
+      "publishedAt": "2026-06-16T17:44:45Z",
+      "description": "Alan cofounder and CTO joins Stripe French country lead Laurent Curny for a fireside chat at Tour Paris. Register for Stripe Tour ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Where does design really start?",
-      "url": "https://www.youtube.com/watch?v=_or4bOIjIvo",
-      "videoId": "_or4bOIjIvo",
-      "publishedAt": "2026-07-21T17:12:42Z",
-      "description": "A tour through our Config zine with our friends at No Ideas. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+      "title": "Easily animate loaders with the arc tool and Figma Motion",
+      "url": "https://www.youtube.com/watch?v=8hpEKTCFe7M",
+      "videoId": "8hpEKTCFe7M",
+      "publishedAt": "2026-07-22T20:21:16Z",
+      "description": "Make loading animations easily in Figma motion by using the arc tool with Miggi from Figgi. Find us on ⬇️ X (formerly Twitter): ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "What do you want to say to the first person",
-      "url": "https://www.youtube.com/watch?v=S-CzWcf7k9E",
-      "videoId": "S-CzWcf7k9E",
-      "publishedAt": "2026-07-21T11:00:36Z",
+      "title": "Motion for people who are scared of motion software | Figma Motion + agent demo",
+      "url": "https://www.youtube.com/watch?v=OxoV79nv4v0",
+      "videoId": "OxoV79nv4v0",
+      "publishedAt": "2026-07-22T14:47:00Z",
+      "description": "Join Laura Fehre (Designer Advocate, Figma) as she teaches you Motion even if you're a total beginner. Follow along as she ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Morning motivation, courtesy of @rac",
+      "url": "https://www.youtube.com/watch?v=KAePGqul0HA",
+      "videoId": "KAePGqul0HA",
+      "publishedAt": "2026-07-22T11:00:17Z",
       "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma for Edu workshop: Making vector icons in Figma",
-      "url": "https://www.youtube.com/watch?v=dlMM7M5gTOc",
-      "videoId": "dlMM7M5gTOc",
-      "publishedAt": "2026-07-13T14:34:54Z",
-      "description": "Get the community file here: https://www.figma.com/design/g8VNQx5u504EvkTaWbIhNf/Make-vector-icons."
+      "channel": "Google DeepMind",
+      "title": "Reconstructing Pelé’s lost goal",
+      "url": "https://www.youtube.com/watch?v=R-Yqes8AotY",
+      "videoId": "R-Yqes8AotY",
+      "publishedAt": "2026-07-14T13:04:39Z",
+      "description": "On August 2, 1959, Pelé scored the most beautiful goal of his career: three consecutive “sombreros” without the ball touching the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Sunken Garden",
+      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
+      "videoId": "0NdJ61nwei4",
+      "publishedAt": "2026-02-20T11:28:25Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Rollerball",
+      "url": "https://www.youtube.com/watch?v=HxapJDdSP9Y",
+      "videoId": "HxapJDdSP9Y",
+      "publishedAt": "2026-02-20T11:29:26Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie Gallery | Bee Yarn",
+      "url": "https://www.youtube.com/watch?v=hXi1g4Q1iyw",
+      "videoId": "hXi1g4Q1iyw",
+      "publishedAt": "2026-02-20T11:28:44Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 18
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
