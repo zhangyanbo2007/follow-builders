@@ -1,91 +1,127 @@
 {
-  "generatedAt": "2026-07-24T02:55:21.461Z",
+  "generatedAt": "2026-07-25T02:55:19.677Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The Best Time to Build in Crypto",
-      "url": "https://www.youtube.com/watch?v=M861XfrOR5s",
-      "videoId": "M861XfrOR5s",
-      "publishedAt": "2026-07-24T00:00:15Z",
-      "description": "Crypto is in a bear market, but the underlying technology is becoming more useful than ever. Stablecoins are spreading across ..."
+      "title": "New Operating Systems for the Physical World",
+      "url": "https://www.youtube.com/watch?v=V_gDce8hBrg",
+      "videoId": "V_gDce8hBrg",
+      "publishedAt": "2026-07-24T20:30:45Z",
+      "description": "Most of the global workforce does not sit at a desk, but the software used to manage physical work has barely changed in decades ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "AI for the Aging Population",
-      "url": "https://www.youtube.com/watch?v=WUDIBATKh4Y",
-      "videoId": "WUDIBATKh4Y",
-      "publishedAt": "2026-07-23T21:16:22Z",
-      "description": "By 2030, one in five Americans will be over 65, and there are nowhere near enough caregivers to support them. AI could help ..."
+      "title": "How Two French Engineers In New York Built The Company That Monitors The Entire Cloud",
+      "url": "https://www.youtube.com/watch?v=vb1Gcn10enw",
+      "videoId": "vb1Gcn10enw",
+      "publishedAt": "2026-07-24T20:00:38Z",
+      "description": "In this chat at Startup School Paris, Datadog CEO Olivier Pomel reflects on his startup journey in New York, how staying close to ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Scientists Are Built for Startups",
-      "url": "https://www.youtube.com/watch?v=ZE2gpqTArgc",
-      "videoId": "ZE2gpqTArgc",
-      "publishedAt": "2026-07-23T17:20:18Z",
-      "description": "If you're a scientist or researcher, you may be more prepared to start a company than you think. Before becoming founders, Arvind ..."
+      "title": "Opencode CEO: Blocked, 20X Growth in 6 Months, Building the Coding Agent for the World",
+      "url": "https://www.youtube.com/watch?v=_O6x4ktK6JA",
+      "videoId": "_O6x4ktK6JA",
+      "publishedAt": "2026-07-24T14:00:17Z",
+      "description": "Jay V is the founder and CEO of Opencode, an open-source alternative to Claude Code that works with any model you want."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The Model-Agnostic AI Platform Betting That No Single Lab Will Win",
-      "url": "https://www.youtube.com/watch?v=DbBnd9PYob4",
-      "videoId": "DbBnd9PYob4",
-      "publishedAt": "2026-07-23T14:00:16Z",
-      "description": "In this discussion at Startup School Paris, Dust co-founder Stanislas Polu reflects on his path from Stripe to OpenAI and why he ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "AI-Powered Consumer Products for 1 Billion People",
-      "url": "https://www.youtube.com/watch?v=eY20SPBpQEg",
-      "videoId": "eY20SPBpQEg",
-      "publishedAt": "2026-07-23T13:40:03Z",
-      "description": "Every major platform shift creates new consumer giants. But three years into the AI era, ChatGPT is still the only new icon on most ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The Philosopher CEO | Clay Co-Founder Kareem Amin",
-      "url": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
-      "videoId": "xoE_pE26yDQ",
-      "publishedAt": "2026-07-23T12:00:25Z",
-      "description": "I had Kareem Amin all wrong. When Clay first crossed my radar, I thought he was too laid-back: no chip on his shoulder, not the ..."
+      "title": "How Photoroom Trained Themselves To Dream Bigger",
+      "url": "https://www.youtube.com/watch?v=RgYCO87ghRY",
+      "videoId": "RgYCO87ghRY",
+      "publishedAt": "2026-07-24T05:00:30Z",
+      "description": "In this chat from Startup School Paris, the founders of Photoroom expand on why going through YC transformed their ambition ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Jimothy on the move",
-      "url": "https://www.youtube.com/watch?v=ah3ua-oX3Dw",
-      "videoId": "ah3ua-oX3Dw",
-      "publishedAt": "2026-07-23T11:00:06Z",
+      "title": "A few of our favorite @figmaweave tools",
+      "url": "https://www.youtube.com/watch?v=X1bjvFptQTM",
+      "videoId": "X1bjvFptQTM",
+      "publishedAt": "2026-07-24T18:19:44Z",
       "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
-      "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
-      "videoId": "EF1BFaNZN9U",
-      "publishedAt": "2026-05-22T16:09:49Z",
-      "description": ""
+      "channel": "Figma Config",
+      "title": "Donkey disco/spa ad campaign with no preparation I Design Roulette Ep 5",
+      "url": "https://www.youtube.com/watch?v=1c7Vprgrtio",
+      "videoId": "1c7Vprgrtio",
+      "publishedAt": "2026-07-24T11:00:36Z",
+      "description": "Join Amy Lima (Designer Advocate, Figma) and Inga Hampton (Product Designer, Raycast) in episode 5 of Design Roulette, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic: AI Is Smarter Than We Think",
+      "url": "https://www.youtube.com/watch?v=AoS7r-PjS9c",
+      "videoId": "AoS7r-PjS9c",
+      "publishedAt": "2026-07-16T15:12:51Z",
+      "description": "Thariq (Claude Code team) details how today's models are often more capable than we know."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic Engineer on How to Get the Most Out of Claude Code | Thariq Shihipar",
+      "url": "https://www.youtube.com/watch?v=O-1VXHRlH54",
+      "videoId": "O-1VXHRlH54",
+      "publishedAt": "2026-07-16T15:00:27Z",
+      "description": "Thariq Shihipar, a member of Anthropic's Claude Code team (& SPC alum), joins South Park Commons Partner Evan Tana to ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 13
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
