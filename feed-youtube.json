@@ -1,64 +1,55 @@
 {
-  "generatedAt": "2026-07-28T02:47:22.420Z",
+  "generatedAt": "2026-07-29T02:54:29.397Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Sam Altman: &quot;Never a Better Time to Do a Startup&quot;",
-      "url": "https://www.youtube.com/watch?v=ZIaOBAjvc38",
-      "videoId": "ZIaOBAjvc38",
-      "publishedAt": "2026-07-28T00:48:16Z",
-      "description": "In 2005, Sam Altman was a Stanford sophomore in YC's first batch, building a startup in a little Cambridge office while Paul ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Boris Cherny: Building Claude Code",
-      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
-      "videoId": "qyPCVqFUyDo",
-      "publishedAt": "2026-07-27T17:00:30Z",
-      "description": "Fresh off the launch of Opus 5, Claude Code creator Boris Cherny joins Diana Hu at Startup School 2026 to talk about what the ..."
+      "title": "Blake Scholl: &quot;The Future Was Supposed to Be Faster&quot;",
+      "url": "https://www.youtube.com/watch?v=byAj35QlGbs",
+      "videoId": "byAj35QlGbs",
+      "publishedAt": "2026-07-28T14:00:18Z",
+      "description": "In 1969, we landed on the moon and flew Concorde. Half a century later, we could do neither. Blake Scholl founded Boom ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Intro to Figma Motion for Edu with shader effects and fills",
-      "url": "https://www.youtube.com/watch?v=-CraJDub-7Q",
-      "videoId": "-CraJDub-7Q",
-      "publishedAt": "2026-07-28T00:25:02Z",
-      "description": "Get the community file here: https://www.figma.com/community/file/1660005670651432796 This workshop is an intermediate level ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Prompting gen plugins for beginners | Figma",
-      "url": "https://www.youtube.com/watch?v=OTMAwqpjgR0",
-      "videoId": "OTMAwqpjgR0",
-      "publishedAt": "2026-07-27T14:44:17Z",
-      "description": "Learn how to create generative plugins to improve your design system, brand, and content workflows. Find us on ⬇️ X (formerly ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Generative plugins for total beginners | Figma",
-      "url": "https://www.youtube.com/watch?v=TR_nQnTtoMQ",
-      "videoId": "TR_nQnTtoMQ",
-      "publishedAt": "2026-07-27T14:43:49Z",
-      "description": "Generative tools let you customize Fimga to your personal needs and preferences. Join Laura Fehre (Designer Advocate, Figma) ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Getting started with Figma Weave, made a little easier with Mallory Dean",
-      "url": "https://www.youtube.com/watch?v=QM-On9fy6Is",
-      "videoId": "QM-On9fy6Is",
-      "publishedAt": "2026-07-27T11:00:21Z",
+      "title": "Apologies in advance 🥲",
+      "url": "https://www.youtube.com/watch?v=K6995FeAYkE",
+      "videoId": "K6995FeAYkE",
+      "publishedAt": "2026-07-28T19:28:21Z",
       "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "videoId": "XyXBwO5jYpw",
+      "publishedAt": "2026-07-28T20:02:11Z",
+      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie Gallery | Amazon Aviator",
+      "url": "https://www.youtube.com/watch?v=yJriP45Kq6M",
+      "videoId": "yJriP45Kq6M",
+      "publishedAt": "2026-02-20T11:28:37Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
+      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
+      "videoId": "elkPwaCM2Lw",
+      "publishedAt": "2026-07-01T16:29:39Z",
+      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
