@@ -1,118 +1,100 @@
 {
-  "generatedAt": "2026-07-30T02:39:33.461Z",
+  "generatedAt": "2026-07-31T03:20:55.967Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Multi-GPU Kernels, Intelligence per Watt, Heterogeneous Inference, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=n8dz2FX0_uY",
-      "videoId": "n8dz2FX0_uY",
-      "publishedAt": "2026-07-29T23:46:52Z",
-      "description": "At our latest YC Paper Club, researchers and builders presented on multi-GPU kernel optimization, intelligence per watt for local ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
-      "url": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
-      "videoId": "sJ4VJWycX9M",
-      "publishedAt": "2026-07-29T19:37:05Z",
-      "description": "Alexandr Wang's advice to his 18-year-old self: develop your own internal compass for how the future will unfold, and hold ..."
+      "title": "Jeff Dean: The 1% Rule for Building in AI",
+      "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+      "videoId": "CxXgV54KzpQ",
+      "publishedAt": "2026-07-30T21:03:53Z",
+      "description": "In 2001, Jeff Dean and Sanjay Ghemawat did the math and realized Google's entire search index would fit in RAM — then ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Building the Automated AGI Lab: Core Automation&#39;s Jerry Tworek and Rohan Anil",
-      "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
-      "videoId": "2RJiaf0SY8s",
-      "publishedAt": "2026-07-29T12:00:38Z",
-      "description": "Jerry Tworek led reasoning at OpenAI, convinced that scaling reinforcement learning was the path to AGI. Rohan Anil co-led ..."
+      "title": "90% of AI tokens will be asynchronous | Matan Grinberg, Factory",
+      "url": "https://www.youtube.com/watch?v=LQGVBApMiVk",
+      "videoId": "LQGVBApMiVk",
+      "publishedAt": "2026-07-21T17:37:20Z",
+      "description": "If everyone woke up sick tomorrow, coding-agent usage would drop to near zero. Matan Grinberg of Factory on the shift from ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Factory&#39;s Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
+      "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
+      "videoId": "ZesOukBjPmI",
+      "publishedAt": "2026-07-21T12:00:08Z",
+      "description": "Factory started building fully autonomous coding agents in April 2023, two years before enterprises were ready. Matan Grinberg ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion: Making a pan and zoom path animation",
-      "url": "https://www.youtube.com/watch?v=HlDrf4eDI-w",
-      "videoId": "HlDrf4eDI-w",
-      "publishedAt": "2026-07-30T00:51:15Z",
-      "description": "In this demo we animate a path and then use its parent frames to follow it, making a more dynamic pan and zoom style animation."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma Motion basics: Motion timeline",
-      "url": "https://www.youtube.com/watch?v=NszP56ua9-8",
-      "videoId": "NszP56ua9-8",
-      "publishedAt": "2026-07-29T11:00:32Z",
-      "description": "Let's learn about the Figma Motion timeline. To access the timeline, switch the toolbar toggle to Motion. The timeline lives across ..."
+      "title": "Turns out animation principle charades are harder than it sounds",
+      "url": "https://www.youtube.com/watch?v=PZ1PRc4TlQ0",
+      "videoId": "PZ1PRc4TlQ0",
+      "publishedAt": "2026-07-30T11:00:39Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Understanding the inner thoughts of AI",
-      "url": "https://www.youtube.com/watch?v=1DtMiRKg-cs",
-      "videoId": "1DtMiRKg-cs",
-      "publishedAt": "2026-07-10T15:50:55Z",
-      "description": "What if you were to peer inside the 'mind' of AI? You wouldn't find fully formed thoughts, just vast arrays of numbers. In this ..."
+      "title": "Tough dexterity tasks with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
+      "videoId": "wYVHxw2-DP4",
+      "publishedAt": "2026-07-30T14:58:10Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "When millions of AI agents meet",
-      "url": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
-      "videoId": "V04bm-3d6EQ",
-      "publishedAt": "2026-06-23T15:48:06Z",
-      "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a ..."
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
+      "videoId": "4lSQnrMC6nY",
+      "publishedAt": "2026-07-30T14:57:57Z",
+      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Multi-robot collaboration with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
+      "videoId": "CiTPDm7PKW0",
+      "publishedAt": "2026-07-30T14:58:03Z",
+      "description": "Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Robots working together with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=fo9WirRIaVs",
+      "videoId": "fo9WirRIaVs",
+      "publishedAt": "2026-07-30T14:58:16Z",
+      "description": "Introducing multi-robot collaboration. This enables different types of robots to communicate and work together to solve complex ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Intelligent whole-body control with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=9MNLEAzA59o",
+      "videoId": "9MNLEAzA59o",
+      "publishedAt": "2026-07-30T14:58:07Z",
+      "description": "The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
-      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
-      "videoId": "kPqH3ZSbVjo",
-      "publishedAt": "2026-06-04T15:00:33Z",
-      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
-      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
-      "videoId": "JJS1d1bTMZM",
-      "publishedAt": "2026-05-25T17:00:28Z",
-      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: Why ChatGPT Won",
-      "url": "https://www.youtube.com/watch?v=MRvCQJCisFo",
-      "videoId": "MRvCQJCisFo",
-      "publishedAt": "2026-05-17T18:25:28Z",
-      "description": "Everyone had the tech behind ChatGPT. No one thought it was a real product."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: The Real Reason Tech Companies Become Irrelevant",
-      "url": "https://www.youtube.com/watch?v=oHqclbTbFuw",
-      "videoId": "oHqclbTbFuw",
-      "publishedAt": "2026-05-01T15:45:32Z",
-      "description": "The best way to kill a company? Stop focusing on the product."
+      "title": "The #1 Trait Every AI Founder Needs",
+      "url": "https://www.youtube.com/watch?v=dT2mkXFFn8E",
+      "videoId": "dT2mkXFFn8E",
+      "publishedAt": "2026-07-20T13:51:11Z",
+      "description": "Thariq from Anthropic speaks on the one mindset founders need when everything keeps changing."
     }
   ],
   "stats": {
-    "youtubeVideos": 12
+    "youtubeVideos": 10
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
