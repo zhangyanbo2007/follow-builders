@@ -1,100 +1,82 @@
 {
-  "generatedAt": "2026-07-31T03:20:55.967Z",
+  "generatedAt": "2026-08-01T03:19:32.841Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Jeff Dean: The 1% Rule for Building in AI",
-      "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
-      "videoId": "CxXgV54KzpQ",
-      "publishedAt": "2026-07-30T21:03:53Z",
-      "description": "In 2001, Jeff Dean and Sanjay Ghemawat did the math and realized Google's entire search index would fit in RAM — then ..."
+      "title": "Patrick Collison: &quot;What If You Succeed?&quot;",
+      "url": "https://www.youtube.com/watch?v=5d6y3poKwK4",
+      "videoId": "5d6y3poKwK4",
+      "publishedAt": "2026-07-31T17:29:06Z",
+      "description": "In 2009, Patrick and John Collison went to Startup School in Berkeley, got sushi in Potrero Hill afterward, and decided on the walk ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "90% of AI tokens will be asynchronous | Matan Grinberg, Factory",
-      "url": "https://www.youtube.com/watch?v=LQGVBApMiVk",
-      "videoId": "LQGVBApMiVk",
-      "publishedAt": "2026-07-21T17:37:20Z",
-      "description": "If everyone woke up sick tomorrow, coding-agent usage would drop to near zero. Matan Grinberg of Factory on the shift from ..."
+      "title": "The Most Automated AI Lab Isn&#39;t Removing Humans | Jerry Tworek, Core Automation",
+      "url": "https://www.youtube.com/watch?v=gzTp_XfPVL8",
+      "videoId": "gzTp_XfPVL8",
+      "publishedAt": "2026-07-31T16:53:33Z",
+      "description": "Jerry Tworek, co-founder of Core Automation and former VP at OpenAI, on what building the most automated AI lab in the world ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Factory&#39;s Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
-      "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
-      "videoId": "ZesOukBjPmI",
-      "publishedAt": "2026-07-21T12:00:08Z",
-      "description": "Factory started building fully autonomous coding agents in April 2023, two years before enterprises were ready. Matan Grinberg ..."
+      "title": "Every CIO will have to answer for every token | Factory&#39;s Matan Grinberg",
+      "url": "https://www.youtube.com/watch?v=9QpW3icO234",
+      "videoId": "9QpW3icO234",
+      "publishedAt": "2026-07-22T19:27:51Z",
+      "description": "Not everyone needs the same tokens. Matan Grinberg of Factory on routing work across frontier models, Gemini Flash, and ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Turns out animation principle charades are harder than it sounds",
-      "url": "https://www.youtube.com/watch?v=PZ1PRc4TlQ0",
-      "videoId": "PZ1PRc4TlQ0",
-      "publishedAt": "2026-07-30T11:00:39Z",
-      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Anthropic&#39;s Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
+      "videoId": "vPnVTHYplrQ",
+      "publishedAt": "2026-07-14T09:00:37Z",
+      "description": "Katelyn Lesse and Angela Jiang lead the team building Anthropic's developer platform - the layer that both outside builders and ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+      "channel": "Stripe Sessions",
+      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
+      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
+      "videoId": "GaxHXrskngs",
+      "publishedAt": "2026-06-18T21:18:11Z",
+      "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
-      "videoId": "4lSQnrMC6nY",
-      "publishedAt": "2026-07-30T14:57:57Z",
-      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
+      "channel": "Stripe Sessions",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
+      "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Multi-robot collaboration with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
-      "videoId": "CiTPDm7PKW0",
-      "publishedAt": "2026-07-30T14:58:03Z",
-      "description": "Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Robots working together with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=fo9WirRIaVs",
-      "videoId": "fo9WirRIaVs",
-      "publishedAt": "2026-07-30T14:58:16Z",
-      "description": "Introducing multi-robot collaboration. This enables different types of robots to communicate and work together to solve complex ..."
+      "channel": "Stripe Sessions",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Intelligent whole-body control with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=9MNLEAzA59o",
-      "videoId": "9MNLEAzA59o",
-      "publishedAt": "2026-07-30T14:58:07Z",
-      "description": "The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The #1 Trait Every AI Founder Needs",
-      "url": "https://www.youtube.com/watch?v=dT2mkXFFn8E",
-      "videoId": "dT2mkXFFn8E",
-      "publishedAt": "2026-07-20T13:51:11Z",
-      "description": "Thariq from Anthropic speaks on the one mindset founders need when everything keeps changing."
+      "title": "This is Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
+      "videoId": "OEmEfobzodE",
+      "publishedAt": "2026-07-31T16:10:59Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
