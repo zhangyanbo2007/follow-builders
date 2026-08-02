@@ -1,82 +1,37 @@
 {
-  "generatedAt": "2026-08-01T03:19:32.841Z",
+  "generatedAt": "2026-08-02T03:19:27.497Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Patrick Collison: &quot;What If You Succeed?&quot;",
-      "url": "https://www.youtube.com/watch?v=5d6y3poKwK4",
-      "videoId": "5d6y3poKwK4",
-      "publishedAt": "2026-07-31T17:29:06Z",
-      "description": "In 2009, Patrick and John Collison went to Startup School in Berkeley, got sushi in Potrero Hill afterward, and decided on the walk ..."
-    },
-    {
-      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "The Most Automated AI Lab Isn&#39;t Removing Humans | Jerry Tworek, Core Automation",
-      "url": "https://www.youtube.com/watch?v=gzTp_XfPVL8",
-      "videoId": "gzTp_XfPVL8",
-      "publishedAt": "2026-07-31T16:53:33Z",
-      "description": "Jerry Tworek, co-founder of Core Automation and former VP at OpenAI, on what building the most automated AI lab in the world ..."
+      "title": "The Philosopher CEO | Clay Co-Founder Kareem Amin",
+      "url": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
+      "videoId": "xoE_pE26yDQ",
+      "publishedAt": "2026-07-23T12:00:25Z",
+      "description": "I had Kareem Amin all wrong. When Clay first crossed my radar, I thought he was too laid-back: no chip on his shoulder, not the ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Every CIO will have to answer for every token | Factory&#39;s Matan Grinberg",
-      "url": "https://www.youtube.com/watch?v=9QpW3icO234",
-      "videoId": "9QpW3icO234",
-      "publishedAt": "2026-07-22T19:27:51Z",
-      "description": "Not everyone needs the same tokens. Matan Grinberg of Factory on routing work across frontier models, Gemini Flash, and ..."
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic: AI Is Smarter Than We Think",
+      "url": "https://www.youtube.com/watch?v=AoS7r-PjS9c",
+      "videoId": "AoS7r-PjS9c",
+      "publishedAt": "2026-07-16T15:12:51Z",
+      "description": "Thariq (Claude Code team) details how today's models are often more capable than we know."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Anthropic&#39;s Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
-      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
-      "videoId": "vPnVTHYplrQ",
-      "publishedAt": "2026-07-14T09:00:37Z",
-      "description": "Katelyn Lesse and Angela Jiang lead the team building Anthropic's developer platform - the layer that both outside builders and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
-      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
-      "videoId": "vV6uCBbCyNE",
-      "publishedAt": "2026-06-17T19:30:32Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
-      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
-      "videoId": "pX-AdubYXgk",
-      "publishedAt": "2026-06-17T01:24:33Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "This is Gemini Robotics 2 🤖",
-      "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
-      "videoId": "OEmEfobzodE",
-      "publishedAt": "2026-07-31T16:10:59Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic Engineer on How to Get the Most Out of Claude Code | Thariq Shihipar",
+      "url": "https://www.youtube.com/watch?v=O-1VXHRlH54",
+      "videoId": "O-1VXHRlH54",
+      "publishedAt": "2026-07-16T15:00:27Z",
+      "description": "Thariq Shihipar, a member of Anthropic's Claude Code team (& SPC alum), joins South Park Commons Partner Evan Tana to ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
