@@ -1,37 +1,91 @@
 {
-  "generatedAt": "2026-08-02T03:19:27.497Z",
+  "generatedAt": "2026-08-03T03:21:23.458Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The Philosopher CEO | Clay Co-Founder Kareem Amin",
-      "url": "https://www.youtube.com/watch?v=xoE_pE26yDQ",
-      "videoId": "xoE_pE26yDQ",
-      "publishedAt": "2026-07-23T12:00:25Z",
-      "description": "I had Kareem Amin all wrong. When Clay first crossed my radar, I thought he was too laid-back: no chip on his shoulder, not the ..."
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Anthropic: AI Is Smarter Than We Think",
-      "url": "https://www.youtube.com/watch?v=AoS7r-PjS9c",
-      "videoId": "AoS7r-PjS9c",
-      "publishedAt": "2026-07-16T15:12:51Z",
-      "description": "Thariq (Claude Code team) details how today's models are often more capable than we know."
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Anthropic Engineer on How to Get the Most Out of Claude Code | Thariq Shihipar",
-      "url": "https://www.youtube.com/watch?v=O-1VXHRlH54",
-      "videoId": "O-1VXHRlH54",
-      "publishedAt": "2026-07-16T15:00:27Z",
-      "description": "Thariq Shihipar, a member of Anthropic's Claude Code team (& SPC alum), joins South Park Commons Partner Evan Tana to ..."
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
+      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
+      "videoId": "2pD2X8QasXg",
+      "publishedAt": "2026-07-08T15:20:12Z",
+      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
+      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
+      "videoId": "thvAivrQ4TI",
+      "publishedAt": "2026-06-29T21:52:18Z",
+      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Now presenting... your Config 2026 agenda",
+      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
+      "videoId": "Rt6KkpaLCaQ",
+      "publishedAt": "2026-05-07T16:59:46Z",
+      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma for Edu: Resizing with Auto layout and Grid in Figma",
+      "url": "https://www.youtube.com/watch?v=iEjKZWxN56w",
+      "videoId": "iEjKZWxN56w",
+      "publishedAt": "2026-03-30T19:36:17Z",
+      "description": "Get the workshop file here: ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
