@@ -1,91 +1,55 @@
 {
-  "generatedAt": "2026-08-03T03:21:23.458Z",
+  "generatedAt": "2026-08-04T02:50:27.475Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+      "channel": "YC Startup School",
+      "title": "Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work",
+      "url": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
+      "videoId": "Gp4zrV3-6N8",
+      "publishedAt": "2026-08-03T22:42:52Z",
+      "description": "Waymo's first autonomous demo took eighteen months. The product took fifteen years. Today, the Waymo Driver runs 500000 trips ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
-      "description": ""
+      "channel": "Sequoia AI Ascent",
+      "title": "The Problem With Testing AI Architectures at Small Scale | Jerry Tworek, Core Automation",
+      "url": "https://www.youtube.com/watch?v=mEkvl-6tjBQ",
+      "videoId": "mEkvl-6tjBQ",
+      "publishedAt": "2026-08-03T18:32:18Z",
+      "description": "Jerry Tworek, co-founder of Core Automation and former VP at OpenAI, on a quiet assumption in AI research: prove your ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
-      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
-      "videoId": "2pD2X8QasXg",
-      "publishedAt": "2026-07-08T15:20:12Z",
-      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
+      "title": "Animate with the origin point in Figma Motion",
+      "url": "https://www.youtube.com/watch?v=EHNWyxkpy4s",
+      "videoId": "EHNWyxkpy4s",
+      "publishedAt": "2026-08-03T17:36:56Z",
+      "description": "Apply more control over your rotations by adjusting the origin point on your objects in Figma Motion. Find us on ⬇️ X (formerly ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
-      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
-      "videoId": "thvAivrQ4TI",
-      "publishedAt": "2026-06-29T21:52:18Z",
-      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
+      "channel": "Lex Fridman",
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Now presenting... your Config 2026 agenda",
-      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
-      "videoId": "Rt6KkpaLCaQ",
-      "publishedAt": "2026-05-07T16:59:46Z",
-      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma for Edu: Resizing with Auto layout and Grid in Figma",
-      "url": "https://www.youtube.com/watch?v=iEjKZWxN56w",
-      "videoId": "iEjKZWxN56w",
-      "publishedAt": "2026-03-30T19:36:17Z",
-      "description": "Get the workshop file here: ..."
+      "channel": "Google DeepMind",
+      "title": "Advanced dexterity with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
+      "videoId": "O9-650iHAls",
+      "publishedAt": "2026-07-30T14:57:59Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
