@@ -1,100 +1,46 @@
 {
-  "generatedAt": "2026-08-05T02:47:30.234Z",
+  "generatedAt": "2026-08-06T02:50:35.215Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Chai Discovery&#39;s Bitter Lesson: Drug Design Is Another Scaling Problem",
-      "url": "https://www.youtube.com/watch?v=wv53mDmY-k0",
-      "videoId": "wv53mDmY-k0",
-      "publishedAt": "2026-08-04T12:00:29Z",
-      "description": "Most people treat biology as a bespoke, messy science. Josh Meier and Matt McPartlon, co-founders of Chai Discovery, treat it as ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
-      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
-      "videoId": "26aV9GTeoSo",
-      "publishedAt": "2026-07-09T18:29:21Z",
-      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
-      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
-      "videoId": "5bjkprj4lpU",
-      "publishedAt": "2026-06-30T18:07:41Z",
-      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+      "channel": "YC Startup School",
+      "title": "The Case for Data Centers in Space",
+      "url": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
+      "videoId": "A9JDkiYEhfY",
+      "publishedAt": "2026-08-05T14:00:08Z",
+      "description": "Philip Johnston is the co-founder and CEO of Starcloud, the company building data centers in space. In November 2025 ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion basics: Keyframes",
-      "url": "https://www.youtube.com/watch?v=0lnvIXzocj4",
-      "videoId": "0lnvIXzocj4",
-      "publishedAt": "2026-08-04T11:00:22Z",
-      "description": "Keyframes are one of two ways to animate objects in Figma Motion. A keyframe marks a point in time where you set a specific ..."
+      "title": "Figma Motion basics: Motion path",
+      "url": "https://www.youtube.com/watch?v=XlQmD9ewN9Y",
+      "videoId": "XlQmD9ewN9Y",
+      "publishedAt": "2026-08-05T11:00:21Z",
+      "description": "Let's learn about motion paths in Figma Motion. When you add position keyframes to an animation, that movement is displayed as ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "videoId": "pv1TUJSEM2k",
-      "publishedAt": "2026-06-30T21:16:13Z",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "videoId": "H9rF1CSSh-w",
-      "publishedAt": "2026-03-11T20:21:39Z",
-      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "videoId": "1SJiTwbSI58",
-      "publishedAt": "2026-03-01T03:37:44Z",
-      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Always Find the Cheapest Way to Test",
-      "url": "https://www.youtube.com/watch?v=lXHV5FpFPmY",
-      "videoId": "lXHV5FpFPmY",
-      "publishedAt": "2026-07-17T16:28:36Z",
-      "description": "Founders should test ideas with the simplest possible version."
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
       "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Sunken Garden",
+      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
+      "videoId": "0NdJ61nwei4",
+      "publishedAt": "2026-02-20T11:28:25Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
