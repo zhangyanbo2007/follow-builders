@@ -1,82 +1,55 @@
 {
-  "generatedAt": "2026-08-07T02:49:19.135Z",
+  "generatedAt": "2026-08-08T01:52:08.900Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Garry Tan: &quot;Personal AGI Is How You Stay Under Your Own Power&quot;",
-      "url": "https://www.youtube.com/watch?v=eRrc1pUY5oU",
-      "videoId": "eRrc1pUY5oU",
-      "publishedAt": "2026-08-06T18:47:45Z",
-      "description": "The next generation of startups will be built by smaller teams than ever before. At Startup School 2026, YC President & CEO Garry ..."
+      "title": "Max Hodak: What Really Kills Deep Tech Startups?",
+      "url": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
+      "videoId": "Xc4klGbq8v8",
+      "publishedAt": "2026-08-07T21:30:32Z",
+      "description": "Science is building a retinal implant that restores vision to people who have gone blind. One patient has already used it to read a ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Building the Automated AGI Lab: Core Automation&#39;s Jerry Tworek and Rohan Anil",
-      "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
-      "videoId": "2RJiaf0SY8s",
-      "publishedAt": "2026-07-29T12:00:38Z",
-      "description": "Jerry Tworek led reasoning at OpenAI, convinced that scaling reinforcement learning was the path to AGI. Rohan Anil co-led ..."
+      "channel": "YC Startup School",
+      "title": "How To Design In The Agent Era",
+      "url": "https://www.youtube.com/watch?v=P06RgnUKX_I",
+      "videoId": "P06RgnUKX_I",
+      "publishedAt": "2026-08-07T14:00:34Z",
+      "description": "AI isn't just changing the tools designers use. It's changing how they build, ship, and stand out. In this episode of Design Review, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Copy + paste performance improvements | Figma",
+      "url": "https://www.youtube.com/watch?v=qn7uTCE146g",
+      "videoId": "qn7uTCE146g",
+      "publishedAt": "2026-08-07T11:00:13Z",
+      "description": "Figma's copy paste feature has gotten faster recently. For instance, on a component with over 1000 states, copy went from 700+ ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "videoId": "XyXBwO5jYpw",
-      "publishedAt": "2026-07-28T20:02:11Z",
-      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "videoId": "KGVpKPNUdzA",
+      "publishedAt": "2026-02-25T22:36:32Z",
+      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
-      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
-      "videoId": "kPqH3ZSbVjo",
-      "publishedAt": "2026-06-04T15:00:33Z",
-      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
-      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
-      "videoId": "JJS1d1bTMZM",
-      "publishedAt": "2026-05-25T17:00:28Z",
-      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: Why ChatGPT Won",
-      "url": "https://www.youtube.com/watch?v=MRvCQJCisFo",
-      "videoId": "MRvCQJCisFo",
-      "publishedAt": "2026-05-17T18:25:28Z",
-      "description": "Everyone had the tech behind ChatGPT. No one thought it was a real product."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Nikesh Arora: The Real Reason Tech Companies Become Irrelevant",
-      "url": "https://www.youtube.com/watch?v=oHqclbTbFuw",
-      "videoId": "oHqclbTbFuw",
-      "publishedAt": "2026-05-01T15:45:32Z",
-      "description": "The best way to kill a company? Stop focusing on the product."
+      "channel": "Google DeepMind",
+      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
+      "videoId": "zlveLhFb64M",
+      "publishedAt": "2026-08-07T14:47:11Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
