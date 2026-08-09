@@ -1,55 +1,64 @@
 {
-  "generatedAt": "2026-08-08T01:52:08.900Z",
+  "generatedAt": "2026-08-09T01:59:22.862Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Max Hodak: What Really Kills Deep Tech Startups?",
-      "url": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
-      "videoId": "Xc4klGbq8v8",
-      "publishedAt": "2026-08-07T21:30:32Z",
-      "description": "Science is building a retinal implant that restores vision to people who have gone blind. One patient has already used it to read a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How To Design In The Agent Era",
-      "url": "https://www.youtube.com/watch?v=P06RgnUKX_I",
-      "videoId": "P06RgnUKX_I",
-      "publishedAt": "2026-08-07T14:00:34Z",
-      "description": "AI isn't just changing the tools designers use. It's changing how they build, ship, and stand out. In this episode of Design Review, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Copy + paste performance improvements | Figma",
-      "url": "https://www.youtube.com/watch?v=qn7uTCE146g",
-      "videoId": "qn7uTCE146g",
-      "publishedAt": "2026-08-07T11:00:13Z",
-      "description": "Figma's copy paste feature has gotten faster recently. For instance, on a component with over 1000 states, copy went from 700+ ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "videoId": "KGVpKPNUdzA",
-      "publishedAt": "2026-02-25T22:36:32Z",
-      "description": "In this video I'm training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was ..."
+      "title": "Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=myDCd0hNqQU",
+      "videoId": "myDCd0hNqQU",
+      "publishedAt": "2026-08-08T14:00:16Z",
+      "description": "This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
-      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
-      "videoId": "zlveLhFb64M",
-      "publishedAt": "2026-08-07T14:47:11Z",
-      "description": ""
+      "title": "Tough dexterity tasks with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
+      "videoId": "wYVHxw2-DP4",
+      "publishedAt": "2026-07-30T14:58:10Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
+      "videoId": "4lSQnrMC6nY",
+      "publishedAt": "2026-07-30T14:57:57Z",
+      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Multi-robot collaboration with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
+      "videoId": "CiTPDm7PKW0",
+      "publishedAt": "2026-07-30T14:58:03Z",
+      "description": "Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The #1 Trait Every AI Founder Needs",
+      "url": "https://www.youtube.com/watch?v=dT2mkXFFn8E",
+      "videoId": "dT2mkXFFn8E",
+      "publishedAt": "2026-07-20T13:51:11Z",
+      "description": "Thariq from Anthropic speaks on the one mindset founders need when everything keeps changing."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
+      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
+      "videoId": "elkPwaCM2Lw",
+      "publishedAt": "2026-07-01T16:29:39Z",
+      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
