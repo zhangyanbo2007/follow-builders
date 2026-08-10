@@ -1,64 +1,55 @@
 {
-  "generatedAt": "2026-08-09T01:59:22.862Z",
+  "generatedAt": "2026-08-10T02:03:43.450Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=myDCd0hNqQU",
-      "videoId": "myDCd0hNqQU",
-      "publishedAt": "2026-08-08T14:00:16Z",
-      "description": "This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "The Most Automated AI Lab Isn&#39;t Removing Humans | Jerry Tworek, Core Automation",
+      "url": "https://www.youtube.com/watch?v=gzTp_XfPVL8",
+      "videoId": "gzTp_XfPVL8",
+      "publishedAt": "2026-07-31T16:53:33Z",
+      "description": "Jerry Tworek, co-founder of Core Automation and former VP at OpenAI, on what building the most automated AI lab in the world ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
+      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
+      "videoId": "GaxHXrskngs",
+      "publishedAt": "2026-06-18T21:18:11Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
-      "videoId": "4lSQnrMC6nY",
-      "publishedAt": "2026-07-30T14:57:57Z",
-      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Multi-robot collaboration with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
-      "videoId": "CiTPDm7PKW0",
-      "publishedAt": "2026-07-30T14:58:03Z",
-      "description": "Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The #1 Trait Every AI Founder Needs",
-      "url": "https://www.youtube.com/watch?v=dT2mkXFFn8E",
-      "videoId": "dT2mkXFFn8E",
-      "publishedAt": "2026-07-20T13:51:11Z",
-      "description": "Thariq from Anthropic speaks on the one mindset founders need when everything keeps changing."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Prototype to Production: The Truth About Scaling Robotics Startups",
-      "url": "https://www.youtube.com/watch?v=elkPwaCM2Lw",
-      "videoId": "elkPwaCM2Lw",
-      "publishedAt": "2026-07-01T16:29:39Z",
-      "description": "Building a robot in a lab is one thing, getting it to work flawlessly in a customer's warehouse or factory is entirely different."
+      "title": "This is Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
+      "videoId": "OEmEfobzodE",
+      "publishedAt": "2026-07-31T16:10:59Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
