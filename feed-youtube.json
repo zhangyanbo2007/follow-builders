@@ -1,82 +1,64 @@
 {
-  "generatedAt": "2026-08-11T01:59:05.919Z",
+  "generatedAt": "2026-08-12T02:12:02.307Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Peter Steinberger: What Happens When 4.7 Million People Let It Cook",
-      "url": "https://www.youtube.com/watch?v=whcfSGN6CAU",
-      "videoId": "whcfSGN6CAU",
-      "publishedAt": "2026-08-10T20:30:26Z",
-      "description": "Last November, Peter Steinberger was annoyed that there was no good way to talk to his coding agents from his phone, so he ..."
+      "title": "Circleback CEO Ali Haghani: Why Your Company Should Be Recording More Meetings",
+      "url": "https://www.youtube.com/watch?v=4YWO4sSRrTE",
+      "videoId": "4YWO4sSRrTE",
+      "publishedAt": "2026-08-11T14:00:11Z",
+      "description": "In this episode of Full Stack, Circleback CEO Ali Haghani shows his work setup and explains why recording meetings with AI ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Every CIO will have to answer for every token | Factory&#39;s Matan Grinberg",
-      "url": "https://www.youtube.com/watch?v=9QpW3icO234",
-      "videoId": "9QpW3icO234",
-      "publishedAt": "2026-07-22T19:27:51Z",
-      "description": "Not everyone needs the same tokens. Matan Grinberg of Factory on routing work across frontier models, Gemini Flash, and ..."
+      "title": "How Harvey Built a Research Lab on a Budget | Gabe Pereyra",
+      "url": "https://www.youtube.com/watch?v=MGouk8W51v0",
+      "videoId": "MGouk8W51v0",
+      "publishedAt": "2026-08-11T13:00:13Z",
+      "description": "How does an application company compete with frontier labs that have more money, talent, compute, and data? At Sequoia ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Anthropic&#39;s Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
-      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
-      "videoId": "vPnVTHYplrQ",
-      "publishedAt": "2026-07-14T09:00:37Z",
-      "description": "Katelyn Lesse and Angela Jiang lead the team building Anthropic's developer platform - the layer that both outside builders and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Kalshi&#39;s Tarek Mansour: Chaos by Design",
-      "url": "https://www.youtube.com/watch?v=l_Boz3KRtBQ",
-      "videoId": "l_Boz3KRtBQ",
-      "publishedAt": "2026-07-09T12:00:20Z",
-      "description": "Tarek Mansour calls himself a paranoid risk manager - the guy who can list 20 ways a hot air balloon will go down before it leaves ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Inside Zipline&#39;s Autonomous System: 140M Miles, Zero Incidents",
-      "url": "https://www.youtube.com/watch?v=6bGxm8gX41o",
-      "videoId": "6bGxm8gX41o",
-      "publishedAt": "2026-07-07T12:00:19Z",
-      "description": "The largest commercial autonomous system on earth isn't a robotaxi fleet — it's Zipline, which has flown 140 million autonomous ..."
+      "title": "How Companies Are Building Their Own Intelligence | Sonya Huang, Sequoia Capital",
+      "url": "https://www.youtube.com/watch?v=bMMv0bZzONg",
+      "videoId": "bMMv0bZzONg",
+      "publishedAt": "2026-08-11T12:00:09Z",
+      "description": "Sequoia Capital partner Sonya Huang opens our Own Your Intelligence event with the case for why more companies are ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Using agents in Figma Design (and coming soon to FigJam and Slides)",
-      "url": "https://www.youtube.com/watch?v=yheAh7VOHLc",
-      "videoId": "yheAh7VOHLc",
-      "publishedAt": "2026-08-10T11:00:34Z",
-      "description": "Figma agents make your work faster, more efficient, and more fun. Now they're available in open beta in Design. We'll also give ..."
+      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
+      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
+      "videoId": "2pD2X8QasXg",
+      "publishedAt": "2026-07-08T15:20:12Z",
+      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Anthropic Engineer on How to Get the Most Out of Claude Code | Thariq Shihipar",
-      "url": "https://www.youtube.com/watch?v=O-1VXHRlH54",
-      "videoId": "O-1VXHRlH54",
-      "publishedAt": "2026-07-16T15:00:27Z",
-      "description": "Thariq Shihipar, a member of Anthropic's Claude Code team (& SPC alum), joins South Park Commons Partner Evan Tana to ..."
+      "channel": "Figma Config",
+      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
+      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
+      "videoId": "thvAivrQ4TI",
+      "publishedAt": "2026-06-29T21:52:18Z",
+      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Next SpaceX is a Giant Space Cannon",
-      "url": "https://www.youtube.com/watch?v=2efJqrK5DKQ",
-      "videoId": "2efJqrK5DKQ",
-      "publishedAt": "2026-06-11T14:00:36Z",
-      "description": "Nato Saichek, cofounder and CTO of Longshot Space, joins South Park Commons Partner Jonathan Brebner to explain why ..."
+      "channel": "Figma Config",
+      "title": "Now presenting... your Config 2026 agenda",
+      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
+      "videoId": "Rt6KkpaLCaQ",
+      "publishedAt": "2026-05-07T16:59:46Z",
+      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
