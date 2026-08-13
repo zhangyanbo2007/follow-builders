@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-08-12T02:12:02.307Z",
+  "generatedAt": "2026-08-13T02:15:09.716Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Circleback CEO Ali Haghani: Why Your Company Should Be Recording More Meetings",
-      "url": "https://www.youtube.com/watch?v=4YWO4sSRrTE",
-      "videoId": "4YWO4sSRrTE",
-      "publishedAt": "2026-08-11T14:00:11Z",
-      "description": "In this episode of Full Stack, Circleback CEO Ali Haghani shows his work setup and explains why recording meetings with AI ..."
+      "title": "Chelsea Finn: This is the State of the Art in Robotics",
+      "url": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
+      "videoId": "cRZNwgvcWUg",
+      "publishedAt": "2026-08-12T15:41:58Z",
+      "description": "Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "How Harvey Built a Research Lab on a Budget | Gabe Pereyra",
-      "url": "https://www.youtube.com/watch?v=MGouk8W51v0",
-      "videoId": "MGouk8W51v0",
-      "publishedAt": "2026-08-11T13:00:13Z",
-      "description": "How does an application company compete with frontier labs that have more money, talent, compute, and data? At Sequoia ..."
+      "title": "RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor",
+      "url": "https://www.youtube.com/watch?v=a00xIn5kwhM",
+      "videoId": "a00xIn5kwhM",
+      "publishedAt": "2026-08-12T13:00:28Z",
+      "description": "RL environments have become the hottest topic in AI training data. But what are they, exactly? At Sequoia Capital's Own Your ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "How Companies Are Building Their Own Intelligence | Sonya Huang, Sequoia Capital",
-      "url": "https://www.youtube.com/watch?v=bMMv0bZzONg",
-      "videoId": "bMMv0bZzONg",
-      "publishedAt": "2026-08-11T12:00:09Z",
-      "description": "Sequoia Capital partner Sonya Huang opens our Own Your Intelligence event with the case for why more companies are ..."
+      "title": "Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao",
+      "url": "https://www.youtube.com/watch?v=yAvJ7b_FxUA",
+      "videoId": "yAvJ7b_FxUA",
+      "publishedAt": "2026-08-12T12:00:10Z",
+      "description": "When should a company move from prompting to post-training its own models? Fireworks AI co-founder and CEO Lin Qiao lays ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
-      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
-      "videoId": "2pD2X8QasXg",
-      "publishedAt": "2026-07-08T15:20:12Z",
-      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
+      "title": "Figma Motion basics: Easing",
+      "url": "https://www.youtube.com/watch?v=r-8MmEjl_KA",
+      "videoId": "r-8MmEjl_KA",
+      "publishedAt": "2026-08-12T11:00:24Z",
+      "description": "Let's learn about easing in Figma Motion. Keyframes define what changes and when. Easing defines how it gets there by ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
-      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
-      "videoId": "thvAivrQ4TI",
-      "publishedAt": "2026-06-29T21:52:18Z",
-      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
+      "channel": "Lex Fridman",
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "videoId": "l6USUAIKJls",
+      "publishedAt": "2026-08-12T12:57:24Z",
+      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Now presenting... your Config 2026 agenda",
-      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
-      "videoId": "Rt6KkpaLCaQ",
-      "publishedAt": "2026-05-07T16:59:46Z",
-      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic: AI Is Smarter Than We Think",
+      "url": "https://www.youtube.com/watch?v=AoS7r-PjS9c",
+      "videoId": "AoS7r-PjS9c",
+      "publishedAt": "2026-07-16T15:12:51Z",
+      "description": "Thariq (Claude Code team) details how today's models are often more capable than we know."
     }
   ],
   "stats": {
