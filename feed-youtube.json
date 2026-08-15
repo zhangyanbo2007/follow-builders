@@ -1,136 +1,37 @@
 {
-  "generatedAt": "2026-08-14T02:12:00.624Z",
+  "generatedAt": "2026-08-15T01:24:52.015Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
-      "url": "https://www.youtube.com/watch?v=eYrMF9Cht8A",
-      "videoId": "eYrMF9Cht8A",
-      "publishedAt": "2026-08-13T13:00:37Z",
-      "description": "Today's AI models keep getting smarter, but every conversation still feels like their first day on the job. Trajectory co-founder Arjun ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "When to Build Your Own Agent Harness | Harrison Chase, LangChain",
-      "url": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
-      "videoId": "HI2q3ci3Iuc",
-      "publishedAt": "2026-08-13T12:00:01Z",
-      "description": "An agent is a harness orchestrating a model and context. If you want to own your intelligence, you probably want to own all three."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
-      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
-      "videoId": "26aV9GTeoSo",
-      "publishedAt": "2026-07-09T18:29:21Z",
-      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
-      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
-      "videoId": "5bjkprj4lpU",
-      "publishedAt": "2026-06-30T18:07:41Z",
-      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+      "channel": "YC Startup School",
+      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
+      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "videoId": "YEvLKzsEwMw",
+      "publishedAt": "2026-08-14T19:14:32Z",
+      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Publish and install agent skills from the Figma Community",
-      "url": "https://www.youtube.com/watch?v=Gbwfq8MXR50",
-      "videoId": "Gbwfq8MXR50",
-      "publishedAt": "2026-08-13T23:23:50Z",
-      "description": "You can now make skills with the Figma agent • Publish and install them from the Figma Community Read all about it!"
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Publish and install skills from the Figma Community",
-      "url": "https://www.youtube.com/watch?v=34KoAgoaG7w",
-      "videoId": "34KoAgoaG7w",
-      "publishedAt": "2026-08-13T16:45:34Z",
-      "description": "You can now publish and install skills for the Figma Agent from the Figma Community! Read all about it!"
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "ICYMI folders are here",
-      "url": "https://www.youtube.com/watch?v=rP0Im4PgeX4",
-      "videoId": "rP0Im4PgeX4",
-      "publishedAt": "2026-08-13T14:52:06Z",
-      "description": "Continuing to rollout over the next week. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "videoId": "pv1TUJSEM2k",
-      "publishedAt": "2026-06-30T21:16:13Z",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "videoId": "H9rF1CSSh-w",
-      "publishedAt": "2026-03-11T20:21:39Z",
-      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
+      "title": "How Nolan intended",
+      "url": "https://www.youtube.com/watch?v=u2evXPEGf8c",
+      "videoId": "u2evXPEGf8c",
+      "publishedAt": "2026-08-14T11:00:22Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "OpenAI’s Reward Hacking Problem Explained",
-      "url": "https://www.youtube.com/watch?v=ksYWqadvaVc",
-      "videoId": "ksYWqadvaVc",
-      "publishedAt": "2026-08-13T14:20:15Z",
-      "description": "The reward hacking incident reveals a deeper challenge around understanding AI systems."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why OpenAI&#39;s Model Hacked Hugging Face | Tom McGrath, Goodfire",
-      "url": "https://www.youtube.com/watch?v=YoRuuz2ZMQs",
-      "videoId": "YoRuuz2ZMQs",
-      "publishedAt": "2026-08-13T14:00:26Z",
-      "description": "Why did OpenAI's model hack into Hugging Face? Tom McGrath, co-founder and Chief Scientist at Goodfire, joins South Park ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Always Find the Cheapest Way to Test",
-      "url": "https://www.youtube.com/watch?v=lXHV5FpFPmY",
-      "videoId": "lXHV5FpFPmY",
-      "publishedAt": "2026-07-17T16:28:36Z",
-      "description": "Founders should test ideas with the simplest possible version."
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "title": "Treating AI Models Like Humans",
+      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
+      "videoId": "Yu9TqNlZNZA",
+      "publishedAt": "2026-08-14T14:47:55Z",
+      "description": "Try to avoid steering your model towards being an \"evil guy.\""
     }
   ],
   "stats": {
-    "youtubeVideos": 14
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
