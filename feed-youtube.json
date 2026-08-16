@@ -1,37 +1,55 @@
 {
-  "generatedAt": "2026-08-15T01:24:52.015Z",
+  "generatedAt": "2026-08-16T01:35:55.533Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
-      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-      "videoId": "YEvLKzsEwMw",
-      "publishedAt": "2026-08-14T19:14:32Z",
-      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
+      "channel": "Lex Fridman",
+      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "videoId": "XyXBwO5jYpw",
+      "publishedAt": "2026-07-28T20:02:11Z",
+      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "How Nolan intended",
-      "url": "https://www.youtube.com/watch?v=u2evXPEGf8c",
-      "videoId": "u2evXPEGf8c",
-      "publishedAt": "2026-08-14T11:00:22Z",
-      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
+      "channel": "Google DeepMind",
+      "title": "Advanced dexterity with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
+      "videoId": "O9-650iHAls",
+      "publishedAt": "2026-07-30T14:57:59Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Treating AI Models Like Humans",
-      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
-      "videoId": "Yu9TqNlZNZA",
-      "publishedAt": "2026-08-14T14:47:55Z",
-      "description": "Try to avoid steering your model towards being an \"evil guy.\""
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Sunken Garden",
+      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
+      "videoId": "0NdJ61nwei4",
+      "publishedAt": "2026-02-20T11:28:25Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Rollerball",
+      "url": "https://www.youtube.com/watch?v=HxapJDdSP9Y",
+      "videoId": "HxapJDdSP9Y",
+      "publishedAt": "2026-02-20T11:29:26Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
