@@ -1,55 +1,9 @@
 {
-  "generatedAt": "2026-08-16T01:35:55.533Z",
+  "generatedAt": "2026-08-17T01:26:41.333Z",
   "lookbackHours": 336,
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "videoId": "XyXBwO5jYpw",
-      "publishedAt": "2026-07-28T20:02:11Z",
-      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Advanced dexterity with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
-      "videoId": "O9-650iHAls",
-      "publishedAt": "2026-07-30T14:57:59Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie | Sunken Garden",
-      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
-      "videoId": "0NdJ61nwei4",
-      "publishedAt": "2026-02-20T11:28:25Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie | Rollerball",
-      "url": "https://www.youtube.com/watch?v=HxapJDdSP9Y",
-      "videoId": "HxapJDdSP9Y",
-      "publishedAt": "2026-02-20T11:29:26Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 0
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
