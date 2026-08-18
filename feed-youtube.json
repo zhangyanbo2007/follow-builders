@@ -1,9 +1,100 @@
 {
-  "generatedAt": "2026-08-17T01:26:41.333Z",
+  "generatedAt": "2026-08-18T01:23:40.113Z",
   "lookbackHours": 336,
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=myDCd0hNqQU",
+      "videoId": "myDCd0hNqQU",
+      "publishedAt": "2026-08-08T14:00:16Z",
+      "description": "This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Max Hodak: Average Is Not Good Enough",
+      "url": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
+      "videoId": "Xc4klGbq8v8",
+      "publishedAt": "2026-08-07T21:30:32Z",
+      "description": "Science is building a retinal implant that restores vision to people who have gone blind. One patient has already used it to read a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Garry Tan: Own Your Intelligence",
+      "url": "https://www.youtube.com/watch?v=eRrc1pUY5oU",
+      "videoId": "eRrc1pUY5oU",
+      "publishedAt": "2026-08-06T18:47:45Z",
+      "description": "The next generation of startups will be built by smaller teams than ever before. At Startup School 2026, YC President & CEO Garry ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Really cooked with these comebacks ngl",
+      "url": "https://www.youtube.com/watch?v=hfyEr4qGkhk",
+      "videoId": "hfyEr4qGkhk",
+      "publishedAt": "2026-08-17T11:00:05Z",
+      "description": "Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: https://www.instagram.com/figma LinkedIn: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Tough dexterity tasks with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
+      "videoId": "wYVHxw2-DP4",
+      "publishedAt": "2026-07-30T14:58:10Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
+      "videoId": "zlveLhFb64M",
+      "publishedAt": "2026-08-07T14:47:11Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
+      "videoId": "4lSQnrMC6nY",
+      "publishedAt": "2026-07-30T14:57:57Z",
+      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Multi-robot collaboration with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
+      "videoId": "CiTPDm7PKW0",
+      "publishedAt": "2026-07-30T14:58:03Z",
+      "description": "Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "How Interpretability Could Change AI Development",
+      "url": "https://www.youtube.com/watch?v=J9YNHFUKSgI",
+      "videoId": "J9YNHFUKSgI",
+      "publishedAt": "2026-08-17T13:50:13Z",
+      "description": "Interpretability could help researchers understand and intentionally design AI systems."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The #1 Trait Every AI Founder Needs",
+      "url": "https://www.youtube.com/watch?v=dT2mkXFFn8E",
+      "videoId": "dT2mkXFFn8E",
+      "publishedAt": "2026-07-20T13:51:11Z",
+      "description": "Thariq from Anthropic speaks on the one mindset founders need when everything keeps changing."
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 10
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
