@@ -1,73 +1,19 @@
 {
-  "generatedAt": "2026-08-19T01:25:09.160Z",
+  "generatedAt": "2026-08-20T01:24:33.144Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Michael Kratsios: Inside the White House&#39;s AI Strategy",
-      "url": "https://www.youtube.com/watch?v=zLUZclThLhU",
-      "videoId": "zLUZclThLhU",
-      "publishedAt": "2026-08-18T21:30:38Z",
-      "description": "Michael Kratsios has seen the AI boom from both sides: as COO of Scale AI and inside the White House. Today, as the director of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
-      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
-      "videoId": "xH7U7w9Qzlo",
-      "publishedAt": "2026-08-18T12:00:06Z",
-      "description": "Rich Sutton, who helped pioneer reinforcement learning and wrote the seminal AI essay The Bitter Lesson, has now cofounded ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
-      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
-      "videoId": "vV6uCBbCyNE",
-      "publishedAt": "2026-06-17T19:30:32Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
-      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
-      "videoId": "pX-AdubYXgk",
-      "publishedAt": "2026-06-17T01:24:33Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "This is Gemini Robotics 2 🤖",
-      "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
-      "videoId": "OEmEfobzodE",
-      "publishedAt": "2026-07-31T16:10:59Z",
-      "description": ""
+      "channel": "Figma Config",
+      "title": "Figma Motion basics: Animation styles",
+      "url": "https://www.youtube.com/watch?v=-ilLpuqgbjI",
+      "videoId": "-ilLpuqgbjI",
+      "publishedAt": "2026-08-19T11:00:12Z",
+      "description": "Let's learn about preset animation styles. Animation styles let you quickly add motion without needing to manually configure ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 1
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
