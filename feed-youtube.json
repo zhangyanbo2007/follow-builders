@@ -1,19 +1,73 @@
 {
-  "generatedAt": "2026-08-20T01:24:33.144Z",
+  "generatedAt": "2026-08-21T01:34:50.415Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Going In Deep On Data | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=IfoPg2QefF8",
+      "videoId": "IfoPg2QefF8",
+      "publishedAt": "2026-08-20T14:00:12Z",
+      "description": "This week's YC Paper Club is focused on data. Three domain experts give talks to break down the challenges and frontiers of ..."
+    },
+    {
+      "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion basics: Animation styles",
-      "url": "https://www.youtube.com/watch?v=-ilLpuqgbjI",
-      "videoId": "-ilLpuqgbjI",
-      "publishedAt": "2026-08-19T11:00:12Z",
-      "description": "Let's learn about preset animation styles. Animation styles let you quickly add motion without needing to manually configure ..."
+      "title": "How I build motion design plugins as a product designer | Show Your Work",
+      "url": "https://www.youtube.com/watch?v=AF4VD3dfUdc",
+      "videoId": "AF4VD3dfUdc",
+      "publishedAt": "2026-08-20T14:00:07Z",
+      "description": "Want to achieve a specific motion design effect but don't know how to build the plugin for the job? In this episode of \"Show Your ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Building a motion design plugin in 1 minute",
+      "url": "https://www.youtube.com/watch?v=T5R9wHhJCG0",
+      "videoId": "T5R9wHhJCG0",
+      "publishedAt": "2026-08-20T14:00:31Z",
+      "description": "Want to achieve a specific motion design effect but don't know how to build the plugin for the job? Learn how Figma Education ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
+      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
+      "videoId": "2pD2X8QasXg",
+      "publishedAt": "2026-07-08T15:20:12Z",
+      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
+      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
+      "videoId": "thvAivrQ4TI",
+      "publishedAt": "2026-06-29T21:52:18Z",
+      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Why AI Needs More Than One Winner",
+      "url": "https://www.youtube.com/watch?v=NSKGQp0ansU",
+      "videoId": "NSKGQp0ansU",
+      "publishedAt": "2026-08-20T22:09:24Z",
+      "description": "Sridhar Ramaswamy explains why competition in the model ecosystem matters."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Secret Superpower of Great Founders | Sridhar Ramaswamy (Snowflake CEO)",
+      "url": "https://www.youtube.com/watch?v=dcExd-tQRj4",
+      "videoId": "dcExd-tQRj4",
+      "publishedAt": "2026-08-20T14:00:30Z",
+      "description": "What does it take to build a company that lasts? Snowflake CEO and former SVP of Ads at Google, Sridhar Ramaswamy, joins ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
