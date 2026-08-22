@@ -1,73 +1,64 @@
 {
-  "generatedAt": "2026-08-21T01:34:50.415Z",
+  "generatedAt": "2026-08-22T01:23:39.848Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Going In Deep On Data | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=IfoPg2QefF8",
-      "videoId": "IfoPg2QefF8",
-      "publishedAt": "2026-08-20T14:00:12Z",
-      "description": "This week's YC Paper Club is focused on data. Three domain experts give talks to break down the challenges and frontiers of ..."
+      "title": "Chelsea Finn: This is the State of the Art in Robotics",
+      "url": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
+      "videoId": "cRZNwgvcWUg",
+      "publishedAt": "2026-08-12T15:41:58Z",
+      "description": "Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor",
+      "url": "https://www.youtube.com/watch?v=a00xIn5kwhM",
+      "videoId": "a00xIn5kwhM",
+      "publishedAt": "2026-08-12T13:00:28Z",
+      "description": "RL environments have become the hottest topic in AI training data. But what are they, exactly? At Sequoia Capital's Own Your ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao",
+      "url": "https://www.youtube.com/watch?v=yAvJ7b_FxUA",
+      "videoId": "yAvJ7b_FxUA",
+      "publishedAt": "2026-08-12T12:00:10Z",
+      "description": "When should a company move from prompting to post-training its own models? Fireworks AI co-founder and CEO Lin Qiao lays ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "How I build motion design plugins as a product designer | Show Your Work",
-      "url": "https://www.youtube.com/watch?v=AF4VD3dfUdc",
-      "videoId": "AF4VD3dfUdc",
-      "publishedAt": "2026-08-20T14:00:07Z",
-      "description": "Want to achieve a specific motion design effect but don't know how to build the plugin for the job? In this episode of \"Show Your ..."
+      "title": "Make a shield icon in @Figma Draw.",
+      "url": "https://www.youtube.com/watch?v=8qLh5jrNnKQ",
+      "videoId": "8qLh5jrNnKQ",
+      "publishedAt": "2026-08-21T12:45:12Z",
+      "description": "Make a shield icon easily in @Figma Draw using the cut tool, vector selection transform, and vector offset features. Find us on ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Building a motion design plugin in 1 minute",
-      "url": "https://www.youtube.com/watch?v=T5R9wHhJCG0",
-      "videoId": "T5R9wHhJCG0",
-      "publishedAt": "2026-08-20T14:00:31Z",
-      "description": "Want to achieve a specific motion design effect but don't know how to build the plugin for the job? Learn how Figma Education ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Prototyping for the physical world ft. Frederik Ueberschär &amp; Sam Thorne | Config 2026",
-      "url": "https://www.youtube.com/watch?v=2pD2X8QasXg",
-      "videoId": "2pD2X8QasXg",
-      "publishedAt": "2026-07-08T15:20:12Z",
-      "description": "What if Figma's canvas could extend into the physical world? At Electrolux, we use Figma to design the next generation of home ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "The rules are the art: creating with AI ft. Holly Herndon | Config 2026",
-      "url": "https://www.youtube.com/watch?v=thvAivrQ4TI",
-      "videoId": "thvAivrQ4TI",
-      "publishedAt": "2026-06-29T21:52:18Z",
-      "description": "Holly Herndon has spent the last decade building at the frontier of music and AI, from the albums Platform and PROTO to Holly+, ..."
+      "channel": "Lex Fridman",
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "videoId": "l6USUAIKJls",
+      "publishedAt": "2026-08-12T12:57:24Z",
+      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Why AI Needs More Than One Winner",
-      "url": "https://www.youtube.com/watch?v=NSKGQp0ansU",
-      "videoId": "NSKGQp0ansU",
-      "publishedAt": "2026-08-20T22:09:24Z",
-      "description": "Sridhar Ramaswamy explains why competition in the model ecosystem matters."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Secret Superpower of Great Founders | Sridhar Ramaswamy (Snowflake CEO)",
-      "url": "https://www.youtube.com/watch?v=dcExd-tQRj4",
-      "videoId": "dcExd-tQRj4",
-      "publishedAt": "2026-08-20T14:00:30Z",
-      "description": "What does it take to build a company that lasts? Snowflake CEO and former SVP of Ads at Google, Sridhar Ramaswamy, joins ..."
+      "title": "The Best Founders Have This Superpower",
+      "url": "https://www.youtube.com/watch?v=UxHhTSObYVU",
+      "videoId": "UxHhTSObYVU",
+      "publishedAt": "2026-08-21T16:05:58Z",
+      "description": "The greatest founders are reductionists."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
