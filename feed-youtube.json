@@ -1,64 +1,91 @@
 {
-  "generatedAt": "2026-08-22T01:23:39.848Z",
+  "generatedAt": "2026-08-23T01:37:20.772Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Chelsea Finn: This is the State of the Art in Robotics",
-      "url": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
-      "videoId": "cRZNwgvcWUg",
-      "publishedAt": "2026-08-12T15:41:58Z",
-      "description": "Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
+      "url": "https://www.youtube.com/watch?v=eYrMF9Cht8A",
+      "videoId": "eYrMF9Cht8A",
+      "publishedAt": "2026-08-13T13:00:37Z",
+      "description": "Today's AI models keep getting smarter, but every conversation still feels like their first day on the job. Trajectory co-founder Arjun ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor",
-      "url": "https://www.youtube.com/watch?v=a00xIn5kwhM",
-      "videoId": "a00xIn5kwhM",
-      "publishedAt": "2026-08-12T13:00:28Z",
-      "description": "RL environments have become the hottest topic in AI training data. But what are they, exactly? At Sequoia Capital's Own Your ..."
+      "title": "When to Build Your Own Agent Harness | Harrison Chase, LangChain",
+      "url": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
+      "videoId": "HI2q3ci3Iuc",
+      "publishedAt": "2026-08-13T12:00:01Z",
+      "description": "An agent is a harness orchestrating a model and context. If you want to own your intelligence, you probably want to own all three."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao",
-      "url": "https://www.youtube.com/watch?v=yAvJ7b_FxUA",
-      "videoId": "yAvJ7b_FxUA",
-      "publishedAt": "2026-08-12T12:00:10Z",
-      "description": "When should a company move from prompting to post-training its own models? Fireworks AI co-founder and CEO Lin Qiao lays ..."
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
+      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
+      "videoId": "26aV9GTeoSo",
+      "publishedAt": "2026-07-09T18:29:21Z",
+      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Make a shield icon in @Figma Draw.",
-      "url": "https://www.youtube.com/watch?v=8qLh5jrNnKQ",
-      "videoId": "8qLh5jrNnKQ",
-      "publishedAt": "2026-08-21T12:45:12Z",
-      "description": "Make a shield icon easily in @Figma Draw using the cut tool, vector selection transform, and vector offset features. Find us on ..."
+      "channel": "Stripe Sessions",
+      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
+      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
+      "videoId": "5bjkprj4lpU",
+      "publishedAt": "2026-06-30T18:07:41Z",
+      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "videoId": "l6USUAIKJls",
-      "publishedAt": "2026-08-12T12:57:24Z",
-      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
+      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "videoId": "pv1TUJSEM2k",
+      "publishedAt": "2026-06-30T21:16:13Z",
+      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Best Founders Have This Superpower",
-      "url": "https://www.youtube.com/watch?v=UxHhTSObYVU",
-      "videoId": "UxHhTSObYVU",
-      "publishedAt": "2026-08-21T16:05:58Z",
-      "description": "The greatest founders are reductionists."
+      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
+      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
+      "videoId": "diUbB9joiZU",
+      "publishedAt": "2026-06-10T16:54:02Z",
+      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
