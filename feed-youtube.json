@@ -1,55 +1,64 @@
 {
-  "generatedAt": "2026-08-24T01:35:30.307Z",
+  "generatedAt": "2026-08-25T01:25:29.072Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
-      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-      "videoId": "YEvLKzsEwMw",
-      "publishedAt": "2026-08-14T19:14:32Z",
-      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Relearning to walk — what AI is missing | Khurram Javed, Oak Lab",
+      "url": "https://www.youtube.com/watch?v=g9vk36GoQsE",
+      "videoId": "g9vk36GoQsE",
+      "publishedAt": "2026-08-24T17:42:16Z",
+      "description": "Today's systems put skills in the weights and personalization in the context. Khurram Javed's counterargument comes from ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Cliff Obrecht in conversation with John Collison",
+      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
+      "videoId": "4GmHpHyoKmo",
+      "publishedAt": "2026-08-25T00:00:11Z",
+      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Now presenting... your Config 2026 agenda",
-      "url": "https://www.youtube.com/watch?v=Rt6KkpaLCaQ",
-      "videoId": "Rt6KkpaLCaQ",
-      "publishedAt": "2026-05-07T16:59:46Z",
-      "description": "Start building your schedule → https://lnkd.in/gaZxaGWB. Find us on ⬇️ X (formerly Twitter): https://x.com/figma Instagram: ..."
+      "title": "What inspires Thom Bettridge, Editor in Chief of i-D Magazine | Source Material",
+      "url": "https://www.youtube.com/watch?v=P_BFI6-T0FI",
+      "videoId": "P_BFI6-T0FI",
+      "publishedAt": "2026-08-24T18:28:04Z",
+      "description": "Introducing Source Material — the weekly series where the designers & creatives shaping culture share the references that ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "videoId": "XyXBwO5jYpw",
-      "publishedAt": "2026-07-28T20:02:11Z",
-      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
+      "channel": "Figma Config",
+      "title": "What inspires Thom Bettridge, Editor in Chief of i-D Magazine | Source Material",
+      "url": "https://www.youtube.com/watch?v=B8Q89_yoJAY",
+      "videoId": "B8Q89_yoJAY",
+      "publishedAt": "2026-08-24T18:00:13Z",
+      "description": "Introducing Source Material — the weekly series where the designers & creatives shaping culture share the references that ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "videoId": "vif8NQcjVf0",
-      "publishedAt": "2026-03-23T16:24:14Z",
-      "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable company and the engine powering the AI ..."
+      "channel": "Figma Config",
+      "title": "New Eraser tool and Fill tool updates in Figma",
+      "url": "https://www.youtube.com/watch?v=hOw_XiB9l_0",
+      "videoId": "hOw_XiB9l_0",
+      "publishedAt": "2026-08-24T16:25:31Z",
+      "description": "New Eraser tool: Select a fill or stroke and go into vector editing mode and press Shift + E, with an updated Fill tool that lets you ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Treating AI Models Like Humans",
-      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
-      "videoId": "Yu9TqNlZNZA",
-      "publishedAt": "2026-08-14T14:47:55Z",
-      "description": "Try to avoid steering your model towards being an \"evil guy.\""
+      "title": "The Mistake That Led to a Company Failure",
+      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
+      "videoId": "WJ3zjY4z-Uw",
+      "publishedAt": "2026-08-24T21:53:28Z",
+      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
