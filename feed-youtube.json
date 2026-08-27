@@ -1,87 +1,87 @@
 {
-  "generatedAt": "2026-08-26T01:35:20.896Z",
+  "generatedAt": "2026-08-27T08:22:04.158Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else",
-      "url": "https://www.youtube.com/watch?v=o0ORPbSEgd8",
-      "videoId": "o0ORPbSEgd8",
-      "publishedAt": "2026-08-25T14:00:29Z",
-      "description": "In this talk and fireside at Startup School 2026, Legora Co-founder and CEO Max Junestrand reflects on lessons learned while ..."
+      "title": "Michael Kratsios: Inside the White House&#39;s AI Strategy",
+      "url": "https://www.youtube.com/watch?v=zLUZclThLhU",
+      "videoId": "zLUZclThLhU",
+      "publishedAt": "2026-08-18T21:30:38Z",
+      "description": "Michael Kratsios has seen the AI boom from both sides: as COO of Scale AI and inside the White House. Today, as the director of ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Rich Sutton: synthetic data is &quot;just a big mistake&quot;",
-      "url": "https://www.youtube.com/watch?v=y3JQehe9q-o",
-      "videoId": "y3JQehe9q-o",
-      "publishedAt": "2026-08-25T20:15:04Z",
-      "description": "Is synthetic data a general method that scales with computation? Rich Sutton's answer is immediate. The reasoning is the Big ..."
+      "title": "Rich Sutton: &quot;I&#39;m not weird. The field is weird&quot;",
+      "url": "https://www.youtube.com/watch?v=lOVObXQdlyg",
+      "videoId": "lOVObXQdlyg",
+      "publishedAt": "2026-08-26T19:00:24Z",
+      "description": "Rich Sutton gets called a radical. He thinks he's the one thinking normally. Before the current AI moment, nobody would have said ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Agents Will Use The Web 1,000x More Than We Do | Parag Agrawal, Parallel Web Systems",
-      "url": "https://www.youtube.com/watch?v=qLJRcnaEAA4",
-      "videoId": "qLJRcnaEAA4",
-      "publishedAt": "2026-08-25T17:59:39Z",
-      "description": "Parag Agrawal (former CEO of Twitter, now founder of Parallel Web Systems) on the single bet the company was built on: agents ..."
+      "title": "How Web Search Actually Works | Parag Agrawal, Parallel Web Systems",
+      "url": "https://www.youtube.com/watch?v=jz10siMXNXM",
+      "videoId": "jz10siMXNXM",
+      "publishedAt": "2026-08-26T16:00:26Z",
+      "description": "The clearest explanation of web search you'll hear. Parag Agrawal breaks down crawling, indexing, retrieval and ranking — and ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
-      "url": "https://www.youtube.com/watch?v=fUcnE6pjq5w",
-      "videoId": "fUcnE6pjq5w",
-      "publishedAt": "2026-08-25T12:00:23Z",
-      "description": "Parag Agrawal is making a bet that goes against two decades of web search: agents will query the web a thousand times more ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
-      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
-      "videoId": "zlveLhFb64M",
-      "publishedAt": "2026-08-07T14:47:11Z",
+      "channel": "Stripe Sessions",
+      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
+      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
+      "videoId": "GaxHXrskngs",
+      "publishedAt": "2026-06-18T21:18:11Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+      "channel": "Stripe Sessions",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma Motion basics: Path trim",
+      "url": "https://www.youtube.com/watch?v=PJgpUYAUzvc",
+      "videoId": "PJgpUYAUzvc",
+      "publishedAt": "2026-08-26T11:00:12Z",
+      "description": "Let's learn about path trim. Path trim lets you create animated lines by controlling how much of a path is visible at specific points in ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "videoId": "NYFGCESmikA",
+      "publishedAt": "2026-08-26T21:44:41Z",
+      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
-      "videoId": "4lSQnrMC6nY",
-      "publishedAt": "2026-07-30T14:57:57Z",
-      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
+      "title": "The mathematics of AI uncertainty",
+      "url": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
+      "videoId": "tBjgCj_dGZM",
+      "publishedAt": "2026-08-26T15:45:28Z",
+      "description": "Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Multi-robot collaboration with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
-      "videoId": "CiTPDm7PKW0",
-      "publishedAt": "2026-07-30T14:58:03Z",
-      "description": "Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How Interpretability Could Change AI Development",
-      "url": "https://www.youtube.com/watch?v=J9YNHFUKSgI",
-      "videoId": "J9YNHFUKSgI",
-      "publishedAt": "2026-08-17T13:50:13Z",
-      "description": "Interpretability could help researchers understand and intentionally design AI systems."
+      "title": "This is Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
+      "videoId": "OEmEfobzodE",
+      "publishedAt": "2026-07-31T16:10:59Z",
+      "description": ""
     }
   ],
   "stats": {
