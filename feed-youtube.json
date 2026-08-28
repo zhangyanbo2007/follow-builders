@@ -1,91 +1,82 @@
 {
-  "generatedAt": "2026-08-27T08:22:04.158Z",
+  "generatedAt": "2026-08-28T10:23:12.781Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Michael Kratsios: Inside the White House&#39;s AI Strategy",
-      "url": "https://www.youtube.com/watch?v=zLUZclThLhU",
-      "videoId": "zLUZclThLhU",
-      "publishedAt": "2026-08-18T21:30:38Z",
-      "description": "Michael Kratsios has seen the AI boom from both sides: as COO of Scale AI and inside the White House. Today, as the director of ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "&quot;Is it Bitter Lesson-pilled?&quot; | Rich Sutton, Oak Lab",
+      "url": "https://www.youtube.com/watch?v=yCkV6Bm1hVk",
+      "videoId": "yCkV6Bm1hVk",
+      "publishedAt": "2026-08-27T19:00:22Z",
+      "description": "The Bitter Lesson may be the most-quoted essay in AI, which makes it one of the most misquoted. Rich Sutton gives his own ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Rich Sutton: &quot;I&#39;m not weird. The field is weird&quot;",
-      "url": "https://www.youtube.com/watch?v=lOVObXQdlyg",
-      "videoId": "lOVObXQdlyg",
-      "publishedAt": "2026-08-26T19:00:24Z",
-      "description": "Rich Sutton gets called a radical. He thinks he's the one thinking normally. Before the current AI moment, nobody would have said ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "How Web Search Actually Works | Parag Agrawal, Parallel Web Systems",
-      "url": "https://www.youtube.com/watch?v=jz10siMXNXM",
-      "videoId": "jz10siMXNXM",
-      "publishedAt": "2026-08-26T16:00:26Z",
-      "description": "The clearest explanation of web search you'll hear. Parag Agrawal breaks down crawling, indexing, retrieval and ranking — and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
-      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
-      "videoId": "vV6uCBbCyNE",
-      "publishedAt": "2026-06-17T19:30:32Z",
-      "description": ""
+      "title": "Who Gets Paid When An AI Answers Your Question? | Parag Agrawal, Parallel Web Systems",
+      "url": "https://www.youtube.com/watch?v=GceVfLmc5J4",
+      "videoId": "GceVfLmc5J4",
+      "publishedAt": "2026-08-27T16:00:10Z",
+      "description": "If an agent runs ten searches to write one paragraph, who gets paid? Parag Agrawal explains Shapley values — the game theory ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion basics: Path trim",
-      "url": "https://www.youtube.com/watch?v=PJgpUYAUzvc",
-      "videoId": "PJgpUYAUzvc",
-      "publishedAt": "2026-08-26T11:00:12Z",
-      "description": "Let's learn about path trim. Path trim lets you create animated lines by controlling how much of a path is visible at specific points in ..."
+      "title": "The Design References Behind the MIGOS Cover of Highsnobiety",
+      "url": "https://www.youtube.com/watch?v=FqQuN_vU4eM",
+      "videoId": "FqQuN_vU4eM",
+      "publishedAt": "2026-08-27T22:03:03Z",
+      "description": "Thom Bettridge, Editor in Chief of i-D Magazine, walks through his first issue of Highsnobiety and the thinking behind his ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "My agent army writes Code Connect | Dev Mindset",
+      "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA",
+      "videoId": "KhyLHeGpWFA",
+      "publishedAt": "2026-08-27T11:00:26Z",
+      "description": "Join Developer Advocate, Jake Albaugh, in his void where he'll teach you how to solve all types of dev problems. In this episode ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "videoId": "NYFGCESmikA",
-      "publishedAt": "2026-08-26T21:44:41Z",
-      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
+      "title": "Richard Wrangham: Violence, Sex, and Fire in Human Evolution | Lex Fridman Podcast #229",
+      "url": "https://www.youtube.com/watch?v=YJF01_ztxwY",
+      "videoId": "YJF01_ztxwY",
+      "publishedAt": "2021-10-10T19:09:52Z",
+      "description": "Richard Wrangham is a biological anthropologist at Harvard, specializing in the study of primates and the evolution of violence, ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "The mathematics of AI uncertainty",
-      "url": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
-      "videoId": "tBjgCj_dGZM",
-      "publishedAt": "2026-08-26T15:45:28Z",
-      "description": "Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their ..."
+      "channel": "Lex Fridman",
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "This is Gemini Robotics 2 🤖",
-      "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
-      "videoId": "OEmEfobzodE",
-      "publishedAt": "2026-07-31T16:10:59Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
+      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
+      "videoId": "kPqH3ZSbVjo",
+      "publishedAt": "2026-06-04T15:00:33Z",
+      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
+      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
+      "videoId": "JJS1d1bTMZM",
+      "publishedAt": "2026-05-25T17:00:28Z",
+      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
