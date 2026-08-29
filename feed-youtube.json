@@ -1,82 +1,118 @@
 {
-  "generatedAt": "2026-08-28T10:23:12.781Z",
+  "generatedAt": "2026-08-29T06:23:22.689Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "&quot;Is it Bitter Lesson-pilled?&quot; | Rich Sutton, Oak Lab",
-      "url": "https://www.youtube.com/watch?v=yCkV6Bm1hVk",
-      "videoId": "yCkV6Bm1hVk",
-      "publishedAt": "2026-08-27T19:00:22Z",
-      "description": "The Bitter Lesson may be the most-quoted essay in AI, which makes it one of the most misquoted. Rich Sutton gives his own ..."
+      "channel": "YC Startup School",
+      "title": "Apple Vision Pro: Startup Platform Of The Future?",
+      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
+      "videoId": "a_n4yOqlWbA",
+      "publishedAt": "2024-02-21T17:52:18Z",
+      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
+      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
+      "videoId": "TCPjk8Tpb5c",
+      "publishedAt": "2022-02-16T15:30:57Z",
+      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Who Gets Paid When An AI Answers Your Question? | Parag Agrawal, Parallel Web Systems",
-      "url": "https://www.youtube.com/watch?v=GceVfLmc5J4",
-      "videoId": "GceVfLmc5J4",
-      "publishedAt": "2026-08-27T16:00:10Z",
-      "description": "If an agent runs ten searches to write one paragraph, who gets paid? Parag Agrawal explains Shapley values — the game theory ..."
+      "title": "Will AGI be one mind? Rich Sutton says no",
+      "url": "https://www.youtube.com/watch?v=bOXP_Lb3s4g",
+      "videoId": "bOXP_Lb3s4g",
+      "publishedAt": "2026-08-28T19:00:19Z",
+      "description": "If continual learning works, is the endpoint a single mind that can swing from a tree branch and build a spaceship? Rich Sutton: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Every Page You Publish Now Has Two Audiences | Parag Agrawal, Parallel Web Systems",
+      "url": "https://www.youtube.com/watch?v=AJfOYH_BBjQ",
+      "videoId": "AJfOYH_BBjQ",
+      "publishedAt": "2026-08-28T16:00:27Z",
+      "description": "Parag Agrawal on how Parallel got its name — and the idea behind it: a parallel web, built for AIs, with different properties than the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "The Design References Behind the MIGOS Cover of Highsnobiety",
-      "url": "https://www.youtube.com/watch?v=FqQuN_vU4eM",
-      "videoId": "FqQuN_vU4eM",
-      "publishedAt": "2026-08-27T22:03:03Z",
-      "description": "Thom Bettridge, Editor in Chief of i-D Magazine, walks through his first issue of Highsnobiety and the thinking behind his ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "My agent army writes Code Connect | Dev Mindset",
-      "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA",
-      "videoId": "KhyLHeGpWFA",
-      "publishedAt": "2026-08-27T11:00:26Z",
-      "description": "Join Developer Advocate, Jake Albaugh, in his void where he'll teach you how to solve all types of dev problems. In this episode ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Richard Wrangham: Violence, Sex, and Fire in Human Evolution | Lex Fridman Podcast #229",
-      "url": "https://www.youtube.com/watch?v=YJF01_ztxwY",
-      "videoId": "YJF01_ztxwY",
-      "publishedAt": "2021-10-10T19:09:52Z",
-      "description": "Richard Wrangham is a biological anthropologist at Harvard, specializing in the study of primates and the evolution of violence, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+      "title": "How I build motion design plugins as a product designer | Show Your Work",
+      "url": "https://www.youtube.com/watch?v=AF4VD3dfUdc",
+      "videoId": "AF4VD3dfUdc",
+      "publishedAt": "2026-08-20T14:00:07Z",
+      "description": "Want to achieve a specific motion design effect but don't know how to build the plugin for the job? In this episode of \"Show Your ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
-      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
-      "videoId": "kPqH3ZSbVjo",
-      "publishedAt": "2026-06-04T15:00:33Z",
-      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
+      "title": "Why AI Needs More Than One Winner",
+      "url": "https://www.youtube.com/watch?v=NSKGQp0ansU",
+      "videoId": "NSKGQp0ansU",
+      "publishedAt": "2026-08-20T22:09:24Z",
+      "description": "Sridhar Ramaswamy explains why competition in the model ecosystem matters."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "SPC Member Lev on Advanced Quantization and Speculative Decoding",
-      "url": "https://www.youtube.com/watch?v=JJS1d1bTMZM",
-      "videoId": "JJS1d1bTMZM",
-      "publishedAt": "2026-05-25T17:00:28Z",
-      "description": "As AI agents and complex applications scale, API token costs are exploding. Lev Stambler, SPC Member and Founder of ..."
+      "title": "The Secret Superpower of Great Founders | Sridhar Ramaswamy (Snowflake CEO)",
+      "url": "https://www.youtube.com/watch?v=dcExd-tQRj4",
+      "videoId": "dcExd-tQRj4",
+      "publishedAt": "2026-08-20T14:00:30Z",
+      "description": "What does it take to build a company that lasts? Snowflake CEO and former SVP of Ads at Google, Sridhar Ramaswamy, joins ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 12
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
