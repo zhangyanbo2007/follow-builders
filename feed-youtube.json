@@ -1,118 +1,46 @@
 {
-  "generatedAt": "2026-08-29T06:23:22.689Z",
+  "generatedAt": "2026-08-30T04:33:42.326Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Apple Vision Pro: Startup Platform Of The Future?",
-      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
-      "videoId": "a_n4yOqlWbA",
-      "publishedAt": "2024-02-21T17:52:18Z",
-      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
-      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
-      "videoId": "TCPjk8Tpb5c",
-      "publishedAt": "2022-02-16T15:30:57Z",
-      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
-    },
-    {
-      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Will AGI be one mind? Rich Sutton says no",
-      "url": "https://www.youtube.com/watch?v=bOXP_Lb3s4g",
-      "videoId": "bOXP_Lb3s4g",
-      "publishedAt": "2026-08-28T19:00:19Z",
-      "description": "If continual learning works, is the endpoint a single mind that can swing from a tree branch and build a spaceship? Rich Sutton: ..."
+      "title": "If AI Agents Can Do It Today, What&#39;s Left For Tomorrow? | Parag Agrawal , Parallel Web Systems",
+      "url": "https://www.youtube.com/watch?v=pKqFz39dyh4",
+      "videoId": "pKqFz39dyh4",
+      "publishedAt": "2026-08-29T16:00:23Z",
+      "description": "If a task is worth doing and there are GPUs available, an agent will just do it today. So what work is left for tomorrow?"
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Every Page You Publish Now Has Two Audiences | Parag Agrawal, Parallel Web Systems",
-      "url": "https://www.youtube.com/watch?v=AJfOYH_BBjQ",
-      "videoId": "AJfOYH_BBjQ",
-      "publishedAt": "2026-08-28T16:00:27Z",
-      "description": "Parag Agrawal on how Parallel got its name — and the idea behind it: a parallel web, built for AIs, with different properties than the ..."
+      "channel": "Google DeepMind",
+      "title": "Advanced dexterity with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
+      "videoId": "O9-650iHAls",
+      "publishedAt": "2026-07-30T14:57:59Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "How I build motion design plugins as a product designer | Show Your Work",
-      "url": "https://www.youtube.com/watch?v=AF4VD3dfUdc",
-      "videoId": "AF4VD3dfUdc",
-      "publishedAt": "2026-08-20T14:00:07Z",
-      "description": "Want to achieve a specific motion design effect but don't know how to build the plugin for the job? In this episode of \"Show Your ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why AI Needs More Than One Winner",
-      "url": "https://www.youtube.com/watch?v=NSKGQp0ansU",
-      "videoId": "NSKGQp0ansU",
-      "publishedAt": "2026-08-20T22:09:24Z",
-      "description": "Sridhar Ramaswamy explains why competition in the model ecosystem matters."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Secret Superpower of Great Founders | Sridhar Ramaswamy (Snowflake CEO)",
-      "url": "https://www.youtube.com/watch?v=dcExd-tQRj4",
-      "videoId": "dcExd-tQRj4",
-      "publishedAt": "2026-08-20T14:00:30Z",
-      "description": "What does it take to build a company that lasts? Snowflake CEO and former SVP of Ads at Google, Sridhar Ramaswamy, joins ..."
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Sunken Garden",
+      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
+      "videoId": "0NdJ61nwei4",
+      "publishedAt": "2026-02-20T11:28:25Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 12
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
