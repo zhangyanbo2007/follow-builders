@@ -1,46 +1,82 @@
 {
-  "generatedAt": "2026-08-30T04:33:42.326Z",
+  "generatedAt": "2026-08-31T04:37:44.740Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "If AI Agents Can Do It Today, What&#39;s Left For Tomorrow? | Parag Agrawal , Parallel Web Systems",
-      "url": "https://www.youtube.com/watch?v=pKqFz39dyh4",
-      "videoId": "pKqFz39dyh4",
-      "publishedAt": "2026-08-29T16:00:23Z",
-      "description": "If a task is worth doing and there are GPUs available, an agent will just do it today. So what work is left for tomorrow?"
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
+      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
+      "videoId": "26aV9GTeoSo",
+      "publishedAt": "2026-07-09T18:29:21Z",
+      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Advanced dexterity with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
-      "videoId": "O9-650iHAls",
-      "publishedAt": "2026-07-30T14:57:59Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+      "channel": "Stripe Sessions",
+      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
+      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
+      "videoId": "5bjkprj4lpU",
+      "publishedAt": "2026-06-30T18:07:41Z",
+      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
+      "channel": "Figma Config",
+      "title": "The Making of i-D Magazines&#39; 375 &quot;The Beta Issue&quot;  - Designed in Figma",
+      "url": "https://www.youtube.com/watch?v=Y_78H41mw4A",
+      "videoId": "Y_78H41mw4A",
+      "publishedAt": "2026-08-30T15:55:29Z",
+      "description": "Thom Bettridge shares the inspiration and process for designing i-D Magazine's 375 “The Beta Issue” - taking the phrase “youth ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "videoId": "l6USUAIKJls",
+      "publishedAt": "2026-08-12T12:57:24Z",
+      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "videoId": "pv1TUJSEM2k",
+      "publishedAt": "2026-06-30T21:16:13Z",
+      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Best Founders Have This Superpower",
+      "url": "https://www.youtube.com/watch?v=UxHhTSObYVU",
+      "videoId": "UxHhTSObYVU",
+      "publishedAt": "2026-08-21T16:05:58Z",
+      "description": "The greatest founders are reductionists."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
       "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie | Sunken Garden",
-      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
-      "videoId": "0NdJ61nwei4",
-      "publishedAt": "2026-02-20T11:28:25Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
