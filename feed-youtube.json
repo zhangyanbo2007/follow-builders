@@ -1,46 +1,55 @@
 {
-  "generatedAt": "2026-09-01T04:19:09.609Z",
+  "generatedAt": "2026-09-02T03:42:00.980Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
-      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-      "videoId": "YEvLKzsEwMw",
-      "publishedAt": "2026-08-14T19:14:32Z",
-      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Analyzing Billions of Transactions to Understand Consumer Behavior - Michael Babineau and Kevin Hale",
-      "url": "https://www.youtube.com/watch?v=hsMePYTcIik",
-      "videoId": "hsMePYTcIik",
-      "publishedAt": "2019-05-29T15:22:32Z",
-      "description": "Michael Babineau is cofounder and CEO of Second Measure. Second Measure analyzes billions of credit card transactions to ..."
+      "title": "The World’s Largest Electric Aircraft Just Flew",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "videoId": "nM86DBOqgPM",
+      "publishedAt": "2026-09-01T15:30:23Z",
+      "description": "Heart Aerospace (YC W19) just flew the largest electric airplane ever flown — a 100-foot wingspan, a takeoff weight of 25000 ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "When to Build Your Own Agent Harness | Harrison Chase, LangChain",
-      "url": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
-      "videoId": "HI2q3ci3Iuc",
-      "publishedAt": "2026-08-13T12:00:01Z",
-      "description": "An agent is a harness orchestrating a model and context. If you want to own your intelligence, you probably want to own all three."
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
+      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
+      "videoId": "JWMF5EpP0KE",
+      "publishedAt": "2026-09-01T12:00:16Z",
+      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
+      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
+      "videoId": "4GmHpHyoKmo",
+      "publishedAt": "2026-08-25T00:00:11Z",
+      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "9 Designs That Inspired Meshtimes, One of Tech&#39;s Most Creative Minds | Source Material",
-      "url": "https://www.youtube.com/watch?v=V19x5yo-Sa8",
-      "videoId": "V19x5yo-Sa8",
-      "publishedAt": "2026-08-31T18:00:23Z",
-      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
+      "title": "Share shaders and generative plugins in the Figma Community",
+      "url": "https://www.youtube.com/watch?v=QO2cA4dXURc",
+      "videoId": "QO2cA4dXURc",
+      "publishedAt": "2026-09-02T00:06:59Z",
+      "description": "Starting today, you can share shader effects, fills, and generative plugins via the Figma Community. Make them with the Figma ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Mistake That Led to a Company Failure",
+      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
+      "videoId": "WJ3zjY4z-Uw",
+      "publishedAt": "2026-08-24T21:53:28Z",
+      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
