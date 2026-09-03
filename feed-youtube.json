@@ -1,55 +1,118 @@
 {
-  "generatedAt": "2026-09-02T03:42:00.980Z",
+  "generatedAt": "2026-09-03T03:40:52.595Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The World’s Largest Electric Aircraft Just Flew",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "videoId": "nM86DBOqgPM",
-      "publishedAt": "2026-09-01T15:30:23Z",
-      "description": "Heart Aerospace (YC W19) just flew the largest electric airplane ever flown — a 100-foot wingspan, a takeoff weight of 25000 ..."
+      "title": "Going In Deep On Data | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=IfoPg2QefF8",
+      "videoId": "IfoPg2QefF8",
+      "publishedAt": "2026-08-20T14:00:12Z",
+      "description": "This week's YC Paper Club is focused on data. Three domain experts give talks to break down the challenges and frontiers of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Chelsea Finn: This is the State of the Art in Robotics",
+      "url": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
+      "videoId": "cRZNwgvcWUg",
+      "publishedAt": "2026-08-12T15:41:58Z",
+      "description": "Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
-      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
-      "videoId": "JWMF5EpP0KE",
-      "publishedAt": "2026-09-01T12:00:16Z",
-      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
+      "title": "300GB of evidence. One agent. One hour. | Ben Rudolph, Peregrine",
+      "url": "https://www.youtube.com/watch?v=NkXJBU2YLUQ",
+      "videoId": "NkXJBU2YLUQ",
+      "publishedAt": "2026-09-02T17:42:39Z",
+      "description": "Peregrine's first agent was a cold case agent — and they tested it by asking a department to grade it against a case they'd already ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
-      "videoId": "4GmHpHyoKmo",
-      "publishedAt": "2026-08-25T00:00:11Z",
-      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
+      "channel": "Sequoia AI Ascent",
+      "title": "Agents Will Use The Web 1,000x More Than We Do | Parag Agrawal, Parallel Web Systems",
+      "url": "https://www.youtube.com/watch?v=qLJRcnaEAA4",
+      "videoId": "qLJRcnaEAA4",
+      "publishedAt": "2026-08-25T17:59:39Z",
+      "description": "Parag Agrawal (former CEO of Twitter, now founder of Parallel Web Systems) on the single bet the company was built on: agents ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Relearning to walk — what AI is missing | Khurram Javed, Oak Lab",
+      "url": "https://www.youtube.com/watch?v=g9vk36GoQsE",
+      "videoId": "g9vk36GoQsE",
+      "publishedAt": "2026-08-24T17:42:16Z",
+      "description": "Today's systems put skills in the weights and personalization in the context. Khurram Javed's counterargument comes from ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Share shaders and generative plugins in the Figma Community",
-      "url": "https://www.youtube.com/watch?v=QO2cA4dXURc",
-      "videoId": "QO2cA4dXURc",
-      "publishedAt": "2026-09-02T00:06:59Z",
-      "description": "Starting today, you can share shader effects, fills, and generative plugins via the Figma Community. Make them with the Figma ..."
+      "title": "Figma Motion basics: Time-stamped comments",
+      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA",
+      "videoId": "xI4tglaE5GA",
+      "publishedAt": "2026-09-02T15:00:26Z",
+      "description": "Let's learn about time-stamped comments in Figma Motion. Time-stamped comments let you tie feedback to specific moments in ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Meshtimes Shares the 9 Designs that Inspired Her I Source Material",
+      "url": "https://www.youtube.com/watch?v=KKUuam_qDXQ",
+      "videoId": "KKUuam_qDXQ",
+      "publishedAt": "2026-08-31T22:23:45Z",
+      "description": "This week's episode of Source Material spotlights @Meshtimes — where one of the internet's favorite creative technologists ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "videoId": "XyXBwO5jYpw",
+      "publishedAt": "2026-07-28T20:02:11Z",
+      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
+      "videoId": "zlveLhFb64M",
+      "publishedAt": "2026-08-07T14:47:11Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Tough dexterity tasks with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
+      "videoId": "wYVHxw2-DP4",
+      "publishedAt": "2026-07-30T14:58:10Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
+      "videoId": "4lSQnrMC6nY",
+      "publishedAt": "2026-07-30T14:57:57Z",
+      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Mistake That Led to a Company Failure",
-      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
-      "videoId": "WJ3zjY4z-Uw",
-      "publishedAt": "2026-08-24T21:53:28Z",
-      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
+      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
+      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
+      "videoId": "H3g7_Hb284g",
+      "publishedAt": "2026-09-02T16:26:39Z",
+      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 12
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
