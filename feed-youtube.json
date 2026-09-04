@@ -1,118 +1,64 @@
 {
-  "generatedAt": "2026-09-03T03:40:52.595Z",
+  "generatedAt": "2026-09-04T03:44:33.225Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Going In Deep On Data | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=IfoPg2QefF8",
-      "videoId": "IfoPg2QefF8",
-      "publishedAt": "2026-08-20T14:00:12Z",
-      "description": "This week's YC Paper Club is focused on data. Three domain experts give talks to break down the challenges and frontiers of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Chelsea Finn: This is the State of the Art in Robotics",
-      "url": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
-      "videoId": "cRZNwgvcWUg",
-      "publishedAt": "2026-08-12T15:41:58Z",
-      "description": "Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ..."
+      "title": "Paul Graham On Startups, Ambition, and Great Founders",
+      "url": "https://www.youtube.com/watch?v=5bxp78i96S8",
+      "videoId": "5bxp78i96S8",
+      "publishedAt": "2026-09-03T14:30:27Z",
+      "description": "YC Visiting Partner Vivian Shen sits down with Paul Graham at the original YC office in Mountain View to talk about startups, AI, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "300GB of evidence. One agent. One hour. | Ben Rudolph, Peregrine",
-      "url": "https://www.youtube.com/watch?v=NkXJBU2YLUQ",
-      "videoId": "NkXJBU2YLUQ",
-      "publishedAt": "2026-09-02T17:42:39Z",
-      "description": "Peregrine's first agent was a cold case agent — and they tested it by asking a department to grade it against a case they'd already ..."
+      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
+      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
+      "videoId": "bCiPZ6VxECI",
+      "publishedAt": "2026-09-03T17:00:01Z",
+      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Agents Will Use The Web 1,000x More Than We Do | Parag Agrawal, Parallel Web Systems",
-      "url": "https://www.youtube.com/watch?v=qLJRcnaEAA4",
-      "videoId": "qLJRcnaEAA4",
-      "publishedAt": "2026-08-25T17:59:39Z",
-      "description": "Parag Agrawal (former CEO of Twitter, now founder of Parallel Web Systems) on the single bet the company was built on: agents ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Relearning to walk — what AI is missing | Khurram Javed, Oak Lab",
-      "url": "https://www.youtube.com/watch?v=g9vk36GoQsE",
-      "videoId": "g9vk36GoQsE",
-      "publishedAt": "2026-08-24T17:42:16Z",
-      "description": "Today's systems put skills in the weights and personalization in the context. Khurram Javed's counterargument comes from ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma Motion basics: Time-stamped comments",
-      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA",
-      "videoId": "xI4tglaE5GA",
-      "publishedAt": "2026-09-02T15:00:26Z",
-      "description": "Let's learn about time-stamped comments in Figma Motion. Time-stamped comments let you tie feedback to specific moments in ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Meshtimes Shares the 9 Designs that Inspired Her I Source Material",
-      "url": "https://www.youtube.com/watch?v=KKUuam_qDXQ",
-      "videoId": "KKUuam_qDXQ",
-      "publishedAt": "2026-08-31T22:23:45Z",
-      "description": "This week's episode of Source Material spotlights @Meshtimes — where one of the internet's favorite creative technologists ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "videoId": "XyXBwO5jYpw",
-      "publishedAt": "2026-07-28T20:02:11Z",
-      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
+      "channel": "Stripe Sessions",
+      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
+      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
+      "videoId": "CEYGln3s9MM",
+      "publishedAt": "2026-09-03T05:50:59Z",
+      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
-      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
-      "videoId": "zlveLhFb64M",
-      "publishedAt": "2026-08-07T14:47:11Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
-      "videoId": "4lSQnrMC6nY",
-      "publishedAt": "2026-07-30T14:57:57Z",
-      "description": "For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ..."
+      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
+      "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
+      "videoId": "_6jZlnRsXXQ",
+      "publishedAt": "2026-09-03T14:58:32Z",
+      "description": "WeatherNext 3: More accurate, timely, and local weather forecasts Predicting the weather is one of the oldest, most complex ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
-      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
-      "videoId": "H3g7_Hb284g",
-      "publishedAt": "2026-09-02T16:26:39Z",
-      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
+      "title": "Treating AI Models Like Humans",
+      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
+      "videoId": "Yu9TqNlZNZA",
+      "publishedAt": "2026-08-14T14:47:55Z",
+      "description": "Try to avoid steering your model towards being an \"evil guy.\""
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
+      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
+      "videoId": "diUbB9joiZU",
+      "publishedAt": "2026-06-10T16:54:02Z",
+      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 12
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
