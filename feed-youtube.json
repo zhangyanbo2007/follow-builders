@@ -1,64 +1,55 @@
 {
-  "generatedAt": "2026-09-04T03:44:33.225Z",
+  "generatedAt": "2026-09-05T03:41:54.791Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Paul Graham On Startups, Ambition, and Great Founders",
-      "url": "https://www.youtube.com/watch?v=5bxp78i96S8",
-      "videoId": "5bxp78i96S8",
-      "publishedAt": "2026-09-03T14:30:27Z",
-      "description": "YC Visiting Partner Vivian Shen sits down with Paul Graham at the original YC office in Mountain View to talk about startups, AI, ..."
+      "title": "Hard Tech Startups Are Built One Milestone at a Time",
+      "url": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
+      "videoId": "knW0YgE-Wd8",
+      "publishedAt": "2026-09-04T19:35:16Z",
+      "description": "At Heart Aerospace, Anders Forslund built the company one material milestone at a time, using each one to earn the credibility ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Open Models Change The Economics of AI",
+      "url": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
+      "videoId": "rY0wnfFHYbs",
+      "publishedAt": "2026-09-04T14:00:10Z",
+      "description": "Ollama (YC W21) is used by 9 million developers and 85% of the Fortune 500, giving co-founder and CEO Jeffrey Morgan a ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
-      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
-      "videoId": "bCiPZ6VxECI",
-      "publishedAt": "2026-09-03T17:00:01Z",
-      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
+      "title": "Why Peregrine&#39;s founders left national security to work on cities",
+      "url": "https://www.youtube.com/watch?v=-ylAqar2Ea4",
+      "videoId": "-ylAqar2Ea4",
+      "publishedAt": "2026-09-04T17:45:16Z",
+      "description": "Nick Noone was flying in and out of Baghdad. Ben Rudolph was working refugee crises in Africa. In 2016 they decided to come ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
-      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
-      "videoId": "CEYGln3s9MM",
-      "publishedAt": "2026-09-03T05:50:59Z",
-      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
+      "channel": "Lex Fridman",
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "videoId": "NYFGCESmikA",
+      "publishedAt": "2026-08-26T21:44:41Z",
+      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
-      "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
-      "videoId": "_6jZlnRsXXQ",
-      "publishedAt": "2026-09-03T14:58:32Z",
-      "description": "WeatherNext 3: More accurate, timely, and local weather forecasts Predicting the weather is one of the oldest, most complex ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Treating AI Models Like Humans",
-      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
-      "videoId": "Yu9TqNlZNZA",
-      "publishedAt": "2026-08-14T14:47:55Z",
-      "description": "Try to avoid steering your model towards being an \"evil guy.\""
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+      "title": "The mathematics of AI uncertainty",
+      "url": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
+      "videoId": "tBjgCj_dGZM",
+      "publishedAt": "2026-08-26T15:45:28Z",
+      "description": "Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
