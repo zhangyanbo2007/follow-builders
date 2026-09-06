@@ -1,55 +1,46 @@
 {
-  "generatedAt": "2026-09-05T03:41:54.791Z",
+  "generatedAt": "2026-09-06T03:44:03.939Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Hard Tech Startups Are Built One Milestone at a Time",
-      "url": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
-      "videoId": "knW0YgE-Wd8",
-      "publishedAt": "2026-09-04T19:35:16Z",
-      "description": "At Heart Aerospace, Anders Forslund built the company one material milestone at a time, using each one to earn the credibility ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Open Models Change The Economics of AI",
-      "url": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
-      "videoId": "rY0wnfFHYbs",
-      "publishedAt": "2026-09-04T14:00:10Z",
-      "description": "Ollama (YC W21) is used by 9 million developers and 85% of the Fortune 500, giving co-founder and CEO Jeffrey Morgan a ..."
+      "title": "Paul Graham on what motivates founders",
+      "url": "https://www.youtube.com/watch?v=Wxq7ZIEodJg",
+      "videoId": "Wxq7ZIEodJg",
+      "publishedAt": "2026-09-05T16:46:07Z",
+      "description": "Paul Graham on what drives founders through the hard parts: “Being dutiful is not enough. The obstacles are too fearsome for ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Peregrine&#39;s founders left national security to work on cities",
-      "url": "https://www.youtube.com/watch?v=-ylAqar2Ea4",
-      "videoId": "-ylAqar2Ea4",
-      "publishedAt": "2026-09-04T17:45:16Z",
-      "description": "Nick Noone was flying in and out of Baghdad. Ben Rudolph was working refugee crises in Africa. In 2016 they decided to come ..."
+      "title": "100 water rescues in one month. Nobody knew why. Peregrine found the pattern.",
+      "url": "https://www.youtube.com/watch?v=y--F-PowqUs",
+      "videoId": "y--F-PowqUs",
+      "publishedAt": "2026-09-05T17:15:01Z",
+      "description": "A Florida county couldn't explain a spike in flood rescues. The agent traced it: three consecutive days of a weather pattern, carving ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "videoId": "NYFGCESmikA",
-      "publishedAt": "2026-08-26T21:44:41Z",
-      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "The mathematics of AI uncertainty",
-      "url": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
-      "videoId": "tBjgCj_dGZM",
-      "publishedAt": "2026-08-26T15:45:28Z",
-      "description": "Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their ..."
+      "channel": "South Park Commons (Minus One)",
+      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
+      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
+      "videoId": "kPqH3ZSbVjo",
+      "publishedAt": "2026-06-04T15:00:33Z",
+      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
