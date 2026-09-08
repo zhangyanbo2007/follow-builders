@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-09-07T03:43:28.289Z",
+  "generatedAt": "2026-09-08T03:48:15.841Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Will AGI be one mind? Rich Sutton says no",
-      "url": "https://www.youtube.com/watch?v=bOXP_Lb3s4g",
-      "videoId": "bOXP_Lb3s4g",
-      "publishedAt": "2026-08-28T19:00:19Z",
-      "description": "If continual learning works, is the endpoint a single mind that can swing from a tree branch and build a spaceship? Rich Sutton: ..."
+      "channel": "YC Startup School",
+      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=n9xKblqyQ28",
+      "videoId": "n9xKblqyQ28",
+      "publishedAt": "2026-09-07T14:00:03Z",
+      "description": "Harnesses get dismissed as just scaffolding, just prompt engineering, and not real research. But that couldn't be farther from the ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+      "channel": "Figma Config",
+      "title": "What Designs Inspired MIT Professor Zach Lieberman? I Figma Source Material",
+      "url": "https://www.youtube.com/watch?v=1XFMgOOGaFk",
+      "videoId": "1XFMgOOGaFk",
+      "publishedAt": "2026-09-07T21:55:15Z",
+      "description": "Our next guest on Source Material: Zach Lieberman, MIT Professor, computational artist and creative coder. He takes us through ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
+      "channel": "Figma Config",
+      "title": "13 Designs that Inspired MIT Professor Zach Lieberman I Source Material",
+      "url": "https://www.youtube.com/watch?v=-BomvzRo6N4",
+      "videoId": "-BomvzRo6N4",
+      "publishedAt": "2026-09-07T21:31:34Z",
+      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Advanced dexterity with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
+      "videoId": "O9-650iHAls",
+      "publishedAt": "2026-07-30T14:57:59Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
-      "description": ""
+      "channel": "Google DeepMind",
+      "title": "Project Genie | Sunken Garden",
+      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
+      "videoId": "0NdJ61nwei4",
+      "publishedAt": "2026-02-20T11:28:25Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
     }
   ],
   "stats": {
