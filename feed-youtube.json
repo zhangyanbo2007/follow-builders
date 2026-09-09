@@ -1,64 +1,73 @@
 {
-  "generatedAt": "2026-09-08T03:48:15.841Z",
+  "generatedAt": "2026-09-09T03:52:47.379Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=n9xKblqyQ28",
-      "videoId": "n9xKblqyQ28",
-      "publishedAt": "2026-09-07T14:00:03Z",
-      "description": "Harnesses get dismissed as just scaffolding, just prompt engineering, and not real research. But that couldn't be farther from the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "What Designs Inspired MIT Professor Zach Lieberman? I Figma Source Material",
-      "url": "https://www.youtube.com/watch?v=1XFMgOOGaFk",
-      "videoId": "1XFMgOOGaFk",
-      "publishedAt": "2026-09-07T21:55:15Z",
-      "description": "Our next guest on Source Material: Zach Lieberman, MIT Professor, computational artist and creative coder. He takes us through ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "13 Designs that Inspired MIT Professor Zach Lieberman I Source Material",
-      "url": "https://www.youtube.com/watch?v=-BomvzRo6N4",
-      "videoId": "-BomvzRo6N4",
-      "publishedAt": "2026-09-07T21:31:34Z",
-      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Advanced dexterity with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
-      "videoId": "O9-650iHAls",
-      "publishedAt": "2026-07-30T14:57:59Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
+      "title": "Happy Alumni Demo Day!",
+      "url": "https://www.youtube.com/watch?v=GFWRBvSe8c8",
+      "videoId": "GFWRBvSe8c8",
+      "publishedAt": "2026-09-08T22:28:55Z",
       "description": ""
     },
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Introducing Early Access: An Invite only program for the Enterprise",
+      "url": "https://www.youtube.com/watch?v=2JiUeYzcRKE",
+      "videoId": "2JiUeYzcRKE",
+      "publishedAt": "2026-09-08T16:13:54Z",
+      "description": "Introducing the YC Early Access Network. 4x a year, senior technology leaders get early looks at YC's enterprise AI companies ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "My shaders file deep dive | Show Your Work",
+      "url": "https://www.youtube.com/watch?v=LOKTMloOJ0E",
+      "videoId": "LOKTMloOJ0E",
+      "publishedAt": "2026-09-08T12:45:37Z",
+      "description": "Want to learn how to create expressive design effects with shaders? Jump into the design file with Piers Cowburn to see how one ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+    },
+    {
+      "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Project Genie | Sunken Garden",
-      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
-      "videoId": "0NdJ61nwei4",
-      "publishedAt": "2026-02-20T11:28:25Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+      "title": "AlphaGenome Atlas: Using AI to find disease causing variants 🧬",
+      "url": "https://www.youtube.com/watch?v=ya04CpsRJH0",
+      "videoId": "ya04CpsRJH0",
+      "publishedAt": "2026-09-08T14:02:28Z",
+      "description": "How do you find a single typo in a person's DNA that causes a rare disease? It is like finding a needle in a 9-billion-piece haystack ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "AlphaGenome Atlas: Understanding the human genome",
+      "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
+      "videoId": "U0aToL5C-bQ",
+      "publishedAt": "2026-09-08T13:58:27Z",
+      "description": "We've used AlphaGenome to predict the molecular impact of every possible single-letter change in the human genome. All nine ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
