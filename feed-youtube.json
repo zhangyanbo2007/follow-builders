@@ -1,73 +1,55 @@
 {
-  "generatedAt": "2026-09-09T03:52:47.379Z",
+  "generatedAt": "2026-09-10T03:52:16.353Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Happy Alumni Demo Day!",
-      "url": "https://www.youtube.com/watch?v=GFWRBvSe8c8",
-      "videoId": "GFWRBvSe8c8",
-      "publishedAt": "2026-09-08T22:28:55Z",
-      "description": ""
+      "channel": "Sequoia AI Ascent",
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
+      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
+      "videoId": "JWMF5EpP0KE",
+      "publishedAt": "2026-09-01T12:00:16Z",
+      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
     },
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Introducing Early Access: An Invite only program for the Enterprise",
-      "url": "https://www.youtube.com/watch?v=2JiUeYzcRKE",
-      "videoId": "2JiUeYzcRKE",
-      "publishedAt": "2026-09-08T16:13:54Z",
-      "description": "Introducing the YC Early Access Network. 4x a year, senior technology leaders get early looks at YC's enterprise AI companies ..."
+      "channel": "Stripe Sessions",
+      "title": "Lenny &amp; Friends Summit 2026",
+      "url": "https://www.youtube.com/watch?v=WysZyPLQYSo",
+      "videoId": "WysZyPLQYSo",
+      "publishedAt": "2026-09-01T18:41:51Z",
+      "description": "Join us live from the main stage at Lenny & Friends Summit for conversations about the future of the product role—and how to ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "My shaders file deep dive | Show Your Work",
-      "url": "https://www.youtube.com/watch?v=LOKTMloOJ0E",
-      "videoId": "LOKTMloOJ0E",
-      "publishedAt": "2026-09-08T12:45:37Z",
-      "description": "Want to learn how to create expressive design effects with shaders? Jump into the design file with Piers Cowburn to see how one ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+      "title": "Toggle Figma modes with a new shortcut",
+      "url": "https://www.youtube.com/watch?v=zC9Ge78COV4",
+      "videoId": "zC9Ge78COV4",
+      "publishedAt": "2026-09-09T12:45:19Z",
+      "description": "Toggle modes in Figma easily with the keyboard without losing your flow. Hold option and press tab (alt + ` on Windows) to toggle ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "AlphaGenome Atlas: Using AI to find disease causing variants 🧬",
-      "url": "https://www.youtube.com/watch?v=ya04CpsRJH0",
-      "videoId": "ya04CpsRJH0",
-      "publishedAt": "2026-09-08T14:02:28Z",
-      "description": "How do you find a single typo in a person's DNA that causes a rare disease? It is like finding a needle in a 9-billion-piece haystack ..."
+      "title": "Can AI help us better predict the weather?",
+      "url": "https://www.youtube.com/watch?v=O_EWbnkjXdk",
+      "videoId": "O_EWbnkjXdk",
+      "publishedAt": "2026-09-09T16:10:39Z",
+      "description": "Can artificial intelligence solve one of science's most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "AlphaGenome Atlas: Understanding the human genome",
-      "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
-      "videoId": "U0aToL5C-bQ",
-      "publishedAt": "2026-09-08T13:58:27Z",
-      "description": "We've used AlphaGenome to predict the molecular impact of every possible single-letter change in the human genome. All nine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Mistake That Led to a Company Failure",
+      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
+      "videoId": "WJ3zjY4z-Uw",
+      "publishedAt": "2026-08-24T21:53:28Z",
+      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
