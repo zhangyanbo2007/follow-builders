@@ -1,55 +1,64 @@
 {
-  "generatedAt": "2026-09-10T03:52:16.353Z",
+  "generatedAt": "2026-09-11T03:48:23.189Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
-      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
-      "videoId": "JWMF5EpP0KE",
-      "publishedAt": "2026-09-01T12:00:16Z",
-      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Lenny &amp; Friends Summit 2026",
-      "url": "https://www.youtube.com/watch?v=WysZyPLQYSo",
-      "videoId": "WysZyPLQYSo",
-      "publishedAt": "2026-09-01T18:41:51Z",
-      "description": "Join us live from the main stage at Lenny & Friends Summit for conversations about the future of the product role—and how to ..."
+      "title": "Agents Will Use The Web 1,000x More Than We Do | Parag Agrawal, Parallel Web Systems",
+      "url": "https://www.youtube.com/watch?v=qLJRcnaEAA4",
+      "videoId": "qLJRcnaEAA4",
+      "publishedAt": "2026-08-25T17:59:39Z",
+      "description": "Parag Agrawal (former CEO of Twitter, now founder of Parallel Web Systems) on the single bet the company was built on: agents ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Toggle Figma modes with a new shortcut",
-      "url": "https://www.youtube.com/watch?v=zC9Ge78COV4",
-      "videoId": "zC9Ge78COV4",
-      "publishedAt": "2026-09-09T12:45:19Z",
-      "description": "Toggle modes in Figma easily with the keyboard without losing your flow. Hold option and press tab (alt + ` on Windows) to toggle ..."
+      "title": "Bringing Design Systems into Figma Make",
+      "url": "https://www.youtube.com/watch?v=cUXna9ZAfSI",
+      "videoId": "cUXna9ZAfSI",
+      "publishedAt": "2026-09-10T14:13:29Z",
+      "description": "Want to bring your design system into Figma Make to generate on-brand prototypes? In this tutorial, Anthony DiSpezio (Designer ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Can AI help us better predict the weather?",
-      "url": "https://www.youtube.com/watch?v=O_EWbnkjXdk",
-      "videoId": "O_EWbnkjXdk",
-      "publishedAt": "2026-09-09T16:10:39Z",
-      "description": "Can artificial intelligence solve one of science's most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down ..."
+      "title": "Tough dexterity tasks with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
+      "videoId": "wYVHxw2-DP4",
+      "publishedAt": "2026-07-30T14:58:10Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Mistake That Led to a Company Failure",
-      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
-      "videoId": "WJ3zjY4z-Uw",
-      "publishedAt": "2026-08-24T21:53:28Z",
-      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
+      "title": "Anthropic&#39;s Head of Design on the Slop Gap",
+      "url": "https://www.youtube.com/watch?v=zA-owZs96wM",
+      "videoId": "zA-owZs96wM",
+      "publishedAt": "2026-09-10T17:17:59Z",
+      "description": "Designers should be curators."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic&#39;s Head of Design on AGI-Maximalist Product Design | Joel Lewenstein",
+      "url": "https://www.youtube.com/watch?v=rkC3ZsH1HCQ",
+      "videoId": "rkC3ZsH1HCQ",
+      "publishedAt": "2026-09-10T16:00:20Z",
+      "description": "How do you design software when the underlying technology improves itself while you're on vacation? Joel Lewenstein, Head of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
+      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
+      "videoId": "H3g7_Hb284g",
+      "publishedAt": "2026-09-02T16:26:39Z",
+      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
