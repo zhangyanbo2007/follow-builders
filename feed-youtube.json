@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-09-11T03:48:23.189Z",
+  "generatedAt": "2026-09-12T03:51:43.041Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Agents Will Use The Web 1,000x More Than We Do | Parag Agrawal, Parallel Web Systems",
-      "url": "https://www.youtube.com/watch?v=qLJRcnaEAA4",
-      "videoId": "qLJRcnaEAA4",
-      "publishedAt": "2026-08-25T17:59:39Z",
-      "description": "Parag Agrawal (former CEO of Twitter, now founder of Parallel Web Systems) on the single bet the company was built on: agents ..."
+      "channel": "YC Startup School",
+      "title": "Mass Magnetics: USA-made magnetics for robotics and defense",
+      "url": "https://www.youtube.com/watch?v=hkfCJip_HXQ",
+      "videoId": "hkfCJip_HXQ",
+      "publishedAt": "2026-09-11T19:06:46Z",
+      "description": "Magnets are becoming critical to the future of robotics, defense, and other major US industries. But 90% of rare earth magnet ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Bringing Design Systems into Figma Make",
-      "url": "https://www.youtube.com/watch?v=cUXna9ZAfSI",
-      "videoId": "cUXna9ZAfSI",
-      "publishedAt": "2026-09-10T14:13:29Z",
-      "description": "Want to bring your design system into Figma Make to generate on-brand prototypes? In this tutorial, Anthony DiSpezio (Designer ..."
+      "channel": "YC Startup School",
+      "title": "Paul Graham On Startups, Ambition, and Great Founders",
+      "url": "https://www.youtube.com/watch?v=5bxp78i96S8",
+      "videoId": "5bxp78i96S8",
+      "publishedAt": "2026-09-03T14:30:27Z",
+      "description": "YC Visiting Partner Vivian Shen sits down with Paul Graham at the original YC office in Mountain View to talk about startups, AI, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
+      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "videoId": "YEvLKzsEwMw",
+      "publishedAt": "2026-08-14T19:14:32Z",
+      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
+      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
+      "videoId": "bCiPZ6VxECI",
+      "publishedAt": "2026-09-03T17:00:01Z",
+      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
+      "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
+      "videoId": "_6jZlnRsXXQ",
+      "publishedAt": "2026-09-03T14:58:32Z",
+      "description": "Predicting the weather is one of the oldest, most complex challenges we face. Traditional numerical weather prediction models ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Anthropic&#39;s Head of Design on the Slop Gap",
-      "url": "https://www.youtube.com/watch?v=zA-owZs96wM",
-      "videoId": "zA-owZs96wM",
-      "publishedAt": "2026-09-10T17:17:59Z",
-      "description": "Designers should be curators."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Anthropic&#39;s Head of Design on AGI-Maximalist Product Design | Joel Lewenstein",
-      "url": "https://www.youtube.com/watch?v=rkC3ZsH1HCQ",
-      "videoId": "rkC3ZsH1HCQ",
-      "publishedAt": "2026-09-10T16:00:20Z",
-      "description": "How do you design software when the underlying technology improves itself while you're on vacation? Joel Lewenstein, Head of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
-      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
-      "videoId": "H3g7_Hb284g",
-      "publishedAt": "2026-09-02T16:26:39Z",
-      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
+      "title": "Treating AI Models Like Humans",
+      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
+      "videoId": "Yu9TqNlZNZA",
+      "publishedAt": "2026-08-14T14:47:55Z",
+      "description": "Try to avoid steering your model towards being an \"evil guy.\""
     }
   ],
   "stats": {
