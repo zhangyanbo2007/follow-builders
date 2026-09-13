@@ -1,64 +1,28 @@
 {
-  "generatedAt": "2026-09-12T03:51:43.041Z",
+  "generatedAt": "2026-09-13T03:59:36.872Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Mass Magnetics: USA-made magnetics for robotics and defense",
-      "url": "https://www.youtube.com/watch?v=hkfCJip_HXQ",
-      "videoId": "hkfCJip_HXQ",
-      "publishedAt": "2026-09-11T19:06:46Z",
-      "description": "Magnets are becoming critical to the future of robotics, defense, and other major US industries. But 90% of rare earth magnet ..."
+      "title": "How To Get Better At Outbound Sales",
+      "url": "https://www.youtube.com/watch?v=wr6PMD06hP0",
+      "videoId": "wr6PMD06hP0",
+      "publishedAt": "2026-09-12T14:00:16Z",
+      "description": "The best outbound starts before you automate anything. Founders need to learn who actually has the problem, what gets their ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Paul Graham On Startups, Ambition, and Great Founders",
-      "url": "https://www.youtube.com/watch?v=5bxp78i96S8",
-      "videoId": "5bxp78i96S8",
-      "publishedAt": "2026-09-03T14:30:27Z",
-      "description": "YC Visiting Partner Vivian Shen sits down with Paul Graham at the original YC office in Mountain View to talk about startups, AI, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
-      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-      "videoId": "YEvLKzsEwMw",
-      "publishedAt": "2026-08-14T19:14:32Z",
-      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
-      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
-      "videoId": "bCiPZ6VxECI",
-      "publishedAt": "2026-09-03T17:00:01Z",
-      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
-      "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
-      "videoId": "_6jZlnRsXXQ",
-      "publishedAt": "2026-09-03T14:58:32Z",
-      "description": "Predicting the weather is one of the oldest, most complex challenges we face. Traditional numerical weather prediction models ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Treating AI Models Like Humans",
-      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
-      "videoId": "Yu9TqNlZNZA",
-      "publishedAt": "2026-08-14T14:47:55Z",
-      "description": "Try to avoid steering your model towards being an \"evil guy.\""
+      "title": "Open Models Change The Economics of AI",
+      "url": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
+      "videoId": "rY0wnfFHYbs",
+      "publishedAt": "2026-09-04T14:00:10Z",
+      "description": "Ollama (YC W21) is used by 9 million developers and 85% of the Fortune 500, giving co-founder and CEO Jeffrey Morgan a ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
