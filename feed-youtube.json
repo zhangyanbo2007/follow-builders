@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-09-13T03:59:36.872Z",
+  "generatedAt": "2026-09-14T04:08:26.379Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How To Get Better At Outbound Sales",
-      "url": "https://www.youtube.com/watch?v=wr6PMD06hP0",
-      "videoId": "wr6PMD06hP0",
-      "publishedAt": "2026-09-12T14:00:16Z",
-      "description": "The best outbound starts before you automate anything. Founders need to learn who actually has the problem, what gets their ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "100 water rescues in one month. Nobody knew why. Peregrine found the pattern.",
+      "url": "https://www.youtube.com/watch?v=y--F-PowqUs",
+      "videoId": "y--F-PowqUs",
+      "publishedAt": "2026-09-05T17:15:01Z",
+      "description": "A Florida county couldn't explain a spike in flood rescues. The agent traced it: three consecutive days of a weather pattern, carving ..."
     },
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Open Models Change The Economics of AI",
-      "url": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
-      "videoId": "rY0wnfFHYbs",
-      "publishedAt": "2026-09-04T14:00:10Z",
-      "description": "Ollama (YC W21) is used by 9 million developers and 85% of the Fortune 500, giving co-founder and CEO Jeffrey Morgan a ..."
+      "channel": "Lex Fridman",
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
+      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
+      "videoId": "diUbB9joiZU",
+      "publishedAt": "2026-06-10T16:54:02Z",
+      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
+      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
+      "videoId": "kPqH3ZSbVjo",
+      "publishedAt": "2026-06-04T15:00:33Z",
+      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
