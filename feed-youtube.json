@@ -1,46 +1,100 @@
 {
-  "generatedAt": "2026-09-14T04:08:26.379Z",
+  "generatedAt": "2026-09-15T04:06:58.180Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Apple Vision Pro: Startup Platform Of The Future?",
+      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
+      "videoId": "a_n4yOqlWbA",
+      "publishedAt": "2024-02-21T17:52:18Z",
+      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+    },
+    {
+      "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "100 water rescues in one month. Nobody knew why. Peregrine found the pattern.",
-      "url": "https://www.youtube.com/watch?v=y--F-PowqUs",
-      "videoId": "y--F-PowqUs",
-      "publishedAt": "2026-09-05T17:15:01Z",
-      "description": "A Florida county couldn't explain a spike in flood rescues. The agent traced it: three consecutive days of a weather pattern, carving ..."
+      "title": "Will AGI be one mind? Rich Sutton says no",
+      "url": "https://www.youtube.com/watch?v=bOXP_Lb3s4g",
+      "videoId": "bOXP_Lb3s4g",
+      "publishedAt": "2026-08-28T19:00:19Z",
+      "description": "If continual learning works, is the endpoint a single mind that can swing from a tree branch and build a spaceship? Rich Sutton: ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
-      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
-      "videoId": "kPqH3ZSbVjo",
-      "publishedAt": "2026-06-04T15:00:33Z",
-      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Global visual artist &amp; creative technologist Aitana Picó shares her Source Material",
+      "url": "https://www.youtube.com/watch?v=cZDSZzyJ1lU",
+      "videoId": "cZDSZzyJ1lU",
+      "publishedAt": "2026-09-14T18:26:42Z",
+      "description": "Source Material, Episode 4: Aitana Picó — graphic designer, global visual artist and creative technologist. She takes us through ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "14 Designs That Inspired Digital Designer Aitana Picó&#39;s Unique Style I Source Material",
+      "url": "https://www.youtube.com/watch?v=BcomY53jqpo",
+      "videoId": "BcomY53jqpo",
+      "publishedAt": "2026-09-14T18:04:39Z",
+      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Pulling Inspiration from John Maeda&#39;s Design by Numbers",
+      "url": "https://www.youtube.com/watch?v=nyXbaDeSFkw",
+      "videoId": "nyXbaDeSFkw",
+      "publishedAt": "2026-09-14T13:34:06Z",
+      "description": "MIT Professor and Visual Artist Zach Lieberman shares how John Maeda and how his book, Design By Numbers, inspired him."
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 10
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
