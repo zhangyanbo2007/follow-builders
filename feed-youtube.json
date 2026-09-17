@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-09-16T04:03:42.393Z",
+  "generatedAt": "2026-09-17T04:10:44.527Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=n9xKblqyQ28",
-      "videoId": "n9xKblqyQ28",
-      "publishedAt": "2026-09-07T14:00:03Z",
-      "description": "Harnesses get dismissed as just scaffolding, just prompt engineering, and not real research. But that couldn't be farther from the ..."
+      "channel": "Figma Config",
+      "title": "How to Create Custom Weave Tools for Figma",
+      "url": "https://www.youtube.com/watch?v=2a9G5ziaIWk",
+      "videoId": "2a9G5ziaIWk",
+      "publishedAt": "2026-09-16T15:20:27Z",
+      "description": "Weave tools turn creative workflows into simple tools anyone can run from the Figma canvas. In this video, you'll learn how to ..."
     },
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
-      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
-      "videoId": "TCPjk8Tpb5c",
-      "publishedAt": "2022-02-16T15:30:57Z",
-      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
+      "channel": "Figma Config",
+      "title": "Figma Motion basics: Time-stamped comments",
+      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA",
+      "videoId": "xI4tglaE5GA",
+      "publishedAt": "2026-09-02T15:00:26Z",
+      "description": "Let's learn about time-stamped comments in Figma Motion. Time-stamped comments let you tie feedback to specific moments in ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Box&#39;s Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
-      "url": "https://www.youtube.com/watch?v=NE4CLThMPGU",
-      "videoId": "NE4CLThMPGU",
-      "publishedAt": "2026-09-15T12:00:34Z",
-      "description": "Starting a company is hard. Reinventing your company for AI as a public company with quarterly earnings results is even harder."
+      "channel": "Lex Fridman",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "videoId": "s7d2d8FhevU",
+      "publishedAt": "2026-09-17T00:34:47Z",
+      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Advanced dexterity with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
-      "videoId": "O9-650iHAls",
-      "publishedAt": "2026-07-30T14:57:59Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+      "title": "AlphaGenome Atlas: Understanding the human genome",
+      "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
+      "videoId": "U0aToL5C-bQ",
+      "publishedAt": "2026-09-08T13:58:27Z",
+      "description": "We've used AlphaGenome to predict the molecular impact of every possible single-letter change in the human genome. All nine ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
       "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie | Sunken Garden",
-      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
-      "videoId": "0NdJ61nwei4",
-      "publishedAt": "2026-02-20T11:28:25Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
     }
   ],
   "stats": {
