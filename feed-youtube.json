@@ -1,64 +1,46 @@
 {
-  "generatedAt": "2026-09-17T04:10:44.527Z",
+  "generatedAt": "2026-09-18T03:55:43.363Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "How to Create Custom Weave Tools for Figma",
-      "url": "https://www.youtube.com/watch?v=2a9G5ziaIWk",
-      "videoId": "2a9G5ziaIWk",
-      "publishedAt": "2026-09-16T15:20:27Z",
-      "description": "Weave tools turn creative workflows into simple tools anyone can run from the Figma canvas. In this video, you'll learn how to ..."
+      "channel": "YC Startup School",
+      "title": "The State of Startups in 2026",
+      "url": "https://www.youtube.com/watch?v=yslXlV2BP_Y",
+      "videoId": "yslXlV2BP_Y",
+      "publishedAt": "2026-09-17T17:58:14Z",
+      "description": "YC works with thousands of founders every year, which gives us an early look at how startups are changing. Right now, the shift is ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma Motion basics: Time-stamped comments",
-      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA",
-      "videoId": "xI4tglaE5GA",
-      "publishedAt": "2026-09-02T15:00:26Z",
-      "description": "Let's learn about time-stamped comments in Figma Motion. Time-stamped comments let you tie feedback to specific moments in ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best",
+      "url": "https://www.youtube.com/watch?v=k7wPdCNfljQ",
+      "videoId": "k7wPdCNfljQ",
+      "publishedAt": "2026-09-17T12:00:08Z",
+      "description": "Ali Ghodsi never wanted the CEO job. In 2015, Databricks had a wildly successful open source project, $1.5 million in revenue, ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "videoId": "s7d2d8FhevU",
-      "publishedAt": "2026-09-17T00:34:47Z",
-      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
+      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
+      "videoId": "JWMF5EpP0KE",
+      "publishedAt": "2026-09-01T12:00:16Z",
+      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "AlphaGenome Atlas: Understanding the human genome",
-      "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
-      "videoId": "U0aToL5C-bQ",
-      "publishedAt": "2026-09-08T13:58:27Z",
-      "description": "We've used AlphaGenome to predict the molecular impact of every possible single-letter change in the human genome. All nine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Mistake That Led to a Company Failure",
+      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
+      "videoId": "WJ3zjY4z-Uw",
+      "publishedAt": "2026-08-24T21:53:28Z",
+      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
