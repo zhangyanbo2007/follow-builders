@@ -1,55 +1,46 @@
 {
-  "generatedAt": "2026-09-19T03:53:13.492Z",
+  "generatedAt": "2026-09-20T04:09:58.140Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma Motion basics: Use shaders in your animations",
-      "url": "https://www.youtube.com/watch?v=spMhSWAmduw",
-      "videoId": "spMhSWAmduw",
-      "publishedAt": "2026-09-18T18:00:20Z",
-      "description": "Let's learn how to animate shaders in Figma Motion. Shaders are visual effects you can apply to layers, either as fills that generate ..."
+      "channel": "YC Startup School",
+      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
+      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "videoId": "YEvLKzsEwMw",
+      "publishedAt": "2026-08-14T19:14:32Z",
+      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+      "channel": "YC Startup School",
+      "title": "Analyzing Billions of Transactions to Understand Consumer Behavior - Michael Babineau and Kevin Hale",
+      "url": "https://www.youtube.com/watch?v=hsMePYTcIik",
+      "videoId": "hsMePYTcIik",
+      "publishedAt": "2019-05-29T15:22:32Z",
+      "description": "Michael Babineau is cofounder and CEO of Second Measure. Second Measure analyzes billions of credit card transactions to ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie | Rollerball",
-      "url": "https://www.youtube.com/watch?v=HxapJDdSP9Y",
-      "videoId": "HxapJDdSP9Y",
-      "publishedAt": "2026-02-20T11:29:26Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "On Building in Uncertainty, and Future of AI Safety | Srinivas Narayanan (Ex-OpenAI, Ex-Meta)",
-      "url": "https://www.youtube.com/watch?v=aJQWIMvkYqs",
-      "videoId": "aJQWIMvkYqs",
-      "publishedAt": "2026-09-18T11:00:38Z",
-      "description": "How close are we to AGI, and what happens when AI systems stop behaving the way we expect? Srinivas Narayanan, former ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
+      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
+      "videoId": "bCiPZ6VxECI",
+      "publishedAt": "2026-09-03T17:00:01Z",
+      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
-      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
-      "videoId": "H3g7_Hb284g",
-      "publishedAt": "2026-09-02T16:26:39Z",
-      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
+      "title": "Treating AI Models Like Humans",
+      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
+      "videoId": "Yu9TqNlZNZA",
+      "publishedAt": "2026-08-14T14:47:55Z",
+      "description": "Try to avoid steering your model towards being an \"evil guy.\""
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
