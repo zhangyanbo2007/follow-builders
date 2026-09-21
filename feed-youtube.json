@@ -1,46 +1,9 @@
 {
-  "generatedAt": "2026-09-20T04:09:58.140Z",
+  "generatedAt": "2026-09-21T04:07:21.384Z",
   "lookbackHours": 336,
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
-      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-      "videoId": "YEvLKzsEwMw",
-      "publishedAt": "2026-08-14T19:14:32Z",
-      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Analyzing Billions of Transactions to Understand Consumer Behavior - Michael Babineau and Kevin Hale",
-      "url": "https://www.youtube.com/watch?v=hsMePYTcIik",
-      "videoId": "hsMePYTcIik",
-      "publishedAt": "2019-05-29T15:22:32Z",
-      "description": "Michael Babineau is cofounder and CEO of Second Measure. Second Measure analyzes billions of credit card transactions to ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
-      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
-      "videoId": "bCiPZ6VxECI",
-      "publishedAt": "2026-09-03T17:00:01Z",
-      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Treating AI Models Like Humans",
-      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
-      "videoId": "Yu9TqNlZNZA",
-      "publishedAt": "2026-08-14T14:47:55Z",
-      "description": "Try to avoid steering your model towards being an \"evil guy.\""
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 0
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
