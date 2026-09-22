@@ -1,9 +1,28 @@
 {
-  "generatedAt": "2026-09-21T04:07:21.384Z",
+  "generatedAt": "2026-09-22T04:03:53.227Z",
   "lookbackHours": 336,
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Art Director of BRAT, Brent David Freaney, Shares His Design Inspiration",
+      "url": "https://www.youtube.com/watch?v=5tPuOUr4lqQ",
+      "videoId": "5tPuOUr4lqQ",
+      "publishedAt": "2026-09-21T18:18:34Z",
+      "description": "This week on Source Material: enter the mind of Brent David Freaney — art director & founder of Special Offer. Find us on ⬇️ X ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "9 Designs that Inspired BRAT&#39;s Art Director, Brent David Freaney I Source Material",
+      "url": "https://www.youtube.com/watch?v=Upx_82SYDGc",
+      "videoId": "Upx_82SYDGc",
+      "publishedAt": "2026-09-21T18:02:01Z",
+      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
