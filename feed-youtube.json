@@ -1,28 +1,73 @@
 {
-  "generatedAt": "2026-09-22T04:03:53.227Z",
+  "generatedAt": "2026-09-23T04:00:38.890Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Art Director of BRAT, Brent David Freaney, Shares His Design Inspiration",
-      "url": "https://www.youtube.com/watch?v=5tPuOUr4lqQ",
-      "videoId": "5tPuOUr4lqQ",
-      "publishedAt": "2026-09-21T18:18:34Z",
-      "description": "This week on Source Material: enter the mind of Brent David Freaney — art director & founder of Special Offer. Find us on ⬇️ X ..."
+      "channel": "YC Startup School",
+      "title": "Drone swarm defense",
+      "url": "https://www.youtube.com/watch?v=5_ZkERt5siI",
+      "videoId": "5_ZkERt5siI",
+      "publishedAt": "2026-09-22T23:17:02Z",
+      "description": "Attack drones are reshaping modern warfare, but many countries still lack an effective way to defend their airspace. Earendil ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Why Ben Horowitz bet on a founder with zero commercial experience | Ali Ghodsi, Databricks",
+      "url": "https://www.youtube.com/watch?v=Zbp_0bKXWPw",
+      "videoId": "Zbp_0bKXWPw",
+      "publishedAt": "2026-09-22T21:27:20Z",
+      "description": "Databricks had $1.5M in revenue and a board interviewing outside CEOs. Ali Ghodsi on why a16z picked him anyway, and the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "100 water rescues in one month. Nobody knew why. Peregrine found the pattern.",
+      "url": "https://www.youtube.com/watch?v=y--F-PowqUs",
+      "videoId": "y--F-PowqUs",
+      "publishedAt": "2026-09-05T17:15:01Z",
+      "description": "A Florida county couldn't explain a spike in flood rescues. The agent traced it: three consecutive days of a weather pattern, carving ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "9 Designs that Inspired BRAT&#39;s Art Director, Brent David Freaney I Source Material",
-      "url": "https://www.youtube.com/watch?v=Upx_82SYDGc",
-      "videoId": "Upx_82SYDGc",
-      "publishedAt": "2026-09-21T18:02:01Z",
-      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
+      "title": "My shaders file deep dive | Show Your Work",
+      "url": "https://www.youtube.com/watch?v=LOKTMloOJ0E",
+      "videoId": "LOKTMloOJ0E",
+      "publishedAt": "2026-09-08T12:45:37Z",
+      "description": "Want to learn how to create expressive design effects with shaders? Jump into the design file with Piers Cowburn to see how one ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
+      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
+      "videoId": "nXwpiPybr0Q",
+      "publishedAt": "2020-04-25T14:26:07Z",
+      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
+      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
+      "videoId": "diUbB9joiZU",
+      "publishedAt": "2026-06-10T16:54:02Z",
+      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
+      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
+      "videoId": "kPqH3ZSbVjo",
+      "publishedAt": "2026-06-04T15:00:33Z",
+      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
