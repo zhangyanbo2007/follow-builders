@@ -1,73 +1,91 @@
 {
-  "generatedAt": "2026-09-23T04:00:38.890Z",
+  "generatedAt": "2026-09-24T03:55:42.639Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Drone swarm defense",
-      "url": "https://www.youtube.com/watch?v=5_ZkERt5siI",
-      "videoId": "5_ZkERt5siI",
-      "publishedAt": "2026-09-22T23:17:02Z",
-      "description": "Attack drones are reshaping modern warfare, but many countries still lack an effective way to defend their airspace. Earendil ..."
+      "title": "Apple Vision Pro: Startup Platform Of The Future?",
+      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
+      "videoId": "a_n4yOqlWbA",
+      "publishedAt": "2024-02-21T17:52:18Z",
+      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Ben Horowitz bet on a founder with zero commercial experience | Ali Ghodsi, Databricks",
-      "url": "https://www.youtube.com/watch?v=Zbp_0bKXWPw",
-      "videoId": "Zbp_0bKXWPw",
-      "publishedAt": "2026-09-22T21:27:20Z",
-      "description": "Databricks had $1.5M in revenue and a board interviewing outside CEOs. Ali Ghodsi on why a16z picked him anyway, and the ..."
+      "title": "Databricks CEO Ali Ghodsi built in 2 days what his team took 9 months to ship",
+      "url": "https://www.youtube.com/watch?v=6-LTGpBLlb4",
+      "videoId": "6-LTGpBLlb4",
+      "publishedAt": "2026-09-23T20:00:02Z",
+      "description": "Ali Ghodsi built a connector in two days. His team was taking three quarters. What he learned about where the time actually goes, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "100 water rescues in one month. Nobody knew why. Peregrine found the pattern.",
-      "url": "https://www.youtube.com/watch?v=y--F-PowqUs",
-      "videoId": "y--F-PowqUs",
-      "publishedAt": "2026-09-05T17:15:01Z",
-      "description": "A Florida county couldn't explain a spike in flood rescues. The agent traced it: three consecutive days of a weather pattern, carving ..."
+      "title": "&quot;80% of references are bullsh*t&quot; — Databricks&#39; Ali Ghodsi on exec hiring",
+      "url": "https://www.youtube.com/watch?v=YTZOo7Bpxlk",
+      "videoId": "YTZOo7Bpxlk",
+      "publishedAt": "2026-09-23T15:00:38Z",
+      "description": "A good exec search takes 6 to 12 months. Ali Ghodsi on why people settle, why the signals were always there, and why backdoor ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "My shaders file deep dive | Show Your Work",
-      "url": "https://www.youtube.com/watch?v=LOKTMloOJ0E",
-      "videoId": "LOKTMloOJ0E",
-      "publishedAt": "2026-09-08T12:45:37Z",
-      "description": "Want to learn how to create expressive design effects with shaders? Jump into the design file with Piers Cowburn to see how one ..."
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jack Dorsey: Yang Gang Forever | AI Podcast Clips",
-      "url": "https://www.youtube.com/watch?v=nXwpiPybr0Q",
-      "videoId": "nXwpiPybr0Q",
-      "publishedAt": "2020-04-25T14:26:07Z",
-      "description": "Full episode with Jack Dorsey (Apr 2020): https://www.youtube.com/watch?v=60KJz1BVTyU Clips channel (Lex Clips): ..."
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Lessons from Figma, Software Decay, &amp; the Creation of the Inter Font | Playbit’s Rasmus Andersson",
-      "url": "https://www.youtube.com/watch?v=kPqH3ZSbVjo",
-      "videoId": "kPqH3ZSbVjo",
-      "publishedAt": "2026-06-04T15:00:33Z",
-      "description": "What happens before a startup is even an idea? How is AI fundamentally changing the role of the designer? And why does most ..."
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Create your own voices with Gemini 3.8 text-to-speech",
+      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
+      "videoId": "FL6mI_Br-mc",
+      "publishedAt": "2026-09-23T15:23:38Z",
+      "description": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
