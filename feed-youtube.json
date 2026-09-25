@@ -1,91 +1,82 @@
 {
-  "generatedAt": "2026-09-24T03:55:42.639Z",
+  "generatedAt": "2026-09-25T04:10:56.756Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Apple Vision Pro: Startup Platform Of The Future?",
-      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
-      "videoId": "a_n4yOqlWbA",
-      "publishedAt": "2024-02-21T17:52:18Z",
-      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+      "title": "Autonomous construction on Earth and beyond",
+      "url": "https://www.youtube.com/watch?v=iGY7httJjQA",
+      "videoId": "iGY7httJjQA",
+      "publishedAt": "2026-09-24T21:00:29Z",
+      "description": "A lot of construction work is still done by hand simply because the machines to automate it don't exist. That's become a bottleneck ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Databricks CEO Ali Ghodsi built in 2 days what his team took 9 months to ship",
-      "url": "https://www.youtube.com/watch?v=6-LTGpBLlb4",
-      "videoId": "6-LTGpBLlb4",
-      "publishedAt": "2026-09-23T20:00:02Z",
-      "description": "Ali Ghodsi built a connector in two days. His team was taking three quarters. What he learned about where the time actually goes, ..."
+      "title": "&quot;It&#39;ll take humanity a decade to absorb AI&quot; | Databricks CEO Ali Ghodsi",
+      "url": "https://www.youtube.com/watch?v=lsWynLSM95g",
+      "videoId": "lsWynLSM95g",
+      "publishedAt": "2026-09-24T15:00:06Z",
+      "description": "The models are ready. The organizations aren't. Ali Ghodsi on why diffusing AI means re-engineering the processes of every ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "&quot;80% of references are bullsh*t&quot; — Databricks&#39; Ali Ghodsi on exec hiring",
-      "url": "https://www.youtube.com/watch?v=YTZOo7Bpxlk",
-      "videoId": "YTZOo7Bpxlk",
-      "publishedAt": "2026-09-23T15:00:38Z",
-      "description": "A good exec search takes 6 to 12 months. Ali Ghodsi on why people settle, why the signals were always there, and why backdoor ..."
+      "channel": "Figma Config",
+      "title": "4 Figma Motion tricks worth stealing | Show Your Work",
+      "url": "https://www.youtube.com/watch?v=UHupJZO7DTw",
+      "videoId": "UHupJZO7DTw",
+      "publishedAt": "2026-09-24T13:46:41Z",
+      "description": "Want to learn how Motion Designers at Figma are using Figma Motion? Jump into the Figma files of motion design pros and see ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+      "channel": "Google DeepMind",
+      "title": "Advanced dexterity with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
+      "videoId": "O9-650iHAls",
+      "publishedAt": "2026-07-30T14:57:59Z",
+      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Create your own voices with Gemini 3.8 text-to-speech",
-      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
-      "videoId": "FL6mI_Br-mc",
-      "publishedAt": "2026-09-23T15:23:38Z",
-      "description": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural ..."
+      "title": "Project Genie | Sunken Garden",
+      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
+      "videoId": "0NdJ61nwei4",
+      "publishedAt": "2026-02-20T11:28:25Z",
+      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Could One Blood Test Detect Thousands of Diseases?",
+      "url": "https://www.youtube.com/watch?v=--r6YKCcxtM",
+      "videoId": "--r6YKCcxtM",
+      "publishedAt": "2026-09-24T16:14:18Z",
+      "description": "The future of blood testing could go far beyond cancer."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "From Early Cancer Detection to the “Everything Test” | Helmy Eltoukhy, Guardant Health",
+      "url": "https://www.youtube.com/watch?v=cidAk58fniE",
+      "videoId": "cidAk58fniE",
+      "publishedAt": "2026-09-24T14:00:01Z",
+      "description": "What if one blood test could detect hundreds or even thousands of diseases? Guardant Health CEO Helmy Eltoukhy joins South ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
