@@ -1,82 +1,73 @@
 {
-  "generatedAt": "2026-09-25T04:10:56.756Z",
+  "generatedAt": "2026-09-26T04:14:48.950Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Autonomous construction on Earth and beyond",
-      "url": "https://www.youtube.com/watch?v=iGY7httJjQA",
-      "videoId": "iGY7httJjQA",
-      "publishedAt": "2026-09-24T21:00:29Z",
-      "description": "A lot of construction work is still done by hand simply because the machines to automate it don't exist. That's become a bottleneck ..."
+      "title": "Rocket cargo delivery anywhere on Earth in minutes",
+      "url": "https://www.youtube.com/watch?v=j7Ee8hMme3c",
+      "videoId": "j7Ee8hMme3c",
+      "publishedAt": "2026-09-25T18:36:54Z",
+      "description": "Hop Aero is building rockets that can deliver cargo anywhere on Earth in minutes. They're starting with military logistics and other ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "The State of Startups in 2026",
+      "url": "https://www.youtube.com/watch?v=yslXlV2BP_Y",
+      "videoId": "yslXlV2BP_Y",
+      "publishedAt": "2026-09-17T17:58:14Z",
+      "description": "YC works with thousands of founders every year, which gives us an early look at how startups are changing. Right now, the shift is ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "&quot;It&#39;ll take humanity a decade to absorb AI&quot; | Databricks CEO Ali Ghodsi",
-      "url": "https://www.youtube.com/watch?v=lsWynLSM95g",
-      "videoId": "lsWynLSM95g",
-      "publishedAt": "2026-09-24T15:00:06Z",
-      "description": "The models are ready. The organizations aren't. Ali Ghodsi on why diffusing AI means re-engineering the processes of every ..."
+      "title": "Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best",
+      "url": "https://www.youtube.com/watch?v=k7wPdCNfljQ",
+      "videoId": "k7wPdCNfljQ",
+      "publishedAt": "2026-09-17T12:00:08Z",
+      "description": "Ali Ghodsi never wanted the CEO job. In 2015, Databricks had a wildly successful open source project, $1.5 million in revenue, ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "4 Figma Motion tricks worth stealing | Show Your Work",
-      "url": "https://www.youtube.com/watch?v=UHupJZO7DTw",
-      "videoId": "UHupJZO7DTw",
-      "publishedAt": "2026-09-24T13:46:41Z",
-      "description": "Want to learn how Motion Designers at Figma are using Figma Motion? Jump into the Figma files of motion design pros and see ..."
+      "channel": "Lex Fridman",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "videoId": "s7d2d8FhevU",
+      "publishedAt": "2026-09-17T00:34:47Z",
+      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Advanced dexterity with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
-      "videoId": "O9-650iHAls",
-      "publishedAt": "2026-07-30T14:57:59Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
+      "channel": "Lex Fridman",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "videoId": "iKx3gAODybU",
+      "publishedAt": "2026-04-09T17:35:20Z",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Mistake That Led to a Company Failure",
+      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
+      "videoId": "WJ3zjY4z-Uw",
+      "publishedAt": "2026-08-24T21:53:28Z",
+      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
       "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Project Genie | Sunken Garden",
-      "url": "https://www.youtube.com/watch?v=0NdJ61nwei4",
-      "videoId": "0NdJ61nwei4",
-      "publishedAt": "2026-02-20T11:28:25Z",
-      "description": "Project Genie is Google's research prototype for creating playable worlds. With just a text or image prompt, you can generate ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Could One Blood Test Detect Thousands of Diseases?",
-      "url": "https://www.youtube.com/watch?v=--r6YKCcxtM",
-      "videoId": "--r6YKCcxtM",
-      "publishedAt": "2026-09-24T16:14:18Z",
-      "description": "The future of blood testing could go far beyond cancer."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "From Early Cancer Detection to the “Everything Test” | Helmy Eltoukhy, Guardant Health",
-      "url": "https://www.youtube.com/watch?v=cidAk58fniE",
-      "videoId": "cidAk58fniE",
-      "publishedAt": "2026-09-24T14:00:01Z",
-      "description": "What if one blood test could detect hundreds or even thousands of diseases? Guardant Health CEO Helmy Eltoukhy joins South ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
