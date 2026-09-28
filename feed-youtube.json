@@ -1,55 +1,46 @@
 {
-  "generatedAt": "2026-09-27T04:30:19.389Z",
+  "generatedAt": "2026-09-28T04:31:56.394Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Robot-Use Agents: Why General-Purpose Models May Win in Robotics",
-      "url": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
-      "videoId": "Jv5B5CEaPJI",
-      "publishedAt": "2026-09-26T14:00:37Z",
-      "description": "One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software."
+      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
+      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "videoId": "YEvLKzsEwMw",
+      "publishedAt": "2026-08-14T19:14:32Z",
+      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
-      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
-      "videoId": "JWMF5EpP0KE",
-      "publishedAt": "2026-09-01T12:00:16Z",
-      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
+      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
+      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
+      "videoId": "bCiPZ6VxECI",
+      "publishedAt": "2026-09-03T17:00:01Z",
+      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "On Building in Uncertainty, and Future of AI Safety | Srinivas Narayanan (Ex-OpenAI, Ex-Meta)",
-      "url": "https://www.youtube.com/watch?v=aJQWIMvkYqs",
-      "videoId": "aJQWIMvkYqs",
-      "publishedAt": "2026-09-18T11:00:38Z",
-      "description": "How close are we to AGI, and what happens when AI systems stop behaving the way we expect? Srinivas Narayanan, former ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Will AGI be one mind? Rich Sutton says no",
+      "url": "https://www.youtube.com/watch?v=bOXP_Lb3s4g",
+      "videoId": "bOXP_Lb3s4g",
+      "publishedAt": "2026-08-28T19:00:19Z",
+      "description": "If continual learning works, is the endpoint a single mind that can swing from a tree branch and build a spaceship? Rich Sutton: ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
-      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
-      "videoId": "H3g7_Hb284g",
-      "publishedAt": "2026-09-02T16:26:39Z",
-      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
+      "title": "Treating AI Models Like Humans",
+      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
+      "videoId": "Yu9TqNlZNZA",
+      "publishedAt": "2026-08-14T14:47:55Z",
+      "description": "Try to avoid steering your model towards being an \"evil guy.\""
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
