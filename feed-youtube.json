@@ -1,55 +1,28 @@
 {
-  "generatedAt": "2026-09-29T05:00:29.187Z",
+  "generatedAt": "2026-09-30T04:47:30.490Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Robotic factories that build robots",
-      "url": "https://www.youtube.com/watch?v=aNWKngrCrw4",
-      "videoId": "aNWKngrCrw4",
-      "publishedAt": "2026-09-28T20:56:45Z",
-      "description": "Tensr is building robotic factories that build robots. Their 12000-square-foot factory is already making humanoids, end effectors, ..."
+      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
+      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
+      "videoId": "TCPjk8Tpb5c",
+      "publishedAt": "2022-02-16T15:30:57Z",
+      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Creative Director &amp; Designer Manon Macasaet Shares Her Source Material",
-      "url": "https://www.youtube.com/watch?v=jUQ26onhNp4",
-      "videoId": "jUQ26onhNp4",
-      "publishedAt": "2026-09-28T18:20:57Z",
-      "description": "This week on Source Material - creative director, designer and genre bending artist Manon Macasaet (@mingblingbling) brings us ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "10 Things That Inspire Creative Director &amp; Designer, Manon Macasaet I Source Material",
-      "url": "https://www.youtube.com/watch?v=QKJKAvmzOrw",
-      "videoId": "QKJKAvmzOrw",
-      "publishedAt": "2026-09-28T18:01:26Z",
+      "title": "9 Designs that Inspired BRAT&#39;s Art Director, Brent David Freaney I Source Material",
+      "url": "https://www.youtube.com/watch?v=Upx_82SYDGc",
+      "videoId": "Upx_82SYDGc",
+      "publishedAt": "2026-09-21T18:02:01Z",
       "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma for Edu: Prototyping with animations in Figma",
-      "url": "https://www.youtube.com/watch?v=y9lZ5GMXNyU",
-      "videoId": "y9lZ5GMXNyU",
-      "publishedAt": "2026-09-28T14:15:22Z",
-      "description": "In this Figma for Edu monthly workshop we create prototypes thst also include animations using Figma motion. We then take the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why So Many Diagnostics Companies Fail",
-      "url": "https://www.youtube.com/watch?v=rFoPlMk22zM",
-      "videoId": "rFoPlMk22zM",
-      "publishedAt": "2026-09-28T15:15:09Z",
-      "description": "In diagnostics, building the technology is only one part of the job."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
