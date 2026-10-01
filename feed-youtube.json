@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-09-30T04:47:30.490Z",
+  "generatedAt": "2026-10-01T04:59:55.245Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Things That Don&#39;t Scale, The Software Edition – Dalton Caldwell and Michael Seibel",
-      "url": "https://www.youtube.com/watch?v=TCPjk8Tpb5c",
-      "videoId": "TCPjk8Tpb5c",
-      "publishedAt": "2022-02-16T15:30:57Z",
-      "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "100 water rescues in one month. Nobody knew why. Peregrine found the pattern.",
+      "url": "https://www.youtube.com/watch?v=y--F-PowqUs",
+      "videoId": "y--F-PowqUs",
+      "publishedAt": "2026-09-05T17:15:01Z",
+      "description": "A Florida county couldn't explain a spike in flood rescues. The agent traced it: three consecutive days of a weather pattern, carving ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "9 Designs that Inspired BRAT&#39;s Art Director, Brent David Freaney I Source Material",
-      "url": "https://www.youtube.com/watch?v=Upx_82SYDGc",
-      "videoId": "Upx_82SYDGc",
-      "publishedAt": "2026-09-21T18:02:01Z",
-      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
+      "title": "Figma Motion basics: Custom animation styles",
+      "url": "https://www.youtube.com/watch?v=HhRwVigdDIk",
+      "videoId": "HhRwVigdDIk",
+      "publishedAt": "2026-09-30T16:30:30Z",
+      "description": "Let's learn about custom animation styles. Custom animation styles let you define your brand's motion language and create ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Custom animation styles in Figma Motion",
+      "url": "https://www.youtube.com/watch?v=IaIhjAITQ6w",
+      "videoId": "IaIhjAITQ6w",
+      "publishedAt": "2026-09-30T16:30:02Z",
+      "description": "Use and publish custom animation styles to scale your motion work to others for consistency and cohesion. Find us on ⬇️ X ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
+      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
+      "videoId": "diUbB9joiZU",
+      "publishedAt": "2026-06-10T16:54:02Z",
+      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
