@@ -1,46 +1,100 @@
 {
-  "generatedAt": "2026-10-01T04:59:55.245Z",
+  "generatedAt": "2026-10-02T04:49:58.637Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "100 water rescues in one month. Nobody knew why. Peregrine found the pattern.",
-      "url": "https://www.youtube.com/watch?v=y--F-PowqUs",
-      "videoId": "y--F-PowqUs",
-      "publishedAt": "2026-09-05T17:15:01Z",
-      "description": "A Florida county couldn't explain a spike in flood rescues. The agent traced it: three consecutive days of a weather pattern, carving ..."
+      "channel": "YC Startup School",
+      "title": "Apple Vision Pro: Startup Platform Of The Future?",
+      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
+      "videoId": "a_n4yOqlWbA",
+      "publishedAt": "2024-02-21T17:52:18Z",
+      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 | Indexing the economy",
+      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
+      "videoId": "5wGqWRv1Z1s",
+      "publishedAt": "2026-05-19T21:51:35Z",
+      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
+      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
+      "videoId": "BDXIpktNOFE",
+      "publishedAt": "2026-05-16T00:00:13Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Stripe Sessions 2026 keynote in 12 minutes",
+      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
+      "videoId": "8F4XyWYqZi8",
+      "publishedAt": "2026-05-01T02:00:19Z",
+      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why the future of restaurants is moving South",
+      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
+      "videoId": "W7gOXMhsEaY",
+      "publishedAt": "2026-04-24T21:00:03Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
+      "videoId": "14IXiuBDzB8",
+      "publishedAt": "2026-04-09T22:51:39Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion basics: Custom animation styles",
-      "url": "https://www.youtube.com/watch?v=HhRwVigdDIk",
-      "videoId": "HhRwVigdDIk",
-      "publishedAt": "2026-09-30T16:30:30Z",
-      "description": "Let's learn about custom animation styles. Custom animation styles let you define your brand's motion language and create ..."
+      "title": "Release Notes 2026: September Edition | Figma",
+      "url": "https://www.youtube.com/watch?v=1lnuBH7CbEY",
+      "videoId": "1lnuBH7CbEY",
+      "publishedAt": "2026-10-01T17:15:32Z",
+      "description": "New Figma Motion and features in the canvas just dropped at Release Notes: → Custom animation styles, audio, and text ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Custom animation styles in Figma Motion",
-      "url": "https://www.youtube.com/watch?v=IaIhjAITQ6w",
-      "videoId": "IaIhjAITQ6w",
-      "publishedAt": "2026-09-30T16:30:02Z",
-      "description": "Use and publish custom animation styles to scale your motion work to others for consistency and cohesion. Find us on ⬇️ X ..."
+      "channel": "Lex Fridman",
+      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "videoId": "pv1TUJSEM2k",
+      "publishedAt": "2026-06-30T21:16:13Z",
+      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Future of Non-Invasive Brain-Computer Interfaces | AXION Founders at South Park Commons",
-      "url": "https://www.youtube.com/watch?v=diUbB9joiZU",
-      "videoId": "diUbB9joiZU",
-      "publishedAt": "2026-06-10T16:54:02Z",
-      "description": "What if you could control a computer just by thinking about it—without needing brain surgery? Join Mark Jacobstein (Partner, ..."
+      "channel": "Google DeepMind",
+      "title": "From deepfakes to DNA: the science of watermarking AI",
+      "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
+      "videoId": "HIUzrxQxTtw",
+      "publishedAt": "2026-10-01T16:37:46Z",
+      "description": "How do you know if what you're seeing is real? Professor Hannah Fry sits down with Pushmeet Kohli (VP of Science) and Jeremy ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Create your own voices with Gemini 3.8 text-to-speech",
+      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
+      "videoId": "FL6mI_Br-mc",
+      "publishedAt": "2026-09-23T15:23:38Z",
+      "description": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 10
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
