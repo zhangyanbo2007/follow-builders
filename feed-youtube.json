@@ -1,100 +1,217 @@
 {
-  "generatedAt": "2026-10-02T04:49:58.637Z",
+  "generatedAt": "2026-10-03T04:32:43.717Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Apple Vision Pro: Startup Platform Of The Future?",
-      "url": "https://www.youtube.com/watch?v=a_n4yOqlWbA",
-      "videoId": "a_n4yOqlWbA",
-      "publishedAt": "2024-02-21T17:52:18Z",
-      "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this ..."
+      "title": "A camera that can see through walls",
+      "url": "https://www.youtube.com/watch?v=Lk_0TviLhnw",
+      "videoId": "Lk_0TviLhnw",
+      "publishedAt": "2026-10-02T19:20:30Z",
+      "description": "Applied Electrodynamics is building cameras that can see through walls and other opaque materials. Using radio waves, their ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "What If We Stopped Using GPUs? | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+      "videoId": "xc2FTBGRSJo",
+      "publishedAt": "2026-10-02T14:00:19Z",
+      "description": "This week's Paper Club is all about alternative compute. Modern AI has been shaped by a tight coupling between transformers, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Drone swarm defense",
+      "url": "https://www.youtube.com/watch?v=5_ZkERt5siI",
+      "videoId": "5_ZkERt5siI",
+      "publishedAt": "2026-09-22T23:17:02Z",
+      "description": "Attack drones are reshaping modern warfare, but many countries still lack an effective way to defend their airspace. Earendil ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "The World’s Largest Electric Aircraft Just Flew",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "videoId": "nM86DBOqgPM",
+      "publishedAt": "2026-09-01T15:30:23Z",
+      "description": "Heart Aerospace (YC W19) just flew the largest electric airplane ever flown — a 100-foot wingspan, a takeoff weight of 25000 ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Going In Deep On Data | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=IfoPg2QefF8",
+      "videoId": "IfoPg2QefF8",
+      "publishedAt": "2026-08-20T14:00:12Z",
+      "description": "This week's YC Paper Club is focused on data. Three domain experts give talks to break down the challenges and frontiers of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "&quot;It&#39;ll take humanity a decade to absorb AI&quot; | Databricks CEO Ali Ghodsi",
+      "url": "https://www.youtube.com/watch?v=lsWynLSM95g",
+      "videoId": "lsWynLSM95g",
+      "publishedAt": "2026-09-24T15:00:06Z",
+      "description": "The models are ready. The organizations aren't. Ali Ghodsi on why diffusing AI means re-engineering the processes of every ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Databricks CEO Ali Ghodsi built in 2 days what his team took 9 months to ship",
+      "url": "https://www.youtube.com/watch?v=6-LTGpBLlb4",
+      "videoId": "6-LTGpBLlb4",
+      "publishedAt": "2026-09-23T20:00:02Z",
+      "description": "Ali Ghodsi built a connector in two days. His team was taking three quarters. What he learned about where the time actually goes, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "&quot;80% of references are bullsh*t&quot; — Databricks&#39; Ali Ghodsi on exec hiring",
+      "url": "https://www.youtube.com/watch?v=YTZOo7Bpxlk",
+      "videoId": "YTZOo7Bpxlk",
+      "publishedAt": "2026-09-23T15:00:38Z",
+      "description": "A good exec search takes 6 to 12 months. Ali Ghodsi on why people settle, why the signals were always there, and why backdoor ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Why Ben Horowitz bet on a founder with zero commercial experience | Ali Ghodsi, Databricks",
+      "url": "https://www.youtube.com/watch?v=Zbp_0bKXWPw",
+      "videoId": "Zbp_0bKXWPw",
+      "publishedAt": "2026-09-22T21:27:20Z",
+      "description": "Databricks had $1.5M in revenue and a board interviewing outside CEOs. Ali Ghodsi on why a16z picked him anyway, and the ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 | Indexing the economy",
-      "url": "https://www.youtube.com/watch?v=5wGqWRv1Z1s",
-      "videoId": "5wGqWRv1Z1s",
-      "publishedAt": "2026-05-19T21:51:35Z",
-      "description": "Hear about trends that will shape the next decade of payments and global trade. More information: https://stripesessions.com ..."
+      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
+      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
+      "videoId": "4GmHpHyoKmo",
+      "publishedAt": "2026-08-25T00:00:11Z",
+      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Vercel&#39;s Guillermo Rauch on monetizing apps in v0",
-      "url": "https://www.youtube.com/watch?v=BDXIpktNOFE",
-      "videoId": "BDXIpktNOFE",
-      "publishedAt": "2026-05-16T00:00:13Z",
+      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
+      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
+      "videoId": "GaxHXrskngs",
+      "publishedAt": "2026-06-18T21:18:11Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Stripe Sessions 2026 keynote in 12 minutes",
-      "url": "https://www.youtube.com/watch?v=8F4XyWYqZi8",
-      "videoId": "8F4XyWYqZi8",
-      "publishedAt": "2026-05-01T02:00:19Z",
-      "description": "Everything Stripe launched at Sessions 2026 in 12 minutes. More information: https://stripesessions.com Full keynote: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why the future of restaurants is moving South",
-      "url": "https://www.youtube.com/watch?v=W7gOXMhsEaY",
-      "videoId": "W7gOXMhsEaY",
-      "publishedAt": "2026-04-24T21:00:03Z",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Google had YouTube. Facebook had Instagram. OpenAI had ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=14IXiuBDzB8",
-      "videoId": "14IXiuBDzB8",
-      "publishedAt": "2026-04-09T22:51:39Z",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Release Notes 2026: September Edition | Figma",
-      "url": "https://www.youtube.com/watch?v=1lnuBH7CbEY",
-      "videoId": "1lnuBH7CbEY",
-      "publishedAt": "2026-10-01T17:15:32Z",
-      "description": "New Figma Motion and features in the canvas just dropped at Release Notes: → Custom animation styles, audio, and text ..."
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Alan cofounder and CTO Charles Gorintin",
+      "url": "https://www.youtube.com/watch?v=WkktooN6s-w",
+      "videoId": "WkktooN6s-w",
+      "publishedAt": "2026-06-16T17:44:45Z",
+      "description": "Alan cofounder and CTO joins Stripe French country lead Laurent Curny for a fireside chat at Tour Paris. Register for Stripe Tour ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "videoId": "pv1TUJSEM2k",
-      "publishedAt": "2026-06-30T21:16:13Z",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "videoId": "l6USUAIKJls",
+      "publishedAt": "2026-08-12T12:57:24Z",
+      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "From deepfakes to DNA: the science of watermarking AI",
-      "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
-      "videoId": "HIUzrxQxTtw",
-      "publishedAt": "2026-10-01T16:37:46Z",
-      "description": "How do you know if what you're seeing is real? Professor Hannah Fry sits down with Pushmeet Kohli (VP of Science) and Jeremy ..."
+      "title": "AlphaGenome Atlas: Using AI to find disease causing variants 🧬",
+      "url": "https://www.youtube.com/watch?v=ya04CpsRJH0",
+      "videoId": "ya04CpsRJH0",
+      "publishedAt": "2026-09-08T14:02:28Z",
+      "description": "How do you find a single typo in a person's DNA that causes a rare disease? It is like finding a needle in a 9-billion-piece haystack ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Create your own voices with Gemini 3.8 text-to-speech",
-      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
-      "videoId": "FL6mI_Br-mc",
-      "publishedAt": "2026-09-23T15:23:38Z",
-      "description": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural ..."
+      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
+      "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
+      "videoId": "_6jZlnRsXXQ",
+      "publishedAt": "2026-09-03T14:58:32Z",
+      "description": "Predicting the weather is one of the oldest, most complex challenges we face. Traditional numerical weather prediction models ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
+      "videoId": "zlveLhFb64M",
+      "publishedAt": "2026-08-07T14:47:11Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Could One Blood Test Detect Thousands of Diseases?",
+      "url": "https://www.youtube.com/watch?v=--r6YKCcxtM",
+      "videoId": "--r6YKCcxtM",
+      "publishedAt": "2026-09-24T16:14:18Z",
+      "description": "The future of blood testing could go far beyond cancer."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "From Early Cancer Detection to the “Everything Test” | Helmy Eltoukhy, Guardant Health",
+      "url": "https://www.youtube.com/watch?v=cidAk58fniE",
+      "videoId": "cidAk58fniE",
+      "publishedAt": "2026-09-24T14:00:01Z",
+      "description": "What if one blood test could detect hundreds or even thousands of diseases? Guardant Health CEO Helmy Eltoukhy joins South ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic&#39;s Head of Design on the Slop Gap",
+      "url": "https://www.youtube.com/watch?v=zA-owZs96wM",
+      "videoId": "zA-owZs96wM",
+      "publishedAt": "2026-09-10T17:17:59Z",
+      "description": "Designers should be curators."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Anthropic&#39;s Head of Design on AGI-Maximalist Product Design | Joel Lewenstein",
+      "url": "https://www.youtube.com/watch?v=rkC3ZsH1HCQ",
+      "videoId": "rkC3ZsH1HCQ",
+      "publishedAt": "2026-09-10T16:00:20Z",
+      "description": "How do you design software when the underlying technology improves itself while you're on vacation? Joel Lewenstein, Head of ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 23
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
