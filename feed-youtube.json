@@ -1,109 +1,136 @@
 {
-  "generatedAt": "2026-10-04T05:03:22.439Z",
+  "generatedAt": "2026-10-05T04:49:53.633Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Rocket cargo delivery anywhere on Earth in minutes",
-      "url": "https://www.youtube.com/watch?v=j7Ee8hMme3c",
-      "videoId": "j7Ee8hMme3c",
-      "publishedAt": "2026-09-25T18:36:54Z",
-      "description": "Hop Aero is building rockets that can deliver cargo anywhere on Earth in minutes. They're starting with military logistics and other ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Autonomous construction on Earth and beyond",
-      "url": "https://www.youtube.com/watch?v=iGY7httJjQA",
-      "videoId": "iGY7httJjQA",
-      "publishedAt": "2026-09-24T21:00:29Z",
-      "description": "A lot of construction work is still done by hand simply because the machines to automate it don't exist. That's become a bottleneck ..."
+      "title": "The Case For Data Centers In Space",
+      "url": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
+      "videoId": "A9JDkiYEhfY",
+      "publishedAt": "2026-08-05T14:00:08Z",
+      "description": "Philip Johnston is the co-founder and CEO of Starcloud, the company building data centers in space. In November 2025 ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best",
-      "url": "https://www.youtube.com/watch?v=k7wPdCNfljQ",
-      "videoId": "k7wPdCNfljQ",
-      "publishedAt": "2026-09-17T12:00:08Z",
-      "description": "Ali Ghodsi never wanted the CEO job. In 2015, Databricks had a wildly successful open source project, $1.5 million in revenue, ..."
+      "title": "Why Peregrine&#39;s founders left national security to work on cities",
+      "url": "https://www.youtube.com/watch?v=-ylAqar2Ea4",
+      "videoId": "-ylAqar2Ea4",
+      "publishedAt": "2026-09-04T17:45:16Z",
+      "description": "Nick Noone was flying in and out of Baghdad. Ben Rudolph was working refugee crises in Africa. In 2016 they decided to come ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
+      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
+      "videoId": "JWMF5EpP0KE",
+      "publishedAt": "2026-09-01T12:00:16Z",
+      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
-      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
-      "videoId": "CEYGln3s9MM",
-      "publishedAt": "2026-09-03T05:50:59Z",
-      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
+      "title": "L’impact inattendu de ChatGPT sur les abonnements du Monde",
+      "url": "https://www.youtube.com/watch?v=dEVF0b5gbms",
+      "videoId": "dEVF0b5gbms",
+      "publishedAt": "2026-06-10T17:01:01Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Barney Hussey-Yeo in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=70kWqOOWlAA",
-      "videoId": "70kWqOOWlAA",
-      "publishedAt": "2026-06-10T18:25:52Z",
-      "description": "Cleo founder and CEO Barney Hussey-Yeo joins Stripe CEO John Collison for a fireside chat at Tour London. Register for Stripe ..."
+      "title": "10 Years of Stripe France: The tech renaissance and what’s next",
+      "url": "https://www.youtube.com/watch?v=Jq-Rf0LsIq8",
+      "videoId": "Jq-Rf0LsIq8",
+      "publishedAt": "2026-05-28T06:30:31Z",
+      "description": "Ten years ago, Stripe opened its first offices in France. A decade later, the French ecosystem has transformed: iconic companies ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Bringing world-class payments to UK small businesses",
-      "url": "https://www.youtube.com/watch?v=dOL8fsLkg5g",
-      "videoId": "dOL8fsLkg5g",
-      "publishedAt": "2026-06-09T07:30:28Z",
-      "description": "PH247 founder Louchavan Lemard was spending more time chasing invoices than running his business. He told us about what ..."
+      "channel": "Figma Config",
+      "title": "Figma Motion basics: Use shaders in your animations",
+      "url": "https://www.youtube.com/watch?v=spMhSWAmduw",
+      "videoId": "spMhSWAmduw",
+      "publishedAt": "2026-09-18T18:00:20Z",
+      "description": "Let's learn how to animate shaders in Figma Motion. Shaders are visual effects you can apply to layers, either as fills that generate ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "videoId": "s7d2d8FhevU",
-      "publishedAt": "2026-09-17T00:34:47Z",
-      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "videoId": "SHlrUAkkWI0",
+      "publishedAt": "2026-03-03T12:30:21Z",
+      "description": "Training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was truly an honor for ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "videoId": "iKx3gAODybU",
-      "publishedAt": "2026-04-09T17:35:20Z",
-      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ..."
+      "title": "Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480",
+      "url": "https://www.youtube.com/watch?v=-Qm1_On71Oo",
+      "videoId": "-Qm1_On71Oo",
+      "publishedAt": "2025-09-04T19:56:59Z",
+      "description": "Dave Hone is a paleontologist, expert on dinosaurs, co-host of the Terrible Lizards podcast, and author of numerous scientific ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "High salaries for AI engineers: The talent war in AI",
+      "url": "https://www.youtube.com/watch?v=1WrrOJJ8-5g",
+      "videoId": "1WrrOJJ8-5g",
+      "publishedAt": "2025-08-09T18:10:34Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "AlphaGenome Atlas: Understanding the human genome",
-      "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
-      "videoId": "U0aToL5C-bQ",
-      "publishedAt": "2026-09-08T13:58:27Z",
-      "description": "We've used AlphaGenome to predict the molecular impact of every possible single-letter change in the human genome. All nine ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Advanced dexterity with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=O9-650iHAls",
-      "videoId": "O9-650iHAls",
-      "publishedAt": "2026-07-30T14:57:59Z",
+      "title": "Tough dexterity tasks with Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
+      "videoId": "wYVHxw2-DP4",
+      "publishedAt": "2026-07-30T14:58:10Z",
       "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
     },
     {
       "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
+      "channel": "Google DeepMind",
+      "title": "Gemini for Science is here. 🧬",
+      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+      "videoId": "pm5PBbo6l2k",
+      "publishedAt": "2026-05-26T16:17:10Z",
       "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
+      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
+      "videoId": "H3g7_Hb284g",
+      "publishedAt": "2026-09-02T16:26:39Z",
+      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Mistake That Led to a Company Failure",
+      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
+      "videoId": "WJ3zjY4z-Uw",
+      "publishedAt": "2026-08-24T21:53:28Z",
+      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Best Founders Have This Superpower",
+      "url": "https://www.youtube.com/watch?v=UxHhTSObYVU",
+      "videoId": "UxHhTSObYVU",
+      "publishedAt": "2026-08-21T16:05:58Z",
+      "description": "The greatest founders are reductionists."
     }
   ],
   "stats": {
-    "youtubeVideos": 11
+    "youtubeVideos": 14
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
