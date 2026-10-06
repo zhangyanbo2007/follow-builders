@@ -1,136 +1,118 @@
 {
-  "generatedAt": "2026-10-05T04:49:53.633Z",
+  "generatedAt": "2026-10-06T05:36:49.805Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The Case For Data Centers In Space",
-      "url": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
-      "videoId": "A9JDkiYEhfY",
-      "publishedAt": "2026-08-05T14:00:08Z",
-      "description": "Philip Johnston is the co-founder and CEO of Starcloud, the company building data centers in space. In November 2025 ..."
+      "title": "Introducing Early Access: An Invite only program for the Enterprise",
+      "url": "https://www.youtube.com/watch?v=2JiUeYzcRKE",
+      "videoId": "2JiUeYzcRKE",
+      "publishedAt": "2026-09-08T16:13:54Z",
+      "description": "Introducing the YC Early Access Network. 4x a year, senior technology leaders get early looks at YC's enterprise AI companies ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
+      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+      "videoId": "YEvLKzsEwMw",
+      "publishedAt": "2026-08-14T19:14:32Z",
+      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Peregrine&#39;s founders left national security to work on cities",
-      "url": "https://www.youtube.com/watch?v=-ylAqar2Ea4",
-      "videoId": "-ylAqar2Ea4",
-      "publishedAt": "2026-09-04T17:45:16Z",
-      "description": "Nick Noone was flying in and out of Baghdad. Ben Rudolph was working refugee crises in Africa. In 2016 they decided to come ..."
+      "title": "Box&#39;s Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "url": "https://www.youtube.com/watch?v=NE4CLThMPGU",
+      "videoId": "NE4CLThMPGU",
+      "publishedAt": "2026-09-15T12:00:34Z",
+      "description": "Starting a company is hard. Reinventing your company for AI as a public company with quarterly earnings results is even harder."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
-      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
-      "videoId": "JWMF5EpP0KE",
-      "publishedAt": "2026-09-01T12:00:16Z",
-      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, ..."
+      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
+      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
+      "videoId": "bCiPZ6VxECI",
+      "publishedAt": "2026-09-03T17:00:01Z",
+      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "L’impact inattendu de ChatGPT sur les abonnements du Monde",
-      "url": "https://www.youtube.com/watch?v=dEVF0b5gbms",
-      "videoId": "dEVF0b5gbms",
-      "publishedAt": "2026-06-10T17:01:01Z",
+      "title": "On a dit &quot;NON&quot; à Pinterest pour Stripe",
+      "url": "https://www.youtube.com/watch?v=gIC_tOVImSQ",
+      "videoId": "gIC_tOVImSQ",
+      "publishedAt": "2026-06-05T14:09:25Z",
       "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "10 Years of Stripe France: The tech renaissance and what’s next",
-      "url": "https://www.youtube.com/watch?v=Jq-Rf0LsIq8",
-      "videoId": "Jq-Rf0LsIq8",
-      "publishedAt": "2026-05-28T06:30:31Z",
-      "description": "Ten years ago, Stripe opened its first offices in France. A decade later, the French ecosystem has transformed: iconic companies ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion basics: Use shaders in your animations",
-      "url": "https://www.youtube.com/watch?v=spMhSWAmduw",
-      "videoId": "spMhSWAmduw",
-      "publishedAt": "2026-09-18T18:00:20Z",
-      "description": "Let's learn how to animate shaders in Figma Motion. Shaders are visual effects you can apply to layers, either as fills that generate ..."
+      "title": "Figma agent: Animate this mobile gallery layout",
+      "url": "https://www.youtube.com/watch?v=1eo35oxx3Vg",
+      "videoId": "1eo35oxx3Vg",
+      "publishedAt": "2026-10-05T23:05:10Z",
+      "description": "Using the agent for motion in @Figma is super helpful, helps you see the idea first, and then you can just tweak the timeline."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "14 Unexpected Design References that Inspire Chase Rutherford I Source Material",
+      "url": "https://www.youtube.com/watch?v=j-DQtPL_x3o",
+      "videoId": "j-DQtPL_x3o",
+      "publishedAt": "2026-10-05T21:03:06Z",
+      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "videoId": "SHlrUAkkWI0",
-      "publishedAt": "2026-03-03T12:30:21Z",
-      "description": "Training with Khabib Nurmagomedov, one of the greatest fighters of all time and a great human being. This was truly an honor for ..."
+      "title": "Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475",
+      "url": "https://www.youtube.com/watch?v=-HzgcbRXUK8",
+      "videoId": "-HzgcbRXUK8",
+      "publishedAt": "2025-07-23T18:39:15Z",
+      "description": "Demis Hassabis is the CEO of Google DeepMind and Nobel Prize winner for his groundbreaking work in protein structure ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480",
-      "url": "https://www.youtube.com/watch?v=-Qm1_On71Oo",
-      "videoId": "-Qm1_On71Oo",
-      "publishedAt": "2025-09-04T19:56:59Z",
-      "description": "Dave Hone is a paleontologist, expert on dinosaurs, co-host of the Terrible Lizards podcast, and author of numerous scientific ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "High salaries for AI engineers: The talent war in AI",
-      "url": "https://www.youtube.com/watch?v=1WrrOJJ8-5g",
-      "videoId": "1WrrOJJ8-5g",
-      "publishedAt": "2025-08-09T18:10:34Z",
+      "title": "Terence Tao on Grigori Perelman declining the Fields Medal",
+      "url": "https://www.youtube.com/watch?v=UN5qgBk6MwY",
+      "videoId": "UN5qgBk6MwY",
+      "publishedAt": "2025-06-19T23:23:00Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "videoId": "wYVHxw2-DP4",
-      "publishedAt": "2026-07-30T14:58:10Z",
-      "description": "To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Gemini for Science is here. 🧬",
-      "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
-      "videoId": "pm5PBbo6l2k",
-      "publishedAt": "2026-05-26T16:17:10Z",
+      "channel": "Lex Fridman",
+      "title": "Google CEO on Elon Musk, Tesla, and Waymo",
+      "url": "https://www.youtube.com/watch?v=ufI31PNM9u8",
+      "videoId": "ufI31PNM9u8",
+      "publishedAt": "2025-06-10T20:51:39Z",
       "description": ""
     },
     {
       "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How TenX Semi is Fixing the Multi-Million Dollar Problem in Chip Design",
-      "url": "https://www.youtube.com/watch?v=H3g7_Hb284g",
-      "videoId": "H3g7_Hb284g",
-      "publishedAt": "2026-09-02T16:26:39Z",
-      "description": "Semiconductor design is facing a massive bottleneck: verification. With the cost of a single chip respin reaching tens or hundreds ..."
+      "channel": "Lex Fridman",
+      "title": "Rick Spence: CIA, KGB, Illuminati, Secret Societies, Cults &amp; Conspiracies | Lex Fridman Podcast #451",
+      "url": "https://www.youtube.com/watch?v=abd5hguWKz0",
+      "videoId": "abd5hguWKz0",
+      "publishedAt": "2024-10-30T18:06:12Z",
+      "description": "Rick Spence is a historian specializing in the history of intelligence agencies, espionage, secret societies, conspiracies, the occult, ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Mistake That Led to a Company Failure",
-      "url": "https://www.youtube.com/watch?v=WJ3zjY4z-Uw",
-      "videoId": "WJ3zjY4z-Uw",
-      "publishedAt": "2026-08-24T21:53:28Z",
-      "description": "Snowflake CEO reflects on building Neeva, the ad-free search engine he founded, and why it ultimately failed."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Best Founders Have This Superpower",
-      "url": "https://www.youtube.com/watch?v=UxHhTSObYVU",
-      "videoId": "UxHhTSObYVU",
-      "publishedAt": "2026-08-21T16:05:58Z",
-      "description": "The greatest founders are reductionists."
+      "title": "Treating AI Models Like Humans",
+      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
+      "videoId": "Yu9TqNlZNZA",
+      "publishedAt": "2026-08-14T14:47:55Z",
+      "description": "Try to avoid steering your model towards being an \"evil guy.\""
     }
   ],
   "stats": {
-    "youtubeVideos": 14
+    "youtubeVideos": 12
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
