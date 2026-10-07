@@ -1,118 +1,73 @@
 {
-  "generatedAt": "2026-10-06T05:36:49.805Z",
+  "generatedAt": "2026-10-07T05:07:07.394Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Introducing Early Access: An Invite only program for the Enterprise",
-      "url": "https://www.youtube.com/watch?v=2JiUeYzcRKE",
-      "videoId": "2JiUeYzcRKE",
-      "publishedAt": "2026-09-08T16:13:54Z",
-      "description": "Introducing the YC Early Access Network. 4x a year, senior technology leaders get early looks at YC's enterprise AI companies ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Susan Kare: Designing Icons &amp; Graphics For the Original Mac",
-      "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-      "videoId": "YEvLKzsEwMw",
-      "publishedAt": "2026-08-14T19:14:32Z",
-      "description": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the ..."
+      "title": "Robotic factories that build robots",
+      "url": "https://www.youtube.com/watch?v=aNWKngrCrw4",
+      "videoId": "aNWKngrCrw4",
+      "publishedAt": "2026-09-28T20:56:45Z",
+      "description": "Tensr is building robotic factories that build robots. Their 12000-square-foot factory is already making humanoids, end effectors, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Box&#39;s Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
-      "url": "https://www.youtube.com/watch?v=NE4CLThMPGU",
-      "videoId": "NE4CLThMPGU",
-      "publishedAt": "2026-09-15T12:00:34Z",
-      "description": "Starting a company is hard. Reinventing your company for AI as a public company with quarterly earnings results is even harder."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Every competitor collects more data. They collect none. | Nick Noone, Peregrine",
-      "url": "https://www.youtube.com/watch?v=bCiPZ6VxECI",
-      "videoId": "bCiPZ6VxECI",
-      "publishedAt": "2026-09-03T17:00:01Z",
-      "description": "Flock, Axon, and most of public safety tech grew by owning the input. Nick Noone on why Peregrine inverted the entire model, and ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "On a dit &quot;NON&quot; à Pinterest pour Stripe",
-      "url": "https://www.youtube.com/watch?v=gIC_tOVImSQ",
-      "videoId": "gIC_tOVImSQ",
-      "publishedAt": "2026-06-05T14:09:25Z",
-      "description": ""
+      "title": "Google&#39;s AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
+      "url": "https://www.youtube.com/watch?v=bGph8GwB3Sk",
+      "videoId": "bGph8GwB3Sk",
+      "publishedAt": "2026-10-06T12:00:27Z",
+      "description": "At 100000-accelerator scale, something fails multiple times an hour, which is why Google's Chief Technologist for AI Infrastructure ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma agent: Animate this mobile gallery layout",
-      "url": "https://www.youtube.com/watch?v=1eo35oxx3Vg",
-      "videoId": "1eo35oxx3Vg",
-      "publishedAt": "2026-10-05T23:05:10Z",
-      "description": "Using the agent for motion in @Figma is super helpful, helps you see the idea first, and then you can just tweak the timeline."
+      "title": "Add audio to your Figma Motion timeline",
+      "url": "https://www.youtube.com/watch?v=7letdJz3XtU",
+      "videoId": "7letdJz3XtU",
+      "publishedAt": "2026-10-06T22:18:16Z",
+      "description": "You can now add audio to your Figma Motion timeline: • Audio exports with video formats • Split tracks at the playhead with Option ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "14 Unexpected Design References that Inspire Chase Rutherford I Source Material",
-      "url": "https://www.youtube.com/watch?v=j-DQtPL_x3o",
-      "videoId": "j-DQtPL_x3o",
-      "publishedAt": "2026-10-05T21:03:06Z",
-      "description": "Introducing Source Material — Figma's weekly series where the designers & creatives shaping culture share the references that ..."
+      "title": "Teach Figma&#39;s agent your design system | Add guidelines to your Figma library",
+      "url": "https://www.youtube.com/watch?v=MidLjQLejyE",
+      "videoId": "MidLjQLejyE",
+      "publishedAt": "2026-10-06T16:00:15Z",
+      "description": "As a design systems team, you create resources to help your team use your system effectively… But what about their agents?"
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475",
-      "url": "https://www.youtube.com/watch?v=-HzgcbRXUK8",
-      "videoId": "-HzgcbRXUK8",
-      "publishedAt": "2025-07-23T18:39:15Z",
-      "description": "Demis Hassabis is the CEO of Google DeepMind and Nobel Prize winner for his groundbreaking work in protein structure ..."
+      "channel": "Figma Config",
+      "title": "Find your flow state with the Figma agent",
+      "url": "https://www.youtube.com/watch?v=xTkrKqbsDec",
+      "videoId": "xTkrKqbsDec",
+      "publishedAt": "2026-10-06T14:21:12Z",
+      "description": "Figma agent is now out of beta → https://figma.bot/4y10R6J Credits Agency: Iverson Director: David Dinetz Audio track: Feisty, ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Terence Tao on Grigori Perelman declining the Fields Medal",
-      "url": "https://www.youtube.com/watch?v=UN5qgBk6MwY",
-      "videoId": "UN5qgBk6MwY",
-      "publishedAt": "2025-06-19T23:23:00Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Google CEO on Elon Musk, Tesla, and Waymo",
-      "url": "https://www.youtube.com/watch?v=ufI31PNM9u8",
-      "videoId": "ufI31PNM9u8",
-      "publishedAt": "2025-06-10T20:51:39Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Rick Spence: CIA, KGB, Illuminati, Secret Societies, Cults &amp; Conspiracies | Lex Fridman Podcast #451",
-      "url": "https://www.youtube.com/watch?v=abd5hguWKz0",
-      "videoId": "abd5hguWKz0",
-      "publishedAt": "2024-10-30T18:06:12Z",
-      "description": "Rick Spence is a historian specializing in the history of intelligence agencies, espionage, secret societies, conspiracies, the occult, ..."
+      "channel": "Figma Config",
+      "title": "Chase Rutherford Shares his Design Inspiration I Source Material",
+      "url": "https://www.youtube.com/watch?v=rtXs74FPe1I",
+      "videoId": "rtXs74FPe1I",
+      "publishedAt": "2026-10-05T23:06:24Z",
+      "description": "Who says good design has to be so serious? From graduating FIT to leading creative direction for Slush Noobz, Chase Rutherford ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Treating AI Models Like Humans",
-      "url": "https://www.youtube.com/watch?v=Yu9TqNlZNZA",
-      "videoId": "Yu9TqNlZNZA",
-      "publishedAt": "2026-08-14T14:47:55Z",
-      "description": "Try to avoid steering your model towards being an \"evil guy.\""
+      "title": "On Building in Uncertainty, and Future of AI Safety | Srinivas Narayanan (Ex-OpenAI, Ex-Meta)",
+      "url": "https://www.youtube.com/watch?v=aJQWIMvkYqs",
+      "videoId": "aJQWIMvkYqs",
+      "publishedAt": "2026-09-18T11:00:38Z",
+      "description": "How close are we to AGI, and what happens when AI systems stop behaving the way we expect? Srinivas Narayanan, former ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 12
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
