@@ -1,73 +1,19 @@
 {
-  "generatedAt": "2026-10-07T05:07:07.394Z",
+  "generatedAt": "2026-10-08T05:17:51.129Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Robotic factories that build robots",
-      "url": "https://www.youtube.com/watch?v=aNWKngrCrw4",
-      "videoId": "aNWKngrCrw4",
-      "publishedAt": "2026-09-28T20:56:45Z",
-      "description": "Tensr is building robotic factories that build robots. Their 12000-square-foot factory is already making humanoids, end effectors, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Google&#39;s AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
-      "url": "https://www.youtube.com/watch?v=bGph8GwB3Sk",
-      "videoId": "bGph8GwB3Sk",
-      "publishedAt": "2026-10-06T12:00:27Z",
-      "description": "At 100000-accelerator scale, something fails multiple times an hour, which is why Google's Chief Technologist for AI Infrastructure ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Add audio to your Figma Motion timeline",
-      "url": "https://www.youtube.com/watch?v=7letdJz3XtU",
-      "videoId": "7letdJz3XtU",
-      "publishedAt": "2026-10-06T22:18:16Z",
-      "description": "You can now add audio to your Figma Motion timeline: • Audio exports with video formats • Split tracks at the playhead with Option ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Teach Figma&#39;s agent your design system | Add guidelines to your Figma library",
-      "url": "https://www.youtube.com/watch?v=MidLjQLejyE",
-      "videoId": "MidLjQLejyE",
-      "publishedAt": "2026-10-06T16:00:15Z",
-      "description": "As a design systems team, you create resources to help your team use your system effectively… But what about their agents?"
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Find your flow state with the Figma agent",
-      "url": "https://www.youtube.com/watch?v=xTkrKqbsDec",
-      "videoId": "xTkrKqbsDec",
-      "publishedAt": "2026-10-06T14:21:12Z",
-      "description": "Figma agent is now out of beta → https://figma.bot/4y10R6J Credits Agency: Iverson Director: David Dinetz Audio track: Feisty, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Chase Rutherford Shares his Design Inspiration I Source Material",
-      "url": "https://www.youtube.com/watch?v=rtXs74FPe1I",
-      "videoId": "rtXs74FPe1I",
-      "publishedAt": "2026-10-05T23:06:24Z",
-      "description": "Who says good design has to be so serious? From graduating FIT to leading creative direction for Slush Noobz, Chase Rutherford ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "On Building in Uncertainty, and Future of AI Safety | Srinivas Narayanan (Ex-OpenAI, Ex-Meta)",
-      "url": "https://www.youtube.com/watch?v=aJQWIMvkYqs",
-      "videoId": "aJQWIMvkYqs",
-      "publishedAt": "2026-09-18T11:00:38Z",
-      "description": "How close are we to AGI, and what happens when AI systems stop behaving the way we expect? Srinivas Narayanan, former ..."
+      "channel": "Google DeepMind",
+      "title": "This is Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
+      "videoId": "OEmEfobzodE",
+      "publishedAt": "2026-07-31T16:10:59Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 1
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
