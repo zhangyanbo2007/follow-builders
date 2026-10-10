@@ -1,64 +1,28 @@
 {
-  "generatedAt": "2026-10-09T05:20:53.140Z",
+  "generatedAt": "2026-10-10T05:05:01.228Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "How Jeetu Patel Runs Cisco Like the World’s Largest Startup",
-      "url": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
-      "videoId": "ofxAtQhV-xA",
-      "publishedAt": "2026-10-08T14:30:33Z",
-      "description": "Cisco is building AI infrastructure, from networking GPU clusters to securing agents, with its hyperscaler AI business reaching $9.3 ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Luca Ferrari: The Operating System Behind Bending Spoons",
-      "url": "https://www.youtube.com/watch?v=hZxmbhsbvyw",
-      "videoId": "hZxmbhsbvyw",
-      "publishedAt": "2026-10-08T12:00:11Z",
-      "description": "Luca Ferrari is co-founder and CEO of Bending Spoons, a serial acquirer of AOL, Vimeo and Evernote, Airtable, etc, that buys to ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
-      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
-      "videoId": "5bjkprj4lpU",
-      "publishedAt": "2026-06-30T18:07:41Z",
-      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma Motion: Build a better motion design workflow | Show Your Work",
-      "url": "https://www.youtube.com/watch?v=IjtOndtmC-Q",
-      "videoId": "IjtOndtmC-Q",
-      "publishedAt": "2026-10-08T13:00:28Z",
-      "description": "What if your whole team could create motion with ease? Learn how to build a reusable motion toolkit in Figma Motion that makes it ..."
+      "channel": "Lex Fridman",
+      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "videoId": "pv1TUJSEM2k",
+      "publishedAt": "2026-06-30T21:16:13Z",
+      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Do You Say Hello to Your Waymo?",
-      "url": "https://www.youtube.com/watch?v=69zAhnxoXm8",
-      "videoId": "69zAhnxoXm8",
-      "publishedAt": "2026-10-08T18:00:30Z",
-      "description": "What does it actually take to make self-driving work in the real world? We asked the CEO."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How Waymo Solved Self-Driving | Dmitri Dolgov, Co-CEO",
-      "url": "https://www.youtube.com/watch?v=Ev2fta0vGJ4",
-      "videoId": "Ev2fta0vGJ4",
-      "publishedAt": "2026-10-08T14:00:35Z",
-      "description": "What does it actually take to make self-driving work in the real world? Dmitri Dolgov, co-CEO of Waymo, joins South Park ..."
+      "title": "Why You Can’t Just Copy Waymo",
+      "url": "https://www.youtube.com/watch?v=JzMZy4uq8ps",
+      "videoId": "JzMZy4uq8ps",
+      "publishedAt": "2026-10-09T15:30:50Z",
+      "description": "Waymo's biggest edge isn't just the model."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
