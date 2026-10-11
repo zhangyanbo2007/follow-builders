@@ -1,28 +1,145 @@
 {
-  "generatedAt": "2026-10-10T05:05:01.228Z",
+  "generatedAt": "2026-10-11T04:54:24.647Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "A camera that can see through walls",
+      "url": "https://www.youtube.com/watch?v=Lk_0TviLhnw",
+      "videoId": "Lk_0TviLhnw",
+      "publishedAt": "2026-10-02T19:20:30Z",
+      "description": "Applied Electrodynamics is building cameras that can see through walls and other opaque materials. Using radio waves, their ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "&quot;It&#39;ll take humanity a decade to absorb AI&quot; | Databricks CEO Ali Ghodsi",
+      "url": "https://www.youtube.com/watch?v=lsWynLSM95g",
+      "videoId": "lsWynLSM95g",
+      "publishedAt": "2026-09-24T15:00:06Z",
+      "description": "The models are ready. The organizations aren't. Ali Ghodsi on why diffusing AI means re-engineering the processes of every ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Databricks CEO Ali Ghodsi built in 2 days what his team took 9 months to ship",
+      "url": "https://www.youtube.com/watch?v=6-LTGpBLlb4",
+      "videoId": "6-LTGpBLlb4",
+      "publishedAt": "2026-09-23T20:00:02Z",
+      "description": "Ali Ghodsi built a connector in two days. His team was taking three quarters. What he learned about where the time actually goes, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "&quot;80% of references are bullsh*t&quot; — Databricks&#39; Ali Ghodsi on exec hiring",
+      "url": "https://www.youtube.com/watch?v=YTZOo7Bpxlk",
+      "videoId": "YTZOo7Bpxlk",
+      "publishedAt": "2026-09-23T15:00:38Z",
+      "description": "A good exec search takes 6 to 12 months. Ali Ghodsi on why people settle, why the signals were always there, and why backdoor ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
+      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
+      "videoId": "4GmHpHyoKmo",
+      "publishedAt": "2026-08-25T00:00:11Z",
+      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
+      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
+      "videoId": "GaxHXrskngs",
+      "publishedAt": "2026-06-18T21:18:11Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "The &quot;AI&quot; invention that fooled the world 200 years ago",
+      "url": "https://www.youtube.com/watch?v=vV6uCBbCyNE",
+      "videoId": "vV6uCBbCyNE",
+      "publishedAt": "2026-06-17T19:30:32Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "videoId": "pv1TUJSEM2k",
-      "publishedAt": "2026-06-30T21:16:13Z",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "videoId": "l6USUAIKJls",
+      "publishedAt": "2026-08-12T12:57:24Z",
+      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "videoId": "H9rF1CSSh-w",
+      "publishedAt": "2026-03-11T20:21:39Z",
+      "description": "Jeff Kaplan is a legendary Blizzard lead game designer of World of Warcraft and Overwatch, now preparing to launch a new game ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "AlphaGenome Atlas: Using AI to find disease causing variants 🧬",
+      "url": "https://www.youtube.com/watch?v=ya04CpsRJH0",
+      "videoId": "ya04CpsRJH0",
+      "publishedAt": "2026-09-08T14:02:28Z",
+      "description": "How do you find a single typo in a person's DNA that causes a rare disease? It is like finding a needle in a 9-billion-piece haystack ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
+      "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
+      "videoId": "_6jZlnRsXXQ",
+      "publishedAt": "2026-09-03T14:58:32Z",
+      "description": "Predicting the weather is one of the oldest, most complex challenges we face. Traditional numerical weather prediction models ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
+      "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
+      "videoId": "zlveLhFb64M",
+      "publishedAt": "2026-08-07T14:47:11Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Why You Can’t Just Copy Waymo",
-      "url": "https://www.youtube.com/watch?v=JzMZy4uq8ps",
-      "videoId": "JzMZy4uq8ps",
-      "publishedAt": "2026-10-09T15:30:50Z",
-      "description": "Waymo's biggest edge isn't just the model."
+      "title": "Could One Blood Test Detect Thousands of Diseases?",
+      "url": "https://www.youtube.com/watch?v=--r6YKCcxtM",
+      "videoId": "--r6YKCcxtM",
+      "publishedAt": "2026-09-24T16:14:18Z",
+      "description": "The future of blood testing could go far beyond cancer."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "From Early Cancer Detection to the “Everything Test” | Helmy Eltoukhy, Guardant Health",
+      "url": "https://www.youtube.com/watch?v=cidAk58fniE",
+      "videoId": "cidAk58fniE",
+      "publishedAt": "2026-09-24T14:00:01Z",
+      "description": "What if one blood test could detect hundreds or even thousands of diseases? Guardant Health CEO Helmy Eltoukhy joins South ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 15
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
