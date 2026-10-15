@@ -1,100 +1,37 @@
 {
-  "generatedAt": "2026-10-14T04:11:07.044Z",
+  "generatedAt": "2026-10-15T03:53:51.487Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "What surprised PG about AI",
-      "url": "https://www.youtube.com/watch?v=cp7mBZJkaCs",
-      "videoId": "cp7mBZJkaCs",
-      "publishedAt": "2026-10-13T17:55:08Z",
+      "title": "Alexandr Wang on what matters in an age of abundant intelligence",
+      "url": "https://www.youtube.com/watch?v=Klcl8qEdMaw",
+      "videoId": "Klcl8qEdMaw",
+      "publishedAt": "2026-10-14T18:44:27Z",
       "description": ""
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "AlphaGo Took 2 Years. AlphaZero Beat It in Hours | David Silver, Ineffable Intelligence",
-      "url": "https://www.youtube.com/watch?v=cgV74qRWolo",
-      "videoId": "cgV74qRWolo",
-      "publishedAt": "2026-10-13T20:11:28Z",
-      "description": "David Silver on what happened when his team gave up human data, and why he says LLM labs are \"human-in-the-loop learning ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
-      "url": "https://www.youtube.com/watch?v=L4SWQebqhek",
-      "videoId": "L4SWQebqhek",
-      "publishedAt": "2026-10-13T12:00:32Z",
-      "description": "David Silver spent two years building AlphaGo on human data. When he removed human data altogether building AlphaGo Zero, ..."
+      "title": "What it takes for gigawatt of power at 99.99% reliability | Google&#39;s Amin Vahdat",
+      "url": "https://www.youtube.com/watch?v=6RxDFLsJxf8",
+      "videoId": "6RxDFLsJxf8",
+      "publishedAt": "2026-10-14T19:02:21Z",
+      "description": "If you need a gigawatt at 99.99% reliability, you need one-plus-one redundancy, which means building two gigawatts, ideally ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma for Edu: Working with typography systems",
-      "url": "https://www.youtube.com/watch?v=rbxNV3_mb-A",
-      "videoId": "rbxNV3_mb-A",
-      "publishedAt": "2026-10-13T17:26:05Z",
-      "description": "In this workshop we will explore how to build consistent and scalable design systems using typography, variables, and modes in ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "videoId": "FGCP2F_7rQk",
-      "publishedAt": "2026-10-13T21:26:16Z",
-      "description": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-      "videoId": "LVEfFyijQ2c",
-      "publishedAt": "2026-10-13T16:38:17Z",
-      "description": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-      "videoId": "ftkic7Tdpcg",
-      "publishedAt": "2026-10-13T16:38:14Z",
-      "description": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Untangling 500-page chemistry patents with Gemini 4",
-      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
-      "videoId": "9jQA7IgPhBE",
-      "publishedAt": "2026-10-13T15:58:17Z",
-      "description": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule's structure can sit 50 pages ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
-      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
-      "videoId": "9PICEmtfpWU",
-      "publishedAt": "2026-10-13T15:58:20Z",
-      "description": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How Waymo Stops Its Self-Driving System From Exploiting Loopholes",
-      "url": "https://www.youtube.com/watch?v=hlADy_0a7WU",
-      "videoId": "hlADy_0a7WU",
-      "publishedAt": "2026-10-13T15:27:17Z",
-      "description": "How do you know a self-driving system is actually getting better?"
+      "title": "Config India 2026: Figma product launch keynote (Dylan Field, CEO &amp; Co-founder, Figma)",
+      "url": "https://www.youtube.com/watch?v=CXAvPycESVY",
+      "videoId": "CXAvPycESVY",
+      "publishedAt": "2026-10-14T10:50:33Z",
+      "description": "Join us live from India for the latest from Figma, and discover what's next for the way teams design, build, and collaborate together."
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
