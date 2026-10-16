@@ -1,37 +1,55 @@
 {
-  "generatedAt": "2026-10-15T03:53:51.487Z",
+  "generatedAt": "2026-10-16T03:49:42.720Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Alexandr Wang on what matters in an age of abundant intelligence",
-      "url": "https://www.youtube.com/watch?v=Klcl8qEdMaw",
-      "videoId": "Klcl8qEdMaw",
-      "publishedAt": "2026-10-14T18:44:27Z",
-      "description": ""
+      "title": "Robotic factories that build robots",
+      "url": "https://www.youtube.com/watch?v=aNWKngrCrw4",
+      "videoId": "aNWKngrCrw4",
+      "publishedAt": "2026-09-28T20:56:45Z",
+      "description": "Tensr is building robotic factories that build robots. Their 12000-square-foot factory is already making humanoids, end effectors, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "What it takes for gigawatt of power at 99.99% reliability | Google&#39;s Amin Vahdat",
-      "url": "https://www.youtube.com/watch?v=6RxDFLsJxf8",
-      "videoId": "6RxDFLsJxf8",
-      "publishedAt": "2026-10-14T19:02:21Z",
-      "description": "If you need a gigawatt at 99.99% reliability, you need one-plus-one redundancy, which means building two gigawatts, ideally ..."
+      "title": "What Is an AI &quot;Super Learner&quot;?  Ineffable Intelligence&#39;s David Silver Explains",
+      "url": "https://www.youtube.com/watch?v=iaBAkTYgTx4",
+      "videoId": "iaBAkTYgTx4",
+      "publishedAt": "2026-10-15T17:06:30Z",
+      "description": "Ineffable Intelligence's mission is to build a super learner: a system that starts knowing nothing and discovers knowledge beyond ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Config India 2026: Figma product launch keynote (Dylan Field, CEO &amp; Co-founder, Figma)",
-      "url": "https://www.youtube.com/watch?v=CXAvPycESVY",
-      "videoId": "CXAvPycESVY",
-      "publishedAt": "2026-10-14T10:50:33Z",
-      "description": "Join us live from India for the latest from Figma, and discover what's next for the way teams design, build, and collaborate together."
+      "title": "Getting started with Code Layers | Figma",
+      "url": "https://www.youtube.com/watch?v=ukY9Dvwm7Gc",
+      "videoId": "ukY9Dvwm7Gc",
+      "publishedAt": "2026-10-15T11:27:40Z",
+      "description": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by working code on the canvas."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "All our announcements from Config India | Figma",
+      "url": "https://www.youtube.com/watch?v=Sdh_I7PSuew",
+      "videoId": "Sdh_I7PSuew",
+      "publishedAt": "2026-10-15T07:37:12Z",
+      "description": "Here's a look at everything we launched today to bring teams and agents, and the design, code, and context they work with, into ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Mercor&#39;s Brendan Foody on Data, Evals &amp; the Last Human Job",
+      "url": "https://www.youtube.com/watch?v=kmyxPcoKm08",
+      "videoId": "kmyxPcoKm08",
+      "publishedAt": "2026-10-15T16:34:35Z",
+      "description": "Is model differentiation really just data? What happens to human work when a model can saturate any eval overnight? And what is ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
