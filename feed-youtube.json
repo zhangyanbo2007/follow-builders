@@ -1,19 +1,91 @@
 {
-  "generatedAt": "2026-10-17T03:39:45.142Z",
+  "generatedAt": "2026-10-18T03:45:54.874Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Demis Hassabis: Put your life force into a problem that matters",
-      "url": "https://www.youtube.com/watch?v=LbmiPYnFj48",
-      "videoId": "LbmiPYnFj48",
-      "publishedAt": "2026-10-16T19:24:49Z",
-      "description": ""
+      "title": "AI Safety Fact vs. Fiction | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+      "videoId": "X7oI4Umt3DU",
+      "publishedAt": "2026-10-17T14:00:30Z",
+      "description": "This week's Paper Club is all about AI safety - not the headlines, the science. AI safety has been a research field for decades, with ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "How Jeetu Patel Runs Cisco Like the World’s Largest Startup",
+      "url": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
+      "videoId": "ofxAtQhV-xA",
+      "publishedAt": "2026-10-08T14:30:33Z",
+      "description": "Cisco is building AI infrastructure, from networking GPU clusters to securing agents, with its hyperscaler AI business reaching $9.3 ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Luca Ferrari: The Operating System Behind Bending Spoons",
+      "url": "https://www.youtube.com/watch?v=hZxmbhsbvyw",
+      "videoId": "hZxmbhsbvyw",
+      "publishedAt": "2026-10-08T12:00:11Z",
+      "description": "Luca Ferrari is co-founder and CEO of Bending Spoons, a serial acquirer of AOL, Vimeo and Evernote, Airtable, etc, that buys to ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
+      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
+      "videoId": "5bjkprj4lpU",
+      "publishedAt": "2026-06-30T18:07:41Z",
+      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Shared context with Figma Specs | Figma",
+      "url": "https://www.youtube.com/watch?v=WEJ2cZBT3PA",
+      "videoId": "WEJ2cZBT3PA",
+      "publishedAt": "2026-10-17T12:00:39Z",
+      "description": "As teams increasingly collaborate with agents, Markdown is more ubiquitous than ever. But Markdown files have no relationship ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Ship data-backed websites with Payload | Figma",
+      "url": "https://www.youtube.com/watch?v=PoTTuJ39gwA",
+      "videoId": "PoTTuJ39gwA",
+      "publishedAt": "2026-10-17T12:00:12Z",
+      "description": "Last year, the team behind Payload, an open source content framework, joined Figma . Today, we're excited to bring Payload's ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Code Layers: Collaborate with code on the canvas | Figma",
+      "url": "https://www.youtube.com/watch?v=UMDUAHmhkT8",
+      "videoId": "UMDUAHmhkT8",
+      "publishedAt": "2026-10-17T12:00:14Z",
+      "description": "When we're all off vibe coding prototypes, it can feel like designing in isolation. Sometimes collaboration today even looks like ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "More control over your design systems | Figma",
+      "url": "https://www.youtube.com/watch?v=ThXrNXxpS-o",
+      "videoId": "ThXrNXxpS-o",
+      "publishedAt": "2026-10-17T12:00:37Z",
+      "description": "Design systems have always been the foundation for bringing consistency and coherence to your product. And as teams start ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Do You Say Hello to Your Waymo?",
+      "url": "https://www.youtube.com/watch?v=69zAhnxoXm8",
+      "videoId": "69zAhnxoXm8",
+      "publishedAt": "2026-10-08T18:00:30Z",
+      "description": "What does it actually take to make self-driving work in the real world? We asked the CEO."
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
