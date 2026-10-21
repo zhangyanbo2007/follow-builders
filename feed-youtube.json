@@ -1,64 +1,19 @@
 {
-  "generatedAt": "2026-10-20T04:08:08.720Z",
+  "generatedAt": "2026-10-21T03:56:22.508Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Go Is &quot;An Infinite Onion of Complexity&quot; | David Silver, Ineffable Intelligence",
-      "url": "https://www.youtube.com/watch?v=1H3PzGhYtVI",
-      "videoId": "1H3PzGhYtVI",
-      "publishedAt": "2026-10-19T23:00:01Z",
-      "description": "Single-player Go would be the most boring game imaginable. David Silver on what happens the moment you add a second agent, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "You Can&#39;t Write a Reward Function for Science. | David Silver, Ineffable Intelligence",
-      "url": "https://www.youtube.com/watch?v=vraEXUoH4Wc",
-      "videoId": "vraEXUoH4Wc",
-      "publishedAt": "2026-10-19T18:31:30Z",
-      "description": "David Silver on simple objectives in complex worlds: how evolution got all of life from a fitness signal, and how humans went from ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
-      "videoId": "4GmHpHyoKmo",
-      "publishedAt": "2026-08-25T00:00:11Z",
-      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Why &quot;splitting the G&quot; is not a real thing in Ireland",
-      "url": "https://www.youtube.com/watch?v=GaxHXrskngs",
-      "videoId": "GaxHXrskngs",
-      "publishedAt": "2026-06-18T21:18:11Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "videoId": "l6USUAIKJls",
-      "publishedAt": "2026-08-12T12:57:24Z",
-      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "videoId": "XyXBwO5jYpw",
-      "publishedAt": "2026-07-28T20:02:11Z",
-      "description": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: ..."
+      "title": "Inside the Robot Data Factory: Mecka&#39;s Josh Gao on Sensorizing Humans to Train Robots",
+      "url": "https://www.youtube.com/watch?v=0idrTKCDhuE",
+      "videoId": "0idrTKCDhuE",
+      "publishedAt": "2026-10-20T12:00:07Z",
+      "description": "Robotics never got the internet's gift of free training data, so someone has to manufacture it. Josh Gao, founder and CEO of Mecka ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 1
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
