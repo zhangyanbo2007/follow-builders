@@ -1,19 +1,64 @@
 {
-  "generatedAt": "2026-10-21T03:56:22.508Z",
+  "generatedAt": "2026-10-22T03:56:55.851Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Inside the Robot Data Factory: Mecka&#39;s Josh Gao on Sensorizing Humans to Train Robots",
-      "url": "https://www.youtube.com/watch?v=0idrTKCDhuE",
-      "videoId": "0idrTKCDhuE",
-      "publishedAt": "2026-10-20T12:00:07Z",
-      "description": "Robotics never got the internet's gift of free training data, so someone has to manufacture it. Josh Gao, founder and CEO of Mecka ..."
+      "channel": "Stripe Sessions",
+      "title": "Gamma&#39;s path to $100M ARR",
+      "url": "https://www.youtube.com/watch?v=1_W21ZDr17M",
+      "videoId": "1_W21ZDr17M",
+      "publishedAt": "2026-10-21T17:32:40Z",
+      "description": "A conversation with Grant Lee, Gamma cofounder and CEO, on rebuilding their product and scaling to exceed $100 million ARR ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
+      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
+      "videoId": "CEYGln3s9MM",
+      "publishedAt": "2026-09-03T05:50:59Z",
+      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
+      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
+      "videoId": "26aV9GTeoSo",
+      "publishedAt": "2026-07-09T18:29:21Z",
+      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "videoId": "s7d2d8FhevU",
+      "publishedAt": "2026-09-17T00:34:47Z",
+      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Co-CEO Dmitri Dolgov Reflects on the Early Days of Waymo",
+      "url": "https://www.youtube.com/watch?v=vsLmfI8Dr4A",
+      "videoId": "vsLmfI8Dr4A",
+      "publishedAt": "2026-10-12T15:24:32Z",
+      "description": "In 2009, the question wasn't how to build a self-driving car. It was whether they should even try."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
