@@ -1,64 +1,136 @@
 {
-  "generatedAt": "2026-10-22T03:56:55.851Z",
+  "generatedAt": "2026-10-23T04:00:21.527Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Gamma&#39;s path to $100M ARR",
-      "url": "https://www.youtube.com/watch?v=1_W21ZDr17M",
-      "videoId": "1_W21ZDr17M",
-      "publishedAt": "2026-10-21T17:32:40Z",
-      "description": "A conversation with Grant Lee, Gamma cofounder and CEO, on rebuilding their product and scaling to exceed $100 million ARR ..."
+      "channel": "YC Startup School",
+      "title": "How To Stand Out In A World Of AI Designs",
+      "url": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
+      "videoId": "2tZT2-pS_pI",
+      "publishedAt": "2026-10-22T15:00:16Z",
+      "description": "Magic Patterns (W23) is one of the fastest-growing design tools in AI, helping product teams turn ideas into interactive, ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
-      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
-      "videoId": "CEYGln3s9MM",
-      "publishedAt": "2026-09-03T05:50:59Z",
-      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
+      "channel": "YC Startup School",
+      "title": "Alexandr Wang on what matters in an age of abundant intelligence",
+      "url": "https://www.youtube.com/watch?v=Klcl8qEdMaw",
+      "videoId": "Klcl8qEdMaw",
+      "publishedAt": "2026-10-14T18:44:27Z",
+      "description": ""
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
-      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
-      "videoId": "26aV9GTeoSo",
-      "publishedAt": "2026-07-09T18:29:21Z",
-      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
+      "channel": "YC Startup School",
+      "title": "What surprised PG about AI",
+      "url": "https://www.youtube.com/watch?v=cp7mBZJkaCs",
+      "videoId": "cp7mBZJkaCs",
+      "publishedAt": "2026-10-13T17:55:08Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "What it takes for gigawatt of power at 99.99% reliability | Google&#39;s Amin Vahdat",
+      "url": "https://www.youtube.com/watch?v=6RxDFLsJxf8",
+      "videoId": "6RxDFLsJxf8",
+      "publishedAt": "2026-10-14T19:02:21Z",
+      "description": "If you need a gigawatt at 99.99% reliability, you need one-plus-one redundancy, which means building two gigawatts, ideally ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Optimize AI credits with the Figma agent",
+      "url": "https://www.youtube.com/watch?v=eeJ7d0V2ayU",
+      "videoId": "eeJ7d0V2ayU",
+      "publishedAt": "2026-10-22T15:31:05Z",
+      "description": "In this video, we'll walk through some best practices to help you get more out of Figma's agent. Working with the Figma agent uses ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Config India 2026: Figma product launch keynote (Dylan Field, CEO &amp; Co-founder, Figma)",
+      "url": "https://www.youtube.com/watch?v=CXAvPycESVY",
+      "videoId": "CXAvPycESVY",
+      "publishedAt": "2026-10-15T18:31:54Z",
+      "description": "Join us live from India for the latest from Figma, and discover what's next for the way teams design, build, and collaborate together."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "videoId": "s7d2d8FhevU",
-      "publishedAt": "2026-09-17T00:34:47Z",
-      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "videoId": "FGCP2F_7rQk",
+      "publishedAt": "2026-10-13T21:26:16Z",
+      "description": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
+      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
+      "videoId": "LVEfFyijQ2c",
+      "publishedAt": "2026-10-13T16:38:17Z",
+      "description": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
+      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
+      "videoId": "ftkic7Tdpcg",
+      "publishedAt": "2026-10-13T16:38:14Z",
+      "description": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Untangling 500-page chemistry patents with Gemini 4",
+      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
+      "videoId": "9jQA7IgPhBE",
+      "publishedAt": "2026-10-13T15:58:17Z",
+      "description": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule's structure can sit 50 pages ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
+      "videoId": "9PICEmtfpWU",
+      "publishedAt": "2026-10-13T15:58:20Z",
+      "description": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Co-CEO Dmitri Dolgov Reflects on the Early Days of Waymo",
-      "url": "https://www.youtube.com/watch?v=vsLmfI8Dr4A",
-      "videoId": "vsLmfI8Dr4A",
-      "publishedAt": "2026-10-12T15:24:32Z",
-      "description": "In 2009, the question wasn't how to build a self-driving car. It was whether they should even try."
+      "title": "The Counterintuitive Secret to Building Smarter Robots",
+      "url": "https://www.youtube.com/watch?v=xxSPvrbOf0I",
+      "videoId": "xxSPvrbOf0I",
+      "publishedAt": "2026-10-22T17:26:57Z",
+      "description": "What if making a problem bigger actually makes it easier to solve?"
     },
     {
       "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "channel": "South Park Commons (Minus One)",
+      "title": "How Close Are We to Robots That Can Do Anything? | Sergey Levine, Physical Intelligence",
+      "url": "https://www.youtube.com/watch?v=5X166Fead8o",
+      "videoId": "5X166Fead8o",
+      "publishedAt": "2026-10-22T14:00:32Z",
+      "description": "What will it take to build robots that can do almost anything? Sergey Levine, co-founder of Physical Intelligence, joins South Park ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "How Waymo Stops Its Self-Driving System From Exploiting Loopholes",
+      "url": "https://www.youtube.com/watch?v=hlADy_0a7WU",
+      "videoId": "hlADy_0a7WU",
+      "publishedAt": "2026-10-13T15:27:17Z",
+      "description": "How do you know a self-driving system is actually getting better?"
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 14
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
