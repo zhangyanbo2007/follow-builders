@@ -1,64 +1,28 @@
 {
-  "generatedAt": "2026-10-24T03:54:42.174Z",
+  "generatedAt": "2026-10-25T03:53:58.533Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "This Is How You Should Actually Make Launch Videos",
-      "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-      "videoId": "v12aSIZIXUs",
-      "publishedAt": "2026-10-23T15:00:24Z",
-      "description": "There's a misconception that a successful launch video needs to cost tens of thousands of dollars and feel like a high production ..."
+      "title": "Why Inference Matters 12x More Than Training | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=mHNKuH-9OxU",
+      "videoId": "mHNKuH-9OxU",
+      "publishedAt": "2026-10-24T14:00:08Z",
+      "description": "This week's Paper Club is all about inference. For every FLOP spent training a model, roughly six go to serving it each year — and ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "What Is an AI &quot;Super Learner&quot;?  Ineffable Intelligence&#39;s David Silver Explains",
-      "url": "https://www.youtube.com/watch?v=iaBAkTYgTx4",
-      "videoId": "iaBAkTYgTx4",
-      "publishedAt": "2026-10-15T17:06:30Z",
-      "description": "Ineffable Intelligence's mission is to build a super learner: a system that starts knowing nothing and discovers knowledge beyond ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Design with Code Layers | Figma",
-      "url": "https://www.youtube.com/watch?v=ukY9Dvwm7Gc",
-      "videoId": "ukY9Dvwm7Gc",
-      "publishedAt": "2026-10-15T11:27:40Z",
-      "description": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by working code on the canvas."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "videoId": "pv1TUJSEM2k",
-      "publishedAt": "2026-06-30T21:16:13Z",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why Mindset Matters More Than Credentials in Robotics",
-      "url": "https://www.youtube.com/watch?v=qFzp7VOLlxQ",
-      "videoId": "qFzp7VOLlxQ",
-      "publishedAt": "2026-10-23T14:36:59Z",
-      "description": "Mindset, willingness to learn, and attention to detail often matter more than a PhD."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Mercor&#39;s Brendan Foody on Data, Evals &amp; the Last Human Job",
-      "url": "https://www.youtube.com/watch?v=kmyxPcoKm08",
-      "videoId": "kmyxPcoKm08",
-      "publishedAt": "2026-10-15T16:34:35Z",
-      "description": "Is model differentiation really just data? What happens to human work when a model can saturate any eval overnight? And what is ..."
+      "channel": "YC Startup School",
+      "title": "Demis Hassabis: Put your life force into a problem that matters",
+      "url": "https://www.youtube.com/watch?v=LbmiPYnFj48",
+      "videoId": "LbmiPYnFj48",
+      "publishedAt": "2026-10-16T19:24:49Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
