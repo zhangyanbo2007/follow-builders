@@ -1,28 +1,37 @@
 {
-  "generatedAt": "2026-10-25T03:53:58.533Z",
+  "generatedAt": "2026-10-26T03:58:17.995Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Why Inference Matters 12x More Than Training | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=mHNKuH-9OxU",
-      "videoId": "mHNKuH-9OxU",
-      "publishedAt": "2026-10-24T14:00:08Z",
-      "description": "This week's Paper Club is all about inference. For every FLOP spent training a model, roughly six go to serving it each year — and ..."
+      "channel": "Stripe Sessions",
+      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
+      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
+      "videoId": "5bjkprj4lpU",
+      "publishedAt": "2026-06-30T18:07:41Z",
+      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
     },
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Demis Hassabis: Put your life force into a problem that matters",
-      "url": "https://www.youtube.com/watch?v=LbmiPYnFj48",
-      "videoId": "LbmiPYnFj48",
-      "publishedAt": "2026-10-16T19:24:49Z",
-      "description": ""
+      "channel": "Figma Config",
+      "title": "Shared context with Figma Specs | Figma",
+      "url": "https://www.youtube.com/watch?v=WEJ2cZBT3PA",
+      "videoId": "WEJ2cZBT3PA",
+      "publishedAt": "2026-10-17T12:00:39Z",
+      "description": "As teams increasingly collaborate with agents, Markdown is more ubiquitous than ever. But Markdown files have no relationship ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Ship data-backed websites with Payload | Figma",
+      "url": "https://www.youtube.com/watch?v=PoTTuJ39gwA",
+      "videoId": "PoTTuJ39gwA",
+      "publishedAt": "2026-10-17T12:00:12Z",
+      "description": "Last year, the team behind Payload, an open source content framework, joined Figma . Today, we're excited to bring Payload's ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
