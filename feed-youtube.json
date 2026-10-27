@@ -1,37 +1,82 @@
 {
-  "generatedAt": "2026-10-26T03:58:17.995Z",
+  "generatedAt": "2026-10-27T04:19:11.329Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
-      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
-      "videoId": "5bjkprj4lpU",
-      "publishedAt": "2026-06-30T18:07:41Z",
-      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+      "channel": "YC Startup School",
+      "title": "The New Full-Stack Designer",
+      "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+      "videoId": "eojywvxqoLc",
+      "publishedAt": "2026-10-26T14:00:10Z",
+      "description": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Shared context with Figma Specs | Figma",
-      "url": "https://www.youtube.com/watch?v=WEJ2cZBT3PA",
-      "videoId": "WEJ2cZBT3PA",
-      "publishedAt": "2026-10-17T12:00:39Z",
-      "description": "As teams increasingly collaborate with agents, Markdown is more ubiquitous than ever. But Markdown files have no relationship ..."
+      "title": "Config India 2026: What makes the House of Masaba feel like Masaba",
+      "url": "https://www.youtube.com/watch?v=oa3xQ1Xi0Jk",
+      "videoId": "oa3xQ1Xi0Jk",
+      "publishedAt": "2026-10-26T22:36:18Z",
+      "description": "House of Masaba has expanded from fashion into beauty, bridal, jewelry, and entertainment, but the work still feels unmistakably ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Ship data-backed websites with Payload | Figma",
-      "url": "https://www.youtube.com/watch?v=PoTTuJ39gwA",
-      "videoId": "PoTTuJ39gwA",
-      "publishedAt": "2026-10-17T12:00:12Z",
-      "description": "Last year, the team behind Payload, an open source content framework, joined Figma . Today, we're excited to bring Payload's ..."
+      "title": "Non-trivial is now a trigger word",
+      "url": "https://www.youtube.com/watch?v=pBpK6wX7fxE",
+      "videoId": "pBpK6wX7fxE",
+      "publishedAt": "2026-10-26T15:26:44Z",
+      "description": ""
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Config India 2026: When everyone can make anything, how far can we take it?",
+      "url": "https://www.youtube.com/watch?v=dOr3UsOlunY",
+      "videoId": "dOr3UsOlunY",
+      "publishedAt": "2026-10-26T14:41:24Z",
+      "description": "Co-founder of teamLab, Daisuke Sakai, provokes the question - when everyone can generate images, build software, and bring ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "videoId": "ZAzWPE9CItg",
+      "publishedAt": "2026-10-26T22:51:51Z",
+      "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "videoId": "NYFGCESmikA",
+      "publishedAt": "2026-08-26T21:44:41Z",
+      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "From deepfakes to DNA: the science of watermarking AI",
+      "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
+      "videoId": "HIUzrxQxTtw",
+      "publishedAt": "2026-10-01T16:37:46Z",
+      "description": "How do you know if what you're seeing is real? Professor Hannah Fry sits down with Pushmeet Kohli (VP of Science) and Jeremy ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Next Big Breakthrough in Robot Intelligence",
+      "url": "https://www.youtube.com/watch?v=4cPtm3cLeWc",
+      "videoId": "4cPtm3cLeWc",
+      "publishedAt": "2026-10-26T14:26:20Z",
+      "description": "Zero-shot generalization is one of the biggest ambitions in robotics. Sergey Levine explains."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
