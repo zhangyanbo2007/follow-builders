@@ -1,82 +1,91 @@
 {
-  "generatedAt": "2026-10-27T04:19:11.329Z",
+  "generatedAt": "2026-10-28T04:49:45.435Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The New Full-Stack Designer",
-      "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
-      "videoId": "eojywvxqoLc",
-      "publishedAt": "2026-10-26T14:00:10Z",
-      "description": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to ..."
+      "title": "The $15-an-Hour Expert",
+      "url": "https://www.youtube.com/watch?v=vaKVoWc3TtY",
+      "videoId": "vaKVoWc3TtY",
+      "publishedAt": "2026-10-27T23:18:56Z",
+      "description": "Most people talk about AI replacing workers. We're excited about the opposite: AI that turns ordinary workers into experts. Millions ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Robots Made In America",
+      "url": "https://www.youtube.com/watch?v=7adYEc1XkEs",
+      "videoId": "7adYEc1XkEs",
+      "publishedAt": "2026-10-27T18:29:01Z",
+      "description": "Robot foundation models are starting to transfer skills from one machine to another, which means the bottleneck is shifting to ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Startups in a World of Abundant Space Access",
+      "url": "https://www.youtube.com/watch?v=e5W-7cggAg0",
+      "videoId": "e5W-7cggAg0",
+      "publishedAt": "2026-10-27T16:33:51Z",
+      "description": "Starship could make access to orbit orders of magnitude cheaper and more abundant. That changes which space businesses are ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Why Go Is &quot;An Infinite Onion of Complexity&quot; | David Silver, Ineffable Intelligence",
+      "url": "https://www.youtube.com/watch?v=1H3PzGhYtVI",
+      "videoId": "1H3PzGhYtVI",
+      "publishedAt": "2026-10-19T23:00:01Z",
+      "description": "Single-player Go would be the most boring game imaginable. David Silver on what happens the moment you add a second agent, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "You Can&#39;t Write a Reward Function for Science. | David Silver, Ineffable Intelligence",
+      "url": "https://www.youtube.com/watch?v=vraEXUoH4Wc",
+      "videoId": "vraEXUoH4Wc",
+      "publishedAt": "2026-10-19T18:31:30Z",
+      "description": "David Silver on simple objectives in complex worlds: how evolution got all of life from a fitness signal, and how humans went from ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
+      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
+      "videoId": "4GmHpHyoKmo",
+      "publishedAt": "2026-08-25T00:00:11Z",
+      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Config India 2026: What makes the House of Masaba feel like Masaba",
-      "url": "https://www.youtube.com/watch?v=oa3xQ1Xi0Jk",
-      "videoId": "oa3xQ1Xi0Jk",
-      "publishedAt": "2026-10-26T22:36:18Z",
-      "description": "House of Masaba has expanded from fashion into beauty, bridal, jewelry, and entertainment, but the work still feels unmistakably ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Non-trivial is now a trigger word",
-      "url": "https://www.youtube.com/watch?v=pBpK6wX7fxE",
-      "videoId": "pBpK6wX7fxE",
-      "publishedAt": "2026-10-26T15:26:44Z",
-      "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Config India 2026: When everyone can make anything, how far can we take it?",
-      "url": "https://www.youtube.com/watch?v=dOr3UsOlunY",
-      "videoId": "dOr3UsOlunY",
-      "publishedAt": "2026-10-26T14:41:24Z",
-      "description": "Co-founder of teamLab, Daisuke Sakai, provokes the question - when everyone can generate images, build software, and bring ..."
+      "title": "Explore Shaders and Motion with the Figma agent I Figma on Figma",
+      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+      "videoId": "BS-N-AM5ql4",
+      "publishedAt": "2026-10-27T18:55:14Z",
+      "description": "Welcome to Figma on Figma the series where we showcase how we use our own tools in our every day workflows, or just to show ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "videoId": "ZAzWPE9CItg",
-      "publishedAt": "2026-10-26T22:51:51Z",
-      "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "videoId": "NYFGCESmikA",
-      "publishedAt": "2026-08-26T21:44:41Z",
-      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "videoId": "l6USUAIKJls",
+      "publishedAt": "2026-08-12T12:57:24Z",
+      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "From deepfakes to DNA: the science of watermarking AI",
-      "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
-      "videoId": "HIUzrxQxTtw",
-      "publishedAt": "2026-10-01T16:37:46Z",
-      "description": "How do you know if what you're seeing is real? Professor Hannah Fry sits down with Pushmeet Kohli (VP of Science) and Jeremy ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Next Big Breakthrough in Robot Intelligence",
-      "url": "https://www.youtube.com/watch?v=4cPtm3cLeWc",
-      "videoId": "4cPtm3cLeWc",
-      "publishedAt": "2026-10-26T14:26:20Z",
-      "description": "Zero-shot generalization is one of the biggest ambitions in robotics. Sergey Levine explains."
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
+      "videoId": "sFfPkUJd_Jk",
+      "publishedAt": "2026-10-27T16:00:41Z",
+      "description": "Meet Genie 4, Google DeepMind's most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
