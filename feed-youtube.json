@@ -1,91 +1,73 @@
 {
-  "generatedAt": "2026-10-28T04:49:45.435Z",
+  "generatedAt": "2026-10-29T04:59:53.219Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "The $15-an-Hour Expert",
-      "url": "https://www.youtube.com/watch?v=vaKVoWc3TtY",
-      "videoId": "vaKVoWc3TtY",
-      "publishedAt": "2026-10-27T23:18:56Z",
-      "description": "Most people talk about AI replacing workers. We're excited about the opposite: AI that turns ordinary workers into experts. Millions ..."
+      "title": "Wall Street for the Physical Buildout",
+      "url": "https://www.youtube.com/watch?v=KlHzPbZ6PNI",
+      "videoId": "KlHzPbZ6PNI",
+      "publishedAt": "2026-10-28T21:44:28Z",
+      "description": "Software is cheap to start. Robots, GPU clusters, and data centers are not. The physical AI buildout will need new ways to finance ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Robots Made In America",
-      "url": "https://www.youtube.com/watch?v=7adYEc1XkEs",
-      "videoId": "7adYEc1XkEs",
-      "publishedAt": "2026-10-27T18:29:01Z",
-      "description": "Robot foundation models are starting to transfer skills from one machine to another, which means the bottleneck is shifting to ..."
+      "title": "Own Your Intelligence",
+      "url": "https://www.youtube.com/watch?v=DzblM1Mc-J8",
+      "videoId": "DzblM1Mc-J8",
+      "publishedAt": "2026-10-28T20:15:52Z",
+      "description": "Most companies building with AI still rent their intelligence from frontier labs. As open models improve, more companies will want ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Startups in a World of Abundant Space Access",
-      "url": "https://www.youtube.com/watch?v=e5W-7cggAg0",
-      "videoId": "e5W-7cggAg0",
-      "publishedAt": "2026-10-27T16:33:51Z",
-      "description": "Starship could make access to orbit orders of magnitude cheaper and more abundant. That changes which space businesses are ..."
+      "title": "Plaid for Government Benefits",
+      "url": "https://www.youtube.com/watch?v=3CDvfm9DYjw",
+      "videoId": "3CDvfm9DYjw",
+      "publishedAt": "2026-10-28T15:47:55Z",
+      "description": "Applying for government benefits means proving the same facts again and again across systems that don't talk to each other."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Data Center Supply Chain",
+      "url": "https://www.youtube.com/watch?v=9EJM4LNMK0I",
+      "videoId": "9EJM4LNMK0I",
+      "publishedAt": "2026-10-28T05:25:32Z",
+      "description": "The AI data center buildout is creating shortages far beyond GPUs and power. Transformers take years to get, while switchgear, ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Why Go Is &quot;An Infinite Onion of Complexity&quot; | David Silver, Ineffable Intelligence",
-      "url": "https://www.youtube.com/watch?v=1H3PzGhYtVI",
-      "videoId": "1H3PzGhYtVI",
-      "publishedAt": "2026-10-19T23:00:01Z",
-      "description": "Single-player Go would be the most boring game imaginable. David Silver on what happens the moment you add a second agent, ..."
+      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
+      "url": "https://www.youtube.com/watch?v=qhIabMKHJlA",
+      "videoId": "qhIabMKHJlA",
+      "publishedAt": "2026-10-28T12:00:20Z",
+      "description": "Two years after its founding, Stark has roughly 700 employees and strike drones in the field in Ukraine. CEO Uwe Horstmann and ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "You Can&#39;t Write a Reward Function for Science. | David Silver, Ineffable Intelligence",
-      "url": "https://www.youtube.com/watch?v=vraEXUoH4Wc",
-      "videoId": "vraEXUoH4Wc",
-      "publishedAt": "2026-10-19T18:31:30Z",
-      "description": "David Silver on simple objectives in complex worlds: how evolution got all of life from a fitness signal, and how humans went from ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
-      "videoId": "4GmHpHyoKmo",
-      "publishedAt": "2026-08-25T00:00:11Z",
-      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
+      "title": "Inside the Robot Data Factory: Mecka&#39;s Josh Gao on Sensorizing Humans to Train Robots",
+      "url": "https://www.youtube.com/watch?v=0idrTKCDhuE",
+      "videoId": "0idrTKCDhuE",
+      "publishedAt": "2026-10-20T12:00:07Z",
+      "description": "Robotics never got the internet's gift of free training data, so someone has to manufacture it. Josh Gao, founder and CEO of Mecka ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Explore Shaders and Motion with the Figma agent I Figma on Figma",
-      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
-      "videoId": "BS-N-AM5ql4",
-      "publishedAt": "2026-10-27T18:55:14Z",
-      "description": "Welcome to Figma on Figma the series where we showcase how we use our own tools in our every day workflows, or just to show ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "videoId": "l6USUAIKJls",
-      "publishedAt": "2026-08-12T12:57:24Z",
-      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
-      "videoId": "sFfPkUJd_Jk",
-      "publishedAt": "2026-10-27T16:00:41Z",
-      "description": "Meet Genie 4, Google DeepMind's most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you ..."
+      "title": "Make your Figma design system agent-ready",
+      "url": "https://www.youtube.com/watch?v=yj90StgN70w",
+      "videoId": "yj90StgN70w",
+      "publishedAt": "2026-10-28T16:00:25Z",
+      "description": "For the Figma agent to produce designs that look and feel like your product, it needs a design system it can understand."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
