@@ -1,73 +1,127 @@
 {
-  "generatedAt": "2026-10-29T04:59:53.219Z",
+  "generatedAt": "2026-10-30T04:59:37.441Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Wall Street for the Physical Buildout",
-      "url": "https://www.youtube.com/watch?v=KlHzPbZ6PNI",
-      "videoId": "KlHzPbZ6PNI",
-      "publishedAt": "2026-10-28T21:44:28Z",
-      "description": "Software is cheap to start. Robots, GPU clusters, and data centers are not. The physical AI buildout will need new ways to finance ..."
+      "title": "AI for City Hall",
+      "url": "https://www.youtube.com/watch?v=VoSVN7H07-Q",
+      "videoId": "VoSVN7H07-Q",
+      "publishedAt": "2026-10-29T22:23:19Z",
+      "description": "In some cities, getting a building permit takes longer than building the house. AI can help with plan reviews, zoning checks, ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Own Your Intelligence",
-      "url": "https://www.youtube.com/watch?v=DzblM1Mc-J8",
-      "videoId": "DzblM1Mc-J8",
-      "publishedAt": "2026-10-28T20:15:52Z",
-      "description": "Most companies building with AI still rent their intelligence from frontier labs. As open models improve, more companies will want ..."
+      "title": "LLMs That Write Well",
+      "url": "https://www.youtube.com/watch?v=674Efd5Scfg",
+      "videoId": "674Efd5Scfg",
+      "publishedAt": "2026-10-29T18:48:01Z",
+      "description": "LLMs have gotten much better at coding and math, but their writing increasingly sounds flat and robotic. The same reward signals ..."
     },
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Plaid for Government Benefits",
-      "url": "https://www.youtube.com/watch?v=3CDvfm9DYjw",
-      "videoId": "3CDvfm9DYjw",
-      "publishedAt": "2026-10-28T15:47:55Z",
-      "description": "Applying for government benefits means proving the same facts again and again across systems that don't talk to each other."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Data Center Supply Chain",
-      "url": "https://www.youtube.com/watch?v=9EJM4LNMK0I",
-      "videoId": "9EJM4LNMK0I",
-      "publishedAt": "2026-10-28T05:25:32Z",
-      "description": "The AI data center buildout is creating shortages far beyond GPUs and power. Transformers take years to get, while switchgear, ..."
+      "title": "Vertical Foundation Models",
+      "url": "https://www.youtube.com/watch?v=LI9NqE2iIqg",
+      "videoId": "LI9NqE2iIqg",
+      "publishedAt": "2026-10-29T14:31:00Z",
+      "description": "General-purpose AI is getting incredibly capable, but many industrial problems don't need a giant model that can do everything."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
-      "url": "https://www.youtube.com/watch?v=qhIabMKHJlA",
-      "videoId": "qhIabMKHJlA",
-      "publishedAt": "2026-10-28T12:00:20Z",
-      "description": "Two years after its founding, Stark has roughly 700 employees and strike drones in the field in Ukraine. CEO Uwe Horstmann and ..."
+      "title": "How Crusoe’s CEO Runs Welders and AI Researchers | Chase Lochmiller, Crusoe",
+      "url": "https://www.youtube.com/watch?v=tPs3gJbTtmk",
+      "videoId": "tPs3gJbTtmk",
+      "publishedAt": "2026-10-29T20:00:12Z",
+      "description": "Chase Lochmiller, co-founder and CEO of Crusoe, on how he scaled himself as a leader: a domain expert owns each vertical ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Inside the Robot Data Factory: Mecka&#39;s Josh Gao on Sensorizing Humans to Train Robots",
-      "url": "https://www.youtube.com/watch?v=0idrTKCDhuE",
-      "videoId": "0idrTKCDhuE",
-      "publishedAt": "2026-10-20T12:00:07Z",
-      "description": "Robotics never got the internet's gift of free training data, so someone has to manufacture it. Josh Gao, founder and CEO of Mecka ..."
+      "title": "The buyer is a general. The customer is a staff sergeant. | Uwe Horstmann, Stark",
+      "url": "https://www.youtube.com/watch?v=Z6l61F9K-d8",
+      "videoId": "Z6l61F9K-d8",
+      "publishedAt": "2026-10-29T17:59:20Z",
+      "description": "Stark showed up to the field with a lightweight plastic case. The soldiers asked for wood — because wood burns, and it's cold in ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Crusoe CEO Chase Lochmiller: Turning Stranded Energy Into Intelligence",
+      "url": "https://www.youtube.com/watch?v=64vUl9k-IAQ",
+      "videoId": "64vUl9k-IAQ",
+      "publishedAt": "2026-10-29T12:00:03Z",
+      "description": "Chase Lochmiller runs one of the most operationally complex companies in AI: Crusoe builds power plants, manufactures ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Gamma&#39;s path to $100M ARR",
+      "url": "https://www.youtube.com/watch?v=1_W21ZDr17M",
+      "videoId": "1_W21ZDr17M",
+      "publishedAt": "2026-10-21T17:32:40Z",
+      "description": "A conversation with Grant Lee, Gamma cofounder and CEO, on rebuilding their product and scaling to exceed $100 million ARR ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
+      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
+      "videoId": "CEYGln3s9MM",
+      "publishedAt": "2026-09-03T05:50:59Z",
+      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
+      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
+      "videoId": "26aV9GTeoSo",
+      "publishedAt": "2026-07-09T18:29:21Z",
+      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Make your Figma design system agent-ready",
-      "url": "https://www.youtube.com/watch?v=yj90StgN70w",
-      "videoId": "yj90StgN70w",
-      "publishedAt": "2026-10-28T16:00:25Z",
-      "description": "For the Figma agent to produce designs that look and feel like your product, it needs a design system it can understand."
+      "title": "Figma for Edu presents AfterImage NYC + lo-fi beats to study to",
+      "url": "https://www.youtube.com/watch?v=gbC42PwJH-g",
+      "videoId": "gbC42PwJH-g",
+      "publishedAt": "2026-10-29T22:08:07Z",
+      "description": "Over the past two weeks, students and educators across the world built motion pieces and photo booth frames you using Figma ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Config India 2026: The work has to leave the file with Ashish Kashyap and Saptarshi Prakash",
+      "url": "https://www.youtube.com/watch?v=9xP_EZlWdbc",
+      "videoId": "9xP_EZlWdbc",
+      "publishedAt": "2026-10-29T15:29:28Z",
+      "description": "Join Ashish Kashyap for a fireside conversation, moderated by Saptarshi Prakash, about building Pikaicons from a personal ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "videoId": "s7d2d8FhevU",
+      "publishedAt": "2026-09-17T00:34:47Z",
+      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
+      "description": ""
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 13
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
