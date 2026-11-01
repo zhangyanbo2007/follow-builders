@@ -1,109 +1,28 @@
 {
-  "generatedAt": "2026-10-31T04:46:42.203Z",
+  "generatedAt": "2026-11-01T05:10:01.249Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "What Happens When Everyone Can Build Software",
-      "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
-      "videoId": "vl7HiMdGfjo",
-      "publishedAt": "2026-10-30T14:30:00Z",
-      "description": "In this episode of the Lightcone, the hosts sit down with Paul Copplestone, co-founder and CEO of Supabase. Since starting in the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "AI for the Air-Gapped Economy",
-      "url": "https://www.youtube.com/watch?v=x21EgQzfZaM",
-      "videoId": "x21EgQzfZaM",
-      "publishedAt": "2026-10-30T05:41:20Z",
-      "description": "Some of the most valuable data in the world can never leave the building. Defense contractors, banks, hospitals, and nuclear ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Why Crusoe’s CEO Isn’t Worried About Competitors | Chase Lochmiller",
-      "url": "https://www.youtube.com/watch?v=mv9NH2HTthU",
-      "videoId": "mv9NH2HTthU",
-      "publishedAt": "2026-10-30T15:00:17Z",
-      "description": "The best early advice Chase Lochmiller got at Crusoe: most startups die from suicide, not homicide. It's not competitors that kill ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Why Stark builds the factory before the prototype is done | Johannes Schaback",
-      "url": "https://www.youtube.com/watch?v=qwgiMe4SwF4",
-      "videoId": "qwgiMe4SwF4",
-      "publishedAt": "2026-10-30T09:00:21Z",
-      "description": "Time to market and production readiness pull in opposite directions. Stark co-founder Johannes Schaback on shifting left on ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "videoId": "FGCP2F_7rQk",
-      "publishedAt": "2026-10-13T21:26:16Z",
-      "description": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-      "videoId": "LVEfFyijQ2c",
-      "publishedAt": "2026-10-13T16:38:17Z",
-      "description": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-      "videoId": "ftkic7Tdpcg",
-      "publishedAt": "2026-10-13T16:38:14Z",
-      "description": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Untangling 500-page chemistry patents with Gemini 4",
-      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
-      "videoId": "9jQA7IgPhBE",
-      "publishedAt": "2026-10-13T15:58:17Z",
-      "description": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule's structure can sit 50 pages ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
-      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
-      "videoId": "9PICEmtfpWU",
-      "publishedAt": "2026-10-13T15:58:20Z",
-      "description": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ..."
+      "channel": "South Park Commons (Minus One)",
+      "title": "Why Mindset Matters More Than Credentials in Robotics",
+      "url": "https://www.youtube.com/watch?v=qFzp7VOLlxQ",
+      "videoId": "qFzp7VOLlxQ",
+      "publishedAt": "2026-10-23T14:36:59Z",
+      "description": "Mindset, willingness to learn, and attention to detail often matter more than a PhD."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Counterintuitive Secret to Building Smarter Robots",
-      "url": "https://www.youtube.com/watch?v=xxSPvrbOf0I",
-      "videoId": "xxSPvrbOf0I",
-      "publishedAt": "2026-10-22T17:26:57Z",
-      "description": "What if making a problem bigger actually makes it easier to solve?"
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "How Close Are We to Robots That Can Do Anything? | Sergey Levine, Physical Intelligence",
-      "url": "https://www.youtube.com/watch?v=5X166Fead8o",
-      "videoId": "5X166Fead8o",
-      "publishedAt": "2026-10-22T14:00:32Z",
-      "description": "What will it take to build robots that can do almost anything? Sergey Levine, co-founder of Physical Intelligence, joins South Park ..."
+      "title": "Mercor&#39;s Brendan Foody on Data, Evals &amp; the Last Human Job",
+      "url": "https://www.youtube.com/watch?v=kmyxPcoKm08",
+      "videoId": "kmyxPcoKm08",
+      "publishedAt": "2026-10-15T16:34:35Z",
+      "description": "Is model differentiation really just data? What happens to human work when a model can saturate any eval overnight? And what is ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 11
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
