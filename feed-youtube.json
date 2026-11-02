@@ -1,28 +1,9 @@
 {
-  "generatedAt": "2026-11-01T05:10:01.249Z",
+  "generatedAt": "2026-11-02T05:10:02.190Z",
   "lookbackHours": 336,
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why Mindset Matters More Than Credentials in Robotics",
-      "url": "https://www.youtube.com/watch?v=qFzp7VOLlxQ",
-      "videoId": "qFzp7VOLlxQ",
-      "publishedAt": "2026-10-23T14:36:59Z",
-      "description": "Mindset, willingness to learn, and attention to detail often matter more than a PhD."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Mercor&#39;s Brendan Foody on Data, Evals &amp; the Last Human Job",
-      "url": "https://www.youtube.com/watch?v=kmyxPcoKm08",
-      "videoId": "kmyxPcoKm08",
-      "publishedAt": "2026-10-15T16:34:35Z",
-      "description": "Is model differentiation really just data? What happens to human work when a model can saturate any eval overnight? And what is ..."
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 0
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
