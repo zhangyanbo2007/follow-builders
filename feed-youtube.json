@@ -1,9 +1,82 @@
 {
-  "generatedAt": "2026-11-02T05:10:02.190Z",
+  "generatedAt": "2026-11-03T05:54:49.491Z",
   "lookbackHours": 336,
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Engineers Make Great Founders",
+      "url": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
+      "videoId": "lqdc1MeyIfs",
+      "publishedAt": "2026-11-02T23:54:36Z",
+      "description": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "The $1B Company Fixing AI’s Software Bottleneck",
+      "url": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
+      "videoId": "NVzgt2AEvDg",
+      "publishedAt": "2026-11-02T16:29:13Z",
+      "description": "Blacksmith (YC W24) is building a faster cloud for continuous integration (CI), helping developers test and ship code as AI coding ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Robotics Has No Internet to Pre-Train On | Josh Gao, Mecka",
+      "url": "https://www.youtube.com/watch?v=PLXsY-jPW6U",
+      "videoId": "PLXsY-jPW6U",
+      "publishedAt": "2026-11-02T19:30:23Z",
+      "description": "LLMs got a free cold start from the internet. Robotics didn't. Josh Gao, co-founder and CEO of Mecka, explains why robot training ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Should Every CEO Hire a Coach? Crusoe’s CEO Says Yes | Chase Lochmiller",
+      "url": "https://www.youtube.com/watch?v=W8MfWS8jCG4",
+      "videoId": "W8MfWS8jCG4",
+      "publishedAt": "2026-11-02T16:00:39Z",
+      "description": "Brian Halligan asks Chase Lochmiller, CEO of Crusoe, whether every CEO should hire a coach. One-word answer. Then Chase ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "The Shift in European Defense Procurement is Structural | Uwe Horstmann, Stark",
+      "url": "https://www.youtube.com/watch?v=XYNP_3ms0Ig",
+      "videoId": "XYNP_3ms0Ig",
+      "publishedAt": "2026-11-02T10:00:28Z",
+      "description": "Stark co-founder Uwe Horstmann on why the shift in European defense procurement is structural, not a moment — and why the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
+      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
+      "videoId": "5bjkprj4lpU",
+      "publishedAt": "2026-06-30T18:07:41Z",
+      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Config India 2026: Designing from India, thinking globally",
+      "url": "https://www.youtube.com/watch?v=i_sG3EYCUi8",
+      "videoId": "i_sG3EYCUi8",
+      "publishedAt": "2026-11-02T22:04:11Z",
+      "description": "What does it take to build design from India that feels culturally rooted without being inward-looking? Drawing from the journey of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "What if Craigslist was Designed by Duolingo?",
+      "url": "https://www.youtube.com/watch?v=SX5MSg2E8YQ",
+      "videoId": "SX5MSg2E8YQ",
+      "publishedAt": "2026-11-02T16:31:19Z",
+      "description": "What if Craigslist looked like Duolingo? We asked a former Duolingo designer, Yi Chen, to reimagine the site from scratch using ..."
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
