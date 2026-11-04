@@ -1,82 +1,73 @@
 {
-  "generatedAt": "2026-11-03T05:54:49.491Z",
+  "generatedAt": "2026-11-04T05:30:59.004Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "Engineers Make Great Founders",
-      "url": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
-      "videoId": "lqdc1MeyIfs",
-      "publishedAt": "2026-11-02T23:54:36Z",
-      "description": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "The $1B Company Fixing AI’s Software Bottleneck",
-      "url": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
-      "videoId": "NVzgt2AEvDg",
-      "publishedAt": "2026-11-02T16:29:13Z",
-      "description": "Blacksmith (YC W24) is building a faster cloud for continuous integration (CI), helping developers test and ship code as AI coding ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Mecka’s Founders Came From Cloud Kitchens and Crypto, Not Robotics",
+      "url": "https://www.youtube.com/watch?v=wVXczLJ1cgI",
+      "videoId": "wVXczLJ1cgI",
+      "publishedAt": "2026-11-03T20:45:07Z",
+      "description": "Josh Gao was building a Toast for cloud kitchens and installing restaurant kiosks overnight in rural Rochester. His co-founder built ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Robotics Has No Internet to Pre-Train On | Josh Gao, Mecka",
-      "url": "https://www.youtube.com/watch?v=PLXsY-jPW6U",
-      "videoId": "PLXsY-jPW6U",
-      "publishedAt": "2026-11-02T19:30:23Z",
-      "description": "LLMs got a free cold start from the internet. Robotics didn't. Josh Gao, co-founder and CEO of Mecka, explains why robot training ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Should Every CEO Hire a Coach? Crusoe’s CEO Says Yes | Chase Lochmiller",
-      "url": "https://www.youtube.com/watch?v=W8MfWS8jCG4",
-      "videoId": "W8MfWS8jCG4",
-      "publishedAt": "2026-11-02T16:00:39Z",
-      "description": "Brian Halligan asks Chase Lochmiller, CEO of Crusoe, whether every CEO should hire a coach. One-word answer. Then Chase ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The Shift in European Defense Procurement is Structural | Uwe Horstmann, Stark",
-      "url": "https://www.youtube.com/watch?v=XYNP_3ms0Ig",
-      "videoId": "XYNP_3ms0Ig",
-      "publishedAt": "2026-11-02T10:00:28Z",
-      "description": "Stark co-founder Uwe Horstmann on why the shift in European defense procurement is structural, not a moment — and why the ..."
+      "title": "The CEO Habit That Gets People to Tell You the Truth | Chase Lochmiller, Crusoe",
+      "url": "https://www.youtube.com/watch?v=UshLbshJEQg",
+      "videoId": "UshLbshJEQg",
+      "publishedAt": "2026-11-03T16:00:19Z",
+      "description": "Chase Lochmiller, CEO of Crusoe, on why taking criticism publicly and changing your mind is what gets a 2000-person company ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Tech analyst Philipp Klöckner in conversation with Conor McNamara",
-      "url": "https://www.youtube.com/watch?v=5bjkprj4lpU",
-      "videoId": "5bjkprj4lpU",
-      "publishedAt": "2026-06-30T18:07:41Z",
-      "description": "Investor and tech analyst Philipp Klöckner joins Stripe EMEA CRO Conor McNamara for a fireside chat at Tour Berlin."
+      "title": "【Stripe Tour Tokyo 2026】ポッドキャスト編｜日本企業はどう変わる？エージェンティック コマースと海外展開がもたらす成長のチャンス：パートナーソリューションアーキテクト池田尚史",
+      "url": "https://www.youtube.com/watch?v=8sX0IGJTvZc",
+      "videoId": "8sX0IGJTvZc",
+      "publishedAt": "2026-11-04T02:30:32Z",
+      "description": "AI 時代の決済トレンドや金融テクノロジーの最前線を体感できる年次カンファレンス「Stripe Tour Tokyo 2026」。その会場で ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Config India 2026: Designing from India, thinking globally",
-      "url": "https://www.youtube.com/watch?v=i_sG3EYCUi8",
-      "videoId": "i_sG3EYCUi8",
-      "publishedAt": "2026-11-02T22:04:11Z",
-      "description": "What does it take to build design from India that feels culturally rooted without being inward-looking? Drawing from the journey of ..."
+      "title": "Setup the Figma Github app for your organization",
+      "url": "https://www.youtube.com/watch?v=9NItpKWsqPg",
+      "videoId": "9NItpKWsqPg",
+      "publishedAt": "2026-11-03T17:24:03Z",
+      "description": "With Figma GitHub multi-authorization, you may want to introduce clearer oversight for your organization accounts. You can do ..."
     },
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "What if Craigslist was Designed by Duolingo?",
-      "url": "https://www.youtube.com/watch?v=SX5MSg2E8YQ",
-      "videoId": "SX5MSg2E8YQ",
-      "publishedAt": "2026-11-02T16:31:19Z",
-      "description": "What if Craigslist looked like Duolingo? We asked a former Duolingo designer, Yi Chen, to reimagine the site from scratch using ..."
+      "channel": "Lex Fridman",
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "videoId": "ZAzWPE9CItg",
+      "publishedAt": "2026-10-26T22:51:51Z",
+      "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "videoId": "NYFGCESmikA",
+      "publishedAt": "2026-08-26T21:44:41Z",
+      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Next Big Breakthrough in Robot Intelligence",
+      "url": "https://www.youtube.com/watch?v=4cPtm3cLeWc",
+      "videoId": "4cPtm3cLeWc",
+      "publishedAt": "2026-10-26T14:26:20Z",
+      "description": "Zero-shot generalization is one of the biggest ambitions in robotics. Sergey Levine explains."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
