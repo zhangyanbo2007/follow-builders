@@ -1,73 +1,55 @@
 {
-  "generatedAt": "2026-11-04T05:30:59.004Z",
+  "generatedAt": "2026-11-05T05:51:08.830Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Mecka’s Founders Came From Cloud Kitchens and Crypto, Not Robotics",
-      "url": "https://www.youtube.com/watch?v=wVXczLJ1cgI",
-      "videoId": "wVXczLJ1cgI",
-      "publishedAt": "2026-11-03T20:45:07Z",
-      "description": "Josh Gao was building a Toast for cloud kitchens and installing restaurant kiosks overnight in rural Rochester. His co-founder built ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The CEO Habit That Gets People to Tell You the Truth | Chase Lochmiller, Crusoe",
-      "url": "https://www.youtube.com/watch?v=UshLbshJEQg",
-      "videoId": "UshLbshJEQg",
-      "publishedAt": "2026-11-03T16:00:19Z",
-      "description": "Chase Lochmiller, CEO of Crusoe, on why taking criticism publicly and changing your mind is what gets a 2000-person company ..."
+      "channel": "YC Startup School",
+      "title": "10 Habits PhDs Must Unlearn To Build a Startup | Startup School",
+      "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+      "videoId": "u-8KpXcPYCw",
+      "publishedAt": "2026-11-04T15:00:23Z",
+      "description": "Google, Anthropic, and Databricks were all started by founders with PhDs. But they're the exceptions. Most academic founders fail ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "【Stripe Tour Tokyo 2026】ポッドキャスト編｜日本企業はどう変わる？エージェンティック コマースと海外展開がもたらす成長のチャンス：パートナーソリューションアーキテクト池田尚史",
-      "url": "https://www.youtube.com/watch?v=8sX0IGJTvZc",
-      "videoId": "8sX0IGJTvZc",
-      "publishedAt": "2026-11-04T02:30:32Z",
-      "description": "AI 時代の決済トレンドや金融テクノロジーの最前線を体感できる年次カンファレンス「Stripe Tour Tokyo 2026」。その会場で ..."
+      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
+      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
+      "videoId": "4GmHpHyoKmo",
+      "publishedAt": "2026-08-25T00:00:11Z",
+      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Setup the Figma Github app for your organization",
-      "url": "https://www.youtube.com/watch?v=9NItpKWsqPg",
-      "videoId": "9NItpKWsqPg",
-      "publishedAt": "2026-11-03T17:24:03Z",
-      "description": "With Figma GitHub multi-authorization, you may want to introduce clearer oversight for your organization accounts. You can do ..."
+      "title": "Config India: Homegrown intelligence: AI that speaks trust",
+      "url": "https://www.youtube.com/watch?v=eXJnOj1vVyQ",
+      "videoId": "eXJnOj1vVyQ",
+      "publishedAt": "2026-11-04T17:43:41Z",
+      "description": "Trust in AI isn't built on intelligence alone. This session explores what it takes to build homegrown intelligence—AI that speaks our ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "videoId": "ZAzWPE9CItg",
-      "publishedAt": "2026-10-26T22:51:51Z",
-      "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the ..."
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "videoId": "l6USUAIKJls",
+      "publishedAt": "2026-08-12T12:57:24Z",
+      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "videoId": "NYFGCESmikA",
-      "publishedAt": "2026-08-26T21:44:41Z",
-      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "The Next Big Breakthrough in Robot Intelligence",
-      "url": "https://www.youtube.com/watch?v=4cPtm3cLeWc",
-      "videoId": "4cPtm3cLeWc",
-      "publishedAt": "2026-10-26T14:26:20Z",
-      "description": "Zero-shot generalization is one of the biggest ambitions in robotics. Sergey Levine explains."
+      "channel": "Google DeepMind",
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
+      "videoId": "sFfPkUJd_Jk",
+      "publishedAt": "2026-10-27T16:00:41Z",
+      "description": "Meet Genie 4, Google DeepMind's most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
