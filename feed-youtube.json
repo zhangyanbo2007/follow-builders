@@ -1,55 +1,73 @@
 {
-  "generatedAt": "2026-11-05T05:51:08.830Z",
+  "generatedAt": "2026-11-06T05:47:22.276Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "10 Habits PhDs Must Unlearn To Build a Startup | Startup School",
-      "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
-      "videoId": "u-8KpXcPYCw",
-      "publishedAt": "2026-11-04T15:00:23Z",
-      "description": "Google, Anthropic, and Databricks were all started by founders with PhDs. But they're the exceptions. Most academic founders fail ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Waymo-fying People: The Egocentric Data Bet | Josh Gao, Mecka",
+      "url": "https://www.youtube.com/watch?v=qGZdj0ygD9s",
+      "videoId": "qGZdj0ygD9s",
+      "publishedAt": "2026-11-05T19:15:27Z",
+      "description": "When Mecka started, most robot data came from teleoperation, and it couldn't scale. Josh Gao bet on egocentric data instead: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
+      "url": "https://www.youtube.com/watch?v=32vxW6GMeLY",
+      "videoId": "32vxW6GMeLY",
+      "publishedAt": "2026-11-05T13:00:07Z",
+      "description": "Today's agents are stuck in what Ronak Malde calls “pseudo continual learning”: intelligent, but updated in offline batches, like a ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
-      "videoId": "4GmHpHyoKmo",
-      "publishedAt": "2026-08-25T00:00:11Z",
-      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
+      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
+      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
+      "videoId": "pX-AdubYXgk",
+      "publishedAt": "2026-06-17T01:24:33Z",
+      "description": ""
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Config India: Homegrown intelligence: AI that speaks trust",
-      "url": "https://www.youtube.com/watch?v=eXJnOj1vVyQ",
-      "videoId": "eXJnOj1vVyQ",
-      "publishedAt": "2026-11-04T17:43:41Z",
-      "description": "Trust in AI isn't built on intelligence alone. This session explores what it takes to build homegrown intelligence—AI that speaks our ..."
+      "title": "Config India 2026: Taking stupid seriously with Soren Iverson",
+      "url": "https://www.youtube.com/watch?v=gX5teT-2kLo",
+      "videoId": "gX5teT-2kLo",
+      "publishedAt": "2026-11-05T17:24:38Z",
+      "description": "Your brain has a suggestion. Your professional reputation would like a word. Drawing on his time at Square, Cash App, and now ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "videoId": "l6USUAIKJls",
-      "publishedAt": "2026-08-12T12:57:24Z",
-      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record."
+      "channel": "Figma Config",
+      "title": "Edit and generate vectors with the Figma agent",
+      "url": "https://www.youtube.com/watch?v=Vfh8hAEs7yk",
+      "videoId": "Vfh8hAEs7yk",
+      "publishedAt": "2026-11-05T16:00:06Z",
+      "description": "The Figma agent can now: Use style references to generate vector illustrations and icons Utilize strokes for line work so you can ..."
     },
     {
       "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
-      "videoId": "sFfPkUJd_Jk",
-      "publishedAt": "2026-10-27T16:00:41Z",
-      "description": "Meet Genie 4, Google DeepMind's most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you ..."
+      "channel": "South Park Commons (Minus One)",
+      "title": "Trae Stephens: “You Don’t Find a Good Quest. A Good Quest Finds You”",
+      "url": "https://www.youtube.com/watch?v=oS82BTSVI_E",
+      "videoId": "oS82BTSVI_E",
+      "publishedAt": "2026-11-05T17:46:51Z",
+      "description": "The best startup ideas aren't the ones you go looking for."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Why the Best Founders Don&#39;t Look for Startup Ideas | Trae Stephens",
+      "url": "https://www.youtube.com/watch?v=wlH0lfkLRRU",
+      "videoId": "wlH0lfkLRRU",
+      "publishedAt": "2026-11-05T15:00:27Z",
+      "description": "How do you know when you've found an idea worth dedicating your life to? Trae Stephens, cofounder of Anduril Industries and ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
