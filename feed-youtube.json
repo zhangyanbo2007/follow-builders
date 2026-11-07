@@ -1,73 +1,82 @@
 {
-  "generatedAt": "2026-11-06T05:47:22.276Z",
+  "generatedAt": "2026-11-07T05:17:53.538Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Waymo-fying People: The Egocentric Data Bet | Josh Gao, Mecka",
-      "url": "https://www.youtube.com/watch?v=qGZdj0ygD9s",
-      "videoId": "qGZdj0ygD9s",
-      "publishedAt": "2026-11-05T19:15:27Z",
-      "description": "When Mecka started, most robot data came from teleoperation, and it couldn't scale. Josh Gao bet on egocentric data instead: ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
-      "url": "https://www.youtube.com/watch?v=32vxW6GMeLY",
-      "videoId": "32vxW6GMeLY",
-      "publishedAt": "2026-11-05T13:00:07Z",
-      "description": "Today's agents are stuck in what Ronak Malde calls “pseudo continual learning”: intelligent, but updated in offline batches, like a ..."
+      "channel": "YC Startup School",
+      "title": "Bringing Supersonic Flight To The People",
+      "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+      "videoId": "NYGf--dBeHA",
+      "publishedAt": "2026-11-06T16:00:09Z",
+      "description": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of ..."
     },
     {
       "source": "youtube",
       "channel": "Stripe Sessions",
-      "title": "Fin / Intercom cofounder Des Traynor on Eoghan McCabe’s &quot;manic&quot; AI pivot",
-      "url": "https://www.youtube.com/watch?v=pX-AdubYXgk",
-      "videoId": "pX-AdubYXgk",
-      "publishedAt": "2026-06-17T01:24:33Z",
+      "title": "Gamma&#39;s path to $100M ARR",
+      "url": "https://www.youtube.com/watch?v=1_W21ZDr17M",
+      "videoId": "1_W21ZDr17M",
+      "publishedAt": "2026-10-21T17:32:40Z",
+      "description": "A conversation with Grant Lee, Gamma cofounder and CEO, on rebuilding their product and scaling to exceed $100 million ARR ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
+      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
+      "videoId": "CEYGln3s9MM",
+      "publishedAt": "2026-09-03T05:50:59Z",
+      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
+      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
+      "videoId": "26aV9GTeoSo",
+      "publishedAt": "2026-07-09T18:29:21Z",
+      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Speed up design system documentation with the Figma agent",
+      "url": "https://www.youtube.com/watch?v=DkLg3FtrQe4",
+      "videoId": "DkLg3FtrQe4",
+      "publishedAt": "2026-11-06T17:02:10Z",
+      "description": "Creating your design system is one thing. Documenting it? That takes time, too. Here are a few practical ways Figma's agent can ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "videoId": "s7d2d8FhevU",
+      "publishedAt": "2026-09-17T00:34:47Z",
+      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "What Entrepreneurs Can Learn from SpaceX",
+      "url": "https://www.youtube.com/watch?v=hbEZ8VQtDGg",
+      "videoId": "hbEZ8VQtDGg",
+      "publishedAt": "2026-11-06T15:37:59Z",
+      "description": "SpaceX did not build Starship on day one. They started with Falcon 1, moved on to Falcon 9, developed reusable rockets and built ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Dwarkesh Podcast",
+      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
+      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
+      "videoId": "2HFCOyhVVnY",
+      "publishedAt": "2024-09-28T19:36:39Z",
       "description": ""
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Config India 2026: Taking stupid seriously with Soren Iverson",
-      "url": "https://www.youtube.com/watch?v=gX5teT-2kLo",
-      "videoId": "gX5teT-2kLo",
-      "publishedAt": "2026-11-05T17:24:38Z",
-      "description": "Your brain has a suggestion. Your professional reputation would like a word. Drawing on his time at Square, Cash App, and now ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Edit and generate vectors with the Figma agent",
-      "url": "https://www.youtube.com/watch?v=Vfh8hAEs7yk",
-      "videoId": "Vfh8hAEs7yk",
-      "publishedAt": "2026-11-05T16:00:06Z",
-      "description": "The Figma agent can now: Use style references to generate vector illustrations and icons Utilize strokes for line work so you can ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Trae Stephens: “You Don’t Find a Good Quest. A Good Quest Finds You”",
-      "url": "https://www.youtube.com/watch?v=oS82BTSVI_E",
-      "videoId": "oS82BTSVI_E",
-      "publishedAt": "2026-11-05T17:46:51Z",
-      "description": "The best startup ideas aren't the ones you go looking for."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why the Best Founders Don&#39;t Look for Startup Ideas | Trae Stephens",
-      "url": "https://www.youtube.com/watch?v=wlH0lfkLRRU",
-      "videoId": "wlH0lfkLRRU",
-      "publishedAt": "2026-11-05T15:00:27Z",
-      "description": "How do you know when you've found an idea worth dedicating your life to? Trae Stephens, cofounder of Anduril Industries and ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
