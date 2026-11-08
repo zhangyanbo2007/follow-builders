@@ -1,82 +1,73 @@
 {
-  "generatedAt": "2026-11-07T05:17:53.538Z",
+  "generatedAt": "2026-11-08T05:15:18.581Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Bringing Supersonic Flight To The People",
-      "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
-      "videoId": "NYGf--dBeHA",
-      "publishedAt": "2026-11-06T16:00:09Z",
-      "description": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Gamma&#39;s path to $100M ARR",
-      "url": "https://www.youtube.com/watch?v=1_W21ZDr17M",
-      "videoId": "1_W21ZDr17M",
-      "publishedAt": "2026-10-21T17:32:40Z",
-      "description": "A conversation with Grant Lee, Gamma cofounder and CEO, on rebuilding their product and scaling to exceed $100 million ARR ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Sea founder and CEO Forrest Li in conversation with Tyler Bryson",
-      "url": "https://www.youtube.com/watch?v=CEYGln3s9MM",
-      "videoId": "CEYGln3s9MM",
-      "publishedAt": "2026-09-03T05:50:59Z",
-      "description": "Sea founder and CEO Forrest Li joins Stripe Chief Revenue Officer Tyler Bryson for a fireside chat at Stripe Tour Singapore."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "A conversation with Replit&#39;s President and Head of AI Michele Catasta",
-      "url": "https://www.youtube.com/watch?v=26aV9GTeoSo",
-      "videoId": "26aV9GTeoSo",
-      "publishedAt": "2026-07-09T18:29:21Z",
-      "description": "Join Michela Catasta, Replit's President and Head of AI, for an inside look at the decisions that defined Replit's path, what it takes ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Speed up design system documentation with the Figma agent",
-      "url": "https://www.youtube.com/watch?v=DkLg3FtrQe4",
-      "videoId": "DkLg3FtrQe4",
-      "publishedAt": "2026-11-06T17:02:10Z",
-      "description": "Creating your design system is one thing. Documenting it? That takes time, too. Here are a few practical ways Figma's agent can ..."
+      "title": "How To Build The Future: Paul Graham &amp; Amjad Masad",
+      "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+      "videoId": "Q78dJ0vkWe8",
+      "publishedAt": "2026-11-07T15:00:14Z",
+      "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a ..."
     },
     {
       "source": "youtube",
       "channel": "Lex Fridman",
-      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "videoId": "s7d2d8FhevU",
-      "publishedAt": "2026-09-17T00:34:47Z",
-      "description": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ..."
+      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "videoId": "FGCP2F_7rQk",
+      "publishedAt": "2026-10-13T21:26:16Z",
+      "description": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
+      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
+      "videoId": "LVEfFyijQ2c",
+      "publishedAt": "2026-10-13T16:38:17Z",
+      "description": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
+      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
+      "videoId": "ftkic7Tdpcg",
+      "publishedAt": "2026-10-13T16:38:14Z",
+      "description": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Untangling 500-page chemistry patents with Gemini 4",
+      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
+      "videoId": "9jQA7IgPhBE",
+      "publishedAt": "2026-10-13T15:58:17Z",
+      "description": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule's structure can sit 50 pages ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
+      "videoId": "9PICEmtfpWU",
+      "publishedAt": "2026-10-13T15:58:20Z",
+      "description": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "What Entrepreneurs Can Learn from SpaceX",
-      "url": "https://www.youtube.com/watch?v=hbEZ8VQtDGg",
-      "videoId": "hbEZ8VQtDGg",
-      "publishedAt": "2026-11-06T15:37:59Z",
-      "description": "SpaceX did not build Starship on day one. They started with Falcon 1, moved on to Falcon 9, developed reusable rockets and built ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Dwarkesh Podcast",
-      "title": "JAY DWARKADHISH DWARKADHISH STATUS THAKAR KRISHNA MURLIDHAR",
-      "url": "https://www.youtube.com/watch?v=2HFCOyhVVnY",
-      "videoId": "2HFCOyhVVnY",
-      "publishedAt": "2024-09-28T19:36:39Z",
-      "description": ""
+      "title": "The Counterintuitive Secret to Building Smarter Robots",
+      "url": "https://www.youtube.com/watch?v=xxSPvrbOf0I",
+      "videoId": "xxSPvrbOf0I",
+      "publishedAt": "2026-10-22T17:26:57Z",
+      "description": "What if making a problem bigger actually makes it easier to solve?"
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 7
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
