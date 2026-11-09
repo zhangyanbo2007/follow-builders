@@ -1,73 +1,28 @@
 {
-  "generatedAt": "2026-11-08T05:15:18.581Z",
+  "generatedAt": "2026-11-09T05:27:50.856Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "How To Build The Future: Paul Graham &amp; Amjad Masad",
-      "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
-      "videoId": "Q78dJ0vkWe8",
-      "publishedAt": "2026-11-07T15:00:14Z",
-      "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "videoId": "FGCP2F_7rQk",
-      "publishedAt": "2026-10-13T21:26:16Z",
-      "description": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-      "videoId": "LVEfFyijQ2c",
-      "publishedAt": "2026-10-13T16:38:17Z",
-      "description": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-      "videoId": "ftkic7Tdpcg",
-      "publishedAt": "2026-10-13T16:38:14Z",
-      "description": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Untangling 500-page chemistry patents with Gemini 4",
-      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
-      "videoId": "9jQA7IgPhBE",
-      "publishedAt": "2026-10-13T15:58:17Z",
-      "description": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule's structure can sit 50 pages ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
-      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
-      "videoId": "9PICEmtfpWU",
-      "publishedAt": "2026-10-13T15:58:20Z",
-      "description": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing ..."
+      "title": "Is AI Now Good Enough To Cure Cancer? | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
+      "videoId": "-XL2gClQ2gg",
+      "publishedAt": "2026-11-08T15:00:39Z",
+      "description": "This week's Paper Club is all about AI for biology. The cost of sequencing has collapsed, which means biology now generates ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "The Counterintuitive Secret to Building Smarter Robots",
-      "url": "https://www.youtube.com/watch?v=xxSPvrbOf0I",
-      "videoId": "xxSPvrbOf0I",
-      "publishedAt": "2026-10-22T17:26:57Z",
-      "description": "What if making a problem bigger actually makes it easier to solve?"
+      "title": "Why Mindset Matters More Than Credentials in Robotics",
+      "url": "https://www.youtube.com/watch?v=qFzp7VOLlxQ",
+      "videoId": "qFzp7VOLlxQ",
+      "publishedAt": "2026-10-23T14:36:59Z",
+      "description": "Mindset, willingness to learn, and attention to detail often matter more than a PhD."
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
