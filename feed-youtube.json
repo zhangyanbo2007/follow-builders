@@ -1,37 +1,82 @@
 {
-  "generatedAt": "2026-11-10T06:38:11.871Z",
+  "generatedAt": "2026-11-11T05:25:06.577Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
+      "channel": "YC Startup School",
+      "title": "Engineers Make Great Founders",
+      "url": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
+      "videoId": "lqdc1MeyIfs",
+      "publishedAt": "2026-11-02T23:54:36Z",
+      "description": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "Robotics Has No Internet to Pre-Train On | Josh Gao, Mecka",
+      "url": "https://www.youtube.com/watch?v=PLXsY-jPW6U",
+      "videoId": "PLXsY-jPW6U",
+      "publishedAt": "2026-11-02T19:30:23Z",
+      "description": "LLMs got a free cold start from the internet. Robotics didn't. Josh Gao, co-founder and CEO of Mecka, explains why robot training ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Product keynote | How AI is changing SaaS products, pricing, and growth",
+      "url": "https://www.youtube.com/watch?v=RLwtsHktVo8",
+      "videoId": "RLwtsHktVo8",
+      "publishedAt": "2026-11-10T16:01:44Z",
+      "description": "Neetika Bansal, Aakash Sahney, and other Stripe product leaders share how SaaS platforms can grow payments revenue, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Fireside | John Collison and Sam Gerstenzang on building companies with AI",
+      "url": "https://www.youtube.com/watch?v=S1sQdg5_sbw",
+      "videoId": "S1sQdg5_sbw",
+      "publishedAt": "2026-11-10T16:00:19Z",
+      "description": "Stripe Cofounder John Collison talks with Sam Gerstenzang, Cofounder of Boulton & Watt—the startup incubator behind vertical ..."
+    },
+    {
+      "source": "youtube",
       "channel": "Figma Config",
-      "title": "Config India 2026: Figma deep dive: Design together with code on the canvas",
-      "url": "https://www.youtube.com/watch?v=7BvJDTuTK-U",
-      "videoId": "7BvJDTuTK-U",
-      "publishedAt": "2026-11-09T23:11:39Z",
-      "description": "Designing together on the canvas brings designers and developers into the same creative space, breaking down the walls ..."
+      "title": "24 Hours with Special Offer Founder &amp; Art Director, Brent David Freaney I Day in the Life",
+      "url": "https://www.youtube.com/watch?v=gB21amgymKw",
+      "videoId": "gB21amgymKw",
+      "publishedAt": "2026-11-10T20:00:34Z",
+      "description": "Welcome to Day in the Life, the series where we follow a creative in their home city as they take us through their typical day and ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Figma Motion updates: New spring physics, animation styles preview, and LottieFiles export preview",
+      "url": "https://www.youtube.com/watch?v=nFSyfoxwiFA",
+      "videoId": "nFSyfoxwiFA",
+      "publishedAt": "2026-11-10T17:00:20Z",
+      "description": "With this Figma Motion feature bundle, Motion designers will have an easier way to preview preset animation styles, view Lottie ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
+      "videoId": "2hJkprFnzhY",
+      "publishedAt": "2026-11-10T23:52:20Z",
+      "description": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Listening to the Grid Before It Starts a Fire | Nyquis CEO Dan Hunter",
-      "url": "https://www.youtube.com/watch?v=Ao3KlZpMIMY",
-      "videoId": "Ao3KlZpMIMY",
-      "publishedAt": "2026-11-09T19:14:14Z",
-      "description": "On average, only about half of the energy grid's capacity is in use. Yet plugging in a new data center or EV charging site can take ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Why Defense Tech Startups Can&#39;t Avoid Anduril | Trae Stephens",
-      "url": "https://www.youtube.com/watch?v=eXiKIXlfRwQ",
-      "videoId": "eXiKIXlfRwQ",
-      "publishedAt": "2026-11-09T14:32:31Z",
-      "description": "Ambitious defense startups will eventually find themselves competing with the industry's biggest players."
+      "title": "Why Raising Too Much Money Can Destroy Your Startup",
+      "url": "https://www.youtube.com/watch?v=DObpPpbC8Ao",
+      "videoId": "DObpPpbC8Ao",
+      "publishedAt": "2026-11-10T16:45:49Z",
+      "description": "Just because someone is willing to invest at a certain valuation doesn't mean it's the right valuation for your company."
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
