@@ -1,82 +1,64 @@
 {
-  "generatedAt": "2026-11-11T05:25:06.577Z",
+  "generatedAt": "2026-11-12T06:28:48.570Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Engineers Make Great Founders",
-      "url": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
-      "videoId": "lqdc1MeyIfs",
-      "publishedAt": "2026-11-02T23:54:36Z",
-      "description": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "Robotics Has No Internet to Pre-Train On | Josh Gao, Mecka",
-      "url": "https://www.youtube.com/watch?v=PLXsY-jPW6U",
-      "videoId": "PLXsY-jPW6U",
-      "publishedAt": "2026-11-02T19:30:23Z",
-      "description": "LLMs got a free cold start from the internet. Robotics didn't. Josh Gao, co-founder and CEO of Mecka, explains why robot training ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Product keynote | How AI is changing SaaS products, pricing, and growth",
-      "url": "https://www.youtube.com/watch?v=RLwtsHktVo8",
-      "videoId": "RLwtsHktVo8",
-      "publishedAt": "2026-11-10T16:01:44Z",
-      "description": "Neetika Bansal, Aakash Sahney, and other Stripe product leaders share how SaaS platforms can grow payments revenue, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Fireside | John Collison and Sam Gerstenzang on building companies with AI",
-      "url": "https://www.youtube.com/watch?v=S1sQdg5_sbw",
-      "videoId": "S1sQdg5_sbw",
-      "publishedAt": "2026-11-10T16:00:19Z",
-      "description": "Stripe Cofounder John Collison talks with Sam Gerstenzang, Cofounder of Boulton & Watt—the startup incubator behind vertical ..."
+      "title": "Inside Theranos with ex-Employee Tyler Shultz",
+      "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+      "videoId": "iXWSYlAX5Lg",
+      "publishedAt": "2026-11-11T19:44:03Z",
+      "description": "With Theranos and Elizabeth Holmes back in the conversation, we're revisiting one of the most remarkable firsthand accounts of ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "24 Hours with Special Offer Founder &amp; Art Director, Brent David Freaney I Day in the Life",
-      "url": "https://www.youtube.com/watch?v=gB21amgymKw",
-      "videoId": "gB21amgymKw",
-      "publishedAt": "2026-11-10T20:00:34Z",
-      "description": "Welcome to Day in the Life, the series where we follow a creative in their home city as they take us through their typical day and ..."
+      "title": "Learn Figma Weave in 9 minutes",
+      "url": "https://www.youtube.com/watch?v=rYH3SIJWNHg",
+      "videoId": "rYH3SIJWNHg",
+      "publishedAt": "2026-11-11T18:00:35Z",
+      "description": "This is Figma Weave, a node-based workspace where you connect AI models and editing tools into workflows that produce ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion updates: New spring physics, animation styles preview, and LottieFiles export preview",
-      "url": "https://www.youtube.com/watch?v=nFSyfoxwiFA",
-      "videoId": "nFSyfoxwiFA",
-      "publishedAt": "2026-11-10T17:00:20Z",
-      "description": "With this Figma Motion feature bundle, Motion designers will have an easier way to preview preset animation styles, view Lottie ..."
+      "title": "Config India 2026: What changed when designers started shipping code",
+      "url": "https://www.youtube.com/watch?v=3EbdkzGwL7c",
+      "videoId": "3EbdkzGwL7c",
+      "publishedAt": "2026-11-11T15:24:45Z",
+      "description": "What happens when designers can ship code faster than teams can judge the ideas behind it? Sascha Trinkaus shares how ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
-      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
-      "videoId": "2hJkprFnzhY",
-      "publishedAt": "2026-11-10T23:52:20Z",
-      "description": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube ..."
+      "channel": "Google DeepMind",
+      "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+      "url": "https://www.youtube.com/watch?v=uND6iY2qp_c",
+      "videoId": "uND6iY2qp_c",
+      "publishedAt": "2026-11-11T18:00:31Z",
+      "description": "98% of human DNA doesn't build proteins—it controls how our cells work, and holds vital clues to why diseases happen and why ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Why Raising Too Much Money Can Destroy Your Startup",
-      "url": "https://www.youtube.com/watch?v=DObpPpbC8Ao",
-      "videoId": "DObpPpbC8Ao",
-      "publishedAt": "2026-11-10T16:45:49Z",
-      "description": "Just because someone is willing to invest at a certain valuation doesn't mean it's the right valuation for your company."
+      "title": "Why Not Every AI Company Can Be Worth $1 Trillion",
+      "url": "https://www.youtube.com/watch?v=-vFMYb5Zhqw",
+      "videoId": "-vFMYb5Zhqw",
+      "publishedAt": "2026-11-11T17:31:08Z",
+      "description": "There's not enough money in the world for every AI startup to become a trillion-dollar company.”"
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Next Generation of Peptide Medicine | LionBio CEO Robin Guo",
+      "url": "https://www.youtube.com/watch?v=DJ86mUS-CIo",
+      "videoId": "DJ86mUS-CIo",
+      "publishedAt": "2026-11-11T16:00:07Z",
+      "description": "What if a GLP-1 came as a nasal spray you could keep in your pocket? SPC Partner Mark Jacobson sits down with Robin Guo, ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 6
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
