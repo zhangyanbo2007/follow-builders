@@ -1,100 +1,55 @@
 {
-  "generatedAt": "2026-11-13T05:48:33.869Z",
+  "generatedAt": "2026-11-14T05:38:38.624Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "10 Habits PhDs Must Unlearn To Build a Startup | Startup School",
-      "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
-      "videoId": "u-8KpXcPYCw",
-      "publishedAt": "2026-11-04T15:00:23Z",
-      "description": "Google, Anthropic, and Databricks were all started by founders with PhDs. But they're the exceptions. Most academic founders fail ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Waymo-fying People: The Egocentric Data Bet | Josh Gao, Mecka",
+      "url": "https://www.youtube.com/watch?v=qGZdj0ygD9s",
+      "videoId": "qGZdj0ygD9s",
+      "publishedAt": "2026-11-05T19:15:27Z",
+      "description": "When Mecka started, most robot data came from teleoperation, and it couldn't scale. Josh Gao bet on egocentric data instead: ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Mecka’s Founders Came From Cloud Kitchens and Crypto, Not Robotics",
-      "url": "https://www.youtube.com/watch?v=wVXczLJ1cgI",
-      "videoId": "wVXczLJ1cgI",
-      "publishedAt": "2026-11-03T20:45:07Z",
-      "description": "Josh Gao was building a Toast for cloud kitchens and installing restaurant kiosks overnight in rural Rochester. His co-founder built ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The CEO Habit That Gets People to Tell You the Truth | Chase Lochmiller, Crusoe",
-      "url": "https://www.youtube.com/watch?v=UshLbshJEQg",
-      "videoId": "UshLbshJEQg",
-      "publishedAt": "2026-11-03T16:00:19Z",
-      "description": "Chase Lochmiller, CEO of Crusoe, on why taking criticism publicly and changing your mind is what gets a 2000-person company ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
-      "videoId": "4GmHpHyoKmo",
-      "publishedAt": "2026-08-25T00:00:11Z",
-      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
+      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
+      "url": "https://www.youtube.com/watch?v=32vxW6GMeLY",
+      "videoId": "32vxW6GMeLY",
+      "publishedAt": "2026-11-05T13:00:07Z",
+      "description": "Today's agents are stuck in what Ronak Malde calls “pseudo continual learning”: intelligent, but updated in offline batches, like a ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Figma Motion basics: Spotlight",
-      "url": "https://www.youtube.com/watch?v=X-o75wR1LvQ",
-      "videoId": "X-o75wR1LvQ",
-      "publishedAt": "2026-11-12T21:00:22Z",
-      "description": "Let's learn about Spotlight in Figma Motion. Spotlight lets you quickly gather collaborators in a file and share your view of an ..."
+      "title": "3D Transforms are now in Figma",
+      "url": "https://www.youtube.com/watch?v=IqrOeK4gyWg",
+      "videoId": "IqrOeK4gyWg",
+      "publishedAt": "2026-11-13T21:54:25Z",
+      "description": "Explore dimension, perspective, and depth with x, y, and z rotation → Build and animate 3D designs with help from Figma agent ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Make a 3D transform card flip animation in Figma Motion",
-      "url": "https://www.youtube.com/watch?v=H_-Yz8K71DQ",
-      "videoId": "H_-Yz8K71DQ",
-      "publishedAt": "2026-11-12T18:00:08Z",
-      "description": "3D Transforms will be available for everyone soon in @Figma so lets make a card flip animation with Figma Motion. Download the ..."
+      "title": "Config India 2026: Better together: from handoff to handshake",
+      "url": "https://www.youtube.com/watch?v=boZ85l-ShJM",
+      "videoId": "boZ85l-ShJM",
+      "publishedAt": "2026-11-13T18:19:33Z",
+      "description": "AI has put building in more hands. Product managers prototype, engineers ship from a prompt, and designers see working ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "videoId": "ZAzWPE9CItg",
-      "publishedAt": "2026-10-26T22:51:51Z",
-      "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "videoId": "NYFGCESmikA",
-      "publishedAt": "2026-08-26T21:44:41Z",
-      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
-      "videoId": "sFfPkUJd_Jk",
-      "publishedAt": "2026-10-27T16:00:41Z",
-      "description": "Meet Genie 4, Google DeepMind's most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Fireside Chat with Qasar Younis",
-      "url": "https://www.youtube.com/watch?v=BSaDFMz7saQ",
-      "videoId": "BSaDFMz7saQ",
-      "publishedAt": "2026-11-12T16:40:24Z",
-      "description": "In this conversation at South Park Commons, Abe sits down with Qasar Younis, co-founder and CEO of Applied Intuition and ..."
+      "channel": "Figma Config",
+      "title": "Config India 2026: Designing for intelligent work: inside Microsoft Copilot&#39;s new chapter",
+      "url": "https://www.youtube.com/watch?v=cMi4W1OeR7s",
+      "videoId": "cMi4W1OeR7s",
+      "publishedAt": "2026-11-12T22:46:22Z",
+      "description": "For most of enterprise software's history, users didn't choose their tools. AI changed that. The alternative was one keystroke away."
     }
   ],
   "stats": {
-    "youtubeVideos": 10
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
