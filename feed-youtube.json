@@ -1,64 +1,37 @@
 {
-  "generatedAt": "2026-11-16T05:36:19.490Z",
+  "generatedAt": "2026-11-17T07:13:29.771Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "How To Build The Future: Paul Graham &amp; Amjad Masad",
-      "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
-      "videoId": "Q78dJ0vkWe8",
-      "publishedAt": "2026-11-07T15:00:14Z",
-      "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a ..."
+      "title": "Is AI Now Good Enough To Cure Cancer? | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
+      "videoId": "-XL2gClQ2gg",
+      "publishedAt": "2026-11-08T15:00:39Z",
+      "description": "This week's Paper Club is all about AI for biology. The cost of sequencing has collapsed, which means biology now generates ..."
     },
     {
       "source": "youtube",
       "channel": "Figma Config",
-      "title": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production",
-      "url": "https://www.youtube.com/watch?v=87SISSxj6R4",
-      "videoId": "87SISSxj6R4",
-      "publishedAt": "2026-11-15T18:36:14Z",
-      "description": "Prototypes communicate behaviour and intent, but they aren't in production, and the gap between what was decided and what ..."
+      "title": "24 Hours with Brent David Freaney",
+      "url": "https://www.youtube.com/watch?v=LHvS_H5yyIs",
+      "videoId": "LHvS_H5yyIs",
+      "publishedAt": "2026-11-16T15:16:14Z",
+      "description": "We spent 24 hours in New York City with Brent David Freaney - founder of Special Offer, the studio behind the design and art ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Jensen Huang &amp; Lex Fridman visit Taiwan",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "videoId": "FGCP2F_7rQk",
-      "publishedAt": "2026-10-13T21:26:16Z",
-      "description": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-      "videoId": "LVEfFyijQ2c",
-      "publishedAt": "2026-10-13T16:38:17Z",
-      "description": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-      "videoId": "ftkic7Tdpcg",
-      "publishedAt": "2026-10-13T16:38:14Z",
-      "description": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Untangling 500-page chemistry patents with Gemini 4",
-      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
-      "videoId": "9jQA7IgPhBE",
-      "publishedAt": "2026-10-13T15:58:17Z",
-      "description": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule's structure can sit 50 pages ..."
+      "channel": "Figma Config",
+      "title": "Learn 3D transform in Figma",
+      "url": "https://www.youtube.com/watch?v=9u_DZRaPTV8",
+      "videoId": "9u_DZRaPTV8",
+      "publishedAt": "2026-11-16T14:00:00Z",
+      "description": "3D transform effects let you combine your favorite Figma features with new 3D effects to take your designs to a whole new ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 3
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
