@@ -1,28 +1,91 @@
 {
-  "generatedAt": "2026-11-18T06:38:05.707Z",
+  "generatedAt": "2026-11-19T06:39:16.248Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Figma Config",
-      "title": "Figma Motion basics: Export animations",
-      "url": "https://www.youtube.com/watch?v=8y7T-Yb0VGE",
-      "videoId": "8y7T-Yb0VGE",
-      "publishedAt": "2026-11-17T15:16:07Z",
-      "description": "Let's learn how to export animations from Figma. You can export animations created in Figma Motion to share designs with others, ..."
+      "channel": "YC Startup School",
+      "title": "Ramp’s Bet on the 100x Employee",
+      "url": "https://www.youtube.com/watch?v=0Hvs6-XODgU",
+      "videoId": "0Hvs6-XODgU",
+      "publishedAt": "2026-11-18T15:00:24Z",
+      "description": "Ramp started with a simple promise: help companies save time and money. Seven years later, it's a $60 billion platform running ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Sequoia AI Ascent",
+      "title": "The Boomerang CEO(s): With MongoDB’s Dev Ittycheria",
+      "url": "https://www.youtube.com/watch?v=uMO3zS5FLoc",
+      "videoId": "uMO3zS5FLoc",
+      "publishedAt": "2026-11-18T13:00:37Z",
+      "description": "Dev Ittycheria ran MongoDB for 11 years, took it from about $35 million in revenue to more than $2.3 billion, and retired."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Product keynote | How AI is changing SaaS products, pricing, and growth",
+      "url": "https://www.youtube.com/watch?v=RLwtsHktVo8",
+      "videoId": "RLwtsHktVo8",
+      "publishedAt": "2026-11-10T16:01:44Z",
+      "description": "Neetika Bansal, Aakash Sahney, and other Stripe product leaders share how SaaS platforms can grow payments revenue, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Stripe Sessions",
+      "title": "Fireside | John Collison and Sam Gerstenzang on building companies with AI",
+      "url": "https://www.youtube.com/watch?v=S1sQdg5_sbw",
+      "videoId": "S1sQdg5_sbw",
+      "publishedAt": "2026-11-10T16:00:19Z",
+      "description": "Stripe Cofounder John Collison talks with Sam Gerstenzang, Cofounder of Boulton & Watt—the startup incubator behind vertical ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "GTA 6, Crime, Money, Prison &amp; the Biggest Jewel Thief in US History | Lex Fridman Podcast #505",
+      "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
+      "videoId": "v1X9Fqs5a14",
+      "publishedAt": "2026-11-19T03:15:09Z",
+      "description": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Lex Fridman",
+      "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
+      "videoId": "2hJkprFnzhY",
+      "publishedAt": "2026-11-10T23:52:20Z",
+      "description": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Behind the scenes with Genie 4",
+      "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
+      "videoId": "pVc6KkjeCfU",
+      "publishedAt": "2026-11-18T18:12:24Z",
+      "description": "Go behind the scenes of our recent Genie 4 film as we explore our most realistic and interactive world model yet. Instead of ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "Introducing the new Project Genie, powered by Genie 4",
+      "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
+      "videoId": "EDp4IoAUsXY",
+      "publishedAt": "2026-11-18T18:12:21Z",
+      "description": "Step inside your imagination with Project Genie, now powered by Google DeepMind's most realistic and interactive world model ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Listening to the Grid Before It Starts a Fire | Nyquis CEO Dan Hunter",
-      "url": "https://www.youtube.com/watch?v=Ao3KlZpMIMY",
-      "videoId": "Ao3KlZpMIMY",
-      "publishedAt": "2026-11-09T19:14:14Z",
-      "description": "On average, only about half of the energy grid's capacity is in use. Yet plugging in a new data center or EV charging site can take ..."
+      "title": "Why Raising Too Much Money Can Destroy Your Startup",
+      "url": "https://www.youtube.com/watch?v=DObpPpbC8Ao",
+      "videoId": "DObpPpbC8Ao",
+      "publishedAt": "2026-11-10T16:45:49Z",
+      "description": "Just because someone is willing to invest at a certain valuation doesn't mean it's the right valuation for your company."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 9
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
