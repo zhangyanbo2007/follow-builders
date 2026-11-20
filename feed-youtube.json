@@ -1,91 +1,82 @@
 {
-  "generatedAt": "2026-11-19T06:39:16.248Z",
+  "generatedAt": "2026-11-20T06:27:28.611Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "Ramp’s Bet on the 100x Employee",
-      "url": "https://www.youtube.com/watch?v=0Hvs6-XODgU",
-      "videoId": "0Hvs6-XODgU",
-      "publishedAt": "2026-11-18T15:00:24Z",
-      "description": "Ramp started with a simple promise: help companies save time and money. Seven years later, it's a $60 billion platform running ..."
+      "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "videoId": "lwfewYL7X0o",
+      "publishedAt": "2026-11-19T15:00:34Z",
+      "description": "Should governments intervene to substantially slow the progress of frontier AI? In the inaugural YC debate, Jacob Coxon, ..."
     },
     {
       "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The Boomerang CEO(s): With MongoDB’s Dev Ittycheria",
-      "url": "https://www.youtube.com/watch?v=uMO3zS5FLoc",
-      "videoId": "uMO3zS5FLoc",
-      "publishedAt": "2026-11-18T13:00:37Z",
-      "description": "Dev Ittycheria ran MongoDB for 11 years, took it from about $35 million in revenue to more than $2.3 billion, and retired."
+      "channel": "YC Startup School",
+      "title": "The Whistleblower Who Took on Theranos",
+      "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+      "videoId": "iXWSYlAX5Lg",
+      "publishedAt": "2026-11-11T19:44:03Z",
+      "description": "With Theranos and Elizabeth Holmes back in the conversation, we're revisiting one of the most remarkable firsthand accounts of ..."
     },
     {
       "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Product keynote | How AI is changing SaaS products, pricing, and growth",
-      "url": "https://www.youtube.com/watch?v=RLwtsHktVo8",
-      "videoId": "RLwtsHktVo8",
-      "publishedAt": "2026-11-10T16:01:44Z",
-      "description": "Neetika Bansal, Aakash Sahney, and other Stripe product leaders share how SaaS platforms can grow payments revenue, ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Fireside | John Collison and Sam Gerstenzang on building companies with AI",
-      "url": "https://www.youtube.com/watch?v=S1sQdg5_sbw",
-      "videoId": "S1sQdg5_sbw",
-      "publishedAt": "2026-11-10T16:00:19Z",
-      "description": "Stripe Cofounder John Collison talks with Sam Gerstenzang, Cofounder of Boulton & Watt—the startup incubator behind vertical ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "GTA 6, Crime, Money, Prison &amp; the Biggest Jewel Thief in US History | Lex Fridman Podcast #505",
-      "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
-      "videoId": "v1X9Fqs5a14",
-      "publishedAt": "2026-11-19T03:15:09Z",
-      "description": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
-      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
-      "videoId": "2hJkprFnzhY",
-      "publishedAt": "2026-11-10T23:52:20Z",
-      "description": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube ..."
+      "channel": "Figma Config",
+      "title": "A24 Designer Breaks Down the Psychology of Movie Posters",
+      "url": "https://www.youtube.com/watch?v=_BBJl6LwHlU",
+      "videoId": "_BBJl6LwHlU",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "description": "We tracked the eyes of 40 people on some of the most famous movie posters ever created to see how they were designed to ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Behind the scenes with Genie 4",
-      "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
-      "videoId": "pVc6KkjeCfU",
-      "publishedAt": "2026-11-18T18:12:24Z",
-      "description": "Go behind the scenes of our recent Genie 4 film as we explore our most realistic and interactive world model yet. Instead of ..."
+      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+      "url": "https://www.youtube.com/watch?v=FORdPIWOH5k",
+      "videoId": "FORdPIWOH5k",
+      "publishedAt": "2026-11-19T19:58:06Z",
+      "description": "Seven years after their last conversation at Google DeepMind's London office, Professor Hannah Fry reunites with Koray ..."
     },
     {
       "source": "youtube",
       "channel": "Google DeepMind",
-      "title": "Introducing the new Project Genie, powered by Genie 4",
-      "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
-      "videoId": "EDp4IoAUsXY",
-      "publishedAt": "2026-11-18T18:12:21Z",
-      "description": "Step inside your imagination with Project Genie, now powered by Google DeepMind's most realistic and interactive world model ..."
+      "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+      "url": "https://www.youtube.com/watch?v=uND6iY2qp_c",
+      "videoId": "uND6iY2qp_c",
+      "publishedAt": "2026-11-11T18:00:31Z",
+      "description": "98% of human DNA doesn't build proteins—it controls how our cells work, and holds vital clues to why diseases happen and why ..."
     },
     {
       "source": "youtube",
       "channel": "South Park Commons (Minus One)",
-      "title": "Why Raising Too Much Money Can Destroy Your Startup",
-      "url": "https://www.youtube.com/watch?v=DObpPpbC8Ao",
-      "videoId": "DObpPpbC8Ao",
-      "publishedAt": "2026-11-10T16:45:49Z",
-      "description": "Just because someone is willing to invest at a certain valuation doesn't mean it's the right valuation for your company."
+      "title": "The Chemistry That Feeds Half the World | Waterwheel Materials Founders",
+      "url": "https://www.youtube.com/watch?v=YY4mKa_u4yE",
+      "videoId": "YY4mKa_u4yE",
+      "publishedAt": "2026-11-19T13:00:21Z",
+      "description": "Without nitrogen fertilizer, half the world's food wouldn't exist. Making it consumes enormous amounts of natural gas, which ties ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "Why Not Every AI Company Can Be Worth $1 Trillion",
+      "url": "https://www.youtube.com/watch?v=-vFMYb5Zhqw",
+      "videoId": "-vFMYb5Zhqw",
+      "publishedAt": "2026-11-11T17:31:08Z",
+      "description": "There's not enough money in the world for every AI startup to become a trillion-dollar company.”"
+    },
+    {
+      "source": "youtube",
+      "channel": "South Park Commons (Minus One)",
+      "title": "The Next Generation of Peptide Medicine | LionBio CEO Robin Guo",
+      "url": "https://www.youtube.com/watch?v=DJ86mUS-CIo",
+      "videoId": "DJ86mUS-CIo",
+      "publishedAt": "2026-11-11T16:00:07Z",
+      "description": "What if a GLP-1 came as a nasal spray you could keep in your pocket? SPC Partner Mark Jacobson sits down with Robin Guo, ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 8
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
