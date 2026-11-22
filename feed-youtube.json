@@ -1,91 +1,28 @@
 {
-  "generatedAt": "2026-11-21T06:18:01.267Z",
+  "generatedAt": "2026-11-22T05:50:43.840Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
-      "channel": "YC Startup School",
-      "title": "We’ll Be Inferior to Our Grandchildren—and That’s Great",
-      "url": "https://www.youtube.com/watch?v=tgK-mPtgCCU",
-      "videoId": "tgK-mPtgCCU",
-      "publishedAt": "2026-11-20T21:43:29Z",
-      "description": "Jacob Coxon worries that next to AI, “we'd be the ants, they would be the humans negotiating with each other. We'd be vastly ..."
+      "channel": "Sequoia AI Ascent",
+      "title": "Waymo-fying People: The Egocentric Data Bet | Josh Gao, Mecka",
+      "url": "https://www.youtube.com/watch?v=qGZdj0ygD9s",
+      "videoId": "qGZdj0ygD9s",
+      "publishedAt": "2026-11-05T19:15:27Z",
+      "description": "When Mecka started, most robot data came from teleoperation, and it couldn't scale. Josh Gao bet on egocentric data instead: ..."
     },
     {
       "source": "youtube",
       "channel": "Sequoia AI Ascent",
-      "title": "Mecka’s Founders Came From Cloud Kitchens and Crypto, Not Robotics",
-      "url": "https://www.youtube.com/watch?v=wVXczLJ1cgI",
-      "videoId": "wVXczLJ1cgI",
-      "publishedAt": "2026-11-03T20:45:07Z",
-      "description": "Josh Gao was building a Toast for cloud kitchens and installing restaurant kiosks overnight in rural Rochester. His co-founder built ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Sequoia AI Ascent",
-      "title": "The CEO Habit That Gets People to Tell You the Truth | Chase Lochmiller, Crusoe",
-      "url": "https://www.youtube.com/watch?v=UshLbshJEQg",
-      "videoId": "UshLbshJEQg",
-      "publishedAt": "2026-11-03T16:00:19Z",
-      "description": "Chase Lochmiller, CEO of Crusoe, on why taking criticism publicly and changing your mind is what gets a 2000-person company ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Stripe Sessions",
-      "title": "Canva cofounder and COO Cliff Obrecht in conversation with John Collison",
-      "url": "https://www.youtube.com/watch?v=4GmHpHyoKmo",
-      "videoId": "4GmHpHyoKmo",
-      "publishedAt": "2026-08-25T00:00:11Z",
-      "description": "Canva cofounder and COO Cliff Obrecht joins Stripe president John Collison for a fireside chat at Stripe Tour Sydney."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "How Figma’s Motion Team Launched 3D Transform in the Canvas I Figma on Figma",
-      "url": "https://www.youtube.com/watch?v=3WvRF5yn47k",
-      "videoId": "3WvRF5yn47k",
-      "publishedAt": "2026-11-20T17:00:15Z",
-      "description": "Introducing Figma on Figma - the series where Figma shows you how we use our own products in our everyday work."
-    },
-    {
-      "source": "youtube",
-      "channel": "Figma Config",
-      "title": "FigJam mobile app improvements",
-      "url": "https://www.youtube.com/watch?v=MketQ6OdRsM",
-      "videoId": "MketQ6OdRsM",
-      "publishedAt": "2026-11-20T16:51:22Z",
-      "description": "New @figma app FigJam updates dropping today! → Frame preview slider → Comment indicators → Export individual sections ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "videoId": "ZAzWPE9CItg",
-      "publishedAt": "2026-10-26T22:51:51Z",
-      "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "Google DeepMind",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
-      "videoId": "sFfPkUJd_Jk",
-      "publishedAt": "2026-10-27T16:00:41Z",
-      "description": "Meet Genie 4, Google DeepMind's most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you ..."
-    },
-    {
-      "source": "youtube",
-      "channel": "South Park Commons (Minus One)",
-      "title": "Fireside Chat with Qasar Younis",
-      "url": "https://www.youtube.com/watch?v=BSaDFMz7saQ",
-      "videoId": "BSaDFMz7saQ",
-      "publishedAt": "2026-11-12T16:40:24Z",
-      "description": "In this conversation at South Park Commons, Abe sits down with Qasar Younis, co-founder and CEO of Applied Intuition and ..."
+      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
+      "url": "https://www.youtube.com/watch?v=32vxW6GMeLY",
+      "videoId": "32vxW6GMeLY",
+      "publishedAt": "2026-11-05T13:00:07Z",
+      "description": "Today's agents are stuck in what Ronak Malde calls “pseudo continual learning”: intelligent, but updated in offline batches, like a ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 9
+    "youtubeVideos": 2
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
