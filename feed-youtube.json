@@ -1,28 +1,55 @@
 {
-  "generatedAt": "2026-11-24T09:05:58.828Z",
+  "generatedAt": "2026-11-25T07:43:19.798Z",
   "lookbackHours": 336,
   "youtube": [
     {
       "source": "youtube",
       "channel": "YC Startup School",
-      "title": "How To Build The Future: Paul Graham &amp; Amjad Masad",
-      "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
-      "videoId": "Q78dJ0vkWe8",
-      "publishedAt": "2026-11-07T15:00:14Z",
-      "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a ..."
+      "title": "How To Build A Jet Engine From Scratch",
+      "url": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
+      "videoId": "-ieJwYq4j-o",
+      "publishedAt": "2026-11-24T15:00:08Z",
+      "description": "On November 21, 2026, Boom Supersonic (YC W16) fired its prototype engine core for the first time. In this episode of Hard Tech, ..."
     },
     {
       "source": "youtube",
-      "channel": "Lex Fridman",
-      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "videoId": "FGCP2F_7rQk",
-      "publishedAt": "2026-10-13T21:26:16Z",
-      "description": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang."
+      "channel": "Sequoia AI Ascent",
+      "title": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+      "url": "https://www.youtube.com/watch?v=tRaFbDFBl_A",
+      "videoId": "tRaFbDFBl_A",
+      "publishedAt": "2026-11-24T13:00:22Z",
+      "description": "Noam Brown built the first AIs to beat top poker professionals, then concluded that game theory, the field his career was built on, ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "24 Hours with Brent David Freaney",
+      "url": "https://www.youtube.com/watch?v=LHvS_H5yyIs",
+      "videoId": "LHvS_H5yyIs",
+      "publishedAt": "2026-11-16T15:16:14Z",
+      "description": "We spent 24 hours in New York City with Brent David Freaney - founder of Special Offer, the studio behind the design and art ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Figma Config",
+      "title": "Learn 3D transform in Figma",
+      "url": "https://www.youtube.com/watch?v=9u_DZRaPTV8",
+      "videoId": "9u_DZRaPTV8",
+      "publishedAt": "2026-11-16T14:00:00Z",
+      "description": "3D transform effects let you combine your favorite Figma features with new 3D effects to take your designs to a whole new ..."
+    },
+    {
+      "source": "youtube",
+      "channel": "Google DeepMind",
+      "title": "The brain helped us build AI. Now AI is explaining the brain.",
+      "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
+      "videoId": "K8rdrWQRd20",
+      "publishedAt": "2026-11-24T17:51:08Z",
+      "description": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way ..."
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 5
   },
   "errors": [
     "YouTube: Could not extract channel ID for AI Engineers World Fair (https://www.youtube.com/@AIEngineersWorld)"
